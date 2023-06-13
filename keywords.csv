@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Johnson',fr,UK,#e838e8,#e838e8,3,0.49
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.4708624809090909
 'Prince Charles',fr,UK,#e838e8,#e838e8,3,0.4708615359090909
-'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,2,0.4104830862761364
 'George Floyd',fr,USA,#18e8e8,#18e8e8,2,0.4104089984999999
 'Prinz Heinrich XIII',fr,Deutschland,#1818e8,#1818e8,1,0.4103564912857143
 'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,3,0.4103034781875
@@ -145,6 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Jobs',fr,USA,#18e8e8,#18e8e8,2,0.3503111850965851
 'Herbert Diess',fr,Deutschland,#1818e8,#1818e8,2,0.3499293324532114
 'Jack Teixeira',fr,USA,#18e8e8,#18e8e8,3,0.3490973414270057
+'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.3489107133347159
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.3473841006568181
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,3,0.3449798668938635
