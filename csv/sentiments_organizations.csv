@@ -1,0 +1,71 @@
+,phrase,label,sentiment,subjectivity,language,count
+Rassemblement national,Rassemblement national,ORG,0.007002164502164507,0.12101298701298702,fr,11
+RN,RN,ORG,-0.01570959595959595,0.22601515151515153,fr,10
+Reuters,Reuters,ORG,0.05747474747474748,0.06035353535353535,fr,6
+E Street Band,E Street Band,ORG,-0.04958333333333335,0.12916666666666665,fr,3
+Bourse de Paris,Bourse de Paris,ORG,0.05578888888888891,0.21433333333333335,fr,3
+l’OTAN,l’OTAN,ORG,0.5533333333333333,0.21666666666666667,fr,2
+TotalEnergies,TotalEnergies,ORG,-0.017142857142857137,0.0642857142857143,fr,2
+ministère de la Justice,ministère de la Justice,ORG,0.13444444444444445,0.061111111111111116,fr,2
+»,»,ORG,0.05166666666666667,0.1065,fr,2
+CFDT,CFDT,ORG,-0.001666666666666666,0.1366666666666667,fr,2
+LVMH,LVMH,ORG,0.39250000000000007,0.1875,fr,2
+Moldavie,Moldavie,ORG,0.06666666666666667,0.05833333333333333,fr,2
+L'Otan,L'Otan,ORG,0.0790909090909091,0.04772727272727273,fr,2
+The Breach,The Breach,ORG,0.5533333333333333,0.21666666666666667,fr,2
+OTAN,OTAN,ORG,0.3416666666666667,0.135,fr,2
+Dauphiné Libéré,Dauphiné Libéré,ORG,0.031111111111111114,0.11666666666666667,fr,2
+Service Relations Clients,Service Relations Clients,ORG,0.031111111111111114,0.11666666666666667,fr,2
+BULBOACA,BULBOACA,ORG,0.06666666666666667,0.05833333333333333,fr,2
+G7,G7,ORG,0.07970238095238096,0.04583333333333334,fr,2
+OSLO,OSLO,ORG,0.0790909090909091,0.04772727272727273,fr,2
+AFP,AFP,ORG,0.006749999999999999,0.04875,fr,2
+UE,UE,ORG,-0.0375,0.025,fr,2
+Daily Mirror ,Daily Mirror ,ORG,0.13833333333333334,0.0,fr,1
+dette des États-Unis,dette des États-Unis,ORG,-0.144,0.0,fr,1
+Rassemblement national dêtre,Rassemblement national dêtre,ORG,-0.061,0.0,fr,1
+France 2,France 2,ORG,0.05333333333333334,0.0,fr,1
+Parti républicain,Parti républicain,ORG,0.015,0.0,fr,1
+SDF,SDF,ORG,0.015714285714285712,0.0,fr,1
+ONU,ONU,ORG,0.27399999999999997,0.0,fr,1
+Washington Nationals,Washington Nationals,ORG,0.3171428571428571,0.0,fr,1
+CNN,CNN,ORG,0.11,0.0,fr,1
+FN,FN,ORG,-0.061,0.0,fr,1
+Truth Social,Truth Social,ORG,0.13444444444444445,0.0,fr,1
+Premier ministre britannique,Premier ministre britannique,ORG,0.21818181818181823,0.0,fr,1
+Républicains,Républicains,ORG,0.05600000000000001,0.0,fr,1
+AFP,AFP,ORG,0.027500000000000004,0.0,fr,1
+FBI,FBI,ORG,-0.008571428571428563,0.0,fr,1
+at the Grimes Community Complex in Grimes,at the Grimes Community Complex in Grimes,ORG,0.1,0.0,fr,1
+Financial Times,Financial Times,ORG,-0.06625,0.0,fr,1
+Financial Times sest,Financial Times sest,ORG,-0.06625,0.0,fr,1
+LR,LR,ORG,-0.017777777777777774,0.0,fr,1
+Conseil italien,Conseil italien,ORG,0.06125000000000001,0.0,fr,1
+Unesco,Unesco,ORG,0.043333333333333335,0.0,fr,1
+New York Times,New York Times,ORG,0.11,0.0,fr,1
+JEUDY,JEUDY,ORG,-0.001666666666666666,0.0,fr,1
+Otan,Otan,ORG,0.0790909090909091,0.0,fr,1
+Chandon,Chandon,ORG,0.3925,0.0,fr,1
+CBC News,CBC News,ORG,0.05571428571428572,0.0,fr,1
+Sciences Po,Sciences Po,ORG,0.23999999999999996,0.0,fr,1
+Sciences Po Paris,Sciences Po Paris,ORG,0.23999999999999996,0.0,fr,1
+Ladministration démocrate,Ladministration démocrate,ORG,-0.010000000000000004,0.0,fr,1
+G7 ,G7 ,ORG,0.03428571428571429,0.0,fr,1
+JONATHAN,JONATHAN,ORG,0.03428571428571429,0.0,fr,1
+justice pénale de,justice pénale de,ORG,0.12200000000000003,0.0,fr,1
+SpaceX,SpaceX,ORG,0.10833333333333334,0.0,fr,1
+bourse de Paris,bourse de Paris,ORG,0.18250000000000002,0.0,fr,1
+Moët &amp,Moët &amp,ORG,0.3925,0.0,fr,1
+Echos,Echos,ORG,0.1,0.0,fr,1
+Alliance atlantique,Alliance atlantique,ORG,0.13,0.0,fr,1
+Ira,Ira,ORG,0.0875,0.0,fr,1
+AG,AG,ORG,0.0,0.0,fr,1
+Pleyel,Pleyel,ORG,-0.034285714285714274,0.0,fr,1
+LVMH ,LVMH ,ORG,0.078,0.0,fr,1
+G8,G8,ORG,0.45,0.0,fr,1
+VIDEO,VIDEO,ORG,-0.37333333333333335,0.0,fr,1
+RTL,RTL,ORG,0.12583333333333335,0.0,fr,1
+Frankfurter Allgemeine Zeitung,Frankfurter Allgemeine Zeitung,ORG,-0.09666666666666666,0.0,fr,1
+ENTRETIEN,ENTRETIEN,ORG,-0.001666666666666666,0.0,fr,1
+l'Assemblée nationale,l'Assemblée nationale,ORG,-0.001666666666666666,0.0,fr,1
+Organisation des Nations unies,Organisation des Nations unies,ORG,0.043333333333333335,0.0,fr,1
