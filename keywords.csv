@@ -1,4 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Sam Altman',fr,USA,#18e8e8,#18e8e8,2,0.6
+'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,2,0.6
+'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,2,0.6
+'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,2,0.6
+'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,2,0.6
+'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,2,0.6
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.5831475381818182
 'Poutine',fr,Russland,#e81818,#e81818,2,0.5786067336363636
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,2,0.5694969095454545
