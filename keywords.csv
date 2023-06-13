@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.5418281827777778
 'Patrick Pouyanné',fr,Frankreich,#e8e808,#e8e808,2,0.5285875786363636
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,3,0.4991902233541963
-'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.49199176406818185
+'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4919917640681818
 'Boris Johnson',fr,UK,#e838e8,#e838e8,3,0.49
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.4708624809090909
 'Prince Charles',fr,UK,#e838e8,#e838e8,3,0.4708615359090909
@@ -233,6 +233,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Malpass',fr,USA,#18e8e8,#18e8e8,2,0.2067691379039453
 'Melinda Gates',fr,USA,#18e8e8,#18e8e8,2,0.2060529421107772
 'Mohammed bin Salman',fr,SaudiArabien,#111111,#111111,2,0.2049758380114865
+'Cyril Ramaphosa',fr,Südafrika,#111111,#111111,3,0.2039197630945368
 'Alfred Bernhard Nobel',fr,Schweden,#111111,#111111,1,0.2036607384374999
 'Mark Zuckerberg',fr,USA,#18e8e8,#18e8e8,3,0.2029919317936823
 'Annalena Baerbock',fr,Deutschland,#1818e8,#1818e8,3,0.2025103015309864
@@ -285,13 +286,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
-'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
+'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Benjamin Nethanaju',fr,Israel,#111111,#111111,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
-'Cyril Ramaphosa',fr,Südafrika,#111111,#111111,2,0.1859521437475834
 'Lukaschenko',fr,Belarus,#e81858,#e81858,3,0.1837074882022694
 'Mojib Latif',fr,Deutschland,#1818e8,#1818e8,1,0.1817305751150951
 'Andrzej Duda',fr,Polen,#111111,#111111,3,0.1813252556211041
