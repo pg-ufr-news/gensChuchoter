@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,2,0.4062549809784091
 'Dmitri Medwedew',fr,Russland,#e81818,#e81818,3,0.4053646582272727
 'Kanye West',fr,USA,#18e8e8,#18e8e8,3,0.4045845351656869
-'Ulrich Reitz',fr,Deutschland,#1818e8,#1818e8,1,0.4045000747721427
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.40413258325
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.4040480801363635
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.403705332975
@@ -156,6 +155,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.3473841006568181
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,3,0.3449798668938635
+'Ulrich Reitz',fr,Deutschland,#1818e8,#1818e8,1,0.3438250635563213
 'König Charles III',fr,UK,#e838e8,#e838e8,3,0.339814490452464
 'Jean Carroll',fr,USA,#18e8e8,#18e8e8,2,0.33829535119902
 'Geoffrey Hinton',fr,UK,#e838e8,#e838e8,3,0.3381354264958989
@@ -286,10 +286,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
-'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
-'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
+'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Benjamin Nethanaju',fr,Israel,#111111,#111111,1,0.1885747578124999
+'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lukaschenko',fr,Belarus,#e81858,#e81858,3,0.1837074882022694
@@ -404,7 +404,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jochen Thewes',fr,Deutschland,#1818e8,#1818e8,1,0.0877374802927184
 'Larry Page',fr,USA,#18e8e8,#18e8e8,1,0.0830624268893745
 'Frank Bainimarama',fr,Fidschi,#111111,#111111,1,0.0729372324530693
-'Katalin Novak',fr,Ungarn,#111111,#111111,1,0.07227057577648495
+'Katalin Novak',fr,Ungarn,#111111,#111111,1,0.0722705757764849
 'Philipp Wolff',fr,Deutschland,#1818e8,#1818e8,1,0.0654199081845615
 'Bartholomäus',fr,Türkei,#111111,#111111,1,0.0609461657967015
 'Michael Kahle',fr,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
