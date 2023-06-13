@@ -1,100 +1,107 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Rassemblement national,Rassemblement national,ORG,0.009919895382395393,0.13494891774891776,fr,15
-LVMH,LVMH,ORG,0.18170449134199135,0.2861590909090909,fr,14
-RN,RN,ORG,-0.060492424242424236,0.2251262626262626,fr,6
-Reuters,Reuters,ORG,0.05747474747474748,0.06035353535353535,fr,6
-REUTERS,REUTERS,ORG,0.07519047619047618,0.07833333333333334,fr,5
-AFP,AFP,ORG,0.05238181818181818,0.1285,fr,5
-OTAN,OTAN,ORG,0.4475,0.2841666666666667,fr,4
+RN,RN,ORG,-0.020755892255892253,0.20605555555555558,fr,15
+Rassemblement national,Rassemblement national,ORG,0.014985602195423635,0.13680241187384043,fr,14
+Reuters,Reuters,ORG,0.0718560606060606,0.0702651515151515,fr,8
+»,»,ORG,0.06204761904761907,0.15193650793650795,fr,7
+G7,G7,ORG,0.12141496598639456,0.18889115646258506,fr,7
+AFP,AFP,ORG,0.17041515151515155,0.1155,fr,5
+Républicains,Républicains,ORG,-0.03846666666666666,0.08333333333333334,fr,5
 Chambre des représentants,Chambre des représentants,ORG,0.022310606060606062,0.09603174603174602,fr,4
-Elon Musk,Elon Musk,ORG,0.06527777777777778,0.2833333333333333,fr,3
-G7,G7,ORG,0.06456349206349206,0.07817460317460317,fr,3
-Monde,Monde,ORG,0.02946428571428572,0.041666666666666664,fr,3
-Assemblée nationale,Assemblée nationale,ORG,-0.050833333333333335,0.1366666666666667,fr,2
-Bourse de Paris mardi,Bourse de Paris mardi,ORG,0.09738333333333336,0.18250000000000002,fr,2
-lAssemblée nationale,lAssemblée nationale,ORG,0.09378125000000001,0.05,fr,2
-Otan,Otan,ORG,0.16554545454545455,0.127,fr,2
-France 2,France 2,ORG,0.05333333333333334,0.008333333333333333,fr,2
-TotalEnergies,TotalEnergies,ORG,0.0,0.0,fr,2
-The Breach,The Breach,ORG,0.5533333333333333,0.21666666666666667,fr,2
-OSLO,OSLO,ORG,0.0790909090909091,0.04772727272727273,fr,2
-MANDEL NGAN,MANDEL NGAN,ORG,0.007321428571428571,0.0625,fr,2
-UE,UE,ORG,-0.0375,0.025,fr,2
-BULBOACA,BULBOACA,ORG,0.06666666666666667,0.05833333333333333,fr,2
-Service Relations Clients,Service Relations Clients,ORG,0.031111111111111114,0.11666666666666667,fr,2
-Macron,Macron,ORG,0.06285714285714285,0.014285714285714287,fr,2
-Financial Times,Financial Times,ORG,-0.06625,0.05625,fr,2
+OTAN,OTAN,ORG,0.3523888888888889,0.14500000000000002,fr,3
+l'Assemblée nationale,l'Assemblée nationale,ORG,-0.022777777777777775,0.044444444444444446,fr,3
+Fiat,Fiat,ORG,0.1214285714285714,0.17142857142857146,fr,3
+E Street Band,E Street Band,ORG,-0.04958333333333335,0.12916666666666665,fr,3
+Bourse de Paris,Bourse de Paris,ORG,0.05578888888888891,0.21433333333333335,fr,3
+SpaceX,SpaceX,ORG,0.11666666666666667,0.075,fr,2
 CFDT,CFDT,ORG,-0.001666666666666666,0.1366666666666667,fr,2
-Congrès,Congrès,ORG,-0.006545454545454549,0.04,fr,2
-Marine,Marine,ORG,-0.061,0.0,fr,1
-Cour de justice d’Angleterre,Cour de justice d’Angleterre,ORG,0.13833333333333334,0.0,fr,1
-ann,ann,ORG,-0.08,0.0,fr,1
-Daily Mirror,Daily Mirror,ORG,0.13833333333333334,0.0,fr,1
-FN,FN,ORG,-0.061,0.0,fr,1
-lon,lon,ORG,-0.061,0.0,fr,1
-DIVERGENCE POUR « LE,DIVERGENCE POUR « LE,ORG,0.042857142857142864,0.0,fr,1
-BITTON,BITTON,ORG,0.042857142857142864,0.0,fr,1
-bén,bén,ORG,0.15333333333333335,0.0,fr,1
-Parti républicain,Parti républicain,ORG,0.015,0.0,fr,1
-CBC News,CBC News,ORG,0.05571428571428572,0.0,fr,1
-Haute Cour,Haute Cour,ORG,0.13833333333333334,0.0,fr,1
-L'ONU,L'ONU,ORG,0.27399999999999997,0.0,fr,1
-Organisation des Nations unies pour l’éducation,Organisation des Nations unies pour l’éducation,ORG,0.043333333333333335,0.0,fr,1
-Unesco,Unesco,ORG,0.043333333333333335,0.0,fr,1
-Conseil italien,Conseil italien,ORG,0.06125000000000001,0.0,fr,1
-LOtan,LOtan,ORG,0.252,0.0,fr,1
-Culture,Culture,ORG,0.0,0.0,fr,1
-LR,LR,ORG,-0.017777777777777774,0.0,fr,1
-Politique,Politique,ORG,-0.017777777777777774,0.0,fr,1
-Bloomberg / Bloomberg,Bloomberg / Bloomberg,ORG,0.1,0.0,fr,1
-FBI,FBI,ORG,-0.008571428571428563,0.0,fr,1
-Loccasion,Loccasion,ORG,0.05600000000000001,0.0,fr,1
-"AFP
-","AFP
-",ORG,0.05600000000000001,0.0,fr,1
-Républicains,Républicains,ORG,0.05600000000000001,0.0,fr,1
-Truth Social,Truth Social,ORG,0.13444444444444445,0.0,fr,1
-New York Times,New York Times,ORG,0.11,0.0,fr,1
-CNN,CNN,ORG,0.11,0.0,fr,1
+Tesla,Tesla,ORG,0.125,0.075,fr,2
+UE,UE,ORG,-0.0375,0.025,fr,2
+The Breach,The Breach,ORG,0.5533333333333333,0.21666666666666667,fr,2
+Libération,Libération,ORG,0.08,0.03333333333333333,fr,2
+TotalEnergies,TotalEnergies,ORG,-0.017142857142857137,0.0642857142857143,fr,2
+l’OTAN,l’OTAN,ORG,0.5533333333333333,0.21666666666666667,fr,2
+LVMH,LVMH,ORG,0.39250000000000007,0.1875,fr,2
+ministère de la Justice,ministère de la Justice,ORG,0.13444444444444445,0.061111111111111116,fr,2
+Conseil italien,Conseil italien,ORG,0.08729166666666667,0.10625,fr,2
+Service Relations Clients,Service Relations Clients,ORG,0.031111111111111114,0.11666666666666667,fr,2
+New York Times,New York Times,ORG,0.1815,0.05454545454545454,fr,2
+Alliance atlantique,Alliance atlantique,ORG,0.2519166666666667,0.0825,fr,2
+Otan,Otan,ORG,0.16554545454545455,0.127,fr,2
+Moldavie,Moldavie,ORG,0.06666666666666667,0.05833333333333333,fr,2
+OSLO,OSLO,ORG,0.0790909090909091,0.04772727272727273,fr,2
+CPI,CPI,ORG,0.32857142857142857,0.09999999999999999,fr,2
+Cour pénale internationale,Cour pénale internationale,ORG,0.32857142857142857,0.09999999999999999,fr,2
+L'Otan,L'Otan,ORG,0.0790909090909091,0.04772727272727273,fr,2
+Dauphiné Libéré,Dauphiné Libéré,ORG,0.031111111111111114,0.11666666666666667,fr,2
+BULBOACA,BULBOACA,ORG,0.06666666666666667,0.05833333333333333,fr,2
+Choose France,Choose France,ORG,0.04,0.05,fr,2
 Washington Nationals,Washington Nationals,ORG,0.3171428571428571,0.0,fr,1
-Shein,Shein,ORG,0.05714285714285715,0.0,fr,1
-Pence,Pence,ORG,0.02666666666666667,0.0,fr,1
-AFP(FILES,AFP(FILES,ORG,-0.012857142857142862,0.0,fr,1
-Alliance atlantique,Alliance atlantique,ORG,0.13,0.0,fr,1
-pe,pe,ORG,-0.07500000000000001,0.0,fr,1
-RVK,RVK,ORG,-0.08249999999999999,0.0,fr,1
-Liberté pour la Russie,Liberté pour la Russie,ORG,-0.08249999999999999,0.0,fr,1
-Chambre des,Chambre des,ORG,0.03833333333333333,0.0,fr,1
-OCTAVIO JONES,OCTAVIO JONES,ORG,0.08,0.0,fr,1
-JONATHAN ERNST,JONATHAN ERNST,ORG,0.03428571428571429,0.0,fr,1
-Wa,Wa,ORG,0.3,0.0,fr,1
-Ladministration démocrate et lopposition républicaine,Ladministration démocrate et lopposition républicaine,ORG,-0.010000000000000004,0.0,fr,1
+Memorial,Memorial,ORG,0.272,0.0,fr,1
+CNN,CNN,ORG,0.11,0.0,fr,1
+ONU,ONU,ORG,0.27399999999999997,0.0,fr,1
+Daily Mirror ,Daily Mirror ,ORG,0.13833333333333334,0.0,fr,1
+France 2,France 2,ORG,0.05333333333333334,0.0,fr,1
+Parti républicain,Parti républicain,ORG,0.015,0.0,fr,1
+URSS,URSS,ORG,-0.1,0.0,fr,1
+SDF,SDF,ORG,0.015714285714285712,0.0,fr,1
+Nations unies,Nations unies,ORG,0.25,0.0,fr,1
+Truth Social,Truth Social,ORG,0.13444444444444445,0.0,fr,1
+Unesco,Unesco,ORG,0.043333333333333335,0.0,fr,1
+Air Defender,Air Defender,ORG,0.252,0.0,fr,1
+Apple,Apple,ORG,0.0,0.0,fr,1
+JDD,JDD,ORG,0.0,0.0,fr,1
+Les Républicains,Les Républicains,ORG,-0.041666666666666664,0.0,fr,1
+Etat,Etat,ORG,0.1625,0.0,fr,1
+ministère de l’Intérieur,ministère de l’Intérieur,ORG,0.03555555555555555,0.0,fr,1
+Téhéran d,Téhéran d,ORG,0.11500000000000002,0.0,fr,1
+Téhéran de drones,Téhéran de drones,ORG,0.11500000000000002,0.0,fr,1
+PARIS,PARIS,ORG,0.11500000000000002,0.0,fr,1
+LR,LR,ORG,-0.017777777777777774,0.0,fr,1
+Financial Times sest,Financial Times sest,ORG,-0.06625,0.0,fr,1
+Financial Times,Financial Times,ORG,-0.06625,0.0,fr,1
+at the Grimes Community Complex in Grimes,at the Grimes Community Complex in Grimes,ORG,0.1,0.0,fr,1
+Républicains des Hauts-de-Seine,Républicains des Hauts-de-Seine,ORG,-0.02666666666666667,0.0,fr,1
+FBI,FBI,ORG,-0.008571428571428563,0.0,fr,1
+AFP,AFP,ORG,0.027500000000000004,0.0,fr,1
+Premier ministre britannique,Premier ministre britannique,ORG,0.21818181818181823,0.0,fr,1
+Assemblée,Assemblée,ORG,0.04111111111111112,0.0,fr,1
+dette des États-Unis,dette des États-Unis,ORG,-0.144,0.0,fr,1
+JEUDY,JEUDY,ORG,-0.001666666666666666,0.0,fr,1
+Marine,Marine,ORG,-0.02666666666666667,0.0,fr,1
+Oukraïna,Oukraïna,ORG,0.03,0.0,fr,1
+Assemblée nationale,Assemblée nationale,ORG,-0.1,0.0,fr,1
+Assemblée ,Assemblée ,ORG,-0.1,0.0,fr,1
+justice pénale de,justice pénale de,ORG,0.12200000000000003,0.0,fr,1
+Russian who joined the Freedom of Russia Legion,Russian who joined the Freedom of Russia Legion,ORG,-0.08249999999999999,0.0,fr,1
+JONATHAN,JONATHAN,ORG,0.03428571428571429,0.0,fr,1
+G7 ,G7 ,ORG,0.03428571428571429,0.0,fr,1
+Ladministration démocrate,Ladministration démocrate,ORG,-0.010000000000000004,0.0,fr,1
+Cour pénal international,Cour pénal international,ORG,0.32857142857142857,0.0,fr,1
+BERTRAND GUAY,BERTRAND GUAY,ORG,0.3738333333333334,0.0,fr,1
 Sciences Po Paris,Sciences Po Paris,ORG,0.23999999999999996,0.0,fr,1
-Frankfurter Allgemeine Zeitung,Frankfurter Allgemeine Zeitung,ORG,-0.09666666666666666,0.0,fr,1
 Sciences Po,Sciences Po,ORG,0.23999999999999996,0.0,fr,1
+Central Intelligence,Central Intelligence,ORG,0.10640000000000001,0.0,fr,1
 CIA,CIA,ORG,0.10640000000000001,0.0,fr,1
-Finances,Finances,ORG,0.1325,0.0,fr,1
-lÉconomie,lÉconomie,ORG,0.1325,0.0,fr,1
-CAROLYN,CAROLYN,ORG,0.25000000000000006,0.0,fr,1
-Dior,Dior,ORG,0.015875000000000007,0.0,fr,1
-BRENDAN,BRENDAN,ORG,0.09090909090909091,0.0,fr,1
-Russian who joined the Freedom of Russia Legion to fight on the side of Ukraine,Russian who joined the Freedom of Russia Legion to fight on the side of Ukraine,ORG,-0.08249999999999999,0.0,fr,1
-SpaceX,SpaceX,ORG,0.10833333333333334,0.0,fr,1
-MARCO,MARCO,ORG,0.10833333333333334,0.0,fr,1
-Musk,Musk,ORG,0.10833333333333334,0.0,fr,1
-Libération,Libération,ORG,0.12666666666666668,0.0,fr,1
-Université Libé,Université Libé,ORG,0.12666666666666668,0.0,fr,1
+Elon Musk,Elon Musk,ORG,0.04,0.0,fr,1
+BRENDAN SMIALOWSKI,BRENDAN SMIALOWSKI,ORG,0.09090909090909091,0.0,fr,1
+CBC News,CBC News,ORG,0.05571428571428572,0.0,fr,1
+bourse de Paris,bourse de Paris,ORG,0.18250000000000002,0.0,fr,1
+Moët &amp,Moët &amp,ORG,0.3925,0.0,fr,1
+Chandon,Chandon,ORG,0.3925,0.0,fr,1
+Commission,Commission,ORG,0.1315625,0.0,fr,1
+Rassemblement national dêtre,Rassemblement national dêtre,ORG,-0.061,0.0,fr,1
+FN,FN,ORG,-0.061,0.0,fr,1
+ENTRETIEN,ENTRETIEN,ORG,-0.001666666666666666,0.0,fr,1
+Frankfurter Allgemeine Zeitung,Frankfurter Allgemeine Zeitung,ORG,-0.09666666666666666,0.0,fr,1
+lUniversité Libé,lUniversité Libé,ORG,0.12666666666666668,0.0,fr,1
+Université Libé ,Université Libé ,ORG,0.12666666666666668,0.0,fr,1
 RTL,RTL,ORG,0.12583333333333335,0.0,fr,1
 VIDEO,VIDEO,ORG,-0.37333333333333335,0.0,fr,1
 G8,G8,ORG,0.45,0.0,fr,1
+LVMH ,LVMH ,ORG,0.078,0.0,fr,1
+Pleyel,Pleyel,ORG,-0.034285714285714274,0.0,fr,1
 AG,AG,ORG,0.0,0.0,fr,1
+Ira,Ira,ORG,0.0875,0.0,fr,1
 Echos,Echos,ORG,0.1,0.0,fr,1
-Tesla,Tesla,ORG,0.043750000000000004,0.0,fr,1
-RUSSIE,RUSSIE,ORG,0.13,0.0,fr,1
-Sciences et de l’,Sciences et de l’,ORG,0.13,0.0,fr,1
-ASSEMBLÉE,ASSEMBLÉE,ORG,0.1315625,0.0,fr,1
-Commission,Commission,ORG,0.1315625,0.0,fr,1
-Moët &amp,Moët &amp,ORG,0.3925,0.0,fr,1
-Bourse de Paris,Bourse de Paris,ORG,-0.02739999999999999,0.0,fr,1
-Assemblée,Assemblée,ORG,-0.1,0.0,fr,1
-pa,pa,ORG,0.043333333333333335,0.0,fr,1
+vice-ministre des Sciences et de l’Enseignement supérieur,vice-ministre des Sciences et de l’Enseignement supérieur,ORG,0.13,0.0,fr,1
+Organisation des Nations unies,Organisation des Nations unies,ORG,0.043333333333333335,0.0,fr,1
