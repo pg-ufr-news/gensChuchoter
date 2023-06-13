@@ -286,10 +286,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
-'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
-'Benjamin Nethanaju',fr,Israel,#111111,#111111,1,0.1885747578124999
+'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
+'Benjamin Nethanaju',fr,Israel,#111111,#111111,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lukaschenko',fr,Belarus,#e81858,#e81858,3,0.1837074882022694
@@ -402,9 +402,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.0947607989411315
 'Lael Brainard',fr,USA,#18e8e8,#18e8e8,1,0.0900139365967108
 'Jochen Thewes',fr,Deutschland,#1818e8,#1818e8,1,0.0877374802927184
-'Katalin Novak',fr,Ungarn,#111111,#111111,1,0.0846712303252764
 'Larry Page',fr,USA,#18e8e8,#18e8e8,1,0.0830624268893745
 'Frank Bainimarama',fr,Fidschi,#111111,#111111,1,0.0729372324530693
+'Katalin Novak',fr,Ungarn,#111111,#111111,1,0.07227057577648495
 'Philipp Wolff',fr,Deutschland,#1818e8,#1818e8,1,0.0654199081845615
 'Bartholomäus',fr,Türkei,#111111,#111111,1,0.0609461657967015
 'Michael Kahle',fr,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
