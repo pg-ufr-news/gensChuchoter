@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',fr,USA,#18e8e8,#18e8e8,3,0.4045845351656869
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.40413258325
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.4040480801363635
-'Margaret Thatcher',fr,UK,#e838e8,#e838e8,2,0.403705332975
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,2,0.4033386515529327
 'Erich Honecker',fr,Deutschland,#1818e8,#1818e8,1,0.402305498
 'George Bush',fr,USA,#18e8e8,#18e8e8,2,0.4021233500173294
@@ -149,12 +148,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbert Diess',fr,Deutschland,#1818e8,#1818e8,2,0.3499293324532114
 'Jack Teixeira',fr,USA,#18e8e8,#18e8e8,3,0.3490973414270057
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.3489107133347159
-'Prinz Heinrich XIII',fr,Deutschland,#1818e8,#1818e8,1,0.34880301759285715
+'Prinz Heinrich XIII',fr,Deutschland,#1818e8,#1818e8,1,0.3488030175928571
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.3481780100047727
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.3473841006568181
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,3,0.3449798668938635
 'Ulrich Reitz',fr,Deutschland,#1818e8,#1818e8,1,0.3438250635563213
+'Margaret Thatcher',fr,UK,#e838e8,#e838e8,1,0.34314986302875
 'Jill Biden',fr,USA,#18e8e8,#18e8e8,2,0.3416670922193181
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,2,0.3398868704869431
 'König Charles III',fr,UK,#e838e8,#e838e8,3,0.339814490452464
@@ -218,10 +218,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
