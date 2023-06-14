@@ -20,9 +20,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Johnson',fr,UK,#e838e8,#e838e8,3,0.49
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.4708624809090909
 'Prince Charles',fr,UK,#e838e8,#e838e8,3,0.4708615359090909
+'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,3,0.4218915896411932
 'George Floyd',fr,USA,#18e8e8,#18e8e8,2,0.4104089984999999
 'Prinz Heinrich XIII',fr,Deutschland,#1818e8,#1818e8,1,0.4103564912857143
-'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,3,0.4103034781875
 'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.4099996259738636
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,2,0.4096211882409091
 'Hendrik Wüst',fr,Deutschland,#1818e8,#1818e8,3,0.4093767959497157
@@ -292,7 +292,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lukaschenko',fr,Belarus,#e81858,#e81858,3,0.1837074882022694
-'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.18230429658279876
+'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.1823042965827987
 'Mojib Latif',fr,Deutschland,#1818e8,#1818e8,1,0.1817305751150951
 'Andrzej Duda',fr,Polen,#111111,#111111,3,0.1813252556211041
 'Paul Kagame',fr,Ruanda,#111111,#111111,1,0.1802521726350991
