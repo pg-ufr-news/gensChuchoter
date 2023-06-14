@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.6
-'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,2,0.6
-'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,2,0.6
+'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.614959375
 'Yannick Morez',fr,Frankreich,#e8e808,#e8e808,2,0.6
+'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,2,0.6
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,2,0.6
+'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,2,0.6
 'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,2,0.6
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,2,0.5694969095454545
 'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,3,0.56495099
@@ -218,10 +218,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
