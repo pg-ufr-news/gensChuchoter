@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.4014994888636363
 'Recep Tayyip Erdogan',fr,Türkei,#111111,#111111,3,0.4008152985815766
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,3,0.3998669064552272
-'George Floyd',fr,USA,#18e8e8,#18e8e8,2,0.39974980786293096
+'George Floyd',fr,USA,#18e8e8,#18e8e8,2,0.3997498078629309
 'Jordan Neely',fr,USA,#18e8e8,#18e8e8,1,0.3989337566535713
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,3,0.3984880265127932
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.398186481916149
@@ -240,6 +240,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed bin Salman',fr,SaudiArabien,#111111,#111111,2,0.2049758380114865
 'Cyril Ramaphosa',fr,Südafrika,#111111,#111111,3,0.2039197630945368
 'Alfred Bernhard Nobel',fr,Schweden,#111111,#111111,1,0.2036607384374999
+'Michelle Obama',fr,USA,#18e8e8,#18e8e8,2,0.2031852141415688
 'Mark Zuckerberg',fr,USA,#18e8e8,#18e8e8,3,0.2029919317936823
 'Annalena Baerbock',fr,Deutschland,#1818e8,#1818e8,3,0.2025103015309864
 'Mark Rutte',fr,Niederlande,#111111,#111111,3,0.2019286506652954
@@ -321,7 +322,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Silvio Berlusconi',fr,Italien,#111111,#111111,3,0.1732220876917552
 'Sahra Wagenknecht',fr,Deutschland,#1818e8,#1818e8,3,0.173142414839009
 'Alice Weidel',fr,Deutschland,#1818e8,#1818e8,1,0.1730025649328061
-'Michelle Obama',fr,USA,#18e8e8,#18e8e8,2,0.1714530519312574
 'Thierry Breton',fr,EU,#111111,#111111,2,0.1707289014687776
 'Bill Gates',fr,USA,#18e8e8,#18e8e8,3,0.1690003963534724
 'Andreas Baum',fr,Deutschland,#1818e8,#1818e8,1,0.168427951669922
