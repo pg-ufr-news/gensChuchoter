@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.4708624809090909
 'Prince Charles',fr,UK,#e838e8,#e838e8,3,0.4708615359090909
 'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,3,0.4218915896411932
-'George Floyd',fr,USA,#18e8e8,#18e8e8,2,0.4104089984999999
 'Prinz Heinrich XIII',fr,Deutschland,#1818e8,#1818e8,1,0.4103564912857143
 'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.4099996259738636
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,2,0.4096211882409091
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.4014994888636363
 'Recep Tayyip Erdogan',fr,Türkei,#111111,#111111,3,0.4008152985815766
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,3,0.3998669064552272
+'George Floyd',fr,USA,#18e8e8,#18e8e8,2,0.39974980786293096
 'Jordan Neely',fr,USA,#18e8e8,#18e8e8,1,0.3989337566535713
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,3,0.3984880265127932
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.398186481916149
