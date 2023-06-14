@@ -224,7 +224,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rainer Maria Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.2166518726093558
 'Recep Tayyip Erdoğan',fr,Türkei,#111111,#111111,2,0.216266069377041
 'Martin Schirdewan',fr,Deutschland,#1818e8,#1818e8,3,0.2145580507416068
-'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.2144756430385868
 'Tamim bin Hamad Al Thani',fr,Katar,#111111,#111111,2,0.2129588699683904
 'Thomas Haldenwang',fr,Deutschland,#1818e8,#1818e8,2,0.2122102233303716
 'Sandra Maischberger',fr,Deutschland,#1818e8,#1818e8,2,0.2116071361922318
@@ -286,13 +285,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
-'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
+'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Benjamin Nethanaju',fr,Israel,#111111,#111111,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lukaschenko',fr,Belarus,#e81858,#e81858,3,0.1837074882022694
+'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.18230429658279876
 'Mojib Latif',fr,Deutschland,#1818e8,#1818e8,1,0.1817305751150951
 'Andrzej Duda',fr,Polen,#111111,#111111,3,0.1813252556211041
 'Paul Kagame',fr,Ruanda,#111111,#111111,1,0.1802521726350991
