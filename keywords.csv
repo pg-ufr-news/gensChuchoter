@@ -78,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,2,0.3832601660786789
 'Peter Tschentscher',fr,Deutschland,#1818e8,#1818e8,2,0.3832523500738636
 'Prinz George',fr,UK,#e838e8,#e838e8,2,0.3827385336954545
-'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,3,0.3825373909808521
 'Queen Camilla',fr,UK,#e838e8,#e838e8,3,0.3824706168478977
 'Kevin McCarthy',fr,USA,#18e8e8,#18e8e8,3,0.3823974536306818
 'Queen Elizabeth II',fr,UK,#e838e8,#e838e8,2,0.3822170690510454
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,2,0.3686952654090908
 'Francoise Bettencourt-Meyers',fr,Frankreich,#e8e808,#e8e808,1,0.368475
 'Johnny Depp',fr,USA,#18e8e8,#18e8e8,2,0.3677629740442045
+'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,3,0.36647289369736064
 'Rudy Giuliani',fr,USA,#18e8e8,#18e8e8,1,0.3663509646874999
 'Georg Gänswein',fr,Deutschland,#1818e8,#1818e8,2,0.3662069177465624
 'Pippa Middleton',fr,UK,#e838e8,#e838e8,1,0.3646564429374999
@@ -218,10 +218,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
@@ -435,7 +435,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Guillaume Pousaz',fr,Schweiz,#111111,#111111,1,0.033989923248466
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.0332865711583703
 'Charles Holliday',fr,USA,#18e8e8,#18e8e8,1,0.0332622880636029
-'Yang Huiyan',fr,China,#e88818,#e88818,1,0.03296630430030149
+'Yang Huiyan',fr,China,#e88818,#e88818,1,0.0329663043003014
 'Kim Tok-hun',fr,NordKorea,#e85858,#e85858,1,0.0329456014218369
 'Iris Fontbona',fr,Chile,#111111,#111111,1,0.0329456014218369
 'Michael Wirth',fr,USA,#18e8e8,#18e8e8,1,0.0307232856041616
