@@ -218,10 +218,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
@@ -427,15 +427,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilham Aliyev',fr,Aserbaidschan,#111111,#111111,1,0.0411372379772158
 'Amin H. Nasser',fr,SaudiArabien,#111111,#111111,1,0.040147483378486
 'Dimitry Peskov',fr,Russland,#e81818,#e81818,1,0.0389864686722625
-'Yang Huiyan',fr,China,#e88818,#e88818,1,0.0387838874121194
-'Sergei Ignatjew',fr,Russland,#e81818,#e81818,1,0.0387595310845141
 'Gina Rinehart',fr,Australien,#111111,#111111,1,0.0387595310845141
+'Sergei Ignatjew',fr,Russland,#e81818,#e81818,1,0.0387595310845141
 'Dmitry Peskov',fr,Russland,#e81818,#e81818,1,0.0386734294753883
 'Valery Gerasimov',fr,Russland,#e81818,#e81818,1,0.0363220805654022
 'Thomas Dörflinger',fr,Deutschland,#1818e8,#1818e8,1,0.0354533577480631
 'Guillaume Pousaz',fr,Schweiz,#111111,#111111,1,0.033989923248466
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.0332865711583703
 'Charles Holliday',fr,USA,#18e8e8,#18e8e8,1,0.0332622880636029
+'Yang Huiyan',fr,China,#e88818,#e88818,1,0.03296630430030149
 'Kim Tok-hun',fr,NordKorea,#e85858,#e85858,1,0.0329456014218369
 'Iris Fontbona',fr,Chile,#111111,#111111,1,0.0329456014218369
 'Michael Wirth',fr,USA,#18e8e8,#18e8e8,1,0.0307232856041616
