@@ -32,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dorothée Pacaud',fr,Frankreich,#e8e808,#e8e808,1,0.4677432456428571
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,3,0.4448190322918259
 'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,3,0.4218915896411932
-'Bill Clinton',fr,USA,#18e8e8,#18e8e8,2,0.4099996259738636
 'Hendrik Wüst',fr,Deutschland,#1818e8,#1818e8,3,0.4093767959497157
 'Billy Graham',fr,USA,#18e8e8,#18e8e8,2,0.40831200534875
 'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,2,0.4074597665909091
@@ -142,6 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Teixeira',fr,USA,#18e8e8,#18e8e8,3,0.3490973414270057
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.3489107133347159
 'Prinz Heinrich XIII',fr,Deutschland,#1818e8,#1818e8,1,0.3488030175928571
+'Bill Clinton',fr,USA,#18e8e8,#18e8e8,1,0.34850005707778403
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.3481780100047727
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.3473841006568181
@@ -206,7 +206,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ursula von der Leyen',fr,EU,#111111,#111111,3,0.2412793076076889
 'Werner von Braun',fr,Deutschland,#1818e8,#1818e8,1,0.2409120176627811
 'Nancy Faeser',fr,Deutschland,#1818e8,#1818e8,3,0.2383423883632433
-'Tamim Hamad Thani',fr,Katar,#111111,#111111,2,0.23827440106615327
+'Tamim Hamad Thani',fr,Katar,#111111,#111111,2,0.2382744010661532
 'Angela Merkel',fr,Deutschland,#1818e8,#1818e8,3,0.2371797024987847
 'Robert Habeck',fr,Deutschland,#1818e8,#1818e8,3,0.236752309865691
 'Ricarda Lang',fr,Deutschland,#1818e8,#1818e8,3,0.2363265143606869
