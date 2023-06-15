@@ -206,6 +206,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ursula von der Leyen',fr,EU,#111111,#111111,3,0.2412793076076889
 'Werner von Braun',fr,Deutschland,#1818e8,#1818e8,1,0.2409120176627811
 'Nancy Faeser',fr,Deutschland,#1818e8,#1818e8,3,0.2383423883632433
+'Tamim Hamad Thani',fr,Katar,#111111,#111111,2,0.23827440106615327
 'Angela Merkel',fr,Deutschland,#1818e8,#1818e8,3,0.2371797024987847
 'Robert Habeck',fr,Deutschland,#1818e8,#1818e8,3,0.236752309865691
 'Ricarda Lang',fr,Deutschland,#1818e8,#1818e8,3,0.2363265143606869
@@ -260,7 +261,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katharina König-Press',fr,Deutschland,#1818e8,#1818e8,2,0.1957494633347225
 'Charles Koch',fr,USA,#18e8e8,#18e8e8,2,0.1953585457074567
 'Karl Lauterbach',fr,Deutschland,#1818e8,#1818e8,3,0.1953286624714419
-'Tamim Hamad Thani',fr,Katar,#111111,#111111,2,0.1953225600778274
 'Luisa Neubauer',fr,Deutschland,#1818e8,#1818e8,2,0.1952052945494208
 'Christian Drosten',fr,Deutschland,#1818e8,#1818e8,2,0.1947864542230563
 'Michael Cohen',fr,USA,#18e8e8,#18e8e8,1,0.1944301334645202
