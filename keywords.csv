@@ -104,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.369636547799375
 'Napoleon Bonaparte',fr,Frankreich,#e8e808,#e8e808,1,0.3696327407625
 'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.3688609135875
-'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,2,0.3686952654090908
 'Francoise Bettencourt-Meyers',fr,Frankreich,#e8e808,#e8e808,1,0.368475
 'Johnny Depp',fr,USA,#18e8e8,#18e8e8,2,0.3677629740442045
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,3,0.3664728936973606
@@ -169,6 +168,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Andrew',fr,UK,#e838e8,#e838e8,1,0.3251055415681817
 'Maria Kolesnikowa',fr,Belarus,#e81858,#e81858,1,0.317229811023032
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,2,0.3155354332106818
+'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,1,0.31339135059772716
 'Pippa Middleton',fr,UK,#e838e8,#e838e8,1,0.3104080214968749
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.3073209135874999
