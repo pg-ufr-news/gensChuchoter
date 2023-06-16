@@ -141,7 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Teixeira',fr,USA,#18e8e8,#18e8e8,3,0.3490973414270057
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.3489107133347159
 'Prinz Heinrich XIII',fr,Deutschland,#1818e8,#1818e8,1,0.3488030175928571
-'Bill Clinton',fr,USA,#18e8e8,#18e8e8,1,0.34850005707778403
+'Bill Clinton',fr,USA,#18e8e8,#18e8e8,1,0.348500057077784
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.3481780100047727
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.3473841006568181
@@ -195,7 +195,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.2649691531606777
 'Aleksandar Vučić',fr,Serbien,#111111,#111111,2,0.2631335223312125
 'Michael Walzer',fr,USA,#18e8e8,#18e8e8,1,0.2624817911975
-'Narendra Modi',fr,Indien,#111111,#111111,3,0.2565789179436131
 'Jens Stoltenberg',fr,Norwegen,#e818e8,#e818e8,3,0.2552114217204134
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.2537258767065089
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.2536225570339593
@@ -204,6 +203,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herschel Walker',fr,USA,#18e8e8,#18e8e8,1,0.2440379218749999
 'Wolodymyr Selenski',fr,Ukraine,#e818e8,#e818e8,3,0.2439872043011605
 'Ursula von der Leyen',fr,EU,#111111,#111111,3,0.2412793076076889
+'Narendra Modi',fr,Indien,#111111,#111111,3,0.24122587843388932
 'Werner von Braun',fr,Deutschland,#1818e8,#1818e8,1,0.2409120176627811
 'Nancy Faeser',fr,Deutschland,#1818e8,#1818e8,3,0.2383423883632433
 'Tamim Hamad Thani',fr,Katar,#111111,#111111,2,0.2382744010661532
