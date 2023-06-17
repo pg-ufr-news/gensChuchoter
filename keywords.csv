@@ -84,7 +84,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk Yeol',fr,SüdKorea,#111111,#111111,3,0.3810421660090909
 'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.3805010367576623
 'Lauren Sanchez',fr,USA,#18e8e8,#18e8e8,1,0.3800877407624999
-'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.3797294316386363
 'Georg Bätzing',fr,Deutschland,#1818e8,#1818e8,2,0.3794795709769642
 'Pietro Lombardi',fr,Deutschland,#1818e8,#1818e8,1,0.3782716708421053
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,2,0.377540976104375
@@ -102,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,3,0.3664728936973606
 'Georg Gänswein',fr,Deutschland,#1818e8,#1818e8,2,0.3662069177465624
 'Robert Oppenheimer',fr,USA,#18e8e8,#18e8e8,1,0.3642085335605768
+'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.3640872232564772
 'Daniel Penny',fr,USA,#18e8e8,#18e8e8,1,0.3636961389541666
 'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.3619099256202228
