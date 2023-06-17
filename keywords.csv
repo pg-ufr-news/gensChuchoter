@@ -52,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',fr,USA,#18e8e8,#18e8e8,3,0.4045845351656869
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.40413258325
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,2,0.4033386515529327
-'Erich Honecker',fr,Deutschland,#1818e8,#1818e8,1,0.402305498
 'George Bush',fr,USA,#18e8e8,#18e8e8,2,0.4021233500173294
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.4014994888636363
 'Rudy Giuliani',fr,USA,#18e8e8,#18e8e8,2,0.4006984999843749
@@ -134,6 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrich Reitz',fr,Deutschland,#1818e8,#1818e8,1,0.3438250635563213
 'Steve Jobs',fr,USA,#18e8e8,#18e8e8,2,0.3436249332411882
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,1,0.34314986302875
+'Erich Honecker',fr,Deutschland,#1818e8,#1818e8,1,0.3419596733
 'Jill Biden',fr,USA,#18e8e8,#18e8e8,2,0.3416670922193181
 'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.3413060344669574
 'Martin Luther King',fr,USA,#18e8e8,#18e8e8,1,0.3409547873650378
@@ -160,7 +160,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',fr,UK,#e838e8,#e838e8,2,0.3260268360606143
 'Prinz Andrew',fr,UK,#e838e8,#e838e8,1,0.3251055415681817
 'Queen Camilla',fr,UK,#e838e8,#e838e8,1,0.325100069320713
-'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.32507604624401293
+'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.3250760462440129
 'Greg Abbott',fr,USA,#18e8e8,#18e8e8,1,0.3242054515756628
 'Nadja Abd el Farrag',fr,Deutschland,#1818e8,#1818e8,1,0.3236339068212706
 'Chez Krömer',fr,Deutschland,#1818e8,#1818e8,1,0.3198003061974999
