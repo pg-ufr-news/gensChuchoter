@@ -44,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdogan',fr,Türkei,#111111,#111111,3,0.4320151901579764
 'Lady Di',fr,UK,#e838e8,#e838e8,2,0.4314937739958332
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,2,0.4296593221815311
-'Hendrik Wüst',fr,Deutschland,#1818e8,#1818e8,3,0.4093767959497157
 'Billy Graham',fr,USA,#18e8e8,#18e8e8,2,0.40831200534875
 'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,2,0.4074597665909091
 'Lionel Messi',fr,Argentinien,#111111,#111111,3,0.4067700864503571
@@ -127,6 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',fr,USA,#18e8e8,#18e8e8,1,0.348500057077784
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.3481780100047727
 'Matt Damon',fr,USA,#18e8e8,#18e8e8,2,0.3481446147009741
+'Hendrik Wüst',fr,Deutschland,#1818e8,#1818e8,2,0.3479702765572583
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.3473841006568181
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,3,0.3449798668938635
