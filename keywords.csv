@@ -304,7 +304,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
-'Benjamin Nethanaju',fr,Israel,#111111,#111111,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
@@ -346,6 +345,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexei Nawalny',fr,Russland,#e81818,#e81818,2,0.161669051539228
 'Barbara Walters',fr,USA,#18e8e8,#18e8e8,1,0.1608897340571347
 'Edmund Stoiber',fr,Deutschland,#1818e8,#1818e8,1,0.1605559901142526
+'Benjamin Nethanaju',fr,Israel,#111111,#111111,1,0.1602885441406249
 'Gautam Adani',fr,Indien,#111111,#111111,1,0.1588332001257897
 'Ulf Poschardt',fr,Deutschland,#1818e8,#1818e8,2,0.1585813326059911
 'Alice Schwarzer',fr,Deutschland,#1818e8,#1818e8,2,0.1576527794525236
@@ -415,7 +415,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miguel Díaz-Canel',fr,Kuba,#111111,#111111,1,0.0951987021126823
 'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.0947607989411315
 'Lael Brainard',fr,USA,#18e8e8,#18e8e8,1,0.0900139365967108
-'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.08948655439851103
+'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.089486554398511
 'Jochen Thewes',fr,Deutschland,#1818e8,#1818e8,1,0.0877374802927184
 'Tamim bin Hamad Al-Thani',fr,Katar,#111111,#111111,1,0.0857657360781233
 'Larry Page',fr,USA,#18e8e8,#18e8e8,1,0.0830624268893745
