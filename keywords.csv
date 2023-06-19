@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.5020369510909091
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,2,0.5008520764318182
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.5007554322102272
-'Kemal Kılıçdaroğlu',fr,Türkei,#111111,#111111,2,0.5
 'Leon Botstein',fr,USA,#18e8e8,#18e8e8,2,0.5
+'Kemal Kılıçdaroğlu',fr,Türkei,#111111,#111111,2,0.5
 'Rosalynn Carter',fr,USA,#18e8e8,#18e8e8,2,0.5
-'Pete Davidson',fr,USA,#18e8e8,#18e8e8,2,0.5
-'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,2,0.5
 'Chris Christie',fr,USA,#18e8e8,#18e8e8,2,0.5
+'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,2,0.5
+'Pete Davidson',fr,USA,#18e8e8,#18e8e8,2,0.5
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,3,0.4991902233541963
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4982903503011363
 'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.4925107489602273
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Luther King',fr,USA,#18e8e8,#18e8e8,1,0.3409547873650378
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,2,0.3398868704869431
 'König Charles III',fr,UK,#e838e8,#e838e8,3,0.339814490452464
-'Jordan Neely',fr,USA,#18e8e8,#18e8e8,1,0.33924370815553556
+'Jordan Neely',fr,USA,#18e8e8,#18e8e8,1,0.3392437081555355
 'Jean Carroll',fr,USA,#18e8e8,#18e8e8,2,0.33829535119902
 'Prinz Louis',fr,UK,#e838e8,#e838e8,1,0.3381722539790176
 'Geoffrey Hinton',fr,UK,#e838e8,#e838e8,3,0.3381354264958989
@@ -399,7 +399,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Muhammad bin Zayid Al Nahyan',fr,VAE,#111111,#111111,1,0.1065853006501312
 'Badri Hosseini Chamenei',fr,Iran,#111111,#111111,1,0.1058051268146652
 'Jitzchak Herzog',fr,Israel,#111111,#111111,1,0.1040498355769495
-'Carola Rackete',fr,Deutschland,#1818e8,#1818e8,1,0.1034839041945892
 'Joko Widodo',fr,Indonesien,#111111,#111111,1,0.1031239587871031
 'Klaus Hasselmann',fr,Deutschland,#1818e8,#1818e8,1,0.1030335215037611
 'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.1021052404744678
@@ -416,6 +415,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.0947607989411315
 'Lael Brainard',fr,USA,#18e8e8,#18e8e8,1,0.0900139365967108
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.089486554398511
+'Carola Rackete',fr,Deutschland,#1818e8,#1818e8,1,0.0879613185654008
 'Jochen Thewes',fr,Deutschland,#1818e8,#1818e8,1,0.0877374802927184
 'Tamim bin Hamad Al-Thani',fr,Katar,#111111,#111111,1,0.0857657360781233
 'Larry Page',fr,USA,#18e8e8,#18e8e8,1,0.0830624268893745
