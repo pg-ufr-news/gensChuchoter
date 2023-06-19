@@ -403,7 +403,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joko Widodo',fr,Indonesien,#111111,#111111,1,0.1031239587871031
 'Klaus Hasselmann',fr,Deutschland,#1818e8,#1818e8,1,0.1030335215037611
 'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.1021052404744678
-'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.1021015110570718
 'Andrew Forrest',fr,Australien,#111111,#111111,1,0.1020853997308311
 'Ayatollah Ali Chamenei',fr,Iran,#111111,#111111,1,0.1003985244609884
 'Kurt Krömer',fr,Deutschland,#1818e8,#1818e8,2,0.10038893664179
@@ -416,6 +415,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miguel Díaz-Canel',fr,Kuba,#111111,#111111,1,0.0951987021126823
 'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.0947607989411315
 'Lael Brainard',fr,USA,#18e8e8,#18e8e8,1,0.0900139365967108
+'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.08948655439851103
 'Jochen Thewes',fr,Deutschland,#1818e8,#1818e8,1,0.0877374802927184
 'Tamim bin Hamad Al-Thani',fr,Katar,#111111,#111111,1,0.0857657360781233
 'Larry Page',fr,USA,#18e8e8,#18e8e8,1,0.0830624268893745
