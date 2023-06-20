@@ -40,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Poutine',fr,Russland,#e81818,#e81818,3,0.4468676509705682
 'Linda Yaccarino',fr,USA,#18e8e8,#18e8e8,3,0.4459711501742745
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4450647318143824
+'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.444953435762159
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,3,0.4448190322918259
 'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,3,0.4430596996280682
 'Pape François',fr,Vatikan,#58b8e8,#58b8e8,3,0.4423674602477273
@@ -70,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
 'Recep Tayyip Erdoan',fr,Türkei,#111111,#111111,3,0.3977305196183238
 'Putin',fr,Russland,#e81818,#e81818,1,0.389625444
-'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.3893039490249999
 'Wolfgang Kubicki',fr,Deutschland,#1818e8,#1818e8,3,0.3858334997092045
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,3,0.3843223839431817
 'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,2,0.3832601660786789
@@ -246,10 +246,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
