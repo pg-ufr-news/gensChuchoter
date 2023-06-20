@@ -84,7 +84,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.3744597187525994
 'Christine Lambrecht',fr,Deutschland,#1818e8,#1818e8,2,0.3736931517795454
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,2,0.369764047799375
-'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.3688609135875
 'Johnny Depp',fr,USA,#18e8e8,#18e8e8,2,0.3677629740442045
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,3,0.3664728936973606
 'Georg Gänswein',fr,Deutschland,#1818e8,#1818e8,2,0.3662069177465624
@@ -161,6 +160,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,1,0.3159081289000567
 'Katja Krasavice',fr,Deutschland,#1818e8,#1818e8,1,0.3148820960178919
 'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.3144910956294687
+'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.313681791549375
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,1,0.3133913505977271
 'Francoise Bettencourt-Meyers',fr,Frankreich,#e8e808,#e8e808,1,0.31320375
 'Pippa Middleton',fr,UK,#e838e8,#e838e8,1,0.3104080214968749
@@ -246,10 +246,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
