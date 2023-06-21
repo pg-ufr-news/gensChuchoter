@@ -104,9 +104,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.3619099256202228
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.361760111
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.3600461088912271
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
 'Ted Cruz',fr,USA,#18e8e8,#18e8e8,2,0.3568509701967187
@@ -194,7 +194,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Washington',fr,USA,#18e8e8,#18e8e8,2,0.298809836551676
 'Winston Churchill',fr,UK,#e838e8,#e838e8,2,0.2984873633406154
 'Isaac Newton',fr,UK,#e838e8,#e838e8,1,0.2979634997388469
-'Herbert Diess',fr,Deutschland,#1818e8,#1818e8,1,0.2974399325852296
 'Jack Teixeira',fr,USA,#18e8e8,#18e8e8,1,0.2967331152129548
 'Helge Schneider',fr,Deutschland,#1818e8,#1818e8,1,0.2949005971110415
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.2889038399139016
@@ -233,6 +232,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Stoltenberg',fr,Norwegen,#e818e8,#e818e8,3,0.2552114217204134
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.2537258767065089
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.2536225570339593
+'Herbert Diess',fr,Deutschland,#1818e8,#1818e8,1,0.2528239426974452
 'Warren Buffett',fr,USA,#18e8e8,#18e8e8,3,0.2506326729956694
 'Julian Reichelt',fr,Deutschland,#1818e8,#1818e8,3,0.2457992288283137
 'Herschel Walker',fr,USA,#18e8e8,#18e8e8,1,0.2440379218749999
@@ -328,9 +328,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
+'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
-'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.1823042965827987
