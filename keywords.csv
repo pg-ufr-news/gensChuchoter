@@ -78,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin McCarthy',fr,USA,#18e8e8,#18e8e8,3,0.3823974536306818
 'Mario Czaja',fr,Deutschland,#1818e8,#1818e8,3,0.3814420658153408
 'Lauren Sanchez',fr,USA,#18e8e8,#18e8e8,1,0.3800877407624999
-'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,2,0.377540976104375
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,3,0.3763903269579544
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,2,0.3757926619367992
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.3744597187525994
@@ -118,6 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.3473841006568181
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,3,0.3449798668938635
 'Dmitri Medwedew',fr,Russland,#e81818,#e81818,2,0.3445599594931818
+'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.34404269787053693
 'Ulrich Reitz',fr,Deutschland,#1818e8,#1818e8,1,0.3438250635563213
 'Steve Jobs',fr,USA,#18e8e8,#18e8e8,2,0.3436249332411882
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,1,0.34314986302875
@@ -246,10 +246,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
@@ -465,7 +465,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Wirth',fr,USA,#18e8e8,#18e8e8,1,0.0307232856041616
 'Darren Woods',fr,USA,#18e8e8,#18e8e8,1,0.0305796892309298
 'Jacqueline Mars',fr,USA,#18e8e8,#18e8e8,1,0.0283446346674988
-'Kim Tok-hun',fr,NordKorea,#e85858,#e85858,1,0.02800376120856136
+'Kim Tok-hun',fr,NordKorea,#e85858,#e85858,1,0.0280037612085613
 'Choe Ryong-hae',fr,NordKorea,#e85858,#e85858,1,0.0280037612085613
 'Miriam Adelson',fr,USA,#18e8e8,#18e8e8,1,0.0242042246260271
 'Bodo Schiffmann',fr,Deutschland,#1818e8,#1818e8,1,0.0225115698775455
