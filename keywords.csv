@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kılıçdaroğlu',fr,Türkei,#111111,#111111,2,0.475450045
 'Tina Turner',fr,USA,#18e8e8,#18e8e8,3,0.4750541595751221
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.4725972343363636
-'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.4718437046882385
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.4699061337022727
 'Dorothée Pacaud',fr,Frankreich,#e8e808,#e8e808,1,0.4677432456428571
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,2,0.4663153763636363
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billy Graham',fr,USA,#18e8e8,#18e8e8,2,0.40831200534875
 'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,2,0.4074597665909091
 'Lionel Messi',fr,Argentinien,#111111,#111111,3,0.4067700864503571
+'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.4060187239850027
 'Kanye West',fr,USA,#18e8e8,#18e8e8,3,0.4045845351656869
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.40413258325
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,2,0.4033386515529327
