@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Amber Heard',fr,USA,#18e8e8,#18e8e8,3,0.516500645
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,2,0.5
 'Berkshire Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.5
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,2,0.5
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,3,0.4430596996280682
 'Pape François',fr,Vatikan,#58b8e8,#58b8e8,3,0.4423674602477273
 'Mohammed Bin Salman',fr,SaudiArabien,#111111,#111111,1,0.44150015
+'Amber Heard',fr,USA,#18e8e8,#18e8e8,2,0.43902613325
 'Prince Charles',fr,UK,#e838e8,#e838e8,3,0.4373139503988635
 'Recep Tayyip Erdogan',fr,Türkei,#111111,#111111,3,0.4320151901579764
 'Lady Di',fr,UK,#e838e8,#e838e8,2,0.4314937739958332
@@ -328,9 +328,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
+'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
-'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.1823042965827987
