@@ -76,7 +76,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Bush',fr,USA,#18e8e8,#18e8e8,2,0.4021233500173294
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.4014994888636363
 'Rudy Giuliani',fr,USA,#18e8e8,#18e8e8,2,0.4006984999843749
-'Kamala Harris',fr,USA,#18e8e8,#18e8e8,2,0.4001304625238636
 'George Floyd',fr,USA,#18e8e8,#18e8e8,2,0.3997498078629309
 'Rupert Murdoch',fr,USA,#18e8e8,#18e8e8,2,0.3991684629241477
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
@@ -119,6 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',fr,Deutschland,#1818e8,#1818e8,2,0.3527953549829545
 'Papst Franziskus',fr,Vatikan,#58b8e8,#58b8e8,3,0.3510299150028324
 'Willy Brandt',fr,Deutschland,#1818e8,#1818e8,2,0.3508962986246704
+'Kamala Harris',fr,USA,#18e8e8,#18e8e8,2,0.3497168537008396
 'Prinz Heinrich XIII',fr,Deutschland,#1818e8,#1818e8,1,0.348803017592857
 'Bill Clinton',fr,USA,#18e8e8,#18e8e8,1,0.348500057077784
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.3481780100047727
@@ -328,9 +328,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
+'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
-'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.1823042965827987
