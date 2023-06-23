@@ -102,9 +102,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.3619099256202228
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.361760111
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.3600461088912271
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
 'Ted Cruz',fr,USA,#18e8e8,#18e8e8,2,0.3568509701967187
@@ -166,7 +166,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pietro Lombardi',fr,Deutschland,#1818e8,#1818e8,1,0.3215309202157895
 'Holger Friedrich',fr,Deutschland,#1818e8,#1818e8,1,0.3190431493505554
 'Leonardo da Vinci',fr,Italien,#111111,#111111,1,0.3180057921849999
-'Christine Lambrecht',fr,Deutschland,#1818e8,#1818e8,1,0.31763917901261357
+'Christine Lambrecht',fr,Deutschland,#1818e8,#1818e8,1,0.3176391790126135
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,1,0.3159081289000567
 'Katja Krasavice',fr,Deutschland,#1818e8,#1818e8,1,0.3148820960178919
 'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.3144910956294687
@@ -329,8 +329,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
-'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
+'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.1823042965827987
@@ -341,7 +341,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',fr,USA,#18e8e8,#18e8e8,2,0.179856373350899
 'Gregor Gysi',fr,Deutschland,#1818e8,#1818e8,2,0.1793542177960141
 'Bodo Ramelow',fr,Deutschland,#1818e8,#1818e8,2,0.179319631146918
-'Jewgeni Prigoschin',fr,Russland,#e81818,#e81818,3,0.1791814186330721
 'Hun Sen',fr,Kambodscha,#111111,#111111,1,0.1785678593735536
 'Anthony Fauci',fr,USA,#18e8e8,#18e8e8,1,0.1784259382242243
 'Ed McVey',fr,UK,#e838e8,#e838e8,1,0.1778894425896845
@@ -380,6 +379,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Ellison',fr,USA,#18e8e8,#18e8e8,1,0.1550774796114642
 'Andrés Manuel López Obrador',fr,Mexiko,#111111,#111111,2,0.1545336894397846
 'Michael Ballweg',fr,Deutschland,#1818e8,#1818e8,1,0.1525514194559661
+'Jewgeni Prigoschin',fr,Russland,#e81818,#e81818,2,0.15230420583811127
 'Volker Wissing',fr,Deutschland,#1818e8,#1818e8,3,0.1509181475313735
 'Volodymyr Zelenskiy',fr,Ukraine,#e818e8,#e818e8,1,0.1498697887714842
 'Fidel Castro',fr,Kuba,#111111,#111111,1,0.149536285247132
