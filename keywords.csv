@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Scott',fr,USA,#18e8e8,#18e8e8,2,0.4663145063636363
 'Yannick Morez',fr,Frankreich,#e8e808,#e8e808,3,0.4658284626886362
 'Chris Christie',fr,USA,#18e8e8,#18e8e8,3,0.463699630090909
-'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.46121042373136356
+'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.4612104237313635
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4605651893149523
 'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,3,0.4598859107954545
 'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,3,0.4590140316495597
@@ -62,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.4060187239850027
 'Kanye West',fr,USA,#18e8e8,#18e8e8,3,0.4045845351656869
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.40413258325
-'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,2,0.4033386515529327
 'George Bush',fr,USA,#18e8e8,#18e8e8,2,0.4021233500173294
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.4014994888636363
 'George Floyd',fr,USA,#18e8e8,#18e8e8,2,0.3997498078629309
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,2,0.3757926619367992
 'Hamish Harding',fr,UK,#e838e8,#e838e8,3,0.3749555075454545
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.3744597187525994
+'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,2,0.3705156215472655
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,2,0.369764047799375
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.3693678674681818
 'Johnny Depp',fr,USA,#18e8e8,#18e8e8,2,0.3677629740442045
@@ -99,14 +99,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.36140002775
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.36137752775
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3612499999999999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.3612499999999999
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
+'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
 'Ted Cruz',fr,USA,#18e8e8,#18e8e8,2,0.3568509701967187
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.3564948935418567
@@ -336,9 +336,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
-'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
+'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.1823042965827987
