@@ -42,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.444953435762159
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,3,0.4448190322918259
 'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,3,0.4430596996280682
-'Pape François',fr,Vatikan,#58b8e8,#58b8e8,3,0.4423674602477273
 'Prince Charles',fr,UK,#e838e8,#e838e8,3,0.4373139503988635
 'Stockton Rush',fr,USA,#18e8e8,#18e8e8,2,0.4344963845454545
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,2,0.4344963395454545
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,2,0.3832601660786789
 'Prinz George',fr,UK,#e838e8,#e838e8,2,0.3827385336954545
 'Mario Czaja',fr,Deutschland,#1818e8,#1818e8,3,0.3814420658153408
+'Pape François',fr,Vatikan,#58b8e8,#58b8e8,3,0.38096658621056817
 'Lauren Sanchez',fr,USA,#18e8e8,#18e8e8,1,0.3800877407624999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,3,0.3763903269579544
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,2,0.3757926619367992
@@ -336,9 +336,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
-'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
+'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.1823042965827987
