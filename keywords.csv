@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,3,0.4842739617499999
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4822426235488636
 'Patrick Graichen',fr,Deutschland,#1818e8,#1818e8,3,0.4807990316311447
-'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.4801609785
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,2,0.4800670721098683
 'Jeanne du Barry',fr,Frankreich,#e8e808,#e8e808,2,0.47995114
 'Jamie Dimon',fr,USA,#18e8e8,#18e8e8,2,0.4795788328333333
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Narendra Modi',fr,Indien,#111111,#111111,3,0.4222280000681817
 'Patrick Pouyanné',fr,Frankreich,#e8e808,#e8e808,3,0.4192680526270256
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.4142764478636363
+'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.413088436725
 'Kevin McCarthy',fr,USA,#18e8e8,#18e8e8,3,0.4118097674042613
 'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.4088673516478535
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.4060187239850027
@@ -336,9 +336,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
-'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
+'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.1823042965827987
