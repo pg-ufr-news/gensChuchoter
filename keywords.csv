@@ -68,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
 'Recep Tayyip Erdoan',fr,Türkei,#111111,#111111,3,0.3977305196183238
 'Putin',fr,Russland,#e81818,#e81818,1,0.389625444
-'Wolfgang Kubicki',fr,Deutschland,#1818e8,#1818e8,3,0.3858334997092045
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,3,0.3843223839431817
 'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,2,0.3832601660786789
 'Prinz George',fr,UK,#e838e8,#e838e8,2,0.3827385336954545
@@ -154,6 +153,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lars Klingbeil',fr,Deutschland,#1818e8,#1818e8,1,0.3294274029829544
 'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.3292268150253571
 'Selenski',fr,Ukraine,#e818e8,#e818e8,3,0.3287688968417335
+'Wolfgang Kubicki',fr,Deutschland,#1818e8,#1818e8,2,0.3279584747528238
 'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,2,0.3277747605956249
 'Peter Tschentscher',fr,Deutschland,#1818e8,#1818e8,1,0.325764497562784
 'Queen Camilla',fr,UK,#e838e8,#e838e8,1,0.325100069320713
@@ -336,9 +336,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
-'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
+'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.1823042965827987
