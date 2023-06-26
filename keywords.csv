@@ -69,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',fr,Russland,#e81818,#e81818,1,0.389625444
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,3,0.3843223839431817
 'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,2,0.3832601660786789
-'Prinz George',fr,UK,#e838e8,#e838e8,2,0.3827385336954545
 'Mario Czaja',fr,Deutschland,#1818e8,#1818e8,3,0.3814420658153408
 'Pape François',fr,Vatikan,#58b8e8,#58b8e8,3,0.3809665862105681
 'Lauren Sanchez',fr,USA,#18e8e8,#18e8e8,1,0.3800877407624999
@@ -131,7 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Luther King',fr,USA,#18e8e8,#18e8e8,1,0.3409547873650378
 'Rudy Giuliani',fr,USA,#18e8e8,#18e8e8,1,0.3405937999867186
 'König Charles III',fr,UK,#e838e8,#e838e8,3,0.339814490452464
-'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.33978769668349124
+'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.3397876966834912
 'Jordan Neely',fr,USA,#18e8e8,#18e8e8,1,0.3392437081555355
 'Geoffrey Hinton',fr,UK,#e838e8,#e838e8,3,0.3381354264958989
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,1,0.338092017310273
@@ -156,6 +155,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Kubicki',fr,Deutschland,#1818e8,#1818e8,2,0.3279584747528238
 'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,2,0.3277747605956249
 'Peter Tschentscher',fr,Deutschland,#1818e8,#1818e8,1,0.325764497562784
+'Prinz George',fr,UK,#e838e8,#e838e8,1,0.3253277536411363
 'Queen Camilla',fr,UK,#e838e8,#e838e8,1,0.325100069320713
 'Greg Abbott',fr,USA,#18e8e8,#18e8e8,1,0.3242054515756628
 'Yoon Suk Yeol',fr,SüdKorea,#111111,#111111,2,0.3238860661077273
@@ -336,9 +336,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.188700166797016
-'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
+'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
 'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.1823042965827987
