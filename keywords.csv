@@ -174,7 +174,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.3144910956294687
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.3142994406294687
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,1,0.3133913505977271
-'Francoise Bettencourt-Meyers',fr,Frankreich,#e8e808,#e8e808,1,0.31320375
 'Pippa Middleton',fr,UK,#e838e8,#e838e8,1,0.3104080214968749
 'Steve Wozniak',fr,USA,#18e8e8,#18e8e8,1,0.3103134908
 'Axel Springer',fr,Deutschland,#1818e8,#1818e8,1,0.3084501929375
@@ -229,6 +228,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,2,0.2686551632290795
 'Napoleon Bonaparte',fr,Frankreich,#e8e808,#e8e808,1,0.2678922384509062
 'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.2666295228169687
+'Francoise Bettencourt-Meyers',fr,Frankreich,#e8e808,#e8e808,1,0.2662231875
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.2649691531606777
 'Eva Kaili',fr,EU,#111111,#111111,3,0.2636540426295585
 'Aleksandar Vučić',fr,Serbien,#111111,#111111,2,0.2631335223312125
