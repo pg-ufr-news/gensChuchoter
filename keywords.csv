@@ -49,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Johnson',fr,UK,#e838e8,#e838e8,3,0.4235648196016051
 'Narendra Modi',fr,Indien,#111111,#111111,3,0.4222280000681817
 'Patrick Pouyanné',fr,Frankreich,#e8e808,#e8e808,3,0.4192680526270256
+'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,2,0.4188127257625
 'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.4176729771060226
 'Rosalynn Carter',fr,USA,#18e8e8,#18e8e8,1,0.4156959135874999
 'Leon Botstein',fr,USA,#18e8e8,#18e8e8,1,0.4156733985874999
@@ -59,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Graichen',fr,Deutschland,#1818e8,#1818e8,2,0.408679176886473
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.408057011293388
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.4060187239850027
-'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.40413258325
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.4014994888636363
 'Rupert Murdoch',fr,USA,#18e8e8,#18e8e8,2,0.3991684629241477
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
@@ -91,11 +91,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.36140002775
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.36137752775
-'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3612499999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
@@ -491,4 +491,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Tok-hun',fr,NordKorea,#e85858,#e85858,1,0.0280037612085613
 'Choe Ryong-hae',fr,NordKorea,#e85858,#e85858,1,0.0280037612085613
 'Bodo Schiffmann',fr,Deutschland,#1818e8,#1818e8,1,0.0225115698775455
-'Miriam Adelson',fr,USA,#18e8e8,#18e8e8,1,0.020723605932123034
+'Miriam Adelson',fr,USA,#18e8e8,#18e8e8,1,0.020723605932123
