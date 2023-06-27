@@ -91,11 +91,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.36140002775
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.36137752775
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
-'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
@@ -490,5 +490,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacqueline Mars',fr,USA,#18e8e8,#18e8e8,1,0.0283446346674988
 'Kim Tok-hun',fr,NordKorea,#e85858,#e85858,1,0.0280037612085613
 'Choe Ryong-hae',fr,NordKorea,#e85858,#e85858,1,0.0280037612085613
-'Miriam Adelson',fr,USA,#18e8e8,#18e8e8,1,0.0242042246260271
 'Bodo Schiffmann',fr,Deutschland,#1818e8,#1818e8,1,0.0225115698775455
+'Miriam Adelson',fr,USA,#18e8e8,#18e8e8,1,0.020723605932123034
