@@ -91,11 +91,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.36140002775
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.36137752775
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3612499999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
@@ -119,14 +119,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billy Graham',fr,USA,#18e8e8,#18e8e8,1,0.3470652345464375
 'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,1,0.3463408016022727
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,3,0.3449798668938635
-'Kanye West',fr,USA,#18e8e8,#18e8e8,3,0.34479743989083383
+'Kanye West',fr,USA,#18e8e8,#18e8e8,3,0.3447974398908338
 'Dmitri Medwedew',fr,Russland,#e81818,#e81818,2,0.3445599594931818
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.3440426978705369
 'Steve Jobs',fr,USA,#18e8e8,#18e8e8,2,0.3436249332411882
 'Margaret Thatcher',fr,UK,#e838e8,#e838e8,1,0.34314986302875
 'Erich Honecker',fr,Deutschland,#1818e8,#1818e8,1,0.3419596733
 'Jill Biden',fr,USA,#18e8e8,#18e8e8,2,0.3416670922193181
-'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.3413060344669574
 'Martin Luther King',fr,USA,#18e8e8,#18e8e8,1,0.3409547873650378
 'Rudy Giuliani',fr,USA,#18e8e8,#18e8e8,1,0.3405937999867186
 'König Charles III',fr,UK,#e838e8,#e838e8,3,0.339814490452464
@@ -178,10 +177,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Wozniak',fr,USA,#18e8e8,#18e8e8,1,0.3103134908
 'Axel Springer',fr,Deutschland,#1818e8,#1818e8,1,0.3084501929375
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.3070624999999999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
 'Meg Bellamy',fr,UK,#e838e8,#e838e8,2,0.3045747367962499
@@ -201,6 +200,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.2959513085040568
 'Helge Schneider',fr,Deutschland,#1818e8,#1818e8,1,0.2949005971110415
 'Ulrich Reitz',fr,Deutschland,#1818e8,#1818e8,1,0.2922513040228731
+'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.2908602042969138
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.2889038399139016
 'Jean Carroll',fr,USA,#18e8e8,#18e8e8,1,0.287551438519167
 'Andreas Jung',fr,Deutschland,#1818e8,#1818e8,2,0.2872840989282954
