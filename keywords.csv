@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4774429217727272
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4767833336136364
 'Al Pacino',fr,USA,#18e8e8,#18e8e8,2,0.475900585
 'Kemal Kılıçdaroğlu',fr,Türkei,#111111,#111111,2,0.475450045
 'Tina Turner',fr,USA,#18e8e8,#18e8e8,3,0.4750541595751221
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4744192221431818
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.4699061337022727
 'Lionel Messi',fr,Argentinien,#111111,#111111,3,0.4688953166646217
 'Dorothée Pacaud',fr,Frankreich,#e8e808,#e8e808,1,0.4677432456428571
@@ -77,7 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,2,0.3673106338543014
 'Lady Di',fr,UK,#e838e8,#e838e8,1,0.3667698128964582
 'Georg Gänswein',fr,Deutschland,#1818e8,#1818e8,1,0.3662069177465624
-'Pape François',fr,Vatikan,#58b8e8,#58b8e8,3,0.36513937464261925
+'Pape François',fr,Vatikan,#58b8e8,#58b8e8,3,0.3651393746426192
 'George Bush',fr,USA,#18e8e8,#18e8e8,2,0.3649372356965482
 'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.3640872232564772
 'Daniel Penny',fr,USA,#18e8e8,#18e8e8,1,0.3636961389541666
@@ -91,11 +91,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.36140002775
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.36137752775
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
