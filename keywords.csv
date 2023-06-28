@@ -90,9 +90,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.36140002775
-'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.36137752775
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3612499999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
@@ -176,6 +175,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Wozniak',fr,USA,#18e8e8,#18e8e8,1,0.3103134908
 'Axel Springer',fr,Deutschland,#1818e8,#1818e8,1,0.3084501929375
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
+'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.30732091358749997
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
