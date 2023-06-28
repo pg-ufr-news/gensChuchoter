@@ -91,11 +91,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.36140002775
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.36137752775
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3612499999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
@@ -149,7 +149,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Oppenheimer',fr,USA,#18e8e8,#18e8e8,1,0.3295273735264903
 'Joseph Ratzinger',fr,Vatikan,#58b8e8,#58b8e8,1,0.329437838576875
 'Lars Klingbeil',fr,Deutschland,#1818e8,#1818e8,1,0.3294274029829544
-'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.3292268150253571
 'Selenski',fr,Ukraine,#e818e8,#e818e8,3,0.3287688968417335
 'Wolfgang Kubicki',fr,Deutschland,#1818e8,#1818e8,2,0.3279584747528238
 'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,2,0.3277747605956249
@@ -211,6 +210,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Rahmstorf',fr,Deutschland,#1818e8,#1818e8,2,0.2829869333454397
 'Maybrit Illner',fr,Deutschland,#1818e8,#1818e8,2,0.2822091025186961
 'Papst Benedikt XVI',fr,Vatikan,#58b8e8,#58b8e8,3,0.2803198878619299
+'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.27984279277155355
 'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.2781148193074109
 'Prinz William',fr,UK,#e838e8,#e838e8,1,0.2771228106515221
 'Faisal Kawusi',fr,Deutschland,#1818e8,#1818e8,1,0.2767460940624999
