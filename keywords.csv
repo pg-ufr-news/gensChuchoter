@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdogan',fr,Türkei,#111111,#111111,3,0.4320151901579764
 'Afida Turner',fr,Frankreich,#e8e808,#e8e808,2,0.4305505549999999
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.4295556258719553
-'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.4285112018227238
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,2,0.4263770226545454
 'Berkshire Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.4262752775
 'Pablo Picasso',fr,Spanien,#111111,#111111,3,0.42555597125
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,3,0.3843223839431817
 'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,2,0.3832601660786789
 'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,2,0.3791859260999998
+'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.37828401064022427
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,2,0.3757926619367992
 'Hamish Harding',fr,UK,#e838e8,#e838e8,3,0.3749555075454545
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.3744597187525994
@@ -91,10 +91,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.36140002775
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3612499999999999
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
