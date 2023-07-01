@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.4699061337022727
 'Lionel Messi',fr,Argentinien,#111111,#111111,3,0.4688953166646217
 'Dorothée Pacaud',fr,Frankreich,#e8e808,#e8e808,1,0.4677432456428571
-'James Cameron',fr,USA,#18e8e8,#18e8e8,3,0.4663157363636363
 'Tim Scott',fr,USA,#18e8e8,#18e8e8,2,0.4663145063636363
 'Yannick Morez',fr,Frankreich,#e8e808,#e8e808,3,0.4658284626886362
 'Chris Christie',fr,USA,#18e8e8,#18e8e8,3,0.463699630090909
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.408057011293388
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.4060187239850027
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.4014994888636363
+'James Cameron',fr,USA,#18e8e8,#18e8e8,3,0.40132050590909085
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
 'Recep Tayyip Erdoan',fr,Türkei,#111111,#111111,3,0.3977305196183238
 'Putin',fr,Russland,#e81818,#e81818,1,0.389625444
@@ -280,10 +280,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
