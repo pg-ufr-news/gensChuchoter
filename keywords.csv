@@ -280,10 +280,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
@@ -400,7 +400,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Ellison',fr,USA,#18e8e8,#18e8e8,1,0.1550774796114642
 'Andrés Manuel López Obrador',fr,Mexiko,#111111,#111111,2,0.1545336894397846
 'Michael Ballweg',fr,Deutschland,#1818e8,#1818e8,1,0.1525514194559661
-'Volker Wissing',fr,Deutschland,#1818e8,#1818e8,3,0.1509181475313735
 'Volodymyr Zelenskiy',fr,Ukraine,#e818e8,#e818e8,1,0.1498697887714842
 'Fidel Castro',fr,Kuba,#111111,#111111,1,0.149536285247132
 'Hans Joachim Schellnhuber',fr,Deutschland,#1818e8,#1818e8,2,0.1495056237685449
@@ -424,6 +423,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Subrahmanyam Jaishankar',fr,Indien,#111111,#111111,1,0.1315121528414857
 'Julian Assange',fr,Australien,#111111,#111111,1,0.1304932469453604
 'Sucharit Bhakdi',fr,Deutschland,#1818e8,#1818e8,3,0.1301048636771233
+'Volker Wissing',fr,Deutschland,#1818e8,#1818e8,3,0.1287304704016675
 'Jürgen Grässlin',fr,Deutschland,#1818e8,#1818e8,1,0.1278282964372896
 'Daniel Dillmann',fr,Deutschland,#1818e8,#1818e8,1,0.1273893204557615
 'Julia Koch',fr,USA,#18e8e8,#18e8e8,2,0.1272917809567915
