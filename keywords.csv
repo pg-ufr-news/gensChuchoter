@@ -280,10 +280,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
@@ -492,13 +492,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valery Gerasimov',fr,Russland,#e81818,#e81818,1,0.0363220805654022
 'Thomas Dörflinger',fr,Deutschland,#1818e8,#1818e8,1,0.0354533577480631
 'Guillaume Pousaz',fr,Schweiz,#111111,#111111,1,0.033989923248466
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.0332865711583703
 'Charles Holliday',fr,USA,#18e8e8,#18e8e8,1,0.0332622880636029
 'Yang Huiyan',fr,China,#e88818,#e88818,1,0.0329663043003014
 'Iris Fontbona',fr,Chile,#111111,#111111,1,0.0329456014218369
 'Michael Wirth',fr,USA,#18e8e8,#18e8e8,1,0.0307232856041616
 'Darren Woods',fr,USA,#18e8e8,#18e8e8,1,0.0305796892309298
 'Jacqueline Mars',fr,USA,#18e8e8,#18e8e8,1,0.0283446346674988
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.02829358548461475
 'Kim Tok-hun',fr,NordKorea,#e85858,#e85858,1,0.0280037612085613
 'Choe Ryong-hae',fr,NordKorea,#e85858,#e85858,1,0.0280037612085613
 'Bodo Schiffmann',fr,Deutschland,#1818e8,#1818e8,1,0.0225115698775455
