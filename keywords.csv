@@ -280,10 +280,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
@@ -442,7 +442,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susanne Klatten',fr,Deutschland,#1818e8,#1818e8,1,0.111162752109088
 'Otmar Issing',fr,EU,#111111,#111111,1,0.1091728210379542
 'Daniel Zhang',fr,China,#e88818,#e88818,1,0.1088811443368403
-'Sergej Lavrov',fr,Russland,#e81818,#e81818,1,0.1085208905860952
 'Milo Yiannopoulos',fr,UK,#e838e8,#e838e8,1,0.1082809223873972
 'Nicola Sturgeon',fr,UK,#e838e8,#e838e8,1,0.1078553764077506
 'Muhammad bin Zayid Al Nahyan',fr,VAE,#111111,#111111,1,0.1065853006501312
@@ -462,6 +461,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miguel Díaz-Canel',fr,Kuba,#111111,#111111,1,0.0951987021126823
 'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.0947607989411315
 'Jewgeni Prigoschin',fr,Russland,#e81818,#e81818,1,0.09353382041033
+'Sergej Lavrov',fr,Russland,#e81818,#e81818,1,0.09224275699818091
 'Lael Brainard',fr,USA,#18e8e8,#18e8e8,1,0.0900139365967108
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.089486554398511
 'Joko Widodo',fr,Indonesien,#111111,#111111,1,0.0881054099690376
