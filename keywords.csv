@@ -137,7 +137,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.3473841006568181
 'Billy Graham',fr,USA,#18e8e8,#18e8e8,1,0.3470652345464375
-'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,1,0.3463408016022727
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,3,0.3449798668938635
 'Kanye West',fr,USA,#18e8e8,#18e8e8,3,0.3447974398908338
 'Dmitri Medwedew',fr,Russland,#e81818,#e81818,2,0.3445599594931818
@@ -221,6 +220,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isaac Newton',fr,UK,#e838e8,#e838e8,1,0.2979634997388469
 'Jack Teixeira',fr,USA,#18e8e8,#18e8e8,1,0.2967331152129548
 'Helge Schneider',fr,Deutschland,#1818e8,#1818e8,1,0.2949005971110415
+'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,1,0.2943896813619318
 'Ulrich Reitz',fr,Deutschland,#1818e8,#1818e8,1,0.2922513040228731
 'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.2908602042969138
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.2889038399139016
