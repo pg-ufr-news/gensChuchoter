@@ -164,7 +164,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joachim Gauck',fr,Deutschland,#1818e8,#1818e8,1,0.333347555762267
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.3331925996719329
 'Albert Einstein',fr,Deutschland,#1818e8,#1818e8,3,0.3322506650085003
-'Peter Thiel',fr,USA,#18e8e8,#18e8e8,1,0.3298367044996022
 'Robert Oppenheimer',fr,USA,#18e8e8,#18e8e8,1,0.3295273735264903
 'Joseph Ratzinger',fr,Vatikan,#58b8e8,#58b8e8,1,0.329437838576875
 'Lars Klingbeil',fr,Deutschland,#1818e8,#1818e8,1,0.3294274029829544
@@ -232,6 +231,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Kühnert',fr,Deutschland,#1818e8,#1818e8,3,0.2837933503516328
 'Stefan Rahmstorf',fr,Deutschland,#1818e8,#1818e8,2,0.2829869333454397
 'Maybrit Illner',fr,Deutschland,#1818e8,#1818e8,2,0.2822091025186961
+'Peter Thiel',fr,USA,#18e8e8,#18e8e8,1,0.28111127382466183
 'Papst Benedikt XVI',fr,Vatikan,#58b8e8,#58b8e8,3,0.2803198878619299
 'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.2798427927715535
 'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.2781148193074109
