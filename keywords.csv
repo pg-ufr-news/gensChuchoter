@@ -98,7 +98,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,2,0.3673106338543014
 'Lady Di',fr,UK,#e838e8,#e838e8,1,0.3667698128964582
 'Georg Gänswein',fr,Deutschland,#1818e8,#1818e8,1,0.3662069177465624
-'George Bush',fr,USA,#18e8e8,#18e8e8,2,0.3649372356965482
 'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.3640872232564772
 'Daniel Penny',fr,USA,#18e8e8,#18e8e8,1,0.3636961389541666
 'Kemal Klçdarolu',fr,Türkei,#111111,#111111,2,0.3635977347499999
@@ -111,12 +110,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.36140002775
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3612499999999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
 'Ted Cruz',fr,USA,#18e8e8,#18e8e8,2,0.3568509701967187
@@ -162,6 +161,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Gaga',fr,USA,#18e8e8,#18e8e8,1,0.3340963868892857
 'Buzz Aldrin',fr,USA,#18e8e8,#18e8e8,1,0.3339501929374999
 'Joachim Gauck',fr,Deutschland,#1818e8,#1818e8,1,0.333347555762267
+'George Bush',fr,USA,#18e8e8,#18e8e8,2,0.33332908352388413
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.3331925996719329
 'Albert Einstein',fr,Deutschland,#1818e8,#1818e8,3,0.3322506650085003
 'Robert Oppenheimer',fr,USA,#18e8e8,#18e8e8,1,0.3295273735264903
@@ -231,7 +231,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Kühnert',fr,Deutschland,#1818e8,#1818e8,3,0.2837933503516328
 'Stefan Rahmstorf',fr,Deutschland,#1818e8,#1818e8,2,0.2829869333454397
 'Maybrit Illner',fr,Deutschland,#1818e8,#1818e8,2,0.2822091025186961
-'Peter Thiel',fr,USA,#18e8e8,#18e8e8,1,0.28111127382466183
+'Peter Thiel',fr,USA,#18e8e8,#18e8e8,1,0.2811112738246618
 'Papst Benedikt XVI',fr,Vatikan,#58b8e8,#58b8e8,3,0.2803198878619299
 'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.2798427927715535
 'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.2781148193074109
