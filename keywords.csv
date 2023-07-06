@@ -67,7 +67,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Narendra Modi',fr,Indien,#111111,#111111,3,0.4222280000681817
 'Patrick Pouyanné',fr,Frankreich,#e8e808,#e8e808,3,0.4192680526270256
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,2,0.4188127257625
-'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.4176729771060226
 'Rosalynn Carter',fr,USA,#18e8e8,#18e8e8,1,0.4156959135874999
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.4142764478636363
 'Kevin McCarthy',fr,USA,#18e8e8,#18e8e8,3,0.4118097674042613
@@ -90,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,2,0.3757926619367992
 'Hamish Harding',fr,UK,#e838e8,#e838e8,3,0.3749555075454545
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.3744597187525994
+'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.3736109141764828
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,2,0.3705156215472655
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.3693678674681818
 'Johnny Depp',fr,USA,#18e8e8,#18e8e8,2,0.3677629740442045
@@ -436,7 +436,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sucharit Bhakdi',fr,Deutschland,#1818e8,#1818e8,3,0.1301048636771233
 'Volker Wissing',fr,Deutschland,#1818e8,#1818e8,3,0.1287304704016675
 'Jürgen Grässlin',fr,Deutschland,#1818e8,#1818e8,1,0.1278282964372896
-'Volodymyr Zelenskiy',fr,Ukraine,#e818e8,#e818e8,1,0.12738932045576157
+'Volodymyr Zelenskiy',fr,Ukraine,#e818e8,#e818e8,1,0.1273893204557615
 'Daniel Dillmann',fr,Deutschland,#1818e8,#1818e8,1,0.1273893204557615
 'Julia Koch',fr,USA,#18e8e8,#18e8e8,2,0.1272917809567915
 'Scott Morrison',fr,Australien,#111111,#111111,1,0.1254962258655283
