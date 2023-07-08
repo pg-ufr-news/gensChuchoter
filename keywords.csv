@@ -186,7 +186,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',fr,Deutschland,#1818e8,#1818e8,1,0.3176391790126135
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,1,0.3159081289000567
 'Katja Krasavice',fr,Deutschland,#1818e8,#1818e8,1,0.3148820960178919
-'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,2,0.31475496744305254
+'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,2,0.3147549674430525
 'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.3144910956294687
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.3142994406294687
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,1,0.3133913505977271
@@ -397,7 +397,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong-un',fr,NordKorea,#e85858,#e85858,3,0.1669946821293978
 'Klaus-Michael Kühne',fr,Deutschland,#1818e8,#1818e8,1,0.166658795396255
 'Luisa Neubauer',fr,Deutschland,#1818e8,#1818e8,1,0.1659245153670076
-'Christian Drosten',fr,Deutschland,#1818e8,#1818e8,1,0.1655684860895978
 'Winfried Kretschmann',fr,Deutschland,#1818e8,#1818e8,1,0.1651134705123221
 'Roberta Metsola',fr,EU,#111111,#111111,1,0.164994776793156
 'Benjamin Netanjahu',fr,Israel,#111111,#111111,3,0.1641255470614374
@@ -422,6 +421,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Kerry',fr,USA,#18e8e8,#18e8e8,1,0.1450670132333888
 'Mahmud Abbas',fr,Palistina,#111111,#111111,1,0.1444871561380068
 'Maybritt Illner',fr,Deutschland,#1818e8,#1818e8,1,0.141762721406686
+'Christian Drosten',fr,Deutschland,#1818e8,#1818e8,1,0.1407332131761581
 'Millie Mackintosh',fr,UK,#e838e8,#e838e8,1,0.139499648432588
 'Paul Gosar',fr,USA,#18e8e8,#18e8e8,1,0.1389701677699217
 'Steffi Lemke',fr,Deutschland,#1818e8,#1818e8,2,0.1384690476042515
