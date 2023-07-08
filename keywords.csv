@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,3,0.4598859107954545
 'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,2,0.4592430671428571
 'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,2,0.4592430671428571
-'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,3,0.4590140316495597
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,2,0.4579541172397727
 'Robert De Niro',fr,USA,#18e8e8,#18e8e8,3,0.4572244672727272
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.4571043316772727
@@ -79,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cameron',fr,USA,#18e8e8,#18e8e8,3,0.4013205059090908
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
 'Recep Tayyip Erdoan',fr,Türkei,#111111,#111111,3,0.3977305196183238
+'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,2,0.3901625419021257
 'Putin',fr,Russland,#e81818,#e81818,1,0.389625444
 'Yevgeny Prigozhin',fr,Russland,#e81818,#e81818,1,0.3852320643982142
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,3,0.3843223839431817
@@ -396,7 +396,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lagarde',fr,EU,#111111,#111111,3,0.1673524284627061
 'Kim Jong-un',fr,NordKorea,#e85858,#e85858,3,0.1669946821293978
 'Klaus-Michael Kühne',fr,Deutschland,#1818e8,#1818e8,1,0.166658795396255
-'Luisa Neubauer',fr,Deutschland,#1818e8,#1818e8,1,0.16592451536700767
+'Luisa Neubauer',fr,Deutschland,#1818e8,#1818e8,1,0.1659245153670076
 'Christian Drosten',fr,Deutschland,#1818e8,#1818e8,1,0.1655684860895978
 'Winfried Kretschmann',fr,Deutschland,#1818e8,#1818e8,1,0.1651134705123221
 'Roberta Metsola',fr,EU,#111111,#111111,1,0.164994776793156
