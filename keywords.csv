@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dorothée Pacaud',fr,Frankreich,#e8e808,#e8e808,1,0.4677432456428571
 'Tim Scott',fr,USA,#18e8e8,#18e8e8,2,0.4663145063636363
 'Yannick Morez',fr,Frankreich,#e8e808,#e8e808,3,0.4658284626886362
-'Chris Christie',fr,USA,#18e8e8,#18e8e8,3,0.463699630090909
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.4612104237313635
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4605651893149523
 'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,3,0.4598859107954545
@@ -78,6 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cameron',fr,USA,#18e8e8,#18e8e8,3,0.4013205059090908
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
 'Recep Tayyip Erdoan',fr,Türkei,#111111,#111111,3,0.3977305196183238
+'Chris Christie',fr,USA,#18e8e8,#18e8e8,2,0.3941449855772726
 'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,2,0.3901625419021257
 'Putin',fr,Russland,#e81818,#e81818,1,0.389625444
 'Yevgeny Prigozhin',fr,Russland,#e81818,#e81818,1,0.3852320643982142
