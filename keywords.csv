@@ -68,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.4142764478636363
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.4134700579818749
 'Kevin McCarthy',fr,USA,#18e8e8,#18e8e8,3,0.4118097674042613
-'Jeanne du Barry',fr,Frankreich,#e8e808,#e8e808,2,0.409459114
 'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.4088673516478535
 'Patrick Graichen',fr,Deutschland,#1818e8,#1818e8,2,0.408679176886473
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.408057011293388
@@ -110,9 +109,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.36140002775
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
@@ -128,6 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Heinrich XIII',fr,Deutschland,#1818e8,#1818e8,1,0.348803017592857
 'Bill Clinton',fr,USA,#18e8e8,#18e8e8,1,0.348500057077784
 'Matt Damon',fr,USA,#18e8e8,#18e8e8,2,0.3481446147009741
+'Jeanne du Barry',fr,Frankreich,#e8e808,#e8e808,1,0.3480404869
 'Hendrik Wüst',fr,Deutschland,#1818e8,#1818e8,2,0.3479702765572583
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.3473841006568181
