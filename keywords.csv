@@ -108,11 +108,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pablo Picasso',fr,Spanien,#111111,#111111,2,0.3617233855625
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.3564948935418567
@@ -192,7 +192,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Wozniak',fr,USA,#18e8e8,#18e8e8,1,0.3103134908
 'Axel Springer',fr,Deutschland,#1818e8,#1818e8,1,0.3084501929375
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
-'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.30734003858750003
+'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.3073209135874999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.3070624999999999
@@ -332,7 +332,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katharina König-Press',fr,Deutschland,#1818e8,#1818e8,2,0.1957494633347225
 'Charles Koch',fr,USA,#18e8e8,#18e8e8,2,0.1953585457074567
 'Karl Lauterbach',fr,Deutschland,#1818e8,#1818e8,3,0.1953286624714419
-'Liz Truss',fr,UK,#e838e8,#e838e8,2,0.1940257940768495
 'Karl Jenkins',fr,UK,#e838e8,#e838e8,1,0.1940153238863952
 'Frank-Walter Steinmeier',fr,Deutschland,#1818e8,#1818e8,3,0.1937903750239842
 'Tino Chrupalla',fr,Deutschland,#1818e8,#1818e8,2,0.1937899845784159
@@ -399,6 +398,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Luisa Neubauer',fr,Deutschland,#1818e8,#1818e8,1,0.1659245153670076
 'Winfried Kretschmann',fr,Deutschland,#1818e8,#1818e8,1,0.1651134705123221
 'Roberta Metsola',fr,EU,#111111,#111111,1,0.164994776793156
+'Liz Truss',fr,UK,#e838e8,#e838e8,1,0.16492216496532208
 'Benjamin Netanjahu',fr,Israel,#111111,#111111,3,0.1641255470614374
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,3,0.164120511242103
 'Alexei Nawalny',fr,Russland,#e81818,#e81818,2,0.161669051539228
