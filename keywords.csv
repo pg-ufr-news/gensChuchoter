@@ -42,13 +42,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',fr,USA,#18e8e8,#18e8e8,2,0.42725072
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,2,0.4263770226545454
 'Berkshire Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.4262752775
-'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
+'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
-'König Felipe VI',fr,Spanien,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.425
+'König Felipe VI',fr,Spanien,#111111,#111111,1,0.425
+'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,3,0.4248823029142612
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,2,0.4243122598510668
 'Boris Johnson',fr,UK,#e838e8,#e838e8,3,0.4235648196016051
@@ -79,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,2,0.3791859260999998
 'Linda Yaccarino',fr,USA,#18e8e8,#18e8e8,2,0.3790760776481333
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,2,0.3757926619367992
-'Hamish Harding',fr,UK,#e838e8,#e838e8,3,0.3749555075454545
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.3744597187525994
 'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.3736109141764828
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,2,0.3705156215472655
@@ -101,16 +100,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pablo Picasso',fr,Spanien,#111111,#111111,2,0.3617233855625
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
@@ -120,6 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kai Wegner',fr,Deutschland,#1818e8,#1818e8,2,0.3536555618283653
 'Leon Botstein',fr,USA,#18e8e8,#18e8e8,1,0.3533223887993749
 'Jamie Dimon',fr,USA,#18e8e8,#18e8e8,2,0.3512136784720832
+'Hamish Harding',fr,UK,#e838e8,#e838e8,3,0.3509373086863635
 'Willy Brandt',fr,Deutschland,#1818e8,#1818e8,2,0.3508962986246704
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,2,0.3497168537008396
 'Prinz Heinrich XIII',fr,Deutschland,#1818e8,#1818e8,1,0.348803017592857
