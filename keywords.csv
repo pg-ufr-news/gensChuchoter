@@ -41,13 +41,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',fr,USA,#18e8e8,#18e8e8,2,0.42725072
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,2,0.4263770226545454
 'Berkshire Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.4262752775
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
-'König Felipe VI',fr,Spanien,#111111,#111111,1,0.425
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
-'König Felipe VI',fr,Spanien,#111111,#111111,1,0.425
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,3,0.4248823029142612
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,2,0.4243122598510668
 'Boris Johnson',fr,UK,#e838e8,#e838e8,3,0.4235648196016051
@@ -100,6 +98,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pablo Picasso',fr,Spanien,#111111,#111111,2,0.3617233855625
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
+'König Felipe VI',fr,Spanien,#111111,#111111,1,0.36124999999999996
+'König Felipe VI',fr,Spanien,#111111,#111111,1,0.36124999999999996
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
