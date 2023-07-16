@@ -76,7 +76,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Graichen',fr,Deutschland,#1818e8,#1818e8,2,0.408679176886473
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.408057011293388
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.4060187239850027
-'Al Pacino',fr,USA,#18e8e8,#18e8e8,1,0.40451563225
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.4014994888636363
 'James Cameron',fr,USA,#18e8e8,#18e8e8,3,0.4013205059090908
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
@@ -110,17 +109,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
-'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.3564948935418567
@@ -140,6 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',fr,USA,#18e8e8,#18e8e8,1,0.3473841006568181
 'Billy Graham',fr,USA,#18e8e8,#18e8e8,1,0.3470652345464375
+'Al Pacino',fr,USA,#18e8e8,#18e8e8,1,0.3451884224125
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,3,0.3449798668938635
 'Kanye West',fr,USA,#18e8e8,#18e8e8,3,0.3447974398908338
 'Dmitri Medwedew',fr,Russland,#e81818,#e81818,2,0.3445599594931818
