@@ -416,7 +416,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Nethanaju',fr,Israel,#111111,#111111,1,0.1602885441406249
 'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Gautam Adani',fr,Indien,#111111,#111111,1,0.1588332001257897
-'Ulf Poschardt',fr,Deutschland,#1818e8,#1818e8,2,0.1585813326059911
 'Alice Schwarzer',fr,Deutschland,#1818e8,#1818e8,2,0.1576527794525236
 'Lukaschenko',fr,Belarus,#e81858,#e81858,2,0.156151364971929
 'Larry Ellison',fr,USA,#18e8e8,#18e8e8,1,0.1550774796114642
@@ -438,6 +437,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erik Marquardt',fr,EU,#111111,#111111,1,0.1380198150278046
 'Nick Fuentes',fr,USA,#18e8e8,#18e8e8,1,0.1367902435696092
 'Schellnhuber',fr,Deutschland,#1818e8,#1818e8,2,0.1357232008737172
+'Ulf Poschardt',fr,Deutschland,#1818e8,#1818e8,1,0.13479413271509244
 'Sergey Brin',fr,USA,#18e8e8,#18e8e8,1,0.1330909862422387
 'Robin Li',fr,China,#e88818,#e88818,1,0.1328455654173694
 'Sundar Pichai',fr,USA,#18e8e8,#18e8e8,2,0.1317890543879531
