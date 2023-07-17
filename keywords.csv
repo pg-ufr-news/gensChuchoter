@@ -1,20 +1,19 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sultan al-Jaber',fr,VAE,#111111,#111111,2,0.5
-'Sergio Mattarella',fr,Italien,#111111,#111111,2,0.5
-'Jack Smith',fr,USA,#18e8e8,#18e8e8,2,0.5
-'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,2,0.5
-'Kim Yo Jong',fr,NordKorea,#111111,#111111,2,0.5
-'Alexander De Croo',fr,Belgien,#111111,#111111,2,0.5
-'Drena De Niro',fr,USA,#18e8e8,#18e8e8,2,0.5
-'Leandro De Niro Rodriguez',fr,USA,#18e8e8,#18e8e8,2,0.5
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,2,0.5
-'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,2,0.5
-'Matteo Salvini',fr,Italien,#111111,#111111,2,0.5
-'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,2,0.5
-'Geert Wilders',fr,Niederlande,#111111,#111111,2,0.5
-'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,2,0.5
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,2,0.5
-'Kemal Kılıçdaroğlu',fr,Türkei,#111111,#111111,2,0.475450045
+'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,2,0.5
+'Geert Wilders',fr,Niederlande,#111111,#111111,2,0.5
+'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,2,0.5
+'Matteo Salvini',fr,Italien,#111111,#111111,2,0.5
+'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,2,0.5
+'Sergio Mattarella',fr,Italien,#111111,#111111,2,0.5
+'Leandro De Niro Rodriguez',fr,USA,#18e8e8,#18e8e8,2,0.5
+'Alexander De Croo',fr,Belgien,#111111,#111111,2,0.5
+'Kim Yo Jong',fr,NordKorea,#111111,#111111,2,0.5
+'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,2,0.5
+'Jack Smith',fr,USA,#18e8e8,#18e8e8,2,0.5
+'Drena De Niro',fr,USA,#18e8e8,#18e8e8,2,0.5
 'Tina Turner',fr,USA,#18e8e8,#18e8e8,3,0.4750541595751221
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4744192221431818
 'Lionel Messi',fr,Argentinien,#111111,#111111,3,0.4688953166646217
@@ -76,6 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Graichen',fr,Deutschland,#1818e8,#1818e8,2,0.408679176886473
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.408057011293388
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.4060187239850027
+'Kemal Kılıçdaroğlu',fr,Türkei,#111111,#111111,1,0.40413253825
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.4014994888636363
 'James Cameron',fr,USA,#18e8e8,#18e8e8,3,0.4013205059090908
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
@@ -484,7 +484,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jewgeni Prigoschin',fr,Russland,#e81818,#e81818,1,0.09353382041033
 'Sergej Lavrov',fr,Russland,#e81818,#e81818,1,0.0922427569981809
 'Lael Brainard',fr,USA,#18e8e8,#18e8e8,1,0.0900139365967108
-'Badri Hosseini Chamenei',fr,Iran,#111111,#111111,1,0.08993435779246542
+'Badri Hosseini Chamenei',fr,Iran,#111111,#111111,1,0.0899343577924654
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.089486554398511
 'Joko Widodo',fr,Indonesien,#111111,#111111,1,0.0881054099690376
 'Carola Rackete',fr,Deutschland,#1818e8,#1818e8,1,0.0879613185654008
