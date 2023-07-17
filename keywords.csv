@@ -467,7 +467,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Milo Yiannopoulos',fr,UK,#e838e8,#e838e8,1,0.1082809223873972
 'Nicola Sturgeon',fr,UK,#e838e8,#e838e8,1,0.1078553764077506
 'Muhammad bin Zayid Al Nahyan',fr,VAE,#111111,#111111,1,0.1065853006501312
-'Badri Hosseini Chamenei',fr,Iran,#111111,#111111,1,0.1058051268146652
 'Jitzchak Herzog',fr,Israel,#111111,#111111,1,0.1040498355769495
 'Klaus Hasselmann',fr,Deutschland,#1818e8,#1818e8,1,0.1030335215037611
 'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.1021052404744678
@@ -485,6 +484,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jewgeni Prigoschin',fr,Russland,#e81818,#e81818,1,0.09353382041033
 'Sergej Lavrov',fr,Russland,#e81818,#e81818,1,0.0922427569981809
 'Lael Brainard',fr,USA,#18e8e8,#18e8e8,1,0.0900139365967108
+'Badri Hosseini Chamenei',fr,Iran,#111111,#111111,1,0.08993435779246542
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.089486554398511
 'Joko Widodo',fr,Indonesien,#111111,#111111,1,0.0881054099690376
 'Carola Rackete',fr,Deutschland,#1818e8,#1818e8,1,0.0879613185654008
