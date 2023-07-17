@@ -173,7 +173,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lars Klingbeil',fr,Deutschland,#1818e8,#1818e8,1,0.3294274029829544
 'Selenski',fr,Ukraine,#e818e8,#e818e8,3,0.3287688968417335
 'Wolfgang Kubicki',fr,Deutschland,#1818e8,#1818e8,2,0.3279584747528238
-'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,2,0.3277747605956249
 'Peter Tschentscher',fr,Deutschland,#1818e8,#1818e8,1,0.325764497562784
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,3,0.3255439337336656
 'Prinz George',fr,UK,#e838e8,#e838e8,1,0.3253277536411363
@@ -228,6 +227,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Franziskus',fr,Vatikan,#58b8e8,#58b8e8,1,0.2983754277524075
 'Isaac Newton',fr,UK,#e838e8,#e838e8,1,0.2979634997388469
 'Jack Teixeira',fr,USA,#18e8e8,#18e8e8,1,0.2967331152129548
+'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,2,0.2951023697671507
 'Helge Schneider',fr,Deutschland,#1818e8,#1818e8,1,0.2949005971110415
 'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,1,0.2943896813619318
 'Ulrich Reitz',fr,Deutschland,#1818e8,#1818e8,1,0.2922513040228731
@@ -437,7 +437,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erik Marquardt',fr,EU,#111111,#111111,1,0.1380198150278046
 'Nick Fuentes',fr,USA,#18e8e8,#18e8e8,1,0.1367902435696092
 'Schellnhuber',fr,Deutschland,#1818e8,#1818e8,2,0.1357232008737172
-'Ulf Poschardt',fr,Deutschland,#1818e8,#1818e8,1,0.13479413271509244
+'Ulf Poschardt',fr,Deutschland,#1818e8,#1818e8,1,0.1347941327150924
 'Sergey Brin',fr,USA,#18e8e8,#18e8e8,1,0.1330909862422387
 'Robin Li',fr,China,#e88818,#e88818,1,0.1328455654173694
 'Sundar Pichai',fr,USA,#18e8e8,#18e8e8,2,0.1317890543879531
