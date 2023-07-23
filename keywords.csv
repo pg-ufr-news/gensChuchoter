@@ -46,7 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,2,0.4263770226545454
 'Berkshire Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.4262752775
 'Geert Wilders',fr,Niederlande,#111111,#111111,1,0.42500024
-'Leandro De Niro Rodriguez',fr,USA,#18e8e8,#18e8e8,1,0.42500014999999997
+'Leandro De Niro Rodriguez',fr,USA,#18e8e8,#18e8e8,1,0.4250001499999999
 'Sergio Mattarella',fr,Italien,#111111,#111111,1,0.42500012
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425000015
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
@@ -103,18 +103,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pablo Picasso',fr,Spanien,#111111,#111111,2,0.3617233855625
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
-'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
+'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.3595141465641777
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
@@ -478,7 +478,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lee Hsien Loong',fr,Singapur,#111111,#111111,1,0.0981879794530431
 'Ebrahim Raisi',fr,Iran,#111111,#111111,1,0.0973027256333634
 'Amin Nasser',fr,SaudiArabien,#111111,#111111,1,0.0972738007140503
-'Igor Setschin',fr,Russland,#e81818,#e81818,1,0.0962356603854313
 'Andreas Jödecke',fr,Deutschland,#1818e8,#1818e8,1,0.0952087999496758
 'Miguel Díaz-Canel',fr,Kuba,#111111,#111111,1,0.0951987021126823
 'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.0947607989411315
@@ -491,6 +490,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carola Rackete',fr,Deutschland,#1818e8,#1818e8,1,0.0879613185654008
 'Jochen Thewes',fr,Deutschland,#1818e8,#1818e8,1,0.0877374802927184
 'Tamim bin Hamad Al-Thani',fr,Katar,#111111,#111111,1,0.0857657360781233
+'Igor Setschin',fr,Russland,#e81818,#e81818,1,0.0818003113276166
 'Frank Bainimarama',fr,Fidschi,#111111,#111111,1,0.0729372324530693
 'Larry Page',fr,USA,#18e8e8,#18e8e8,1,0.0724032428559683
 'Katalin Novak',fr,Ungarn,#111111,#111111,1,0.0722705757764849
