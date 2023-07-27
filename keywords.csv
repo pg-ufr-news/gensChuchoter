@@ -48,11 +48,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',fr,Italien,#111111,#111111,1,0.42500012
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.42500003
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425000015
-'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
+'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.425
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,3,0.4248823029142612
@@ -103,18 +103,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
-'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
+'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.3595141465641777
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
@@ -148,7 +148,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudy Giuliani',fr,USA,#18e8e8,#18e8e8,1,0.3405937999867186
 'König Charles III',fr,UK,#e838e8,#e838e8,3,0.339814490452464
 'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.3397876966834912
-'Rupert Murdoch',fr,USA,#18e8e8,#18e8e8,1,0.3392934034855255
 'Jordan Neely',fr,USA,#18e8e8,#18e8e8,1,0.3392437081555355
 'Geoffrey Hinton',fr,UK,#e838e8,#e838e8,3,0.3381354264958989
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,1,0.338092017310273
@@ -212,6 +211,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ted Cruz',fr,USA,#18e8e8,#18e8e8,2,0.3036233546672109
 'Ramsan Kadyrow',fr,Russland,#e81818,#e81818,1,0.3030896055056817
 'Penny Mordaunt',fr,UK,#e838e8,#e838e8,1,0.3028838247425311
+'Rupert Murdoch',fr,USA,#18e8e8,#18e8e8,1,0.3026995729626967
 'Henry Kissinger',fr,USA,#18e8e8,#18e8e8,1,0.3025945853592857
 'Königin Camilla',fr,UK,#e838e8,#e838e8,1,0.3021798349844831
 'Barbara Sturm',fr,Deutschland,#1818e8,#1818e8,1,0.3019669492741964
@@ -317,7 +317,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rainer Maria Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.2166518726093558
 'Recep Tayyip Erdoğan',fr,Türkei,#111111,#111111,2,0.216266069377041
 'Martin Schirdewan',fr,Deutschland,#1818e8,#1818e8,3,0.2145580507416068
-'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.21382482039418102
+'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.213824820394181
 'Tamim bin Hamad Al Thani',fr,Katar,#111111,#111111,2,0.2129588699683904
 'Thomas Haldenwang',fr,Deutschland,#1818e8,#1818e8,2,0.2122102233303716
 'Sandra Maischberger',fr,Deutschland,#1818e8,#1818e8,2,0.2116071361922318
