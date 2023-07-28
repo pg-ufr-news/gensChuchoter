@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Poutine',fr,Russland,#e81818,#e81818,3,0.4468676509705682
 'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.4463232143434659
 'Amber Heard',fr,USA,#18e8e8,#18e8e8,2,0.4455646137463709
-'Jack Smith',fr,USA,#18e8e8,#18e8e8,3,0.44530537075746746
+'Jack Smith',fr,USA,#18e8e8,#18e8e8,3,0.4453053707574674
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.444953435762159
 'Pedro Sánchez',fr,Spanien,#111111,#111111,2,0.44386298
 'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,3,0.4430596996280682
@@ -48,11 +48,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',fr,Italien,#111111,#111111,1,0.42500012
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.42500003
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425000015
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
+'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.425
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
-'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,3,0.4248823029142612
@@ -103,18 +103,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
+'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.3595141465641777
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
@@ -256,7 +256,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Friedrich',fr,Deutschland,#1818e8,#1818e8,1,0.271186676947972
 'Michelle O\'Neill',fr,Irland,#111111,#111111,1,0.2708167826198213
 'Jan Böhmermann',fr,Deutschland,#1818e8,#1818e8,3,0.2696707451532107
-'Maria Kolesnikowa',fr,Belarus,#e81858,#e81858,1,0.2696453393695772
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,2,0.2686551632290795
 'Napoleon Bonaparte',fr,Frankreich,#e8e808,#e8e808,1,0.2678922384509062
 'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,1,0.2675417823265946
@@ -298,6 +297,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Krebber',fr,Deutschland,#1818e8,#1818e8,2,0.2326638778794572
 'Joschka Fischer',fr,Deutschland,#1818e8,#1818e8,1,0.2324487513776068
 'Charles Michel',fr,EU,#111111,#111111,2,0.230994820218517
+'Maria Kolesnikowa',fr,Belarus,#e81858,#e81858,1,0.2291985384641406
 'Cillian Murphy',fr,Irland,#111111,#111111,1,0.2275892488036249
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.226289709375
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
