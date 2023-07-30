@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sultan al-Jaber',fr,VAE,#111111,#111111,2,0.4827503749999999
 'Tina Turner',fr,USA,#18e8e8,#18e8e8,3,0.4750541595751221
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4744192221431818
-'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,2,0.47085978090909086
+'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,2,0.4708597809090908
 'Lionel Messi',fr,Argentinien,#111111,#111111,3,0.4688953166646217
 'Dorothée Pacaud',fr,Frankreich,#e8e808,#e8e808,1,0.4677432456428571
 'Tim Scott',fr,USA,#18e8e8,#18e8e8,2,0.4663145063636363
@@ -48,10 +48,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',fr,Italien,#111111,#111111,1,0.42500012
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.42500003
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425000015
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
+'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
-'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
@@ -272,7 +272,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2610031249999999
 'Prinz Archie',fr,UK,#e838e8,#e838e8,1,0.2606584370694962
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.2601333136739115
-'Mathias Döpfner',fr,Deutschland,#1818e8,#1818e8,1,0.2584404298834164
 'Jens Stoltenberg',fr,Norwegen,#e818e8,#e818e8,3,0.2552114217204134
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.2537258767065089
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.2536225570339593
@@ -309,6 +308,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
+'Mathias Döpfner',fr,Deutschland,#1818e8,#1818e8,1,0.21982438040090396
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
 'George Washington',fr,USA,#18e8e8,#18e8e8,1,0.2183137499085858
 'Sergej Schoigu',fr,Russland,#e81818,#e81818,3,0.217707713489173
