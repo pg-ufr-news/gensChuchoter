@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,2,0.5
+'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,2,0.575150015
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,2,0.5
 'Alexander De Croo',fr,Belgien,#111111,#111111,3,0.4981375931818181
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.4889670473802273
@@ -48,11 +48,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',fr,Italien,#111111,#111111,1,0.42500012
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.42500003
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425000015
-'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
+'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,3,0.4248823029142612
@@ -308,7 +308,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
-'Mathias Döpfner',fr,Deutschland,#1818e8,#1818e8,1,0.21982438040090396
+'Mathias Döpfner',fr,Deutschland,#1818e8,#1818e8,1,0.2198243804009039
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,3,0.2184257181908278
 'George Washington',fr,USA,#18e8e8,#18e8e8,1,0.2183137499085858
 'Sergej Schoigu',fr,Russland,#e81818,#e81818,3,0.217707713489173
