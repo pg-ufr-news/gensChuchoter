@@ -44,13 +44,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drena De Niro',fr,USA,#18e8e8,#18e8e8,1,0.42500012
 'Sergio Mattarella',fr,Italien,#111111,#111111,1,0.42500012
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.42500003
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
-'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,3,0.4248823029142612
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,2,0.4243122598510668
 'Boris Johnson',fr,UK,#e838e8,#e838e8,3,0.4235648196016051
@@ -97,11 +97,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.36125001275
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
-'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
@@ -196,10 +196,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.3073209135874999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
-'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
+'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
@@ -488,7 +488,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joko Widodo',fr,Indonesien,#111111,#111111,1,0.0881054099690376
 'Carola Rackete',fr,Deutschland,#1818e8,#1818e8,1,0.0879613185654008
 'Jochen Thewes',fr,Deutschland,#1818e8,#1818e8,1,0.0877374802927184
-'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.08678945440329762
+'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.0867894544032976
 'Tamim bin Hamad Al-Thani',fr,Katar,#111111,#111111,1,0.0857657360781233
 'Igor Setschin',fr,Russland,#e81818,#e81818,1,0.0818003113276166
 'Frank Bainimarama',fr,Fidschi,#111111,#111111,1,0.0729372324530693
@@ -498,12 +498,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bartholomäus',fr,Türkei,#111111,#111111,1,0.0609461657967015
 'Michael Kahle',fr,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
 'Doris König',fr,Deutschland,#1818e8,#1818e8,1,0.0514723384068954
-'Barbara Frenkel',fr,Deutschland,#1818e8,#1818e8,1,0.050900893255
 'Erica Chenoweth',fr,USA,#18e8e8,#18e8e8,1,0.0504065604288481
 'Ethan Bradley',fr,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Chan Santokhi',fr,Surinam,#111111,#111111,1,0.0463088452799446
 'Egon Westphal',fr,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
 'Herman Gref',fr,Russland,#e81818,#e81818,1,0.0435016650234468
+'Barbara Frenkel',fr,Deutschland,#1818e8,#1818e8,1,0.04326575926675
 'Ilham Aliyev',fr,Aserbaidschan,#111111,#111111,1,0.0411372379772158
 'Amin H. Nasser',fr,SaudiArabien,#111111,#111111,1,0.040147483378486
 'Alexei Miller',fr,Russland,#e81818,#e81818,1,0.0400529398650044
