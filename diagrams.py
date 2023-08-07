@@ -7,8 +7,10 @@ import io
 #import requests
 import glob
 
-import datetime
+import time
+from datetime import datetime
 from dateutil import parser
+from datetime import date, timedelta, datetime, timezone
 
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
@@ -25,6 +27,24 @@ from sklearn.decomposition import NMF, LatentDirichletAllocation
 import nltk
 nltk.download("stopwords")
 german_stop_words = list(stopwords.words('french'))
+
+def getAge(dateString):
+    today = datetime.now(timezone.utc)
+    timeDate = -1
+    pubDate = None
+    try:
+        pubDate = parser.parse(dateString)
+    except:
+        print('date parse error 1')
+    if(not pubDate):
+      try:
+        pubDate = parser.isoparse(dateString)
+      except:
+        print('date parse error 2')   
+    if(pubDate):
+        timeDate = today - pubDate
+        timeDate = timeDate.days 
+    return timeDate
 
 print(german_stop_words)
 
@@ -86,6 +106,11 @@ newsDf['title'] = newsDf['title'].fillna('')
 newsDf['description'] = newsDf['description'].fillna('')
 newsDf['quote'] = newsDf['quote'].fillna('')
 newsDf['text'] = newsDf['title'] + ' ' + newsDf['description'] 
+if(not newsDf.empty):
+  newsDf['age'] = newsDf['published'].apply(
+    lambda x: 
+        getAge(x)
+  )
 print(newsDf)  
 
 # Topics & Keywords
