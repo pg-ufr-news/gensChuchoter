@@ -1,13 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pap Ndiaye',fr,unknown,#111111,#111111,2,0.5379734163935863
-'président de la République',fr,unknown,#111111,#111111,3,0.5287266741452343
-'Premier ministre',fr,unknown,#111111,#111111,3,0.5203435846001593
-'Luc Terlinden',fr,unknown,#111111,#111111,1,0.5142287441962605
-'David Koch',fr,unknown,#111111,#111111,2,0.5098358553702582
-'Jane Fonda',fr,unknown,#111111,#111111,2,0.5097507312895577
-'Jessy Wellmer',fr,unknown,#111111,#111111,2,0.5096026090592503
-'Ben Affleck',fr,unknown,#111111,#111111,2,0.5095433635200224
+'Luc Terlinden',fr,unknown,#111111,#111111,2,0.5126944925668214
 'Roger Federer',fr,unknown,#111111,#111111,2,0.5086931722741616
+'David Koch',fr,unknown,#111111,#111111,2,0.5086605070647194
 'Hubert Aiwanger',fr,unknown,#111111,#111111,2,0.5081996365309571
 'Roman Pacino',fr,unknown,#111111,#111111,2,0.5071584020935793
 'Gayle King',fr,unknown,#111111,#111111,2,0.5061427308172441
@@ -17,24 +11,27 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wagner-Chef Prigoschin',fr,unknown,#111111,#111111,2,0.5046302475963425
 'Vivek Ramaswamy',fr,unknown,#111111,#111111,2,0.5039473871845563
 'Vo Van Thuong',fr,unknown,#111111,#111111,2,0.5025161333047189
-'Alexander De Croo',fr,Belgien,#111111,#111111,2,0.5
-'Sergej Surowikin',fr,Russland,#e81818,#e81818,2,0.5
-'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.5
-'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,2,0.5
-'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,2,0.5
-'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,2,0.5
-'Sultan al-Jaber',fr,VAE,#111111,#111111,2,0.5
-'Drena De Niro',fr,USA,#18e8e8,#18e8e8,2,0.5
-'Jack Smith',fr,USA,#18e8e8,#18e8e8,2,0.5
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,2,0.5
 'Sergio Mattarella',fr,Italien,#111111,#111111,2,0.5
+'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.5
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,2,0.5
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,2,0.5
-'Kim Yo Jong',fr,NordKorea,#111111,#111111,2,0.5
+'Jack Smith',fr,USA,#18e8e8,#18e8e8,2,0.5
+'Alexander De Croo',fr,Belgien,#111111,#111111,2,0.5
+'Sultan al-Jaber',fr,VAE,#111111,#111111,2,0.5
+'Sergej Surowikin',fr,Russland,#e81818,#e81818,2,0.5
+'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,2,0.5
 'Geert Wilders',fr,Niederlande,#111111,#111111,2,0.5
+'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,2,0.5
+'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,2,0.5
+'Kim Yo Jong',fr,NordKorea,#111111,#111111,2,0.5
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,2,0.5
+'Drena De Niro',fr,USA,#18e8e8,#18e8e8,2,0.5
+'Premier ministre',fr,unknown,#111111,#111111,3,0.4973012219101353
+'président de la République',fr,unknown,#111111,#111111,3,0.4907593743870855
 'Michael Kahle',fr,Deutschland,#1818e8,#1818e8,1,0.49
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.4889670473802273
 'Lauren Boebert',fr,USA,#18e8e8,#18e8e8,1,0.48887752775
+'Ben Affleck',fr,unknown,#111111,#111111,2,0.4840140181299501
 'Evgueni Prigojine',fr,Russland,#e81818,#e81818,2,0.4754061954545454
 'Tina Turner',fr,USA,#18e8e8,#18e8e8,3,0.4750541595751221
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4744192221431818
@@ -49,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,2,0.4592430671428571
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,2,0.4579541172397727
 'Robert De Niro',fr,USA,#18e8e8,#18e8e8,3,0.4572244672727272
+'Pap Ndiaye',fr,unknown,#111111,#111111,2,0.4558067465489115
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.4550876072224431
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,3,0.453996267448052
 'Matteo Salvini',fr,Italien,#111111,#111111,2,0.4506289914285714
@@ -65,6 +63,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Berkshire Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.4379340458749999
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4374911708443181
 'Stockton Rush',fr,USA,#18e8e8,#18e8e8,2,0.4344963845454545
+'Jane Fonda',fr,unknown,#111111,#111111,1,0.433288286596124
+'Jessy Wellmer',fr,unknown,#111111,#111111,1,0.4331622177003627
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4330464181983522
 'Recep Tayyip Erdogan',fr,Türkei,#111111,#111111,3,0.4320151901579764
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,2,0.4263770226545454

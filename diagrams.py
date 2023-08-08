@@ -77,14 +77,18 @@ def getNewsDF():
     return newsDF         
 
 def extractTopPercent(df1, limit=0.95, maxSize=25, counter='count'):
+  df1 = df1.dropna()
   df1 = df1.sort_values(by=[counter], ascending=False)
   df1['fraction'] = 0.0
   df1['fracSum'] = 0.0
   countAll = df1[counter].sum()
   fracSum = 0.0
+  #print(df1)
   for index, column in df1.iterrows():
       fraction = column[counter]/countAll 
       fracSum += fraction
+      #print(column)
+      #print(index)
       df1.loc[index,'fraction'] = fraction
       df1.loc[index,'fracSum'] = fracSum 
   df2 = df1[df1['fracSum']<=limit] 
@@ -111,6 +115,7 @@ if(not newsDf.empty):
     lambda x: 
         getAge(x)
   )
+  newsDf = newsDf[(newsDf.age>0) & (newsDf.age < 90)]
 print(newsDf)  
 
 # Topics & Keywords
