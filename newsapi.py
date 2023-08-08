@@ -62,8 +62,9 @@ keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
 def addNewNames(urlNames, keyDF, newRatio=0.5,language='fr', limitCount=9):
     stream=requests.get(urlNames).content
     newDF=pd.read_csv(io.StringIO(stream.decode('utf-8')), delimiter=',')
-    newDF = newDF[(newDF['count'] > limitCount)]
     if(not newDF.empty):
+     newDF = newDF[(newDF['count'] > limitCount)]
+     if(not newDF.empty):
       for index, column in newDF.iterrows():
         newPhrase = "'" + column['phrase'] + "'" 
         if(not newPhrase in keyDF['keyword'].unique()):
