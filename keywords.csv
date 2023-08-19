@@ -36,12 +36,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.4487828455605113
 'Poutine',fr,Russland,#e81818,#e81818,3,0.4468676509705682
 'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.4463232143434659
-'Amber Heard',fr,USA,#18e8e8,#18e8e8,2,0.4455646137463709
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.444953435762159
 'Pedro Sánchez',fr,Spanien,#111111,#111111,2,0.44386298
 'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,3,0.4430596996280682
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4422018163731202
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,3,0.4393109052147727
+'Amber Heard',fr,USA,#18e8e8,#18e8e8,2,0.43837242437672297
 'Berkshire Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.4379340458749999
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4374911708443181
 'Roger Federer',fr,unknown,#111111,#111111,2,0.4373411314330373
@@ -265,7 +265,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.2908602042969138
 'Jill Biden',fr,USA,#18e8e8,#18e8e8,1,0.2904174483864204
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.2889038399139016
-'Markus Söder',fr,Deutschland,#1818e8,#1818e8,2,0.28840832502339864
+'Markus Söder',fr,Deutschland,#1818e8,#1818e8,2,0.2884083250233986
 'Jean Carroll',fr,USA,#18e8e8,#18e8e8,1,0.287551438519167
 'Andreas Jung',fr,Deutschland,#1818e8,#1818e8,2,0.2872840989282954
 'William Shakespeare',fr,UK,#e838e8,#e838e8,2,0.2865149941182925
