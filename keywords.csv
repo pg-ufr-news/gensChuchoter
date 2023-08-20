@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sergei Shoigu',fr,unknown,#111111,#111111,1,0.4897370064767689
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.4889670473802273
 'Lauren Boebert',fr,USA,#18e8e8,#18e8e8,1,0.48887752775
 'Ben Affleck',fr,unknown,#111111,#111111,2,0.4840140181299501
@@ -41,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,3,0.4430596996280682
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4422018163731202
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,3,0.4393109052147727
-'Amber Heard',fr,USA,#18e8e8,#18e8e8,2,0.43837242437672297
+'Amber Heard',fr,USA,#18e8e8,#18e8e8,2,0.4383724243767229
 'Berkshire Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.4379340458749999
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4374911708443181
 'Roger Federer',fr,unknown,#111111,#111111,2,0.4373411314330373
@@ -76,12 +75,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.425000045
 'Leandro De Niro Rodriguez',fr,USA,#18e8e8,#18e8e8,1,0.425000045
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.42500003
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.425
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Drena De Niro',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',fr,UK,#e838e8,#e838e8,3,0.4175772387481248
 'Tiffany Chen',fr,USA,#18e8e8,#18e8e8,2,0.4165952407625
 'Michael Kahle',fr,Deutschland,#1818e8,#1818e8,1,0.4165
+'Sergei Shoigu',fr,unknown,#111111,#111111,1,0.41642647050525355
 'Rosalynn Carter',fr,USA,#18e8e8,#18e8e8,1,0.4156959135874999
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.4144975561628976
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.4134700579818749
