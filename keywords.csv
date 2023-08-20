@@ -75,18 +75,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.425000045
 'Leandro De Niro Rodriguez',fr,USA,#18e8e8,#18e8e8,1,0.425000045
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.42500003
+'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.425
-'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Drena De Niro',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,3,0.4248823029142612
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,2,0.4243122598510668
 'Boris Johnson',fr,UK,#e838e8,#e838e8,3,0.4235648196016051
@@ -99,7 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',fr,UK,#e838e8,#e838e8,3,0.4175772387481248
 'Tiffany Chen',fr,USA,#18e8e8,#18e8e8,2,0.4165952407625
 'Michael Kahle',fr,Deutschland,#1818e8,#1818e8,1,0.4165
-'Sergei Shoigu',fr,unknown,#111111,#111111,1,0.41642647050525355
+'Sergei Shoigu',fr,unknown,#111111,#111111,1,0.4164264705052535
 'Rosalynn Carter',fr,USA,#18e8e8,#18e8e8,1,0.4156959135874999
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.4144975561628976
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.4134700579818749
@@ -115,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdoan',fr,Türkei,#111111,#111111,3,0.3977305196183238
 'Dorothée Pacaud',fr,Frankreich,#e8e808,#e8e808,1,0.3975817587964285
 'Chris Christie',fr,USA,#18e8e8,#18e8e8,2,0.3941449855772726
-'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,2,0.3901625419021257
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.3863550878318255
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,3,0.3843223839431817
 'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,2,0.3832601660786789
@@ -130,6 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,2,0.3673106338543014
 'Hunter Biden',fr,USA,#18e8e8,#18e8e8,2,0.3657138619999999
 'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.3640872232564772
+'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,2,0.3638613828895341
 'Kemal Klçdarolu',fr,Türkei,#111111,#111111,2,0.3635977347499999
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.3628633704078269
 'Henry Ford',fr,USA,#18e8e8,#18e8e8,2,0.3619662303242179
