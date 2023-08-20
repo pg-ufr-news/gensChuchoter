@@ -490,7 +490,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heinrich XIII. Prinz Reuß',fr,Deutschland,#1818e8,#1818e8,2,0.1240213686521207
 'Macky Sall',fr,Senegal,#111111,#111111,1,0.1234266710588938
 'Ali Chamenei',fr,Iran,#111111,#111111,2,0.119089814679992
-'Jewgenij Roisman',fr,Russland,#e81818,#e81818,1,0.1171823143100566
 'Steffen Große',fr,Deutschland,#1818e8,#1818e8,3,0.1166318523775728
 'Holger Münch',fr,Deutschland,#1818e8,#1818e8,2,0.116486442922703
 'Alberto Ángel Fernández',fr,Argentinien,#111111,#111111,1,0.1155569800506883
@@ -508,6 +507,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Ali Chamenei',fr,Iran,#111111,#111111,1,0.1003985244609884
 'Kurt Krömer',fr,Deutschland,#1818e8,#1818e8,2,0.10038893664179
 'Joana Cotar',fr,Deutschland,#1818e8,#1818e8,1,0.0999830104547978
+'Jewgenij Roisman',fr,Russland,#e81818,#e81818,1,0.09960496716354811
 'Lula sa Silva',fr,Brasilien,#58e838,#58e838,1,0.0986431858026779
 'Lee Hsien Loong',fr,Singapur,#111111,#111111,1,0.0981879794530431
 'Ebrahim Raisi',fr,Iran,#111111,#111111,1,0.0973027256333634
