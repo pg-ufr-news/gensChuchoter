@@ -308,7 +308,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2610031249999999
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.2601333136739115
 'Jens Stoltenberg',fr,Norwegen,#e818e8,#e818e8,3,0.2552114217204134
-'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.2537258767065089
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.2536225570339593
 'Herbert Diess',fr,Deutschland,#1818e8,#1818e8,1,0.2528239426974452
 'Warren Buffett',fr,USA,#18e8e8,#18e8e8,3,0.2506326729956694
@@ -352,6 +351,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jair Bolsonaro',fr,Brasilien,#58e838,#58e848,3,0.2174877110033219
 'Rainer Maria Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.2166518726093558
 'Recep Tayyip Erdoğan',fr,Türkei,#111111,#111111,2,0.216266069377041
+'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2156671452005326
 'Martin Schirdewan',fr,Deutschland,#1818e8,#1818e8,3,0.2145580507416068
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.213824820394181
 'Tamim bin Hamad Al Thani',fr,Katar,#111111,#111111,2,0.2129588699683904
@@ -507,7 +507,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Ali Chamenei',fr,Iran,#111111,#111111,1,0.1003985244609884
 'Kurt Krömer',fr,Deutschland,#1818e8,#1818e8,2,0.10038893664179
 'Joana Cotar',fr,Deutschland,#1818e8,#1818e8,1,0.0999830104547978
-'Jewgenij Roisman',fr,Russland,#e81818,#e81818,1,0.09960496716354811
+'Jewgenij Roisman',fr,Russland,#e81818,#e81818,1,0.0996049671635481
 'Lula sa Silva',fr,Brasilien,#58e838,#58e838,1,0.0986431858026779
 'Lee Hsien Loong',fr,Singapur,#111111,#111111,1,0.0981879794530431
 'Ebrahim Raisi',fr,Iran,#111111,#111111,1,0.0973027256333634
