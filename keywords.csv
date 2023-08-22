@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Marguerite Cazeneuve',fr,unknown,#111111,#111111,2,0.5516136357523357
 'François Braun',fr,unknown,#111111,#111111,2,0.5433497415662505
 'Sean Hannity',fr,unknown,#111111,#111111,2,0.5335953455532307
 'Jean-Denis Combrexelle',fr,unknown,#111111,#111111,1,0.5154010975588541
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'président de la République',fr,unknown,#111111,#111111,3,0.4812131523199317
 'Gabriel Attal',fr,unknown,#111111,#111111,3,0.4811163848919446
 'Sam H',fr,unknown,#111111,#111111,2,0.4798025673323111
+'Marguerite Cazeneuve',fr,unknown,#111111,#111111,2,0.4783944391825888
 'Jack Smith',fr,USA,#18e8e8,#18e8e8,3,0.4780808743772726
 'Evgueni Prigojine',fr,Russland,#e81818,#e81818,2,0.4754061954545454
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4744192221431818
@@ -149,13 +149,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
-'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.3595141465641777
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
