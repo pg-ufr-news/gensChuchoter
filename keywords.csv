@@ -137,7 +137,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,2,0.3705156215472655
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,2,0.3673106338543014
 'Hunter Biden',fr,USA,#18e8e8,#18e8e8,2,0.3657138619999999
-'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.3640872232564772
 'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,2,0.3638613828895341
 'Kemal Klçdarolu',fr,Türkei,#111111,#111111,2,0.3635977347499999
 'Linda Yaccarino',fr,USA,#18e8e8,#18e8e8,3,0.3635298623645496
@@ -147,14 +146,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.3595141465641777
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
@@ -218,6 +217,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Abbott',fr,USA,#18e8e8,#18e8e8,1,0.3242054515756628
 'Yoon Suk Yeol',fr,SüdKorea,#111111,#111111,2,0.3238860661077273
 'Nadja Abd el Farrag',fr,Deutschland,#1818e8,#1818e8,1,0.3236339068212706
+'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.32351695385891466
 'Lauren Sanchez',fr,USA,#18e8e8,#18e8e8,1,0.3232245946481249
 'Paul-Henry Nargeolet',fr,Frankreich,#e8e808,#e8e808,1,0.3225878858749998
 'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,1,0.3223080371849998
