@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Fani Willis',fr,unknown,#111111,#111111,2,0.5038345919432633
+'Fani Willis',fr,unknown,#111111,#111111,3,0.5468470567881374
 'Lara Trump',fr,unknown,#111111,#111111,2,0.5017330055286621
 'Maria Bartiromo',fr,unknown,#111111,#111111,2,0.5012092032883118
 'Gavin Newsom',fr,unknown,#111111,#111111,2,0.500901368593224
@@ -354,11 +354,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.226289709375
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Prinz Archie',fr,UK,#e838e8,#e838e8,1,0.2215596715090717
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
