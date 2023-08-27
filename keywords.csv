@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gavin Newsom',fr,unknown,#111111,#111111,2,0.500901368593224
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,2,0.5000589841481066
 'Lauren Boebert',fr,USA,#18e8e8,#18e8e8,1,0.48887752775
 'Ben Affleck',fr,unknown,#111111,#111111,2,0.4840140181299501
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Sánchez',fr,Spanien,#111111,#111111,2,0.44386298
 'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,3,0.4430596996280682
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4422018163731202
+'Gavin Newsom',fr,unknown,#111111,#111111,2,0.4406808690185261
 'Jean-Denis Combrexelle',fr,unknown,#111111,#111111,1,0.440341157925026
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,3,0.4393109052147727
 'Amber Heard',fr,USA,#18e8e8,#18e8e8,2,0.4383724243767229
@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vo Van Thuong',fr,unknown,#111111,#111111,1,0.427138728309011
 'Lara Trump',fr,unknown,#111111,#111111,1,0.4264730696993628
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,2,0.4263770226545454
-'Maria Bartiromo',fr,unknown,#111111,#111111,1,0.42602782279506496
+'Maria Bartiromo',fr,unknown,#111111,#111111,1,0.4260278227950649
 'George Santos',fr,USA,#18e8e8,#18e8e8,2,0.42530003
 'Sultan al-Jaber',fr,VAE,#111111,#111111,1,0.425000435
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.425000165
@@ -354,11 +354,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.226289709375
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Prinz Archie',fr,UK,#e838e8,#e838e8,1,0.2215596715090717
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
