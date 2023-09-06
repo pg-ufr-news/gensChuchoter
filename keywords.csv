@@ -207,7 +207,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Luther King',fr,USA,#18e8e8,#18e8e8,1,0.3409547873650378
 'Rudy Giuliani',fr,USA,#18e8e8,#18e8e8,1,0.3405937999867186
 'König Charles III',fr,UK,#e838e8,#e838e8,3,0.339814490452464
-'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.3397876966834912
 'John Paul II',fr,Vatikan,#58b8e8,#58b8e8,1,0.3396466613749999
 'Jordan Neely',fr,USA,#18e8e8,#18e8e8,1,0.3392437081555355
 'Geoffrey Hinton',fr,UK,#e838e8,#e838e8,3,0.3381354264958989
@@ -235,6 +234,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yevgeny Prigozhin',fr,Russland,#e81818,#e81818,1,0.3278972997384821
 'Peter Tschentscher',fr,Deutschland,#1818e8,#1818e8,1,0.325764497562784
 'Peter Thiel',fr,USA,#18e8e8,#18e8e8,2,0.3257089734652482
+'George Floyd',fr,USA,#18e8e8,#18e8e8,2,0.3251628193238246
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,2,0.3251481203308164
 'Queen Camilla',fr,UK,#e838e8,#e838e8,1,0.325100069320713
 'Mario Czaja',fr,Deutschland,#1818e8,#1818e8,2,0.3242257559430396
@@ -266,12 +266,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.3073209135874999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
-'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -370,11 +370,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.226289709375
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
-'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Prinz Archie',fr,UK,#e838e8,#e838e8,1,0.2215596715090717
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
