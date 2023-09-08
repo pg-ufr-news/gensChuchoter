@@ -100,16 +100,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geert Wilders',fr,Niederlande,#111111,#111111,1,0.425000135
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.425000045
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.42500003
+'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.425
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.425
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,3,0.4248823029142612
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,2,0.4243122598510668
 'Narendra Modi',fr,Indien,#111111,#111111,3,0.4222280000681817
@@ -227,7 +227,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Albert Einstein',fr,Deutschland,#1818e8,#1818e8,3,0.3322506650085003
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.3301021132057607
 'Robert Oppenheimer',fr,USA,#18e8e8,#18e8e8,1,0.3295273735264903
-'Lars Klingbeil',fr,Deutschland,#1818e8,#1818e8,1,0.3294274029829544
 'Selenski',fr,Ukraine,#e818e8,#e818e8,3,0.3287688968417335
 'Wolfgang Kubicki',fr,Deutschland,#1818e8,#1818e8,2,0.3279584747528238
 'Yevgeny Prigozhin',fr,Russland,#e81818,#e81818,1,0.3278972997384821
@@ -263,13 +262,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.3073209135874999
+'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
-'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -310,6 +309,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',fr,Deutschland,#1818e8,#1818e8,2,0.2822091025186961
 'Papst Benedikt XVI',fr,Vatikan,#58b8e8,#58b8e8,3,0.2803198878619299
 'Joseph Ratzinger',fr,Vatikan,#58b8e8,#58b8e8,1,0.2800221627903437
+'Lars Klingbeil',fr,Deutschland,#1818e8,#1818e8,1,0.28001329253551127
 'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.2798427927715535
 'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.2781148193074109
 'Prinz William',fr,UK,#e838e8,#e838e8,1,0.2771228106515221
@@ -370,11 +370,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.226289709375
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
+'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Prinz Archie',fr,UK,#e838e8,#e838e8,1,0.2215596715090717
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
