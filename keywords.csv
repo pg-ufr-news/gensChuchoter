@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Brian Kilmeade',fr,unknown,#111111,#111111,2,0.5078492981925354
 'Ainsley Earhardt',fr,unknown,#111111,#111111,2,0.5061517469937518
 'Gisele Bundchen',fr,unknown,#111111,#111111,2,0.5054163476053302
 'Lawrence Jones',fr,unknown,#111111,#111111,2,0.5038167937653948
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hubert Aiwanger',fr,unknown,#111111,#111111,1,0.4319696910513135
 'Jim Jordan',fr,unknown,#111111,#111111,2,0.431931057869583
 'Jennifer Garner',fr,unknown,#111111,#111111,1,0.4317111643460187
+'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.4316719034636551
 'Martha MacCallum',fr,unknown,#111111,#111111,2,0.4313126554966752
 'Elizabeth Warren',fr,unknown,#111111,#111111,1,0.4312877453900853
 'Sunny Hostin',fr,unknown,#111111,#111111,1,0.4308788680698825
