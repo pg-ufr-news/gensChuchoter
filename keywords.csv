@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ainsley Earhardt',fr,unknown,#111111,#111111,2,0.5061517469937518
 'Gisele Bundchen',fr,unknown,#111111,#111111,2,0.5054163476053302
 'Lawrence Jones',fr,unknown,#111111,#111111,2,0.5038167937653948
 'Jean Jouzel',fr,unknown,#111111,#111111,2,0.4974453331434345
@@ -77,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Messi',fr,Argentinien,#111111,#111111,3,0.4307875864376557
 'Jake Tapper',fr,unknown,#111111,#111111,1,0.430556759354207
 'Sara Haines',fr,unknown,#111111,#111111,1,0.4304758624984212
+'Ainsley Earhardt',fr,unknown,#111111,#111111,1,0.430228984944689
 'Bret Baier',fr,unknown,#111111,#111111,1,0.43017761585743
 'Leandro De Niro-Rodriguez',fr,unknown,#111111,#111111,1,0.4300492525535019
 'Rand Paul',fr,unknown,#111111,#111111,1,0.4298073905035103
@@ -96,14 +96,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sultan al-Jaber',fr,VAE,#111111,#111111,1,0.425000435
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.425000165
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.42500003
-'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
-'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
-'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
+'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
+'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'François Braun',fr,unknown,#111111,#111111,2,0.4229356868986267
 'Narendra Modi',fr,Indien,#111111,#111111,3,0.4222280000681817
 'Devon Archer',fr,unknown,#111111,#111111,1,0.4198896802159178
