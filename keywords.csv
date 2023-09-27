@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lawrence Jones',fr,unknown,#111111,#111111,2,0.5038167937653948
 'Jean Jouzel',fr,unknown,#111111,#111111,2,0.4974453331434345
 'Gerald Darmanin',fr,unknown,#111111,#111111,2,0.4881050007773718
 'Gabriel Attal',fr,unknown,#111111,#111111,3,0.4866392798854256
@@ -79,10 +78,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bret Baier',fr,unknown,#111111,#111111,1,0.43017761585743
 'Leandro De Niro-Rodriguez',fr,unknown,#111111,#111111,1,0.4300492525535019
 'Rand Paul',fr,unknown,#111111,#111111,1,0.4298073905035103
-'Gisele Bundchen',fr,unknown,#111111,#111111,1,0.42960389546453065
+'Gisele Bundchen',fr,unknown,#111111,#111111,1,0.4296038954645306
 'Mark Meadows',fr,unknown,#111111,#111111,1,0.4294724815715915
 'Wagner-Chef Prigoschin',fr,unknown,#111111,#111111,1,0.428935710456891
 'Vivek Ramaswamy',fr,unknown,#111111,#111111,1,0.4283553541068728
+'Lawrence Jones',fr,unknown,#111111,#111111,1,0.4282443347005856
 'Bill Barr',fr,unknown,#111111,#111111,1,0.4278884045032552
 'Taylor Swift',fr,unknown,#111111,#111111,2,0.4277610200752932
 'Tom Brady',fr,unknown,#111111,#111111,1,0.4276275721366524
@@ -98,10 +98,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.42500003
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'François Braun',fr,unknown,#111111,#111111,2,0.4229356868986267
