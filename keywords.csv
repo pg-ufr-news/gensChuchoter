@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Dussopt',fr,unknown,#111111,#111111,2,0.4748151363636363
 'Imran Khan',fr,unknown,#111111,#111111,1,0.4741959870681818
 'Fani Willis',fr,unknown,#111111,#111111,3,0.4698887758136511
-'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.46520362018636363
+'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4652036201863636
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4646579490995276
 'Ben Affleck',fr,unknown,#111111,#111111,2,0.4641121854104575
 'Ben Wallace',fr,unknown,#111111,#111111,2,0.4632755549999999
@@ -116,8 +116,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
+'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Jean Jouzel',fr,unknown,#111111,#111111,2,0.4237291181719193
 'François Braun',fr,unknown,#111111,#111111,2,0.4229356868986267
 'Narendra Modi',fr,Indien,#111111,#111111,3,0.4222280000681817
@@ -132,6 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergei Shoigu',fr,unknown,#111111,#111111,1,0.4164264705052535
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,3,0.4157664923272727
 'Rosalynn Carter',fr,USA,#18e8e8,#18e8e8,1,0.4156959135874999
+'Recep Tayyip Erdoan',fr,Türkei,#111111,#111111,3,0.4148711216755752
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.4144975561628976
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.4134700579818749
 'Alexander De Croo',fr,Belgien,#111111,#111111,3,0.4130294041272727
@@ -146,7 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.4014994888636363
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.3979962615931818
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
-'Recep Tayyip Erdoan',fr,Türkei,#111111,#111111,3,0.3977305196183238
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
 'Tim Scott',fr,USA,#18e8e8,#18e8e8,2,0.3966678554090908
 'Berkshire Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.3947226154223213
@@ -196,15 +196,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
-'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,2,0.361149957477122
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.3606657808734067
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
