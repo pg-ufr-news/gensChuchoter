@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vincent Van Quickenborne',fr,unknown,#111111,#111111,3,0.4749900300579545
 'Olivier Dussopt',fr,unknown,#111111,#111111,2,0.4748151363636363
 'Imran Khan',fr,unknown,#111111,#111111,1,0.4741959870681818
-'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4719536248181818
 'Fani Willis',fr,unknown,#111111,#111111,3,0.4698887758136511
+'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.46520362018636363
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4646579490995276
 'Ben Affleck',fr,unknown,#111111,#111111,2,0.4641121854104575
 'Ben Wallace',fr,unknown,#111111,#111111,2,0.4632755549999999
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.444953435762159
 'Pedro Sánchez',fr,Spanien,#111111,#111111,2,0.44386298
 'Carey Mulligan',fr,unknown,#111111,#111111,2,0.4428686201754647
-'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.44245505619736836
+'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.4424550561973683
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4422018163731202
 'Roman Pacino',fr,unknown,#111111,#111111,2,0.4411789515482193
 'Gavin Newsom',fr,unknown,#111111,#111111,2,0.4406808690185261
@@ -196,15 +196,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
+'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,2,0.361149957477122
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.3606657808734067
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
