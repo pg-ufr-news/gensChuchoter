@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michelle Williams',fr,unknown,#111111,#111111,2,0.5011204011378921
 'Paris Hilton',fr,unknown,#111111,#111111,2,0.5001231890102953
 'Clément Beaune',fr,unknown,#111111,#111111,2,0.488454035
 'Javier Milei',fr,unknown,#111111,#111111,3,0.4881278906397727
@@ -24,21 +23,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Timberlake',fr,unknown,#111111,#111111,3,0.4746295623519241
 'Steve Scalise',fr,unknown,#111111,#111111,2,0.4690228315738176
 'Johan Rockström',fr,unknown,#111111,#111111,1,0.467500015
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.4675
-'Autumn Peltier',fr,unknown,#111111,#111111,1,0.4675
-'Helena Gualinga',fr,unknown,#111111,#111111,1,0.4675
-'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.4675
-'Hans Joosten',fr,unknown,#111111,#111111,1,0.4675
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.4675
+'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.4675
+'Helena Gualinga',fr,unknown,#111111,#111111,1,0.4675
+'Autumn Peltier',fr,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.4675
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.4675
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.4675
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.4675
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.4675
+'Hans Joosten',fr,unknown,#111111,#111111,1,0.4675
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.4675
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.4675
 'Ryan Gosling',fr,unknown,#111111,#111111,2,0.4673704995
 'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4652036201863636
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4646579490995276
@@ -128,7 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawrence Jones',fr,unknown,#111111,#111111,1,0.4282443347005856
 'Bill Barr',fr,unknown,#111111,#111111,1,0.4278884045032552
 'Taylor Swift',fr,unknown,#111111,#111111,2,0.4277610200752932
-'Angelina Jolie',fr,unknown,#111111,#111111,1,0.42775738612955033
+'Angelina Jolie',fr,unknown,#111111,#111111,1,0.4277573861295503
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.4276309266778594
 'Tom Brady',fr,unknown,#111111,#111111,1,0.4276275721366524
 'Jared Kushner',fr,unknown,#111111,#111111,1,0.4275536094007466
@@ -140,6 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,2,0.4263770226545454
 'Alyssa Farah Griffin',fr,unknown,#111111,#111111,1,0.4262524196779768
 'Viktor Shokin',fr,unknown,#111111,#111111,1,0.4259765888519788
+'Michelle Williams',fr,unknown,#111111,#111111,1,0.4259525809672083
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.4253776623936911
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.425000165
@@ -340,12 +340,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.3073209135874999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
