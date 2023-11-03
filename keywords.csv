@@ -141,11 +141,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.4253776623936911
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.425000165
-'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
+'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.425
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Imran Khan',fr,unknown,#111111,#111111,2,0.4246759998682997
@@ -171,7 +171,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander De Croo',fr,Belgien,#111111,#111111,3,0.4130294041272727
 'Demeke Mekonnen',fr,unknown,#111111,#111111,1,0.4123401365
 'Kevin McCarthy',fr,USA,#18e8e8,#18e8e8,3,0.4118097674042613
-'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.4088673516478535
 'Patrick Pouyanné',fr,Frankreich,#e8e808,#e8e808,3,0.4081506501539783
 'Ron Johnson',fr,unknown,#111111,#111111,1,0.4080805675573181
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.408057011293388
@@ -195,6 +194,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,1,0.3909033241761363
 'Daniel Penny',fr,USA,#18e8e8,#18e8e8,1,0.3903979731443852
 'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,1,0.3903566070714285
+'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.3897874739006754
 'Robert De Niro',fr,USA,#18e8e8,#18e8e8,2,0.3886412471818181
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.3863550878318255
 'Sean Hannity',fr,unknown,#111111,#111111,1,0.3859052054122092
@@ -340,12 +340,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.3073209135874999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
