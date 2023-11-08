@@ -22,20 +22,20 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Timberlake',fr,unknown,#111111,#111111,3,0.4746295623519241
 'Olivier Dussopt',fr,unknown,#111111,#111111,2,0.4721809695454545
 'Steve Scalise',fr,unknown,#111111,#111111,2,0.4690228315738176
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.4675
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.4675
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.4675
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.4675
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.4675
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.4675
-'Tasneem Essop',fr,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.4675
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.4675
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.4675
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.4675
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.4675
+'Tasneem Essop',fr,unknown,#111111,#111111,1,0.4675
 'Ryan Gosling',fr,unknown,#111111,#111111,2,0.4673704995
 'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4652036201863636
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4646579490995276
@@ -343,14 +343,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.3073209135874999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
+'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -504,7 +504,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Jenkins',fr,UK,#e838e8,#e838e8,1,0.1940153238863952
 'Tino Chrupalla',fr,Deutschland,#1818e8,#1818e8,2,0.1937899845784159
 'Björn Höcke',fr,Deutschland,#1818e8,#1818e8,1,0.1932045648245208
-'Vitali Klitschko',fr,Ukraine,#e818e8,#e818e8,3,0.1927947062880127
 'Daniel Freund',fr,EU,#111111,#111111,3,0.1927152684266351
 'Jeffrey Donaldson',fr,Irland,#111111,#111111,1,0.1924692566203389
 'Stephan Harbarth',fr,Deutschland,#1818e8,#1818e8,1,0.1922716510130988
@@ -522,8 +521,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dalai Lama',fr,Tibet,#111111,#111111,2,0.1893588407380511
 'Rishi Sunak',fr,UK,#e838e8,#e838e8,3,0.1890834447602599
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,3,0.189021618034757
-'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
+'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Frank-Walter Steinmeier',fr,Deutschland,#1818e8,#1818e8,3,0.1872004951989579
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
@@ -563,6 +562,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Liz Truss',fr,UK,#e838e8,#e838e8,1,0.164922164965322
 'Benjamin Netanjahu',fr,Israel,#111111,#111111,3,0.1641255470614374
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,3,0.164120511242103
+'Vitali Klitschko',fr,Ukraine,#e818e8,#e818e8,1,0.1638755003448108
 'Alexei Nawalny',fr,Russland,#e81818,#e81818,2,0.161669051539228
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1607160868906249
 'Edmund Stoiber',fr,Deutschland,#1818e8,#1818e8,1,0.1605559901142526
