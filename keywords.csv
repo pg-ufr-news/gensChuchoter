@@ -19,10 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.4675
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.4675
-'Sophia Kianni',fr,unknown,#111111,#111111,1,0.4675
-'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.4675
+'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.4675
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.4675
+'Sophia Kianni',fr,unknown,#111111,#111111,1,0.4675
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.4675
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.4675
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.4675
@@ -183,7 +183,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',fr,unknown,#111111,#111111,1,0.39812508775
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.3979962615931818
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
-'Helena Gualinga',fr,unknown,#111111,#111111,1,0.39737500000000003
+'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.397375
@@ -625,7 +625,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Zhang',fr,China,#e88818,#e88818,1,0.1088811443368403
 'Nicola Sturgeon',fr,UK,#e838e8,#e838e8,1,0.1078553764077506
 'Muhammad bin Zayid Al Nahyan',fr,VAE,#111111,#111111,1,0.1065853006501312
-'Klaus Hasselmann',fr,Deutschland,#1818e8,#1818e8,1,0.1030335215037611
 'Andrew Forrest',fr,Australien,#111111,#111111,1,0.1020853997308311
 'Ayatollah Ali Chamenei',fr,Iran,#111111,#111111,1,0.1003985244609884
 'Kurt Krömer',fr,Deutschland,#1818e8,#1818e8,2,0.10038893664179
@@ -647,6 +646,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jitzchak Herzog',fr,Israel,#111111,#111111,1,0.088442360240407
 'Joko Widodo',fr,Indonesien,#111111,#111111,1,0.0881054099690376
 'Carola Rackete',fr,Deutschland,#1818e8,#1818e8,1,0.0879613185654008
+'Klaus Hasselmann',fr,Deutschland,#1818e8,#1818e8,1,0.08757849327819693
 'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.0867894544032976
 'Tamim bin Hamad Al-Thani',fr,Katar,#111111,#111111,1,0.0857657360781233
 'Igor Setschin',fr,Russland,#e81818,#e81818,1,0.0818003113276166
