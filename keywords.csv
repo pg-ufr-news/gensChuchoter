@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Sam Asghari',fr,unknown,#111111,#111111,2,0.5179015185368756
 'Harrison Ford',fr,unknown,#111111,#111111,2,0.479750225
 'António Guterres',fr,unknown,#111111,#111111,2,0.4789327041493507
 'Sophia Chikirou',fr,unknown,#111111,#111111,3,0.4779766815904276
@@ -7,16 +8,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vincent Van Quickenborne',fr,unknown,#111111,#111111,3,0.4749900300579545
 'Justin Timberlake',fr,unknown,#111111,#111111,3,0.4746295623519241
 'Olivier Dussopt',fr,unknown,#111111,#111111,2,0.4721809695454545
+'Steven Donziger',fr,unknown,#111111,#111111,1,0.4675
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.4675
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.4675
-'Steven Donziger',fr,unknown,#111111,#111111,1,0.4675
-'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.4675
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.4675
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.4675
+'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.4675
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.4675
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.4675
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.4675
 'Margot Robbie',fr,unknown,#111111,#111111,2,0.467440702270243
 'Miley Cyrus',fr,unknown,#111111,#111111,2,0.4663055448297046
 'Roman Pacino',fr,unknown,#111111,#111111,2,0.4657521838159864
@@ -85,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zach Bryan',fr,unknown,#111111,#111111,1,0.4329480067043108
 'David Koch',fr,unknown,#111111,#111111,2,0.4328114760050115
 'Rosa Parks',fr,unknown,#111111,#111111,1,0.4325819505318029
-'Sam Asghari',fr,unknown,#111111,#111111,1,0.4324723394551478
 'Matt Gaetz',fr,unknown,#111111,#111111,1,0.4322769380428927
 'Recep Tayyip Erdogan',fr,Türkei,#111111,#111111,3,0.4320151901579764
 'Hubert Aiwanger',fr,unknown,#111111,#111111,1,0.4319696910513135
@@ -181,7 +181,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Milei',fr,unknown,#111111,#111111,3,0.4025422780976254
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.4014994888636363
 'Gavin Newsom',fr,unknown,#111111,#111111,2,0.4008513658879694
-'Steve Scalise',fr,unknown,#111111,#111111,1,0.39866940683774493
+'Steve Scalise',fr,unknown,#111111,#111111,1,0.3986694068377449
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.3981837086475538
 'Johan Rockström',fr,unknown,#111111,#111111,1,0.39812508775
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.3979962615931818
@@ -255,17 +255,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Salvador Dali',fr,Spanien,#111111,#111111,1,0.36140002775
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,2,0.361149957477122
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.3606657808734067
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
