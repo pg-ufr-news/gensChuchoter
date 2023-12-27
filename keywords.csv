@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'António Guterres',fr,unknown,#111111,#111111,2,0.4789327041493507
 'Vivek Ramaswamy',fr,unknown,#111111,#111111,3,0.475445328133699
 'Justin Timberlake',fr,unknown,#111111,#111111,3,0.4746295623519241
+'Sophia Kianni',fr,unknown,#111111,#111111,1,0.4675
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.4675
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.4675
-'Sophia Kianni',fr,unknown,#111111,#111111,1,0.4675
-'Tasneem Essop',fr,unknown,#111111,#111111,1,0.4675
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.4675
+'Tasneem Essop',fr,unknown,#111111,#111111,1,0.4675
 'Miley Cyrus',fr,unknown,#111111,#111111,2,0.4663055448297046
 'Roman Pacino',fr,unknown,#111111,#111111,2,0.4657521838159864
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4646579490995276
@@ -185,15 +185,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',fr,unknown,#111111,#111111,1,0.39812508775
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.3979962615931818
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
-'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
+'Kyle Pope',fr,unknown,#111111,#111111,1,0.397375
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
-'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
+'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
-'Kyle Pope',fr,unknown,#111111,#111111,1,0.397375
+'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,3,0.3973519073298713
 'Tim Scott',fr,USA,#18e8e8,#18e8e8,2,0.3966678554090908
 'Jennifer Garner',fr,unknown,#111111,#111111,1,0.3958773819668431
@@ -271,15 +271,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3612499999999999
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,2,0.361149957477122
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.3606657808734067
@@ -486,11 +486,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2245577423883679
 'Wladimir Putin',fr,Russland,#e81818,#e81818,1,0.2220531906294687
-'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Prinz Archie',fr,UK,#e838e8,#e838e8,1,0.2215596715090717
 'Greta Thunberg',fr,Schweden,#111111,#111111,3,0.2205728188854566
@@ -501,7 +502,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jair Bolsonaro',fr,Brasilien,#58e838,#58e848,3,0.2174877110033219
 'Rainer Maria Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.2166518726093558
 'Recep Tayyip Erdoğan',fr,Türkei,#111111,#111111,2,0.216266069377041
-'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2156671452005326
 'Martin Schirdewan',fr,Deutschland,#1818e8,#1818e8,3,0.2145580507416068
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.213824820394181
 'Warren Buffett',fr,USA,#18e8e8,#18e8e8,1,0.2130379970463189
@@ -678,7 +678,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim bin Hamad Al-Thani',fr,Katar,#111111,#111111,1,0.0857657360781233
 'Kurt Krömer',fr,Deutschland,#1818e8,#1818e8,1,0.0853305961455214
 'Igor Setschin',fr,Russland,#e81818,#e81818,1,0.0818003113276166
-'Miguel Díaz-Canel',fr,Kuba,#111111,#111111,1,0.08091889679577996
+'Miguel Díaz-Canel',fr,Kuba,#111111,#111111,1,0.0809188967957799
 'Lael Brainard',fr,USA,#18e8e8,#18e8e8,1,0.0765118461072041
 'Frank Bainimarama',fr,Fidschi,#111111,#111111,1,0.0729372324530693
 'Larry Page',fr,USA,#18e8e8,#18e8e8,1,0.0724032428559683
