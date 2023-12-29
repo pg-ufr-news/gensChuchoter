@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ahmed Al Jaber',fr,unknown,#111111,#111111,2,0.4467928014090909
 'Geert Wilders',fr,Niederlande,#111111,#111111,2,0.4459335830833333
 'Pedro Sánchez',fr,Spanien,#111111,#111111,2,0.44386298
-'António Guterres',fr,unknown,#111111,#111111,2,0.4438615653451299
 'Edouard Philippe',fr,unknown,#111111,#111111,2,0.4437130313268523
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4436776395795793
 'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.4434229612828551
@@ -118,12 +117,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.4253776623936911
 'Pedro Pascal',fr,unknown,#111111,#111111,1,0.4252898434273731
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
-'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
+'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Taylor Swift',fr,unknown,#111111,#111111,3,0.4248112143453084
 'Jacques Doriot',fr,unknown,#111111,#111111,2,0.4242618186104897
 'Jean Jouzel',fr,unknown,#111111,#111111,2,0.4237291181719193
@@ -183,16 +182,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',fr,unknown,#111111,#111111,1,0.39812508775
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.3979962615931818
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.39737500000000003
-'Kyle Pope',fr,unknown,#111111,#111111,1,0.397375
-'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
-'Minka Indigena',fr,unknown,#111111,#111111,1,0.397375
-'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
-'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
-'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
+'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.397375
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
+'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
+'Minka Indigena',fr,unknown,#111111,#111111,1,0.397375
+'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
+'Kyle Pope',fr,unknown,#111111,#111111,1,0.397375
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,3,0.3973519073298713
 'Tim Scott',fr,USA,#18e8e8,#18e8e8,2,0.3966678554090908
 'Jennifer Garner',fr,unknown,#111111,#111111,1,0.3958773819668431
@@ -222,6 +221,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',fr,Russland,#e81818,#e81818,1,0.3804568673999999
 'Bradley Cooper',fr,unknown,#111111,#111111,3,0.3793931587176236
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,3,0.3783211845105782
+'António Guterres',fr,unknown,#111111,#111111,2,0.3780329005433604
 'Roger Federer',fr,unknown,#111111,#111111,3,0.3766920917180817
 'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,2,0.3766012696838579
 'Ivanka Trump',fr,unknown,#111111,#111111,1,0.376294123631204
