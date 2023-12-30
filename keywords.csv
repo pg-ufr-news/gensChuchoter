@@ -117,12 +117,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.4253776623936911
 'Pedro Pascal',fr,unknown,#111111,#111111,1,0.4252898434273731
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
-'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
+'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Taylor Swift',fr,unknown,#111111,#111111,3,0.4248112143453084
 'Jacques Doriot',fr,unknown,#111111,#111111,2,0.4242618186104897
 'Jean Jouzel',fr,unknown,#111111,#111111,2,0.4237291181719193
@@ -426,7 +426,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',fr,UK,#e838e8,#e838e8,1,0.2771228106515221
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,2,0.2767128536736157
 'Prinz George',fr,UK,#e838e8,#e838e8,1,0.2765285905949659
-'Prinz Andrew',fr,UK,#e838e8,#e838e8,1,0.2763397103329544
 'Queen Elizabeth II',fr,UK,#e838e8,#e838e8,1,0.2762793601393803
 'Stephen Hawking',fr,UK,#e838e8,#e838e8,1,0.275303918138122
 'Immanuel Kant',fr,Deutschland,#1818e8,#1818e8,1,0.2743566414296634
@@ -474,6 +473,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabor Steingart',fr,Deutschland,#1818e8,#1818e8,2,0.2354302087174241
 'Faisal Kawusi',fr,Deutschland,#1818e8,#1818e8,1,0.2352341799531249
 'Jerome Powell',fr,USA,#18e8e8,#18e8e8,3,0.2351021296209914
+'Prinz Andrew',fr,UK,#e838e8,#e838e8,1,0.23488875378301124
 'Katalin Novák',fr,Ungarn,#111111,#111111,1,0.2346708439552598
 'Boris Palmer',fr,Deutschland,#1818e8,#1818e8,3,0.233266270381874
 'Georg Bätzing',fr,Deutschland,#1818e8,#1818e8,1,0.233197906526228
