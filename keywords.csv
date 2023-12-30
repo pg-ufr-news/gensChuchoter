@@ -1,15 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lara Trump',fr,unknown,#111111,#111111,2,0.5126521242444584
 'Sergio Massa',fr,unknown,#111111,#111111,3,0.4867451475169703
 'Yaël Braun-Pivet',fr,unknown,#111111,#111111,3,0.4806547833841951
 'Vivek Ramaswamy',fr,unknown,#111111,#111111,3,0.475445328133699
 'Justin Timberlake',fr,unknown,#111111,#111111,3,0.4746295623519241
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4680008451602812
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.4675
-'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.4675
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.4675
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.4675
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.4675
+'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.4675
 'Miley Cyrus',fr,unknown,#111111,#111111,2,0.4663055448297046
 'Roman Pacino',fr,unknown,#111111,#111111,2,0.4657521838159864
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4646579490995276
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Dussopt',fr,unknown,#111111,#111111,3,0.4381241059318181
 'Gisele Bündchen',fr,unknown,#111111,#111111,2,0.437091328718425
 'Luc Terlinden',fr,unknown,#111111,#111111,1,0.4357903786817982
+'Lara Trump',fr,unknown,#111111,#111111,1,0.4357543356077896
 'Viktor Shokin',fr,unknown,#111111,#111111,2,0.4355456131955547
 'Drena De Niro',fr,USA,#18e8e8,#18e8e8,2,0.4351175555
 'Stockton Rush',fr,USA,#18e8e8,#18e8e8,2,0.4344963845454545
@@ -116,12 +116,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.4253776623936911
 'Pedro Pascal',fr,unknown,#111111,#111111,1,0.4252898434273731
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
-'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Taylor Swift',fr,unknown,#111111,#111111,3,0.4248112143453084
 'Jacques Doriot',fr,unknown,#111111,#111111,2,0.4242618186104897
 'Jean Jouzel',fr,unknown,#111111,#111111,2,0.4237291181719193
