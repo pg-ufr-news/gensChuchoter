@@ -116,12 +116,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.4253776623936911
 'Pedro Pascal',fr,unknown,#111111,#111111,1,0.4252898434273731
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
-'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Taylor Swift',fr,unknown,#111111,#111111,3,0.4248112143453084
 'Jacques Doriot',fr,unknown,#111111,#111111,2,0.4242618186104897
 'Jean Jouzel',fr,unknown,#111111,#111111,2,0.4237291181719193
@@ -358,6 +358,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leonardo da Vinci',fr,Italien,#111111,#111111,1,0.3180057921849999
 'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.3179030269130657
 'Christine Lambrecht',fr,Deutschland,#1818e8,#1818e8,1,0.3176391790126135
+'Axel Springer',fr,Deutschland,#1818e8,#1818e8,2,0.3171331889968749
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,1,0.3159081289000567
 'Katja Krasavice',fr,Deutschland,#1818e8,#1818e8,1,0.3148820960178919
 'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.3144910956294687
@@ -370,20 +371,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Ford',fr,USA,#18e8e8,#18e8e8,2,0.3094714757755851
 'Margaret Qualley',fr,unknown,#111111,#111111,1,0.3086600839452736
 'King Charles',fr,UK,#e838e8,#e838e8,2,0.3085865537063068
-'Axel Springer',fr,Deutschland,#1818e8,#1818e8,1,0.3084501929375
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.30764610935
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.3073209135874999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3070624999999999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
