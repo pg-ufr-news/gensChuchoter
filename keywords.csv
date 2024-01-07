@@ -1,13 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Jon Batiste',fr,unknown,#111111,#111111,2,0.5144808132264561
 'Sergio Massa',fr,unknown,#111111,#111111,3,0.4867451475169703
 'Alex Jones',fr,unknown,#111111,#111111,2,0.4819387622106973
 'Yaël Braun-Pivet',fr,unknown,#111111,#111111,3,0.4806547833841951
 'Vivek Ramaswamy',fr,unknown,#111111,#111111,3,0.475445328133699
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4680008451602812
-'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.4675
-'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.4675
-'Tasneem Essop',fr,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.4675
+'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.4675
+'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.4675
+'Tasneem Essop',fr,unknown,#111111,#111111,1,0.4675
 'Miley Cyrus',fr,unknown,#111111,#111111,2,0.4663055448297046
 'Roman Pacino',fr,unknown,#111111,#111111,2,0.4657521838159864
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4646579490995276
@@ -90,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brittany Mahomes',fr,unknown,#111111,#111111,2,0.4292705641568448
 'Willie Nelson',fr,unknown,#111111,#111111,1,0.4289999505439568
 'Wagner-Chef Prigoschin',fr,unknown,#111111,#111111,1,0.428935710456891
-'Jon Batiste',fr,unknown,#111111,#111111,2,0.4286244685017131
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.4286166608523806
 'Bill Barr',fr,unknown,#111111,#111111,1,0.4278884045032552
 'Jared Kushner',fr,unknown,#111111,#111111,1,0.4275536094007466
