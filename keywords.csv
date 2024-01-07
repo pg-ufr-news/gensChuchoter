@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jon Batiste',fr,unknown,#111111,#111111,2,0.5144808132264561
 'Sergio Massa',fr,unknown,#111111,#111111,3,0.4867451475169703
 'Alex Jones',fr,unknown,#111111,#111111,2,0.4819387622106973
 'Yaël Braun-Pivet',fr,unknown,#111111,#111111,3,0.4806547833841951
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.4387863176761805
 'Jean-Luc Mélenchon',fr,unknown,#111111,#111111,3,0.4381880944836483
 'Olivier Dussopt',fr,unknown,#111111,#111111,3,0.4381241059318181
+'Jon Batiste',fr,unknown,#111111,#111111,1,0.43730872124248765
 'Gisele Bündchen',fr,unknown,#111111,#111111,2,0.437091328718425
 'Luc Terlinden',fr,unknown,#111111,#111111,1,0.4357903786817982
 'Lara Trump',fr,unknown,#111111,#111111,1,0.4357543356077896
