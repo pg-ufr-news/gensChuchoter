@@ -104,12 +104,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.4253776623936911
 'Pedro Pascal',fr,unknown,#111111,#111111,1,0.4252898434273731
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
+'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
-'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
-'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Taylor Swift',fr,unknown,#111111,#111111,3,0.4248112143453084
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4245893902344634
 'Jacques Doriot',fr,unknown,#111111,#111111,2,0.4242618186104897
@@ -407,7 +407,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',fr,USA,#18e8e8,#18e8e8,1,0.2904174483864204
 'John Paul II',fr,Vatikan,#58b8e8,#58b8e8,1,0.2898997821687499
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.2889038399139016
-'König Charles III',fr,UK,#e838e8,#e838e8,2,0.2888423168845944
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,2,0.2884083250233986
 'Jean Carroll',fr,USA,#18e8e8,#18e8e8,1,0.287551438519167
 'Andreas Jung',fr,Deutschland,#1818e8,#1818e8,2,0.2872840989282954
@@ -462,6 +461,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbert Diess',fr,Deutschland,#1818e8,#1818e8,1,0.2528239426974452
 'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,2,0.251727504522151
 'Julian Reichelt',fr,Deutschland,#1818e8,#1818e8,3,0.2457992288283137
+'König Charles III',fr,UK,#e838e8,#e838e8,1,0.24551596935190523
 'Prinz Louis',fr,UK,#e838e8,#e838e8,1,0.2443294534998401
 'Herschel Walker',fr,USA,#18e8e8,#18e8e8,1,0.2440379218749999
 'Wolodymyr Selenski',fr,Ukraine,#e818e8,#e818e8,3,0.2439872043011605
