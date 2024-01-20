@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leni Klum',fr,unknown,#111111,#111111,2,0.43940526501132
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,3,0.4393109052147727
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.4387863176761805
-'Jean-Luc Mélenchon',fr,unknown,#111111,#111111,3,0.4381880944836483
 'Olivier Dussopt',fr,unknown,#111111,#111111,3,0.4381241059318181
 'Gisele Bündchen',fr,unknown,#111111,#111111,2,0.437091328718425
 'Yaël Braun-Pivet',fr,unknown,#111111,#111111,3,0.4362361636038385
@@ -108,6 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4245893902344634
 'Nawaz Sharif',fr,unknown,#111111,#111111,2,0.4243152321944042
 'Jacques Doriot',fr,unknown,#111111,#111111,2,0.4242618186104897
+'Jean-Luc Mélenchon',fr,unknown,#111111,#111111,3,0.4228674707656465
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4222730756722158
 'Narendra Modi',fr,Indien,#111111,#111111,3,0.4222280000681817
 'Premier ministre',fr,unknown,#111111,#111111,3,0.421756420261891
@@ -161,8 +161,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.3979962615931818
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.39767503
-'Sophia Kianni',fr,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.397375
+'Sophia Kianni',fr,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
@@ -273,7 +273,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.3606657808734067
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
 'Abraham Lincoln',fr,unknown,#111111,#111111,1,0.36038081179625
-'Jean Jouzel',fr,unknown,#111111,#111111,1,0.36016990044613134
+'Jean Jouzel',fr,unknown,#111111,#111111,1,0.3601699004461313
 'Tom Brady',fr,unknown,#111111,#111111,1,0.3601070931571928
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.3594501712625
 'Dieter Bohlen',fr,Deutschland,#1818e8,#1818e8,1,0.3589482047825056
