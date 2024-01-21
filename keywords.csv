@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jon Batiste',fr,unknown,#111111,#111111,2,0.4721624580561144
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4680008451602812
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.4675
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.4675
@@ -43,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4403814200155518
 'Sam Asghari',fr,unknown,#111111,#111111,1,0.4402163207563442
 'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.4395104780024907
+'Jon Batiste',fr,unknown,#111111,#111111,2,0.4394381493476972
 'Leni Klum',fr,unknown,#111111,#111111,2,0.43940526501132
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,3,0.4393109052147727
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.4387863176761805
@@ -161,16 +161,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.3979962615931818
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.39767503
-'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
-'Kyle Pope',fr,unknown,#111111,#111111,1,0.397375
+'Sophia Kianni',fr,unknown,#111111,#111111,1,0.397375
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
-'Sophia Kianni',fr,unknown,#111111,#111111,1,0.397375
+'Kyle Pope',fr,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.397375
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,3,0.3973519073298713
 'Jennifer Garner',fr,unknown,#111111,#111111,1,0.3958773819668431
