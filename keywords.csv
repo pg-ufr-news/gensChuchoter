@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stockton Rush',fr,USA,#18e8e8,#18e8e8,2,0.4344963845454545
 'Paris Hilton',fr,unknown,#111111,#111111,2,0.4343611349235746
 'Jane Fonda',fr,unknown,#111111,#111111,1,0.433288286596124
-'Missy Elliott',fr,unknown,#111111,#111111,1,0.4332801244551664
 'Sophia Chikirou',fr,unknown,#111111,#111111,3,0.4330803593518634
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4330464181983522
 'Zach Bryan',fr,unknown,#111111,#111111,1,0.4329480067043108
@@ -161,17 +160,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.3979962615931818
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.39767503
-'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
-'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
-'Sophia Kianni',fr,unknown,#111111,#111111,1,0.397375
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
+'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.397375
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.397375
+'Sophia Kianni',fr,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.397375
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,3,0.3973519073298713
 'Jennifer Garner',fr,unknown,#111111,#111111,1,0.3958773819668431
 'Leonard Bernstein',fr,unknown,#111111,#111111,1,0.394936576257115
@@ -227,6 +226,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ana Navarro',fr,unknown,#111111,#111111,1,0.3686542825640511
 'Trevian Kutti',fr,unknown,#111111,#111111,1,0.368625015
 'Lance Bass',fr,unknown,#111111,#111111,1,0.3684320820830384
+'Missy Elliott',fr,unknown,#111111,#111111,1,0.3682881057868914
 'Jessy Wellmer',fr,unknown,#111111,#111111,1,0.3681878850453082
 'Steve Doocy',fr,unknown,#111111,#111111,1,0.3681690795826683
 'David Koch',fr,unknown,#111111,#111111,1,0.3678897846042597
@@ -524,7 +524,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ricarda Lang',fr,Deutschland,#1818e8,#1818e8,1,0.2008775372065838
 'Jack Ma',fr,China,#e88818,#e88818,2,0.2005547302924144
 'Wolodymyr Selenskyj',fr,Ukraine,#e818e8,#e818e8,1,0.1997141664864484
-'Prinz Andrew',fr,UK,#e838e8,#e838e8,1,0.19965544071555952
+'Prinz Andrew',fr,UK,#e838e8,#e838e8,1,0.1996554407155595
 'Antony Blinken',fr,USA,#18e8e8,#18e8e8,3,0.1990681918825269
 'Warren Buffet',fr,USA,#18e8e8,#18e8e8,2,0.1988121366111569
 'Roland Busch',fr,Deutschland,#1818e8,#1818e8,1,0.1985741048722777
