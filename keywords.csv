@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',fr,unknown,#111111,#111111,2,0.4501669961703174
 'Paul Biya',fr,unknown,#111111,#111111,3,0.4496009183702922
 'Andrew Tate',fr,USA,#18e8e8,#18e8e8,2,0.44917495417925
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.44821048384078443
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4482104838407844
 'Ahmed Al Jaber',fr,unknown,#111111,#111111,2,0.4467928014090909
 'Geert Wilders',fr,Niederlande,#111111,#111111,2,0.4459335830833333
 'Pedro Sánchez',fr,Spanien,#111111,#111111,2,0.44386298
@@ -94,12 +94,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.4253776623936911
 'Pedro Pascal',fr,unknown,#111111,#111111,1,0.4252898434273731
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
+'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Taylor Swift',fr,unknown,#111111,#111111,3,0.4248112143453084
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4245893902344634
 'Nawaz Sharif',fr,unknown,#111111,#111111,2,0.4243152321944042
@@ -358,9 +358,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',fr,Deutschland,#1818e8,#1818e8,1,0.3176391790126135
 'Justin Timberlake',fr,unknown,#111111,#111111,1,0.3173820879168753
 'Axel Springer',fr,Deutschland,#1818e8,#1818e8,2,0.3171331889968749
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,1,0.3159081289000567
 'Katja Krasavice',fr,Deutschland,#1818e8,#1818e8,1,0.3148820960178919
 'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.3144910956294687
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.3143820654741391
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.3142994406294687
 'Leandro De Niro Rodriguez',fr,USA,#18e8e8,#18e8e8,1,0.3141719435396561
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,1,0.3133913505977271
@@ -374,15 +374,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.30764610935
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3070624999999999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
