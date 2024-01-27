@@ -285,7 +285,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergei Shoigu',fr,unknown,#111111,#111111,1,0.3539624999294655
 'Kai Wegner',fr,Deutschland,#1818e8,#1818e8,2,0.3536555618283653
 'Leon Botstein',fr,USA,#18e8e8,#18e8e8,1,0.3533223887993749
-'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,3,0.35233482650400644
+'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,3,0.3523348265040064
 'George Bush',fr,USA,#18e8e8,#18e8e8,2,0.3519165946316651
 'Hamish Harding',fr,UK,#e838e8,#e838e8,3,0.3509373086863635
 'Demeke Mekonnen',fr,unknown,#111111,#111111,1,0.350789146025
@@ -378,11 +378,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -452,6 +451,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2612227765493749
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2612227765493749
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2610031249999999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2610031249999999
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.2601333136739115
 'Barbara Sturm',fr,Deutschland,#1818e8,#1818e8,1,0.2566719068830669
 'Norbert Röttgen',fr,Deutschland,#1818e8,#1818e8,1,0.2560412821580246
