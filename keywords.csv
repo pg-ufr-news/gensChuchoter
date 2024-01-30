@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zach Bryan',fr,unknown,#111111,#111111,1,0.4329480067043108
 'Rosa Parks',fr,unknown,#111111,#111111,1,0.4325819505318029
 'Harrison Ford',fr,unknown,#111111,#111111,2,0.4324115924899193
-'Jamie Spears',fr,unknown,#111111,#111111,2,0.4324062443630171
 'Mark Cuban',fr,unknown,#111111,#111111,1,0.4321999446144828
 'Recep Tayyip Erdogan',fr,Türkei,#111111,#111111,3,0.4320151901579764
 'Hubert Aiwanger',fr,unknown,#111111,#111111,1,0.4319696910513135
@@ -150,17 +149,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.3979962615931818
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3979582128958341
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.39767503
+'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.397375
-'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.397375
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.397375
-'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
+'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.397375
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,3,0.3973519073298713
 'Miley Cyrus',fr,unknown,#111111,#111111,1,0.3963599081052489
@@ -199,7 +198,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',fr,unknown,#111111,#111111,1,0.3783355541872176
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,3,0.3783211845105782
 'António Guterres',fr,unknown,#111111,#111111,2,0.3780329005433604
-'Alex Jones',fr,unknown,#111111,#111111,1,0.37688872444722876
+'Alex Jones',fr,unknown,#111111,#111111,1,0.3768887244472287
 'Caroline Ellison',fr,unknown,#111111,#111111,2,0.3767955540005945
 'Roger Federer',fr,unknown,#111111,#111111,3,0.3766920917180817
 'Carey Mulligan',fr,unknown,#111111,#111111,1,0.376438822149145
@@ -223,6 +222,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jessy Wellmer',fr,unknown,#111111,#111111,1,0.3681878850453082
 'Steve Doocy',fr,unknown,#111111,#111111,1,0.3681690795826683
 'David Koch',fr,unknown,#111111,#111111,1,0.3678897846042597
+'Jamie Spears',fr,unknown,#111111,#111111,1,0.36754532270856455
 'Billionaire Bunker',fr,unknown,#111111,#111111,1,0.3670049639409862
 'Martha MacCallum',fr,unknown,#111111,#111111,2,0.3667657721721739
 'Joy Behar',fr,unknown,#111111,#111111,1,0.3664925635393241
@@ -376,14 +376,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.30764610935
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
+'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3070624999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
