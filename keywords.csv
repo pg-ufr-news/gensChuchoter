@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Hanks',fr,unknown,#111111,#111111,2,0.4786380244719811
 'Édouard Philippe',fr,unknown,#111111,#111111,3,0.471931374070771
 'Matt Gaetz',fr,unknown,#111111,#111111,2,0.4678854423364588
-'Eric Trump',fr,unknown,#111111,#111111,3,0.4636005881509736
 'Mike Johnson',fr,unknown,#111111,#111111,3,0.4634949838260794
 'président de la République',fr,unknown,#111111,#111111,3,0.4630289786875142
 'Aurélien Rousseau',fr,unknown,#111111,#111111,3,0.4627046548344431
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Luc Terlinden',fr,unknown,#111111,#111111,1,0.4357903786817982
 'Lara Trump',fr,unknown,#111111,#111111,1,0.4357543356077896
 'Viktor Shokin',fr,unknown,#111111,#111111,2,0.4355456131955547
+'Eric Trump',fr,unknown,#111111,#111111,3,0.4353746762919639
 'Stockton Rush',fr,USA,#18e8e8,#18e8e8,2,0.4344963845454545
 'Paris Hilton',fr,unknown,#111111,#111111,2,0.4343611349235746
 'Jane Fonda',fr,unknown,#111111,#111111,1,0.433288286596124
@@ -85,8 +85,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',fr,unknown,#111111,#111111,1,0.4253776623936911
 'Pedro Pascal',fr,unknown,#111111,#111111,1,0.4252898434273731
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.425
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
@@ -222,7 +222,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jessy Wellmer',fr,unknown,#111111,#111111,1,0.3681878850453082
 'Steve Doocy',fr,unknown,#111111,#111111,1,0.3681690795826683
 'David Koch',fr,unknown,#111111,#111111,1,0.3678897846042597
-'Jamie Spears',fr,unknown,#111111,#111111,1,0.36754532270856455
+'Jamie Spears',fr,unknown,#111111,#111111,1,0.3675453227085645
 'Billionaire Bunker',fr,unknown,#111111,#111111,1,0.3670049639409862
 'Martha MacCallum',fr,unknown,#111111,#111111,2,0.3667657721721739
 'Joy Behar',fr,unknown,#111111,#111111,1,0.3664925635393241
@@ -376,14 +376,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.30764610935
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
+'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3070624999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
