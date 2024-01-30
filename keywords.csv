@@ -32,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edouard Philippe',fr,unknown,#111111,#111111,2,0.4437130313268523
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4436776395795793
 'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.4434229612828551
-'Alex Jones',fr,unknown,#111111,#111111,2,0.4433983228790927
 'Rupert Murdoch',fr,unknown,#111111,#111111,1,0.4415401665
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4408615626436893
 'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4403814200155518
@@ -157,12 +156,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.397375
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.397375
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,3,0.3973519073298713
 'Miley Cyrus',fr,unknown,#111111,#111111,1,0.3963599081052489
 'Roman Pacino',fr,unknown,#111111,#111111,2,0.3963394012435884
@@ -200,6 +199,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',fr,unknown,#111111,#111111,1,0.3783355541872176
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,3,0.3783211845105782
 'António Guterres',fr,unknown,#111111,#111111,2,0.3780329005433604
+'Alex Jones',fr,unknown,#111111,#111111,1,0.37688872444722876
 'Caroline Ellison',fr,unknown,#111111,#111111,2,0.3767955540005945
 'Roger Federer',fr,unknown,#111111,#111111,3,0.3766920917180817
 'Carey Mulligan',fr,unknown,#111111,#111111,1,0.376438822149145
@@ -376,14 +376,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.30764610935
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3070624999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3070624999999999
-'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
