@@ -130,11 +130,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rupert Murdoch',fr,unknown,#111111,#111111,1,0.397559366525
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.397375
-'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
+'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
-'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
@@ -376,14 +376,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.30764610935
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
+'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.3070624999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.305532645573125
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.3048772043742215
@@ -520,7 +520,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Werner von Braun',fr,Deutschland,#1818e8,#1818e8,1,0.2047752150133639
 'Alfred Bernhard Nobel',fr,Schweden,#111111,#111111,1,0.2036607384374999
 'Michelle Obama',fr,USA,#18e8e8,#18e8e8,2,0.2031852141415688
-'Mark Zuckerberg',fr,USA,#18e8e8,#18e8e8,3,0.2029919317936823
 'Sundar Pichai',fr,USA,#18e8e8,#18e8e8,3,0.2027712662297601
 'Annalena Baerbock',fr,Deutschland,#1818e8,#1818e8,3,0.2025103015309864
 'Mark Rutte',fr,Niederlande,#111111,#111111,3,0.2019286506652954
@@ -536,6 +535,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Franziska Giffey',fr,Deutschland,#1818e8,#1818e8,3,0.198223685399118
 'Giorgia Meloni',fr,Italien,#111111,#111111,3,0.1977848506583311
 'Katharina König-Press',fr,Deutschland,#1818e8,#1818e8,2,0.1957494633347225
+'Mark Zuckerberg',fr,USA,#18e8e8,#18e8e8,3,0.19567838020644812
 'Charles Koch',fr,USA,#18e8e8,#18e8e8,2,0.1953585457074567
 'Karl Lauterbach',fr,Deutschland,#1818e8,#1818e8,3,0.1953286624714419
 'Karl Jenkins',fr,UK,#e838e8,#e838e8,1,0.1940153238863952
