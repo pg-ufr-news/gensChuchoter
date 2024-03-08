@@ -62,10 +62,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rachida Dati',fr,unknown,#111111,#111111,3,0.4255187805752425
 'Pedro Pascal',fr,unknown,#111111,#111111,1,0.4252898434273731
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.425
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4245893902344634
 'Olivia Rodrigo',fr,unknown,#111111,#111111,3,0.4230180533690348
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4222730756722158
@@ -119,16 +119,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Gaetz',fr,unknown,#111111,#111111,1,0.39770267098599
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.39767503
 'Rupert Murdoch',fr,unknown,#111111,#111111,1,0.397559366525
-'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
+'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
-'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
+'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
 'nan Si',fr,unknown,#111111,#111111,1,0.3969283605990067
 'Sergio Mattarella',fr,Italien,#111111,#111111,1,0.3963661839439239
 'Miley Cyrus',fr,unknown,#111111,#111111,1,0.3963599081052489
@@ -246,16 +246,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,2,0.361149957477122
 'Jennifer Lopez',fr,unknown,#111111,#111111,2,0.3609814317893738
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,3,0.3606871268428181
@@ -664,7 +664,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Münch',fr,Deutschland,#1818e8,#1818e8,2,0.116486442922703
 'Nikos Androulakis',fr,Griechenland,#1858e8,#1858e8,2,0.1135535340121011
 'Alexej Kudrin',fr,Russland,#e81818,#e81818,1,0.1118888387080861
-'Jair Lapid',fr,Israel,#111111,#111111,1,0.1117618709770823
 'Susanne Klatten',fr,Deutschland,#1818e8,#1818e8,1,0.111162752109088
 'Otmar Issing',fr,EU,#111111,#111111,1,0.1091728210379542
 'Muhammad bin Zayid Al Nahyan',fr,VAE,#111111,#111111,1,0.1065853006501312
@@ -679,6 +678,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ebrahim Raisi',fr,Iran,#111111,#111111,1,0.0973027256333634
 'Amin Nasser',fr,SaudiArabien,#111111,#111111,1,0.0972738007140503
 'Andreas Jödecke',fr,Deutschland,#1818e8,#1818e8,1,0.0952087999496758
+'Jair Lapid',fr,Israel,#111111,#111111,1,0.09499759033051995
 'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.0947607989411315
 'Jewgeni Prigoschin',fr,Russland,#e81818,#e81818,1,0.09353382041033
 'Daniel Zhang',fr,China,#e88818,#e88818,1,0.0934490626863142
