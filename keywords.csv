@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Aaron Rodgers',fr,unknown,#111111,#111111,2,0.5080566223086226
 'Alexander Smirnov',fr,unknown,#111111,#111111,2,0.5049746992650047
-'Valérie Hayer',fr,unknown,#111111,#111111,3,0.47487352622718065
+'Valérie Hayer',fr,unknown,#111111,#111111,3,0.4748735262271806
 'président de la République',fr,unknown,#111111,#111111,3,0.4621968005207507
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.4606163938080225
 'Pap Ndiaye',fr,unknown,#111111,#111111,2,0.4558067465489115
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'America Ferrera',fr,unknown,#111111,#111111,1,0.431965911322869
 'Chuck Schumer',fr,unknown,#111111,#111111,3,0.4319311630981278
 'Jim Jordan',fr,unknown,#111111,#111111,2,0.431931057869583
+'Aaron Rodgers',fr,unknown,#111111,#111111,1,0.43184820396232915
 'Tony Bobulinski',fr,unknown,#111111,#111111,1,0.4314531059610423
 'Mike Johnson',fr,unknown,#111111,#111111,3,0.4307405830703493
 'Gisele Bundchen',fr,unknown,#111111,#111111,1,0.4296038954645306
@@ -63,9 +63,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rachida Dati',fr,unknown,#111111,#111111,3,0.4255187805752425
 'Pedro Pascal',fr,unknown,#111111,#111111,1,0.4252898434273731
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4245893902344634
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4222730756722158
 'Jon Batiste',fr,unknown,#111111,#111111,2,0.4222693404037111
@@ -248,16 +248,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,2,0.361149957477122
 'Jennifer Lopez',fr,unknown,#111111,#111111,2,0.3609814317893738
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,3,0.3606871268428181
@@ -509,11 +509,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',fr,Russland,#e81818,#e81818,1,0.2220531906294687
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
-'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
+'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mathias Döpfner',fr,Deutschland,#1818e8,#1818e8,1,0.2198243804009039
