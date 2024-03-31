@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.4606163938080225
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.4591861728806894
 'Pap Ndiaye',fr,unknown,#111111,#111111,2,0.4558067465489115
+'Mark Meadows',fr,unknown,#111111,#111111,2,0.4558016843358528
 'Paul Biya',fr,unknown,#111111,#111111,3,0.455300260908866
 'Al Nassr',fr,unknown,#111111,#111111,2,0.4539286551615326
 'Jim Jordan',fr,unknown,#111111,#111111,2,0.4539057899034313
@@ -39,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gisele Bundchen',fr,unknown,#111111,#111111,1,0.4296038954645306
 'Pat McAfee',fr,unknown,#111111,#111111,1,0.4295152927232881
 'Ryan Gosling',fr,unknown,#111111,#111111,2,0.429515149575
-'Mark Meadows',fr,unknown,#111111,#111111,1,0.4294724815715915
 'Clément Beaune',fr,unknown,#111111,#111111,2,0.4293431290602272
 'Wagner-Chef Prigoschin',fr,unknown,#111111,#111111,1,0.428935710456891
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.4286166608523806
@@ -388,12 +388,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.30764610935
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
+'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.305532645573125
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -606,7 +606,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thierry Breton',fr,EU,#111111,#111111,2,0.1707289014687776
 'Alfred Nobel',fr,Schweden,#111111,#111111,1,0.1690222678993042
 'Bill Gates',fr,USA,#18e8e8,#18e8e8,3,0.1690003963534724
-'Bruno Kahl',fr,Deutschland,#1818e8,#1818e8,1,0.16865406624045973
+'Bruno Kahl',fr,Deutschland,#1818e8,#1818e8,1,0.1686540662404597
 'Boris Pistorius',fr,Deutschland,#1818e8,#1818e8,2,0.1685205659939535
 'Andreas Baum',fr,Deutschland,#1818e8,#1818e8,1,0.168427951669922
 'Christine Lagarde',fr,EU,#111111,#111111,3,0.1673524284627061
