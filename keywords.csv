@@ -388,12 +388,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.30764610935
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
+'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.305532645573125
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -547,7 +547,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antony Blinken',fr,USA,#18e8e8,#18e8e8,3,0.1990681918825269
 'Warren Buffet',fr,USA,#18e8e8,#18e8e8,2,0.1988121366111569
 'Roland Busch',fr,Deutschland,#1818e8,#1818e8,1,0.1985741048722777
-'Bruno Kahl',fr,Deutschland,#1818e8,#1818e8,2,0.1984165485181879
 'Franziska Giffey',fr,Deutschland,#1818e8,#1818e8,3,0.198223685399118
 'Giorgia Meloni',fr,Italien,#111111,#111111,3,0.1977848506583311
 'Katharina König-Press',fr,Deutschland,#1818e8,#1818e8,2,0.1957494633347225
@@ -607,6 +606,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thierry Breton',fr,EU,#111111,#111111,2,0.1707289014687776
 'Alfred Nobel',fr,Schweden,#111111,#111111,1,0.1690222678993042
 'Bill Gates',fr,USA,#18e8e8,#18e8e8,3,0.1690003963534724
+'Bruno Kahl',fr,Deutschland,#1818e8,#1818e8,1,0.16865406624045973
 'Boris Pistorius',fr,Deutschland,#1818e8,#1818e8,2,0.1685205659939535
 'Andreas Baum',fr,Deutschland,#1818e8,#1818e8,1,0.168427951669922
 'Christine Lagarde',fr,EU,#111111,#111111,3,0.1673524284627061
