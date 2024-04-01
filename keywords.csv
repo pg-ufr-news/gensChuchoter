@@ -363,7 +363,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Timberlake',fr,unknown,#111111,#111111,1,0.3173820879168753
 'Axel Springer',fr,Deutschland,#1818e8,#1818e8,2,0.3171331889968749
 'Katja Krasavice',fr,Deutschland,#1818e8,#1818e8,1,0.3148820960178919
-'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.3144910956294687
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.3143820654741391
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.3142994406294687
 'Leandro De Niro Rodriguez',fr,USA,#18e8e8,#18e8e8,1,0.3141719435396561
@@ -388,12 +387,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.30764610935
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
+'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.305532645573125
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -451,6 +450,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,2,0.2686551632290795
 'Napoleon Bonaparte',fr,Frankreich,#e8e808,#e8e808,1,0.2678922384509062
 'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,1,0.2675417823265946
+'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.26746744628504837
 'Isaac Newton',fr,UK,#e838e8,#e838e8,1,0.2673162823113168
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,1,0.2670322127097327
 'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.2666295228169687
