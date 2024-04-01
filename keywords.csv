@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.4606163938080225
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.4591861728806894
 'Pap Ndiaye',fr,unknown,#111111,#111111,2,0.4558067465489115
 'Mark Meadows',fr,unknown,#111111,#111111,2,0.4558016843358528
@@ -113,15 +112,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Gaetz',fr,unknown,#111111,#111111,1,0.39770267098599
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.39767503
 'Rupert Murdoch',fr,unknown,#111111,#111111,1,0.397559366525
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
-'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.397375
-'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.397375
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
+'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
-'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.397375
-'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
+'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
+'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.397375
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
 'nan Si',fr,unknown,#111111,#111111,1,0.3969283605990067
 'Sergio Mattarella',fr,Italien,#111111,#111111,1,0.3963661839439239
 'Miley Cyrus',fr,unknown,#111111,#111111,1,0.3963599081052489
@@ -134,6 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.3929608597182151
 'Vanessa Nakate',fr,unknown,#111111,#111111,1,0.3923707751875
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.3917246105340908
+'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,2,0.3915247747368191
 'James Comer',fr,unknown,#111111,#111111,2,0.3912757625439992
 'Daniel Penny',fr,USA,#18e8e8,#18e8e8,1,0.3903979731443852
 'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,1,0.3903566070714285
@@ -450,7 +450,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,2,0.2686551632290795
 'Napoleon Bonaparte',fr,Frankreich,#e8e808,#e8e808,1,0.2678922384509062
 'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,1,0.2675417823265946
-'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.26746744628504837
+'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.2674674462850483
 'Isaac Newton',fr,UK,#e838e8,#e838e8,1,0.2673162823113168
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,1,0.2670322127097327
 'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.2666295228169687
