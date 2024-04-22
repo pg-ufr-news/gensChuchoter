@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emma Stone',fr,unknown,#111111,#111111,2,0.5078692674408315
 'Willem Dafoe',fr,unknown,#111111,#111111,2,0.5074852422303109
 'Chris Kirkpatrick',fr,unknown,#111111,#111111,2,0.5074006510964918
 'Kim Mulkey',fr,unknown,#111111,#111111,2,0.50723666072137
 'Cameron Brink',fr,unknown,#111111,#111111,2,0.5070581389329939
 'Kylie Kelce',fr,unknown,#111111,#111111,2,0.5047742330444285
+'Emma Stone',fr,unknown,#111111,#111111,2,0.4911893273247067
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4734253334418837
 'Robert Badinter',fr,unknown,#111111,#111111,3,0.4499936941790312
 'Sam Asghari',fr,unknown,#111111,#111111,2,0.4458338194964586
@@ -44,9 +44,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carter Reum',fr,unknown,#111111,#111111,1,0.4256345255574756
 'Rachida Dati',fr,unknown,#111111,#111111,3,0.4255187805752425
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4245893902344634
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.4224487184094728
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4222730756722158
