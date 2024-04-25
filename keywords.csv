@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lara Trump',fr,unknown,#111111,#111111,2,0.45154522872662795
+'Lara Trump',fr,unknown,#111111,#111111,2,0.4515452287266279
 'Robert Badinter',fr,unknown,#111111,#111111,3,0.4499936941790312
 'Sam Asghari',fr,unknown,#111111,#111111,2,0.4458338194964586
-'Dua Lipa',fr,unknown,#111111,#111111,3,0.4424032176374201
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,2,0.4421499615987499
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4392106902437829
 'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4383663311041281
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kylie Kelce',fr,unknown,#111111,#111111,1,0.4290581280877641
 'Wagner-Chef Prigoschin',fr,unknown,#111111,#111111,1,0.428935710456891
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.4286166608523806
+'Dua Lipa',fr,unknown,#111111,#111111,3,0.42829295999180705
 'Robert Downey Jr',fr,unknown,#111111,#111111,1,0.4278066213779907
 'Victoria Monét',fr,unknown,#111111,#111111,1,0.4267515416806687
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4262516435666306
