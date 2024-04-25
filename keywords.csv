@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4734253334418837
 'Robert Badinter',fr,unknown,#111111,#111111,3,0.4499936941790312
 'Sam Asghari',fr,unknown,#111111,#111111,2,0.4458338194964586
 'Lara Trump',fr,unknown,#111111,#111111,1,0.4426414102666211
 'Dua Lipa',fr,unknown,#111111,#111111,3,0.4424032176374201
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,2,0.4421499615987499
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.43921069024378295
 'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4383663311041281
 'Édouard Philippe',fr,unknown,#111111,#111111,3,0.4379113647783372
 'président de la République',fr,unknown,#111111,#111111,3,0.4370220222398786
@@ -675,7 +675,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kardinal Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.1234836646678884
 'Macky Sall',fr,Senegal,#111111,#111111,1,0.1234266710588938
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.1225637212387343
-'Andrea Lindholz',fr,Deutschland,#1818e8,#1818e8,1,0.12154841000545182
+'Andrea Lindholz',fr,Deutschland,#1818e8,#1818e8,1,0.1215484100054518
 'Ali Chamenei',fr,Iran,#111111,#111111,2,0.119089814679992
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,1,0.1185770693724193
 'Paul Gosar',fr,USA,#18e8e8,#18e8e8,1,0.1181246426044334
