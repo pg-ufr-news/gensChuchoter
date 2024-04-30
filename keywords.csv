@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hailey Van Lith',fr,unknown,#111111,#111111,2,0.5012321765237926
 'Lara Trump',fr,unknown,#111111,#111111,2,0.4515452287266279
 'Robert Badinter',fr,unknown,#111111,#111111,3,0.4499936941790312
 'Sam Asghari',fr,unknown,#111111,#111111,2,0.4458338194964586
@@ -32,21 +31,22 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wagner-Chef Prigoschin',fr,unknown,#111111,#111111,1,0.428935710456891
 'Kamilla Cardoso',fr,unknown,#111111,#111111,1,0.4288518059061653
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.4286166608523806
-'Yorgos Lanthimos',fr,unknown,#111111,#111111,1,0.42861323525308903
+'Yorgos Lanthimos',fr,unknown,#111111,#111111,1,0.428613235253089
 'Dua Lipa',fr,unknown,#111111,#111111,3,0.428292959991807
 'Robert Downey Jr',fr,unknown,#111111,#111111,1,0.4278066213779907
 'Victoria Monét',fr,unknown,#111111,#111111,1,0.4267515416806687
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4262516435666306
 'Jimmy Kimmel',fr,unknown,#111111,#111111,1,0.4261280596208802
 'Vivek Ramaswamy',fr,unknown,#111111,#111111,1,0.4260484034629611
+'Hailey Van Lith',fr,unknown,#111111,#111111,1,0.4260473500452237
 'Greg Brockman',fr,unknown,#111111,#111111,1,0.4259907480712449
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.4258862468913051
 'Carter Reum',fr,unknown,#111111,#111111,1,0.4256345255574756
 'Rachida Dati',fr,unknown,#111111,#111111,3,0.4255187805752425
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4245893902344634
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.4224487184094728
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4222730756722158
