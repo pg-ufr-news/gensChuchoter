@@ -44,9 +44,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carter Reum',fr,unknown,#111111,#111111,1,0.4256345255574756
 'Rachida Dati',fr,unknown,#111111,#111111,3,0.4255187805752425
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4245893902344634
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.4224487184094728
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4222730756722158
@@ -394,7 +394,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leandro De Niro-Rodriguez',fr,unknown,#111111,#111111,1,0.3107105849699051
 'Steve Wozniak',fr,USA,#18e8e8,#18e8e8,1,0.3103134908
 'Chris Stapleton',fr,unknown,#111111,#111111,1,0.3102201161760031
-'Henry Ford',fr,USA,#18e8e8,#18e8e8,2,0.3094714757755851
+'Henry Ford',fr,USA,#18e8e8,#18e8e8,2,0.3095509044092473
 'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,1,0.309282565456104
 'Tom Kaulitz',fr,unknown,#111111,#111111,1,0.3086768089923524
 'Margaret Qualley',fr,unknown,#111111,#111111,1,0.3086600839452736
