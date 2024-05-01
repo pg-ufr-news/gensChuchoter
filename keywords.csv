@@ -44,9 +44,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carter Reum',fr,unknown,#111111,#111111,1,0.4256345255574756
 'Rachida Dati',fr,unknown,#111111,#111111,3,0.4255187805752425
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4245893902344634
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.4224487184094728
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4222730756722158
@@ -136,7 +136,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,1,0.3849474533478448
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,3,0.3843223839431817
 'Alexander Smirnov',fr,unknown,#111111,#111111,1,0.3843038917718104
-'Jamie Dimon',fr,USA,#18e8e8,#18e8e8,1,0.3841800267972928
 'Jonathan Turley',fr,unknown,#111111,#111111,1,0.3838770947781638
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.3836743615573209
 'Tiffany Chen',fr,USA,#18e8e8,#18e8e8,1,0.3834691016582703
@@ -299,6 +298,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Tate',fr,USA,#18e8e8,#18e8e8,1,0.3470077593230795
 'Ron Johnson',fr,unknown,#111111,#111111,1,0.3468684824237203
 'William Friedkin',fr,unknown,#111111,#111111,1,0.3466426141499999
+'Jamie Dimon',fr,USA,#18e8e8,#18e8e8,1,0.3465031427776989
 'Jack Smith',fr,USA,#18e8e8,#18e8e8,1,0.3454141584875794
 'Ted Cruz',fr,USA,#18e8e8,#18e8e8,2,0.3453106314393675
 'Robert Menendez',fr,unknown,#111111,#111111,1,0.3448368670979198
