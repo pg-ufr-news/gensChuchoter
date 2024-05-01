@@ -44,9 +44,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carter Reum',fr,unknown,#111111,#111111,1,0.4256345255574756
 'Rachida Dati',fr,unknown,#111111,#111111,3,0.4255187805752425
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4245893902344634
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.4224487184094728
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4222730756722158
@@ -119,6 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Taylor Swift',fr,unknown,#111111,#111111,3,0.3933143144662394
 'Aaron Rodgers',fr,unknown,#111111,#111111,1,0.3929710633679797
 'Vanessa Nakate',fr,unknown,#111111,#111111,1,0.3923707751875
+'Pap Ndiaye',fr,unknown,#111111,#111111,1,0.3923208911315885
 'James Cleverly',fr,UK,#e838e8,#e838e8,3,0.3917246105340908
 'James Comer',fr,unknown,#111111,#111111,2,0.3912757625439992
 'Daniel Penny',fr,USA,#18e8e8,#18e8e8,1,0.3903979731443852
@@ -126,7 +127,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.3897874739006754
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,2,0.3894260602312175
 'Lance Bass',fr,unknown,#111111,#111111,2,0.3884672997705826
-'Pap Ndiaye',fr,unknown,#111111,#111111,1,0.3874359895665747
 'Mark Meadows',fr,unknown,#111111,#111111,1,0.3874314766854748
 'Kim Reynolds',fr,unknown,#111111,#111111,1,0.3873576219627843
 'Sophie Turner',fr,unknown,#111111,#111111,1,0.3870175453825134
@@ -451,7 +451,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',fr,UK,#e838e8,#e838e8,1,0.2771228106515221
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,2,0.2767128536736157
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,1,0.2763760522811939
-'Zach Bryan',fr,unknown,#111111,#111111,1,0.27636890077563847
+'Zach Bryan',fr,unknown,#111111,#111111,1,0.2763689007756384
 'Queen Elizabeth II',fr,UK,#e838e8,#e838e8,1,0.2762793601393803
 'Stephen Hawking',fr,UK,#e838e8,#e838e8,1,0.275303918138122
 'Immanuel Kant',fr,Deutschland,#1818e8,#1818e8,1,0.2743566414296634
