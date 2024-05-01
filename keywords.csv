@@ -44,9 +44,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carter Reum',fr,unknown,#111111,#111111,1,0.4256345255574756
 'Rachida Dati',fr,unknown,#111111,#111111,3,0.4255187805752425
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.4250503615258906
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.425
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.425
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.425
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4245893902344634
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.4224487184094728
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.4222730756722158
@@ -356,7 +356,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jackson Hole',fr,unknown,#111111,#111111,1,0.326670975649342
 'Peter Tschentscher',fr,Deutschland,#1818e8,#1818e8,1,0.325764497562784
 'Peter Thiel',fr,USA,#18e8e8,#18e8e8,2,0.3257089734652482
-'Zach Bryan',fr,unknown,#111111,#111111,1,0.325139883265457
 'Queen Camilla',fr,UK,#e838e8,#e838e8,1,0.325100069320713
 'Mario Czaja',fr,Deutschland,#1818e8,#1818e8,2,0.3242257559430396
 'Greg Abbott',fr,USA,#18e8e8,#18e8e8,1,0.3242054515756628
@@ -402,12 +401,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.30764610935
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.3073400385875
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
+'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.305532645573125
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -452,6 +451,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',fr,UK,#e838e8,#e838e8,1,0.2771228106515221
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,2,0.2767128536736157
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,1,0.2763760522811939
+'Zach Bryan',fr,unknown,#111111,#111111,1,0.27636890077563847
 'Queen Elizabeth II',fr,UK,#e838e8,#e838e8,1,0.2762793601393803
 'Stephen Hawking',fr,UK,#e838e8,#e838e8,1,0.275303918138122
 'Immanuel Kant',fr,Deutschland,#1818e8,#1818e8,1,0.2743566414296634
@@ -477,8 +477,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',fr,Deutschland,#1818e8,#1818e8,1,0.2614041525987499
 'Selenskyj',fr,Ukraine,#e818e8,#e818e8,1,0.2612806928487499
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2612227765493749
-'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2610031249999999
+'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2610031249999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.2610031249999999
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.2601333136739115
