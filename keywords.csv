@@ -14,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hubert Aiwanger',fr,unknown,#111111,#111111,1,0.4319696910513135
 'America Ferrera',fr,unknown,#111111,#111111,1,0.431965911322869
 'Chuck Schumer',fr,unknown,#111111,#111111,3,0.4319311630981278
+'Nikki Haley',fr,USA,#18e8e8,#18e8e8,2,0.4319122411965349
 'Jason Kelce',fr,unknown,#111111,#111111,2,0.4314697138473803
 'Tony Bobulinski',fr,unknown,#111111,#111111,1,0.4314531059610423
 'Chris Kirkpatrick',fr,unknown,#111111,#111111,1,0.431290553432018
@@ -98,14 +99,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Gaetz',fr,unknown,#111111,#111111,1,0.39770267098599
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.39767503
 'Rupert Murdoch',fr,unknown,#111111,#111111,1,0.397559366525
-'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
-'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.397375
+'Helena Gualinga',fr,unknown,#111111,#111111,1,0.397375
+'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.397375
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.397375
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
 'nan Si',fr,unknown,#111111,#111111,1,0.3969283605990067
 'Gigi Hadid',fr,unknown,#111111,#111111,1,0.3963713384795956
 'Jennifer Garner',fr,unknown,#111111,#111111,1,0.3958773819668431
@@ -118,7 +119,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comer',fr,unknown,#111111,#111111,2,0.3912757625439992
 'Daniel Penny',fr,USA,#18e8e8,#18e8e8,1,0.3903979731443852
 'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.3897874739006754
-'Nikki Haley',fr,USA,#18e8e8,#18e8e8,2,0.3894260602312175
 'Lance Bass',fr,unknown,#111111,#111111,2,0.3884672997705826
 'Mark Meadows',fr,unknown,#111111,#111111,1,0.3874314766854748
 'Kim Reynolds',fr,unknown,#111111,#111111,1,0.3873576219627843
@@ -236,15 +236,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
-'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
+'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,2,0.361149957477122
 'Jennifer Lopez',fr,unknown,#111111,#111111,2,0.3609814317893738
 'François Braun',fr,unknown,#111111,#111111,3,0.3607370197114447
@@ -476,10 +476,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',fr,Deutschland,#1818e8,#1818e8,1,0.2614041525987499
 'Selenskyj',fr,Ukraine,#e818e8,#e818e8,1,0.2612806928487499
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2612227765493749
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2610031249999999
-'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2610031249999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.2610031249999999
+'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.2601333136739115
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2591456387180882
 'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.2590972047842891
