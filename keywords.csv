@@ -76,7 +76,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Alwyn',fr,unknown,#111111,#111111,1,0.4168803493780808
 'Poutine',fr,Russland,#e81818,#e81818,3,0.4166261151431648
 'Fani Willis',fr,unknown,#111111,#111111,2,0.4158464319245745
-'Vo Van Thuong',fr,unknown,#111111,#111111,1,0.4156228977032604
 'François Bayrou',fr,unknown,#111111,#111111,3,0.4155382252808356
 'Gerald Darmanin',fr,unknown,#111111,#111111,1,0.414889520660766
 'Al Nassr',fr,unknown,#111111,#111111,2,0.4140773368873027
@@ -93,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Biden',fr,unknown,#111111,#111111,1,0.4064528482987601
 'Brad Pitt',fr,unknown,#111111,#111111,3,0.4055902341462924
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,2,0.4046706942563635
+'Vo Van Thuong',fr,unknown,#111111,#111111,1,0.4037295080477713
 'Premier ministre',fr,unknown,#111111,#111111,3,0.403072832791061
 'Heidi Klum',fr,unknown,#111111,#111111,2,0.4018767956688555
 'Selena Gomez',fr,unknown,#111111,#111111,2,0.4012709695328206
@@ -237,16 +237,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,2,0.361149957477122
 'Jennifer Lopez',fr,unknown,#111111,#111111,2,0.3609814317893738
 'François Braun',fr,unknown,#111111,#111111,3,0.3607370197114447
@@ -509,7 +509,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',fr,UK,#e838e8,#e838e8,1,0.2436297351436242
 'Cyril Ramaphosa',fr,Südafrika,#111111,#111111,3,0.2419208322667199
 'Ursula von der Leyen',fr,EU,#111111,#111111,3,0.2412793076076889
-'Maybrit Illner',fr,Deutschland,#1818e8,#1818e8,1,0.23987773714089167
+'Maybrit Illner',fr,Deutschland,#1818e8,#1818e8,1,0.2398777371408916
 'Nancy Faeser',fr,Deutschland,#1818e8,#1818e8,3,0.2383423883632433
 'Tamim Hamad Thani',fr,Katar,#111111,#111111,2,0.2382744010661532
 'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.2378663738558204
