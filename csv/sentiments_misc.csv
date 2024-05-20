@@ -1,320 +1,198 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Premier ministre,Premier ministre,MISC,,,fr,54
+Premier ministre,Premier ministre,MISC,,,fr,52
 OpenAI,OpenAI,MISC,,,fr,45
-Le Premier ministre,Le Premier ministre,MISC,,,fr,26
-Mediapart,Mediapart,MISC,,,fr,20
+Festival de Cannes,Festival de Cannes,MISC,,,fr,32
+Le Premier ministre,Le Premier ministre,MISC,,,fr,23
 Guerre en Ukraine,Guerre en Ukraine,MISC,,,fr,19
-Oscars,Oscars,MISC,,,fr,18
 The Tortured Poets Department,The Tortured Poets Department,MISC,,,fr,17
-DVM Show,DVM Show,MISC,,,fr,13
+Oscars,Oscars,MISC,,,fr,17
+Mediapart,Mediapart,MISC,,,fr,16
 Barbie,Barbie,MISC,,,fr,13
-Missak Manouchian,Missak Manouchian,MISC,,,fr,11
 Willow,Willow,MISC,,,fr,11
-Sora,Sora,MISC,,,fr,10
 Grok,Grok,MISC,0.6855383597883599,0.9319999999999999,fr,10
 Constitution,Constitution,MISC,,,fr,10
+Sora,Sora,MISC,,,fr,10
 Jeux olympiques,Jeux olympiques,MISC,,,fr,9
+Missak Manouchian,Missak Manouchian,MISC,,,fr,9
 Ça,Ça,MISC,,,fr,8
-Dauphiné Libéré,Dauphiné Libéré,MISC,,,fr,8
-Twitter,Twitter,MISC,,,fr,8
-F-16,F-16,MISC,,,fr,7
-Le Premier ministre Gabriel Attal,Le Premier ministre Gabriel Attal,MISC,,,fr,7
 Peaky Blinders,Peaky Blinders,MISC,,,fr,7
+Twitter,Twitter,MISC,,,fr,7
+F-16,F-16,MISC,,,fr,7
 ChatGPT,ChatGPT,MISC,,,fr,7
-Star Academy,Star Academy,MISC,,,fr,6
-Festival de Cannes,Festival de Cannes,MISC,,,fr,6
-Twitch,Twitch,MISC,,,fr,6
+Festival de Cannes 2024,Festival de Cannes 2024,MISC,,,fr,7
+Le Premier ministre Gabriel Attal,Le Premier ministre Gabriel Attal,MISC,,,fr,7
 Pâques,Pâques,MISC,,,fr,6
+festival de Cannes,festival de Cannes,MISC,,,fr,6
 FTX,FTX,MISC,,,fr,6
-Konbini,Konbini,MISC,,,fr,6
-Occidentaux,Occidentaux,MISC,,,fr,5
-Reconquête !,Reconquête !,MISC,,,fr,5
-Oscars 2024,Oscars 2024,MISC,,,fr,5
-campagne de Renaissance,campagne de Renaissance,MISC,,,fr,5
-DIRECT,DIRECT,MISC,,,fr,5
-C,C,MISC,,,fr,5
-Super Bowl,Super Bowl,MISC,,,fr,5
-SAG Awards,SAG Awards,MISC,,,fr,5
-LUDOVIC MARIN,LUDOVIC MARIN,MISC,,,fr,5
-Guerre Israël-Hamas,Guerre Israël-Hamas,MISC,,,fr,5
+Dauphiné Libéré,Dauphiné Libéré,MISC,,,fr,6
+Congrès américain,Congrès américain,MISC,,,fr,6
+iPhone,iPhone,MISC,,,fr,6
 YouTube,YouTube,MISC,,,fr,5
 Grammy Awards,Grammy Awards,MISC,,,fr,5
-Congrès américain,Congrès américain,MISC,,,fr,5
-JO,JO,MISC,,,fr,5
-Pirates,Pirates,MISC,,,fr,4
-Oscar,Oscar,MISC,,,fr,4
-Cowboy Carter,Cowboy Carter,MISC,,,fr,4
-Shemseddine,Shemseddine,MISC,,,fr,4
-Sims,Sims,MISC,,,fr,4
-Grenelle,Grenelle,MISC,,,fr,4
-Netflix,Netflix,MISC,,,fr,4
-Internet,Internet,MISC,,,fr,4
-Sugar,Sugar,MISC,,,fr,4
+SAG Awards,SAG Awards,MISC,,,fr,5
+DIRECT,DIRECT,MISC,,,fr,5
+campagne de Renaissance,campagne de Renaissance,MISC,,,fr,5
+Oscars 2024,Oscars 2024,MISC,,,fr,5
+Occidentaux,Occidentaux,MISC,,,fr,5
+C,C,MISC,,,fr,5
+Palme d’or,Palme d’or,MISC,,,fr,5
+LUDOVIC MARIN,LUDOVIC MARIN,MISC,,,fr,4
 I',I',MISC,,,fr,4
-THOMAS,THOMAS,MISC,,,fr,4
+Pirates,Pirates,MISC,,,fr,4
+Sims,Sims,MISC,,,fr,4
+Konbini,Konbini,MISC,,,fr,4
+Sugar,Sugar,MISC,,,fr,4
 Killers of the Flower Moon,Killers of the Flower Moon,MISC,,,fr,4
-Pauvres Créatures,Pauvres Créatures,MISC,,,fr,4
-CE2,CE2,MISC,,,fr,3
-Salon de lagriculture,Salon de lagriculture,MISC,0.4508333333333333,0.24166666666666664,fr,3
-The post,The post,MISC,,,fr,3
-la Première,la Première,MISC,,,fr,3
+Guerre Israël-Hamas,Guerre Israël-Hamas,MISC,,,fr,4
+JO,JO,MISC,,,fr,4
+Reconquête !,Reconquête !,MISC,,,fr,4
+Grenelle,Grenelle,MISC,,,fr,4
+Oscar,Oscar,MISC,,,fr,4
+Shemseddine,Shemseddine,MISC,,,fr,4
+The post,The post,MISC,,,fr,4
+Cowboy Carter,Cowboy Carter,MISC,,,fr,4
+Cest,Cest,MISC,,,fr,4
+Pauvres Créatures,Pauvres Créatures,MISC,,,fr,3
+Kardashian,Kardashian,MISC,,,fr,3
+Other Farkers,Other Farkers,MISC,,,fr,3
+When community members submit a link,When community members submit a link,MISC,,,fr,3
 Kind of Kindness,Kind of Kindness,MISC,,,fr,3
-lÉlysée,lÉlysée,MISC,,,fr,3
-Maison du peup,Maison du peup,MISC,,,fr,3
+CINÉMA,CINÉMA,MISC,,,fr,3
+CE2,CE2,MISC,,,fr,3
+Seconde Guerre mondiale,Seconde Guerre mondiale,MISC,,,fr,3
+Dumbo,Dumbo,MISC,,,fr,3
+Super Tuesday,Super Tuesday,MISC,,,fr,3
+ChatGPT Enterprise,ChatGPT Enterprise,MISC,,,fr,3
+GPT-4,GPT-4,MISC,,,fr,3
 Xbox,Xbox,MISC,,,fr,3
 The Last of Us,The Last of Us,MISC,,,fr,3
-This Is Me...Now,This Is Me...Now,MISC,,,fr,3
-Three Crooked Squirrels,Three Crooked Squirrels,MISC,0.0,0.0,fr,3
-Regardez,Regardez,MISC,,,fr,3
-Cest,Cest,MISC,,,fr,3
-This Is Me,This Is Me,MISC,,,fr,3
-Android,Android,MISC,,,fr,3
-JO de Paris,JO de Paris,MISC,,,fr,3
-iPhone,iPhone,MISC,,,fr,3
-Kardashian,Kardashian,MISC,,,fr,3
 HuffPost,HuffPost,MISC,,,fr,3
-ChatGPT Enterprise,ChatGPT Enterprise,MISC,,,fr,3
-JULIEN MUGUET POUR,JULIEN MUGUET POUR,MISC,,,fr,3
-GPT-4,GPT-4,MISC,,,fr,3
-La Vengeance de Salazar,La Vengeance de Salazar,MISC,,,fr,3
-Seconde Guerre mondiale,Seconde Guerre mondiale,MISC,,,fr,3
-S&P 500,S&P 500,MISC,,,fr,3
-XXL,XXL,MISC,,,fr,3
-CSRD,CSRD,MISC,,,fr,3
-Jeux Olympiques,Jeux Olympiques,MISC,,,fr,3
+Cannes 2024,Cannes 2024,MISC,,,fr,3
+Three Crooked Squirrels,Three Crooked Squirrels,MISC,0.0,0.0,fr,3
 BTC,BTC,MISC,,,fr,3
-Super Tuesday,Super Tuesday,MISC,,,fr,3
-pa,pa,MISC,,,fr,3
-Dumbo,Dumbo,MISC,,,fr,3
-La Tribune Dimanche,La Tribune Dimanche,MISC,,,fr,3
+CSRD,CSRD,MISC,,,fr,3
+Regardez,Regardez,MISC,,,fr,3
+Salon de lagriculture,Salon de lagriculture,MISC,0.4508333333333333,0.24166666666666664,fr,3
+Android,Android,MISC,,,fr,3
+lÉlysée,lÉlysée,MISC,,,fr,3
+La Vengeance de Salazar,La Vengeance de Salazar,MISC,,,fr,3
+Maison du peup,Maison du peup,MISC,,,fr,3
+la Première,la Première,MISC,,,fr,3
 Salon de lAgriculture,Salon de lAgriculture,MISC,,,fr,3
+Palme dor,Palme dor,MISC,,,fr,3
+La Tribune Dimanche,La Tribune Dimanche,MISC,,,fr,3
+Jeux Olympiques,Jeux Olympiques,MISC,,,fr,3
+pa,pa,MISC,,,fr,3
+THOMAS,THOMAS,MISC,,,fr,3
 Affaire FTX,Affaire FTX,MISC,,,fr,3
+Apocalypse Now,Apocalypse Now,MISC,,,fr,3
+XXL,XXL,MISC,,,fr,3
+S&P 500,S&P 500,MISC,,,fr,3
+Netflix,Netflix,MISC,,,fr,3
 Jeux,Jeux,MISC,,,fr,2
-Crypto,Crypto,MISC,,,fr,2
-Timing,Timing,MISC,,,fr,2
-Web,Web,MISC,,,fr,2
-Libé,Libé,MISC,,,fr,2
-abonnez-vousPourquoi voyez,abonnez-vousPourquoi voyez,MISC,,,fr,2
-EN DIRECT,EN DIRECT,MISC,,,fr,2
-Le Premier ministre haïtien,Le Premier ministre haïtien,MISC,,,fr,2
-CHRONIQUE POLITIQUE,CHRONIQUE POLITIQUE,MISC,,,fr,2
-Première,Première,MISC,,,fr,2
-Première ministre,Première ministre,MISC,,,fr,2
-TikTok,TikTok,MISC,,,fr,2
-”,”,MISC,,,fr,2
-Pass Rail,Pass Rail,MISC,,,fr,2
-campagne de Re,campagne de Re,MISC,,,fr,2
-Génocide au Rwanda,Génocide au Rwanda,MISC,,,fr,2
-génocide des Tutsi,génocide des Tutsi,MISC,,,fr,2
+The Fall Guy,The Fall Guy,MISC,,,fr,2
 Lhistoire,Lhistoire,MISC,,,fr,2
-Les Sims,Les Sims,MISC,,,fr,2
-Le Film Français,Le Film Français,MISC,,,fr,2
+dEddington,dEddington,MISC,,,fr,2
+Banana,Banana,MISC,,,fr,2
+Libé,Libé,MISC,,,fr,2
+Cannes,Cannes,MISC,0.25142857142857145,0.11785714285714285,fr,2
+dAri Aster,dAri Aster,MISC,,,fr,2
+Pol,Pol,MISC,,,fr,2
+Timing,Timing,MISC,,,fr,2
 96e grand-messe des Oscars,96e grand-messe des Oscars,MISC,,,fr,2
-Muet,Muet,MISC,,,fr,2
-Supercoupe d'Arabie saoudite,Supercoupe d'Arabie saoudite,MISC,,,fr,2
-TotalEnergies,TotalEnergies,MISC,,,fr,2
-L’amour,L’amour,MISC,,,fr,2
+abonnez-vousPourquoi voyez,abonnez-vousPourquoi voyez,MISC,,,fr,2
+Première ministre,Première ministre,MISC,,,fr,2
 ÉDITO,ÉDITO,MISC,,,fr,2
+Supercoupe d'Arabie saoudite,Supercoupe d'Arabie saoudite,MISC,,,fr,2
+Le Film Français,Le Film Français,MISC,,,fr,2
+Muet,Muet,MISC,,,fr,2
+Screen Actors Guild Awards,Screen Actors Guild Awards,MISC,,,fr,2
+campagne de Re,campagne de Re,MISC,,,fr,2
+The Tortured Poets Department”,The Tortured Poets Department”,MISC,,,fr,2
+Congrès,Congrès,MISC,,,fr,2
+Reportage,Reportage,MISC,,,fr,2
+LExpress,LExpress,MISC,,,fr,2
+Grammy Awards !,Grammy Awards !,MISC,,,fr,2
+STEPHANE DE SAKUTIN,STEPHANE DE SAKUTIN,MISC,,,fr,2
+The Tortured Poets Department : The Anthology,The Tortured Poets Department : The Anthology,MISC,,,fr,2
+génocide des Tutsi,génocide des Tutsi,MISC,,,fr,2
+Le Premier ministre haïtien,Le Premier ministre haïtien,MISC,,,fr,2
+JO de Paris,JO de Paris,MISC,,,fr,2
+Inception,Inception,MISC,,,fr,2
+Génocide au Rwanda,Génocide au Rwanda,MISC,,,fr,2
+Première,Première,MISC,,,fr,2
+Buffy contre les vampires,Buffy contre les vampires,MISC,,,fr,2
+CHRONIQUE POLITIQUE,CHRONIQUE POLITIQUE,MISC,,,fr,2
+Pierre,Pierre,MISC,,,fr,2
+”,”,MISC,,,fr,2
+Megalopolis,Megalopolis,MISC,0.011,0.006666666666666666,fr,2
+Pass Rail,Pass Rail,MISC,,,fr,2
+CPME,CPME,MISC,,,fr,2
+B,B,MISC,0.09275,0.06208333333333334,fr,2
+Crypto,Crypto,MISC,,,fr,2
+bataille c,bataille c,MISC,,,fr,2
+Entretien avec un vampire,Entretien avec un vampire,MISC,,,fr,2
+Web,Web,MISC,,,fr,2
+Difficile,Difficile,MISC,,,fr,2
+Questions au gouvernement du mercredi,Questions au gouvernement du mercredi,MISC,,,fr,2
+Compétition,Compétition,MISC,,,fr,2
+A Love Story,A Love Story,MISC,,,fr,2
+JULIEN MUGUET POUR,JULIEN MUGUET POUR,MISC,,,fr,2
+Oscar du meilleur acteur,Oscar du meilleur acteur,MISC,,,fr,2
+Game Developer Conference,Game Developer Conference,MISC,,,fr,2
+X,X,MISC,-0.003333333333333332,0.025000000000000005,fr,2
+Critics Choice Award,Critics Choice Award,MISC,,,fr,2
+Golden Globe,Golden Globe,MISC,,,fr,2
+Colt Seavers,Colt Seavers,MISC,,,fr,2
+Star Academy,Star Academy,MISC,,,fr,2
+Deuxième acte”,Deuxième acte”,MISC,,,fr,2
+Premier,Premier,MISC,,,fr,2
+FTP,FTP,MISC,,,fr,2
+Les Sims,Les Sims,MISC,,,fr,2
+TotalEnergies,TotalEnergies,MISC,,,fr,2
+OQEE Ciné,OQEE Ciné,MISC,,,fr,2
+Adam Driver,Adam Driver,MISC,,,fr,2
+L’amour,L’amour,MISC,,,fr,2
+Internet,Internet,MISC,,,fr,2
+Pacte,Pacte,MISC,,,fr,2
+Soulèvements de la Terre,Soulèvements de la Terre,MISC,,,fr,2
+Page unavailable,Page unavailable,MISC,,,fr,2
+TikTok,TikTok,MISC,,,fr,2
+Compétition Officielle,Compétition Officielle,MISC,,,fr,2
+Danse Avec Les Stars,Danse Avec Les Stars,MISC,,,fr,2
 Nora et Owen,Nora et Owen,MISC,,,fr,2
 Mel,Mel,MISC,,,fr,2
 Manny,Manny,MISC,,,fr,2
-STEPHANE DE SAKUTIN,STEPHANE DE SAKUTIN,MISC,,,fr,2
-OQEE Ciné,OQEE Ciné,MISC,,,fr,2
-Palme d’or,Palme d’or,MISC,,,fr,2
-A Love Story,A Love Story,MISC,,,fr,2
-Reportage,Reportage,MISC,,,fr,2
-LExpress,LExpress,MISC,,,fr,2
-Critics Choice Award,Critics Choice Award,MISC,,,fr,2
-Golden Globe,Golden Globe,MISC,,,fr,2
-Soulèvements de la Terre,Soulèvements de la Terre,MISC,,,fr,2
-Pierre,Pierre,MISC,,,fr,2
-bataille c,bataille c,MISC,,,fr,2
-Page unavailable,Page unavailable,MISC,,,fr,2
-Prime Video,Prime Video,MISC,,,fr,2
-FTP,FTP,MISC,,,fr,2
-Game Developer Conference,Game Developer Conference,MISC,,,fr,2
-The Tortured Poets Department : The Anthology,The Tortured Poets Department : The Anthology,MISC,,,fr,2
-People Choice Awards,People Choice Awards,MISC,,,fr,2
-Oscar du meilleur acteur,Oscar du meilleur acteur,MISC,,,fr,2
-Inception,Inception,MISC,,,fr,2
-Questions au gouvernement du mercredi,Questions au gouvernement du mercredi,MISC,,,fr,2
-Dieu,Dieu,MISC,,,fr,2
-Difficile,Difficile,MISC,,,fr,2
-Ifop,Ifop,MISC,,,fr,2
-The Greatest Night in Pop,The Greatest Night in Pop,MISC,,,fr,2
-FILM,FILM,MISC,,,fr,2
+Premier ministre proteste,Premier ministre proteste,MISC,,,fr,2
 lOccident à lUkraine,lOccident à lUkraine,MISC,,,fr,2
-Banana,Banana,MISC,,,fr,2
-CPME,CPME,MISC,,,fr,2
-Buffy contre les vampires,Buffy contre les vampires,MISC,,,fr,2
-deu,deu,MISC,,,fr,2
-The Fall Guy,The Fall Guy,MISC,,,fr,2
-Now,Now,MISC,,,fr,2
-SpaceX.,SpaceX.,MISC,,,fr,2
-Premier,Premier,MISC,,,fr,2
-Grammy Awards !,Grammy Awards !,MISC,,,fr,2
-DVM show,DVM show,MISC,,,fr,2
-JULIEN DE ROSA,JULIEN DE ROSA,MISC,,,fr,2
-Danse Avec Les Stars,Danse Avec Les Stars,MISC,,,fr,2
-dEddington,dEddington,MISC,,,fr,2
-dAri Aster,dAri Aster,MISC,,,fr,2
-Congrès,Congrès,MISC,,,fr,2
-Heat,Heat,MISC,,,fr,2
-Other Farkers,Other Farkers,MISC,,,fr,2
-When community members submit a link,When community members submit a link,MISC,,,fr,2
-Entretien avec un vampire,Entretien avec un vampire,MISC,,,fr,2
 White House cat,White House cat,MISC,,,fr,2
-Screen Actors Guild Awards,Screen Actors Guild Awards,MISC,,,fr,2
-Colt Seavers,Colt Seavers,MISC,,,fr,2
-Apple Vision Pro,Apple Vision Pro,MISC,,,fr,2
-The Tortured Poets Department”,The Tortured Poets Department”,MISC,,,fr,2
-Pol,Pol,MISC,,,fr,2
-Tous Les Systemes De Gouvernance,Tous Les Systemes De Gouvernance,MISC,,,fr,1
-Tensions,Tensions,MISC,,,fr,1
-An 39 Du Rdpc,An 39 Du Rdpc,MISC,,,fr,1
-Bleachers,Bleachers,MISC,0.032812499999999994,0.05625,fr,1
-TOU,TOU,MISC,,,fr,1
-Killers of the,Killers of the,MISC,,,fr,1
-linterprète,linterprète,MISC,,,fr,1
-Questions attendues,Questions attendues,MISC,,,fr,1
-La Tribune,La Tribune,MISC,,,fr,1
-La Loupe,La Loupe,MISC,0.14285714285714285,0.27142857142857146,fr,1
-attentat de Moscou,attentat de Moscou,MISC,,,fr,1
-L'Informé,L'Informé,MISC,,,fr,1
-Un film sur,Un film sur,MISC,,,fr,1
-qua,qua,MISC,,,fr,1
-attaque de,attaque de,MISC,,,fr,1
-Daily Geek Show,Daily Geek Show,MISC,,,fr,1
-New Rules,New Rules,MISC,,,fr,1
-Outre-,Outre-,MISC,,,fr,1
-tribunal dIslamabad,tribunal dIslamabad,MISC,,,fr,1
-ÉCO,ÉCO,MISC,,,fr,1
-Propos,Propos,MISC,,,fr,1
-Yves,Yves,MISC,,,fr,1
-Buffy Contre les Vampires,Buffy Contre les Vampires,MISC,,,fr,1
-À soixante-dix-sept jours,À soixante-dix-sept jours,MISC,,,fr,1
-Constat Simple A Prendre,Constat Simple A Prendre,MISC,,,fr,1
-lAutor,lAutor,MISC,,,fr,1
-Peaky Blinders appeared first on Daily Geek Show,Peaky Blinders appeared first on Daily Geek Show,MISC,,,fr,1
-Heat 2,Heat 2,MISC,,,fr,1
-Le Premier ministre japonais,Le Premier ministre japonais,MISC,,,fr,1
-Dune,Dune,MISC,,,fr,1
-Premium X.,Premium X.,MISC,,,fr,1
-MARCELINO,MARCELINO,MISC,,,fr,1
-Kind of Kindness”,Kind of Kindness”,MISC,,,fr,1
-The New York Times,The New York Times,MISC,,,fr,1
-”Kind of Kindness”,”Kind of Kindness”,MISC,,,fr,1
-Le Vif,Le Vif,MISC,,,fr,1
-The post USA,The post USA,MISC,,,fr,1
-lOscar,lOscar,MISC,,,fr,1
-50 Cent,50 Cent,MISC,,,fr,1
-Pirates des Caraïbes,Pirates des Caraïbes,MISC,,,fr,1
-Le procès,Le procès,MISC,,,fr,1
-Procès FTX,Procès FTX,MISC,,,fr,1
-Convaincu de fraude,Convaincu de fraude,MISC,,,fr,1
-exa,exa,MISC,,,fr,1
-lOscar du meilleur acteur,lOscar du meilleur acteur,MISC,,,fr,1
-Kind of,Kind of,MISC,,,fr,1
-SuperBowl,SuperBowl,MISC,,,fr,1
-TRIBUNE DIMANCHE,TRIBUNE DIMANCHE,MISC,,,fr,1
-Attentat,Attentat,MISC,,,fr,1
-Vigipirate dimanche soir,Vigipirate dimanche soir,MISC,,,fr,1
-Attentat de Moscou,Attentat de Moscou,MISC,,,fr,1
-Vigipirate à «urgence attentat,Vigipirate à «urgence attentat,MISC,,,fr,1
-Une sacrée ristourne,Une sacrée ristourne,MISC,,,fr,1
-Linstance,Linstance,MISC,,,fr,1
-Opérations dites XXL,Opérations dites XXL,MISC,,,fr,1
-outre-Atlantique,outre-Atlantique,MISC,,,fr,1
-ENTRETIEN,ENTRETIEN,MISC,,,fr,1
-Tax,Tax,MISC,,,fr,1
-Taxi Driver,Taxi Driver,MISC,,,fr,1
-accords de Munich,accords de Munich,MISC,,,fr,1
-Révolution à,Révolution à,MISC,,,fr,1
-Dabord,Dabord,MISC,,,fr,1
-Dhabitude,Dhabitude,MISC,,,fr,1
 Graal,Graal,MISC,,,fr,1
-Here's the thing...These Republican psychos are aligned on like 80-90,Here's the thing...These Republican psychos are aligned on like 80-90,MISC,,,fr,1
-Eras Tour,Eras Tour,MISC,,,fr,1
-Le Premier ministre de Papouasie-Nouvelle-Guinée,Le Premier ministre de Papouasie-Nouvelle-Guinée,MISC,,,fr,1
-Premier ministre de Papouasie-Nouvelle-Guinée na,Premier ministre de Papouasie-Nouvelle-Guinée na,MISC,,,fr,1
-Le Premier Ministre de Papouasie,Le Premier Ministre de Papouasie,MISC,,,fr,1
-Commentaires sur Vidéo,Commentaires sur Vidéo,MISC,,,fr,1
-Congrès américainEn,Congrès américainEn,MISC,,,fr,1
-Visage poupin,Visage poupin,MISC,,,fr,1
-Radical Optimism,Radical Optimism,MISC,,,fr,1
-Kourtney goûte la chitouze,Kourtney goûte la chitouze,MISC,,,fr,1
-Elle remet ça,Elle remet ça,MISC,,,fr,1
-The Anthology,The Anthology,MISC,,,fr,1
-La reine de la pop,La reine de la pop,MISC,,,fr,1
-The Tortured Poets Departement,The Tortured Poets Departement,MISC,,,fr,1
-Cest Fortnight,Cest Fortnight,MISC,,,fr,1
-The Eras Tour,The Eras Tour,MISC,,,fr,1
-YUKI IWAMURA,YUKI IWAMURA,MISC,,,fr,1
-The Machine,The Machine,MISC,,,fr,1
-lattaqu,lattaqu,MISC,,,fr,1
-Agression d’Israël,Agression d’Israël,MISC,,,fr,1
-Spotify,Spotify,MISC,,,fr,1
-The Movie Critic,The Movie Critic,MISC,,,fr,1
-Barr is alleged to have had,Barr is alleged to have had,MISC,,,fr,1
-During his time as Dalton',During his time as Dalton',MISC,,,fr,1
-Dalton School from 1964 to 1974,Dalton School from 1964 to 1974,MISC,,,fr,1
-He was headmaster of the,He was headmaster of the,MISC,,,fr,1
-Le Premier ministre peine,Le Premier ministre peine,MISC,,,fr,1
-Couvre-feu,Couvre-feu,MISC,,,fr,1
-lAss,lAss,MISC,,,fr,1
-Vous avez raté les derniers événements sur la guerre en Ukraine,Vous avez raté les derniers événements sur la guerre en Ukraine,MISC,,,fr,1
-Premier ministre de Papouasie-Nouvelle-Guinée,Premier ministre de Papouasie-Nouvelle-Guinée,MISC,,,fr,1
-Lalbum The Tortured Poets Department,Lalbum The Tortured Poets Department,MISC,,,fr,1
-Triple,Triple,MISC,,,fr,1
-acte II,acte II,MISC,,,fr,1
-Paramount+,Paramount+,MISC,0.45,0.44999999999999996,fr,1
-L’Homme qui tombe à pic » sortie,L’Homme qui tombe à pic » sortie,MISC,,,fr,1
-Vengeance,Vengeance,MISC,,,fr,1
-While,While,MISC,,,fr,1
-UFO Incident,UFO Incident,MISC,,,fr,1
-Maison,Maison,MISC,,,fr,1
-Rire tout en noubliant,Rire tout en noubliant,MISC,,,fr,1
-Sorbonne 2,Sorbonne 2,MISC,,,fr,1
-Et je te regarde en…,Et je te regarde en…,MISC,,,fr,1
-The Tortured Poest Department,The Tortured Poest Department,MISC,,,fr,1
-The Tortured Poets DepartmentDans,The Tortured Poets DepartmentDans,MISC,,,fr,1
-The 1975,The 1975,MISC,,,fr,1
-lArizona,lArizona,MISC,,,fr,1
-Phoenix,Phoenix,MISC,,,fr,1
-TTPD,TTPD,MISC,,,fr,1
-reconnaissa,reconnaissa,MISC,,,fr,1
-Dordinaire,Dordinaire,MISC,,,fr,1
-Black Dog,Black Dog,MISC,,,fr,1
-Congrès dune aid,Congrès dune aid,MISC,,,fr,1
-KEVIN DIETSCH,KEVIN DIETSCH,MISC,,,fr,1
-I Am Paris,I Am Paris,MISC,,,fr,1
-The Gray Man,The Gray Man,MISC,,,fr,1
-L’Exorciste” ?,L’Exorciste” ?,MISC,,,fr,1
-French Connection”,French Connection”,MISC,,,fr,1
-Quiz,Quiz,MISC,,,fr,1
-I Can Do It W,I Can Do It W,MISC,,,fr,1
-En anglais,En anglais,MISC,,,fr,1
-Le cercle des poètes torturés,Le cercle des poètes torturés,MISC,,,fr,1
-Tcherniguiv,Tcherniguiv,MISC,,,fr,1
-Conflit au Proche-Orient,Conflit au Proche-Orient,MISC,,,fr,1
-That last,That last,MISC,,,fr,1
-Noël,Noël,MISC,,,fr,1
+qua,qua,MISC,,,fr,1
 AGI,AGI,MISC,,,fr,1
-Attaque de Moscou,Attaque de Moscou,MISC,,,fr,1
 Première ministre italienne de «néonazie,Première ministre italienne de «néonazie,MISC,,,fr,1
-Enquête pénale pour « financement du terrorisme » impliquant l’,Enquête pénale pour « financement du terrorisme » impliquant l’,MISC,,,fr,1
-Emm,Emm,MISC,,,fr,1
-Dimanche 7,Dimanche 7,MISC,,,fr,1
-Cest lhistoire dun faux pas de communication devenu,Cest lhistoire dun faux pas de communication devenu,MISC,,,fr,1
-DHERBEYS,DHERBEYS,MISC,,,fr,1
-couac de l’Elysée,couac de l’Elysée,MISC,,,fr,1
-série Sugar,série Sugar,MISC,,,fr,1
-projet IA,projet IA,MISC,,,fr,1
-BIZIMANA,BIZIMANA,MISC,,,fr,1
-Premier ministre de la Ve République,Premier ministre de la Ve République,MISC,,,fr,1
-Act II : Cowboy Carter,Act II : Cowboy Carter,MISC,,,fr,1
+That last,That last,MISC,,,fr,1
+Heat 2,Heat 2,MISC,,,fr,1
+Joker 2,Joker 2,MISC,,,fr,1
+Heat,Heat,MISC,,,fr,1
+La sentence a ét,La sentence a ét,MISC,,,fr,1
+Fest,Fest,MISC,,,fr,1
+The Lobster,The Lobster,MISC,,,fr,1
+The Lobster”,The Lobster”,MISC,,,fr,1
+Minority Report”,Minority Report”,MISC,,,fr,1
+“Sugar”,“Sugar”,MISC,,,fr,1
+Taxi Driver,Taxi Driver,MISC,,,fr,1
+CinemaC,CinemaC,MISC,,,fr,1
+Tax,Tax,MISC,,,fr,1
+ENTRETIEN,ENTRETIEN,MISC,,,fr,1
+TRIBUNE DIMANCHE,TRIBUNE DIMANCHE,MISC,,,fr,1
+Fargeat,Fargeat,MISC,,,fr,1
+Peaky Blinders appeared first on Daily Geek Show,Peaky Blinders appeared first on Daily Geek Show,MISC,,,fr,1
+Les Ré,Les Ré,MISC,,,fr,1
 Folie à Deux,Folie à Deux,MISC,,,fr,1
-Kill Bill,Kill Bill,MISC,,,fr,1
+Enquête pénale pour « financement du terrorisme » impliquant l’,Enquête pénale pour « financement du terrorisme » impliquant l’,MISC,,,fr,1
+couac de l’Elysée,couac de l’Elysée,MISC,,,fr,1
+Killers of the,Killers of the,MISC,,,fr,1
+Act II : Cowboy Carter,Act II : Cowboy Carter,MISC,,,fr,1
 Premier(e,Premier(e,MISC,,,fr,1
 CHRONIQUE DE MICHEL RICHARD,CHRONIQUE DE MICHEL RICHARD,MISC,,,fr,1
 À LA DEMANDE SÉRIE,À LA DEMANDE SÉRIE,MISC,,,fr,1
@@ -326,62 +204,238 @@ Licence »,Licence »,MISC,,,fr,1
 "AFP 
  Publ","AFP 
  Publ",MISC,,,fr,1
+Yves,Yves,MISC,,,fr,1
+L'Informé,L'Informé,MISC,,,fr,1
+"Getty Images
+Publié le … [+2488 chars","Getty Images
+Publié le … [+2488 chars",MISC,,,fr,1
+Questions attendues,Questions attendues,MISC,,,fr,1
 Médaille dor,Médaille dor,MISC,,,fr,1
+Dhabitude,Dhabitude,MISC,,,fr,1
 PURE,PURE,MISC,,,fr,1
 The MAGA ones are all about,The MAGA ones are all about,MISC,,,fr,1
-Joker 2,Joker 2,MISC,,,fr,1
-Les Ré,Les Ré,MISC,,,fr,1
+Kill Bill,Kill Bill,MISC,,,fr,1
+Outre-,Outre-,MISC,,,fr,1
+Emm,Emm,MISC,,,fr,1
+Noël,Noël,MISC,,,fr,1
+Dimanche 7,Dimanche 7,MISC,,,fr,1
+Cest lhistoire dun faux pas de communication devenu,Cest lhistoire dun faux pas de communication devenu,MISC,,,fr,1
+DHERBEYS,DHERBEYS,MISC,,,fr,1
+Un film sur,Un film sur,MISC,,,fr,1
+Here's the thing...These Republican psychos are aligned on like 80-90,Here's the thing...These Republican psychos are aligned on like 80-90,MISC,,,fr,1
+série Sugar,série Sugar,MISC,,,fr,1
+Daily Geek Show,Daily Geek Show,MISC,,,fr,1
+tribunal dIslamabad,tribunal dIslamabad,MISC,,,fr,1
+Constat Simple A Prendre,Constat Simple A Prendre,MISC,,,fr,1
+projet IA,projet IA,MISC,,,fr,1
+Tous Les Systemes De Gouvernance,Tous Les Systemes De Gouvernance,MISC,,,fr,1
+BIZIMANA,BIZIMANA,MISC,,,fr,1
+Propos,Propos,MISC,,,fr,1
+Dieu,Dieu,MISC,,,fr,1
+Premier ministre de la Ve République,Premier ministre de la Ve République,MISC,,,fr,1
+Bleachers,Bleachers,MISC,0.032812499999999994,0.05625,fr,1
+lAutor,lAutor,MISC,,,fr,1
+Télérama,Télérama,MISC,,,fr,1
+dEthiopie,dEthiopie,MISC,,,fr,1
+Future &#038,Future &#038,MISC,,,fr,1
+The Tortured Poets DepartmentDans,The Tortured Poets DepartmentDans,MISC,,,fr,1
+Congrès national,Congrès national,MISC,,,fr,1
+Binance,Binance,MISC,,,fr,1
+L’Homme qui tombe à pic » sortie,L’Homme qui tombe à pic » sortie,MISC,,,fr,1
+Vengeance,Vengeance,MISC,,,fr,1
+Festival,Festival,MISC,,,fr,1
+Palme d’Or,Palme d’Or,MISC,,,fr,1
+While,While,MISC,,,fr,1
+UFO Incident,UFO Incident,MISC,,,fr,1
+Maison,Maison,MISC,,,fr,1
+Rire tout en noubliant,Rire tout en noubliant,MISC,,,fr,1
+Titanic,Titanic,MISC,,,fr,1
+Sorbonne 2,Sorbonne 2,MISC,,,fr,1
+Et je te regarde en…,Et je te regarde en…,MISC,,,fr,1
+The Tortured Poest Department,The Tortured Poest Department,MISC,,,fr,1
+ca,ca,MISC,,,fr,1
+Metro Boomin,Metro Boomin,MISC,,,fr,1
+The 1975,The 1975,MISC,,,fr,1
+lArizona,lArizona,MISC,,,fr,1
+acte II,acte II,MISC,,,fr,1
+Phoenix,Phoenix,MISC,,,fr,1
+ByteDance,ByteDance,MISC,,,fr,1
+Congrès américain mardi,Congrès américain mardi,MISC,,,fr,1
+reconnaissa,reconnaissa,MISC,,,fr,1
+Dordinaire,Dordinaire,MISC,,,fr,1
+Black Dog,Black Dog,MISC,,,fr,1
+dArgentins,dArgentins,MISC,0.125,0.05,fr,1
+Congrès dune aid,Congrès dune aid,MISC,,,fr,1
+KEVIN DIETSCH,KEVIN DIETSCH,MISC,,,fr,1
+I Am Paris,I Am Paris,MISC,,,fr,1
+The Gray Man,The Gray Man,MISC,,,fr,1
+lenclave palestinienne,lenclave palestinienne,MISC,,,fr,1
+Franc,Franc,MISC,,,fr,1
+Lélection,Lélection,MISC,,,fr,1
+Le Parrain,Le Parrain,MISC,,,fr,1
+Rockinin The Free World,Rockinin The Free World,MISC,,,fr,1
+Free World,Free World,MISC,,,fr,1
+mumblecore,mumblecore,MISC,,,fr,1
+Le Parrain et,Le Parrain et,MISC,,,fr,1
+Megal,Megal,MISC,,,fr,1
+Conversation secrète,Conversation secrète,MISC,,,fr,1
+Palmes dor,Palmes dor,MISC,,,fr,1
+Kinds of Kindness,Kinds of Kindness,MISC,,,fr,1
+Linceuls,Linceuls,MISC,,,fr,1
+vote du,vote du,MISC,,,fr,1
+Star Wars”,Star Wars”,MISC,,,fr,1
+Thor et Avengers,Thor et Avengers,MISC,,,fr,1
+Damoclès #MeToo,Damoclès #MeToo,MISC,,,fr,1
+Palme dhonneur un cadeau,Palme dhonneur un cadeau,MISC,,,fr,1
+ABC.Après,ABC.Après,MISC,,,fr,1
+ABC,ABC,MISC,,,fr,1
+B”,B”,MISC,,,fr,1
+MeToo,MeToo,MISC,,,fr,1
+MEGA,MEGA,MISC,,,fr,1
+Eurovision,Eurovision,MISC,,,fr,1
+lArgentine,lArgentine,MISC,0.017407407407407406,0.05925925925925926,fr,1
+dAnne Rice,dAnne Rice,MISC,,,fr,1
+Paramount+,Paramount+,MISC,0.45,0.44999999999999996,fr,1
+Festival dAvignon,Festival dAvignon,MISC,,,fr,1
+Festival d’Avignon,Festival d’Avignon,MISC,,,fr,1
+Le Parrain’,Le Parrain’,MISC,,,fr,1
+Instagram lactu pop du jour,Instagram lactu pop du jour,MISC,,,fr,1
+Wemby,Wemby,MISC,,,fr,1
+RAM,RAM,MISC,,,fr,1
+L’Exorciste” ?,L’Exorciste” ?,MISC,,,fr,1
+French Connection”,French Connection”,MISC,,,fr,1
+Quiz,Quiz,MISC,,,fr,1
+Barr is alleged to have had,Barr is alleged to have had,MISC,,,fr,1
+During his time as Dalton',During his time as Dalton',MISC,,,fr,1
+Dalton School from 1964 to 1974,Dalton School from 1964 to 1974,MISC,,,fr,1
+He was headmaster of the,He was headmaster of the,MISC,,,fr,1
+Le Premier ministre peine,Le Premier ministre peine,MISC,,,fr,1
+Couvre-feu,Couvre-feu,MISC,,,fr,1
+lAss,lAss,MISC,,,fr,1
+Vous avez raté les derniers événements sur la guerre en Ukraine,Vous avez raté les derniers événements sur la guerre en Ukraine,MISC,,,fr,1
+Tcherniguiv,Tcherniguiv,MISC,,,fr,1
+Triple,Triple,MISC,,,fr,1
+Conflit au Proche-Orient,Conflit au Proche-Orient,MISC,,,fr,1
 Le Premier ministre israélien,Le Premier ministre israélien,MISC,,,fr,1
-Future...,Future...,MISC,,,fr,1
 Festival du livre de Paris,Festival du livre de Paris,MISC,,,fr,1
 Vinted,Vinted,MISC,,,fr,1
 TRIBUNE,TRIBUNE,MISC,,,fr,1
+LETTRE DE BUENOS AIRES,LETTRE DE BUENOS AIRES,MISC,,,fr,1
 Débarquement en Normandie,Débarquement en Normandie,MISC,,,fr,1
-Français,Français,MISC,0.004952380952380953,0.01761904761904762,fr,1
+Français,Français,MISC,0.005714285714285714,0.02032967032967033,fr,1
 Aux E,Aux E,MISC,,,fr,1
+JULIEN DE ROSA,JULIEN DE ROSA,MISC,,,fr,1
 lopération Sentinelle,lopération Sentinelle,MISC,,,fr,1
 ChatGPT Entreprise Pa,ChatGPT Entreprise Pa,MISC,,,fr,1
 ChatGPT Entreprise,ChatGPT Entreprise,MISC,,,fr,1
 Retrouvez tous nos contenus sur les,Retrouvez tous nos contenus sur les,MISC,,,fr,1
 Lire,Lire,MISC,,,fr,1
 croyez-moi !,croyez-moi !,MISC,,,fr,1
+Ice Spice,Ice Spice,MISC,,,fr,1
 Offensive de l’Iran,Offensive de l’Iran,MISC,,,fr,1
+Future...,Future...,MISC,,,fr,1
 Kpri,Kpri,MISC,,,fr,1
-Cannes 2024,Cannes 2024,MISC,,,fr,1
-Metro Boomin,Metro Boomin,MISC,,,fr,1
-Future &#038,Future &#038,MISC,,,fr,1
-"Getty Images
-Publié le … [+2488 chars","Getty Images
-Publié le … [+2488 chars",MISC,,,fr,1
-Télérama,Télérama,MISC,,,fr,1
-La sentence a ét,La sentence a ét,MISC,,,fr,1
-Fest,Fest,MISC,,,fr,1
-Festival de Cannes 2024,Festival de Cannes 2024,MISC,,,fr,1
-The Lobster,The Lobster,MISC,,,fr,1
-The Lobster”,The Lobster”,MISC,,,fr,1
-Minority Report”,Minority Report”,MISC,,,fr,1
-“Sugar”,“Sugar”,MISC,,,fr,1
-CinemaC,CinemaC,MISC,,,fr,1
-Fargeat,Fargeat,MISC,,,fr,1
-Buffy Contre les Vampires » de ne pas avoir fini,Buffy Contre les Vampires » de ne pas avoir fini,MISC,,,fr,1
-Ready Player One,Ready Player One,MISC,,,fr,1
-CHRONIQUE DE CHRISTINE CLERC,CHRONIQUE DE CHRISTINE CLERC,MISC,,,fr,1
-Also it sh,Also it sh,MISC,,,fr,1
-Screen Actors,Screen Actors,MISC,,,fr,1
-Prix planchers,Prix planchers,MISC,,,fr,1
-The Las,The Las,MISC,,,fr,1
-Breaking Bad,Breaking Bad,MISC,,,fr,1
-La Tribune Dimanche »… [+2579 chars,La Tribune Dimanche »… [+2579 chars,MISC,,,fr,1
-dOkaloosa,dOkaloosa,MISC,,,fr,1
-Lédition 2024 du,Lédition 2024 du,MISC,,,fr,1
-Révolté par linvasion russe,Révolté par linvasion russe,MISC,,,fr,1
-MeToo du cinéma,MeToo du cinéma,MISC,,,fr,1
-FOOTBALL,FOOTBALL,MISC,,,fr,1
-Soulèvements de la Terre décommandés,Soulèvements de la Terre décommandés,MISC,,,fr,1
+outre-Atlantique,outre-Atlantique,MISC,,,fr,1
+The Movie Critic,The Movie Critic,MISC,,,fr,1
+I Can Do It W,I Can Do It W,MISC,,,fr,1
+Spotify,Spotify,MISC,,,fr,1
+En anglais,En anglais,MISC,,,fr,1
+Le cercle des poètes torturés,Le cercle des poètes torturés,MISC,,,fr,1
+TTPD,TTPD,MISC,,,fr,1
+Lalbum The Tortured Poets Department,Lalbum The Tortured Poets Department,MISC,,,fr,1
+YUKI IWAMURA,YUKI IWAMURA,MISC,,,fr,1
+Premier ministre de Papouasie-Nouvelle-Guinée,Premier ministre de Papouasie-Nouvelle-Guinée,MISC,,,fr,1
+Le Premier ministre de Papouasie-Nouvelle-Guinée,Le Premier ministre de Papouasie-Nouvelle-Guinée,MISC,,,fr,1
+Premier ministre de Papouasie-Nouvelle-Guinée na,Premier ministre de Papouasie-Nouvelle-Guinée na,MISC,,,fr,1
+Le Premier Ministre de Papouasie,Le Premier Ministre de Papouasie,MISC,,,fr,1
+Commentaires sur Vidéo,Commentaires sur Vidéo,MISC,,,fr,1
+Congrès américainEn,Congrès américainEn,MISC,,,fr,1
+Visage poupin,Visage poupin,MISC,,,fr,1
+Espace lointain,Espace lointain,MISC,,,fr,1
+Dumber,Dumber,MISC,,,fr,1
+Dumb,Dumb,MISC,,,fr,1
+Tac,Tac,MISC,,,fr,1
+Elon Musk giga,Elon Musk giga,MISC,,,fr,1
+Radical Optimism,Radical Optimism,MISC,,,fr,1
+Kourtney goûte la chitouze,Kourtney goûte la chitouze,MISC,,,fr,1
+Elle remet ça,Elle remet ça,MISC,,,fr,1
+The Anthology,The Anthology,MISC,,,fr,1
+La reine de la pop,La reine de la pop,MISC,,,fr,1
+The Tortured Poets Departement,The Tortured Poets Departement,MISC,,,fr,1
+Cest Fortnight,Cest Fortnight,MISC,,,fr,1
+Eras Tour,Eras Tour,MISC,,,fr,1
+The Eras Tour,The Eras Tour,MISC,,,fr,1
+The Machine,The Machine,MISC,,,fr,1
+lattaqu,lattaqu,MISC,,,fr,1
+Agression d’Israël,Agression d’Israël,MISC,,,fr,1
+Dabord,Dabord,MISC,,,fr,1
+An 39 Du Rdpc,An 39 Du Rdpc,MISC,,,fr,1
+SuperBowl,SuperBowl,MISC,,,fr,1
+Le Film français,Le Film français,MISC,,,fr,1
+Les Écologistes pour les élections europénnes,Les Écologistes pour les élections europénnes,MISC,,,fr,1
+dav,dav,MISC,,,fr,1
+Braun-Pivet,Braun-Pivet,MISC,,,fr,1
+Ruby,Ruby,MISC,,,fr,1
+Les Trolls 3,Les Trolls 3,MISC,,,fr,1
+Lupita,Lupita,MISC,,,fr,1
+aâ€¦,aâ€¦,MISC,,,fr,1
+The case for James Comer being,The case for James Comer being,MISC,,,fr,1
+Jeux o,Jeux o,MISC,,,fr,1
+JO de Paris 2024,JO de Paris 2024,MISC,,,fr,1
+Fashion week,Fashion week,MISC,,,fr,1
+sceau du Congrès,sceau du Congrès,MISC,,,fr,1
+Congrès ce lundi,Congrès ce lundi,MISC,,,fr,1
+Projet Titan,Projet Titan,MISC,,,fr,1
+Constitution au Congrès à Versailles,Constitution au Congrès à Versailles,MISC,,,fr,1
+Le Journal du Dimanche,Le Journal du Dimanche,MISC,,,fr,1
+Ifop,Ifop,MISC,,,fr,1
+DIVE,DIVE,MISC,,,fr,1
+L'Événement sur France,L'Événement sur France,MISC,,,fr,1
+Numalliance,Numalliance,MISC,,,fr,1
+Dividendes Climat,Dividendes Climat,MISC,,,fr,1
+Vendredi dernier,Vendredi dernier,MISC,,,fr,1
+Principles First,Principles First,MISC,,,fr,1
+Salon de lagriculture 2024,Salon de lagriculture 2024,MISC,,,fr,1
+depute,depute,MISC,,,fr,1
+NOUS,NOUS,MISC,,,fr,1
+CA RESTE,CA RESTE,MISC,,,fr,1
+ul><li>Partage… [+4980 chars,ul><li>Partage… [+4980 chars,MISC,,,fr,1
+One love,One love,MISC,,,fr,1
+LETTRE DU PALAIS,LETTRE DU PALAIS,MISC,,,fr,1
+Premier ministre grec,Premier ministre grec,MISC,,,fr,1
+Palmarès des Oscars,Palmarès des Oscars,MISC,,,fr,1
+campagne de Reconquête !,campagne de Reconquête !,MISC,,,fr,1
+campagne des Européennes,campagne des Européennes,MISC,,,fr,1
+Imams de France,Imams de France,MISC,,,fr,1
+cheval de Troie,cheval de Troie,MISC,,,fr,1
+RALPH TEDY EROL,RALPH TEDY EROL,MISC,,,fr,1
+Elabe,Elabe,MISC,,,fr,1
+campagne des Européennes de la majorité présidentielle,campagne des Européennes de la majorité présidentielle,MISC,,,fr,1
+Meeting de Renaissance,Meeting de Renaissance,MISC,,,fr,1
+Rassembl,Rassembl,MISC,,,fr,1
+vo,vo,MISC,,,fr,1
+Hulu,Hulu,MISC,,,fr,1
+Toile,Toile,MISC,,,fr,1
+lArgentin,lArgentin,MISC,,,fr,1
+M Pokora en marcel,M Pokora en marcel,MISC,,,fr,1
+La voilà jetée,La voilà jetée,MISC,,,fr,1
+MARKUS,MARKUS,MISC,,,fr,1
+Intelligence artificielle,Intelligence artificielle,MISC,,,fr,1
+Psycho Killers” du groupe “Talking Heads”,Psycho Killers” du groupe “Talking Heads”,MISC,,,fr,1
+Inconnue des Français,Inconnue des Français,MISC,,,fr,1
+Maestro,Maestro,MISC,0.21666666666666665,0.3,fr,1
+Oscar du meilleur,Oscar du meilleur,MISC,,,fr,1
+Nominee Gift Bags,Nominee Gift Bags,MISC,,,fr,1
+Menace,Menace,MISC,,,fr,1
+Pile,Pile,MISC,,,fr,1
+Coccinelle,Coccinelle,MISC,,,fr,1
+Premier ministre gre,Premier ministre gre,MISC,,,fr,1
+BVA Xsight,BVA Xsight,MISC,,,fr,1
+Les bronzés,Les bronzés,MISC,,,fr,1
+Dune,Dune,MISC,,,fr,1
 Le Premier Ministre De Démissionner,Le Premier Ministre De Démissionner,MISC,,,fr,1
-Desperate HousewivesJame,Desperate HousewivesJame,MISC,,,fr,1
+Also it sh,Also it sh,MISC,,,fr,1
 the truth will take exponentially more effort to outweigh the lie,the truth will take exponentially more effort to outweigh the lie,MISC,,,fr,1
-GONZALO FUENTES / AP,GONZALO FUENTES / AP,MISC,,,fr,1
 As long as it can smear an,As long as it can smear an,MISC,,,fr,1
 hardinparamedic,hardinparamedic,MISC,,,fr,1
 dHéléna,dHéléna,MISC,,,fr,1
@@ -394,75 +448,11 @@ Arméniens,Arméniens,MISC,,,fr,1
 Polonais,Polonais,MISC,,,fr,1
 Hongrois,Hongrois,MISC,-0.06076923076923077,0.07615384615384616,fr,1
 Juifs,Juifs,MISC,,,fr,1
-Manouchian,Manouchian,MISC,-0.020256410256410257,0.025384615384615384,fr,1
-LOpinion,LOpinion,MISC,,,fr,1
-La guerre contre la,La guerre contre la,MISC,,,fr,1
-dAdidas,dAdidas,MISC,,,fr,1
-On a beau chercher,On a beau chercher,MISC,,,fr,1
-DIVE,DIVE,MISC,,,fr,1
-L'Événement sur France,L'Événement sur France,MISC,,,fr,1
-Numalliance,Numalliance,MISC,,,fr,1
-Dividendes Climat,Dividendes Climat,MISC,,,fr,1
-Vendredi dernier,Vendredi dernier,MISC,,,fr,1
-Principles First,Principles First,MISC,,,fr,1
-Salon de lagriculture 2024,Salon de lagriculture 2024,MISC,,,fr,1
-depute,depute,MISC,,,fr,1
-NOUS,NOUS,MISC,,,fr,1
-CA RESTE,CA RESTE,MISC,,,fr,1
-BVA Xsight,BVA Xsight,MISC,,,fr,1
-LETTRE DU PALAIS,LETTRE DU PALAIS,MISC,,,fr,1
-Les bronzés,Les bronzés,MISC,,,fr,1
-LISTE DE LA,LISTE DE LA,MISC,,,fr,1
-X,X,MISC,0.024999999999999998,0.0,fr,1
-made in America,made in America,MISC,,,fr,1
-Le Stratège »,Le Stratège »,MISC,,,fr,1
-This Is Me...,This Is Me...,MISC,,,fr,1
-This Is Me…Now,This Is Me…Now,MISC,,,fr,1
-Post Malone,Post Malone,MISC,,,fr,1
-The...,The...,MISC,,,fr,1
-CINÉMA,CINÉMA,MISC,,,fr,1
-Le Château le fait volontiers savoir,Le Château le fait volontiers savoir,MISC,,,fr,1
-acte II,acte II,MISC,,,fr,1
-Prime Video « The Greatest Love Story Never Told,Prime Video « The Greatest Love Story Never Told,MISC,,,fr,1
-Im Just Ken,Im Just Ken,MISC,,,fr,1
-Just Ken,Just Ken,MISC,,,fr,1
-ZAN,ZAN,MISC,,,fr,1
+Manouchian,Manouchian,MISC,-0.030384615384615385,0.03807692307692308,fr,1
 That was 40 years ago and $34Trillion,That was 40 years ago and $34Trillion,MISC,,,fr,1
 F-15 and shot down one of our own satellites in orbit just to see if we could,F-15 and shot down one of our own satellites in orbit just to see if we could,MISC,,,fr,1
 we strapped,we strapped,MISC,,,fr,1
-République,République,MISC,-0.008666666666666665,0.06666666666666667,fr,1
-And round one goes to,And round one goes to,MISC,,,fr,1
-This is me...,This is me...,MISC,,,fr,1
-Un grand déballage,Un grand déballage,MISC,,,fr,1
-Premier ministre sest,Premier ministre sest,MISC,,,fr,1
-Recyclamer,Recyclamer,MISC,,,fr,1
-Saint-Valentin,Saint-Valentin,MISC,,,fr,1
-Arkham,Arkham,MISC,,,fr,1
-Harley,Harley,MISC,,,fr,1
-Joker,Joker,MISC,,,fr,1
-DISTANBUL,DISTANBUL,MISC,,,fr,1
-SAMEER AL-DOUMY,SAMEER AL-DOUMY,MISC,,,fr,1
-Premier ministre israélien,Premier ministre israélien,MISC,,,fr,1
-CULTURE,CULTURE,MISC,,,fr,1
-EN IMAGES,EN IMAGES,MISC,,,fr,1
 Résistance,Résistance,MISC,,,fr,1
-LA DEMANDE DOCUMENTAIRE,LA DEMANDE DOCUMENTAIRE,MISC,,,fr,1
-MAL,MAL,MISC,,,fr,1
-Broken Flowers,Broken Flowers,MISC,,,fr,1
-JULIEN MUGUET,JULIEN MUGUET,MISC,,,fr,1
-VR,VR,MISC,,,fr,1
-Quest 3,Quest 3,MISC,,,fr,1
-Cee,Cee,MISC,,,fr,1
-Congrès pour mensonges,Congrès pour mensonges,MISC,,,fr,1
-Saint-Valentin approche,Saint-Valentin approche,MISC,,,fr,1
-Super Bowl !,Super Bowl !,MISC,,,fr,1
-Qui l’eût cru ?,Qui l’eût cru ?,MISC,,,fr,1
-Émission de rap,Émission de rap,MISC,,,fr,1
-DVM,DVM,MISC,,,fr,1
-a few years ago when subordinates couldn't meaningfully,a few years ago when subordinates couldn't meaningfully,MISC,,,fr,1
-Just unbelievably,Just unbelievably,MISC,,,fr,1
-the person who's yelling and screaming is usually trying,the person who's yelling and screaming is usually trying,MISC,,,fr,1
-Des Appels Pour Sa Candidature,Des Appels Pour Sa Candidature,MISC,,,fr,1
 DDoSia project,DDoSia project,MISC,,,fr,1
 NoName057,NoName057,MISC,,,fr,1
 her and Navalny’,her and Navalny’,MISC,,,fr,1
@@ -471,61 +461,54 @@ Putin release,Putin release,MISC,,,fr,1
 Le Grand Nord,Le Grand Nord,MISC,,,fr,1
 La Famine,La Famine,MISC,,,fr,1
 Missak,Missak,MISC,,,fr,1
-TGV,TGV,MISC,,,fr,1
-dEthiopie,dEthiopie,MISC,,,fr,1
-dHorizo,dHorizo,MISC,,,fr,1
-Figaroce,Figaroce,MISC,,,fr,1
-Tout le gratin du cinéma britannique,Tout le gratin du cinéma britannique,MISC,,,fr,1
-British Academy,British Academy,MISC,,,fr,1
-streaming,streaming,MISC,,,fr,1
-LHumanité,LHumanité,MISC,,,fr,1
-Panthéonisation,Panthéonisation,MISC,,,fr,1
-dAdèle Exarchopoulos,dAdèle Exarchopoulos,MISC,,,fr,1
-INTERVIEW POLITIQUE DU WEEK-END,INTERVIEW POLITIQUE DU WEEK-END,MISC,,,fr,1
-Fashion Awards,Fashion Awards,MISC,,,fr,1
-Pressentant très certainement le pacte faustien,Pressentant très certainement le pacte faustien,MISC,,,fr,1
-Meel,Meel,MISC,,,fr,1
-Meel B,Meel B,MISC,,,fr,1
-Yeat,Yeat,MISC,,,fr,1
-Mairo & H JeuneCrack,Mairo & H JeuneCrack,MISC,,,fr,1
-lArgentine,lArgentine,MISC,,,fr,1
-10 Février 2024,10 Février 2024,MISC,,,fr,1
-Le Journal du Dimanche,Le Journal du Dimanche,MISC,,,fr,1
-Constitution au Congrès à Versailles,Constitution au Congrès à Versailles,MISC,,,fr,1
-Projet Titan,Projet Titan,MISC,,,fr,1
-La guerre en Ukraine,La guerre en Ukraine,MISC,,,fr,1
-ALYSSA POINTER,ALYSSA POINTER,MISC,,,fr,1
-Cannes,Cannes,MISC,0.10285714285714286,0.08571428571428572,fr,1
-Triangulation,Triangulation,MISC,,,fr,1
-La Franc,La Franc,MISC,,,fr,1
-Courage and Civility,Courage and Civility,MISC,,,fr,1
-Desperate,Desperate,MISC,,,fr,1
-20 Heures de TF1,20 Heures de TF1,MISC,,,fr,1
-Paradise,Paradise,MISC,,,fr,1
-str,str,MISC,,,fr,1
-dEmmanuel Macron,dEmmanuel Macron,MISC,,,fr,1
-Pa,Pa,MISC,,,fr,1
-On en Agro !,On en Agro !,MISC,,,fr,1
-Prix planchers en agriculture,Prix planchers en agriculture,MISC,,,fr,1
-supposed to be an early pick but sat their awkwardly until #23 when the Packers got him as a Bret,supposed to be an early pick but sat their awkwardly until #23 when the Packers got him as a Bret,MISC,,,fr,1
-Podcast,Podcast,MISC,,,fr,1
-He',He',MISC,,,fr,1
-I'm beginning to think this Aaron Rodgers,I'm beginning to think this Aaron Rodgers,MISC,,,fr,1
-coaliti,coaliti,MISC,,,fr,1
-dAmélie Oudéa-Castera,dAmélie Oudéa-Castera,MISC,,,fr,1
-vi,vi,MISC,,,fr,1
-Rule of Law,Rule of Law,MISC,,,fr,1
-les Anglo-Saxons,les Anglo-Saxons,MISC,,,fr,1
-LEtat,LEtat,MISC,,,fr,1
-Ladresse,Ladresse,MISC,,,fr,1
-Lara T,Lara T,MISC,,,fr,1
-Englué,Englué,MISC,,,fr,1
-Pandore »,Pandore »,MISC,,,fr,1
-Se viene el estallido,Se viene el estallido,MISC,,,fr,1
-DansDans,DansDans,MISC,,,fr,1
-Chr,Chr,MISC,,,fr,1
-CertainesCertaines,CertainesCertaines,MISC,,,fr,1
-Inception ?,Inception ?,MISC,,,fr,1
+Desperate HousewivesJame,Desperate HousewivesJame,MISC,,,fr,1
+Soulèvements de la Terre décommandés,Soulèvements de la Terre décommandés,MISC,,,fr,1
+On a beau chercher,On a beau chercher,MISC,,,fr,1
+FOOTBALL,FOOTBALL,MISC,,,fr,1
+LISTE DE LA,LISTE DE LA,MISC,,,fr,1
+made in America,made in America,MISC,,,fr,1
+Le Stratège »,Le Stratège »,MISC,,,fr,1
+This Is Me,This Is Me,MISC,,,fr,1
+This Is Me...,This Is Me...,MISC,,,fr,1
+This Is Me…Now,This Is Me…Now,MISC,,,fr,1
+Post Malone,Post Malone,MISC,,,fr,1
+The...,The...,MISC,,,fr,1
+Le Château le fait volontiers savoir,Le Château le fait volontiers savoir,MISC,,,fr,1
+acte II,acte II,MISC,,,fr,1
+Prime Video « The Greatest Love Story Never Told,Prime Video « The Greatest Love Story Never Told,MISC,,,fr,1
+Im Just Ken,Im Just Ken,MISC,,,fr,1
+Just Ken,Just Ken,MISC,,,fr,1
+ZAN,ZAN,MISC,,,fr,1
+La guerre contre la,La guerre contre la,MISC,,,fr,1
+GONZALO FUENTES / AP,GONZALO FUENTES / AP,MISC,,,fr,1
+LOpinion,LOpinion,MISC,,,fr,1
+Screen Actors,Screen Actors,MISC,,,fr,1
+Prix planchers,Prix planchers,MISC,,,fr,1
+The Las,The Las,MISC,,,fr,1
+Breaking Bad,Breaking Bad,MISC,,,fr,1
+La Tribune Dimanche »… [+2579 chars,La Tribune Dimanche »… [+2579 chars,MISC,,,fr,1
+dOkaloosa,dOkaloosa,MISC,,,fr,1
+Lédition 2024 du,Lédition 2024 du,MISC,,,fr,1
+EN DIRECT,EN DIRECT,MISC,,,fr,1
+Révolté par linvasion russe,Révolté par linvasion russe,MISC,,,fr,1
+MeToo du cinéma,MeToo du cinéma,MISC,,,fr,1
+Killers of the flower,Killers of the flower,MISC,,,fr,1
+Pauvres créatures,Pauvres créatures,MISC,,,fr,1
+Verdict cette nuit,Verdict cette nuit,MISC,,,fr,1
+TOU,TOU,MISC,,,fr,1
+attentat de Moscou,attentat de Moscou,MISC,,,fr,1
+attaque de,attaque de,MISC,,,fr,1
+New Rules,New Rules,MISC,,,fr,1
+linterprète,linterprète,MISC,,,fr,1
+La Tribune,La Tribune,MISC,,,fr,1
+ÉCO,ÉCO,MISC,,,fr,1
+À soixante-dix-sept jours,À soixante-dix-sept jours,MISC,,,fr,1
+Buffy Contre les Vampires,Buffy Contre les Vampires,MISC,,,fr,1
+Buffy Contre les Vampires » de ne pas avoir fini,Buffy Contre les Vampires » de ne pas avoir fini,MISC,,,fr,1
+Attaque de Moscou,Attaque de Moscou,MISC,,,fr,1
+CHRONIQUE DE CHRISTINE CLERC,CHRONIQUE DE CHRISTINE CLERC,MISC,,,fr,1
+dAdidas,dAdidas,MISC,,,fr,1
+FILM,FILM,MISC,,,fr,1
 UNIVERSAL,UNIVERSAL,MISC,,,fr,1
 Pe,Pe,MISC,,,fr,1
 u,u,MISC,,,fr,1
@@ -540,55 +523,56 @@ agenda du Sénat,agenda du Sénat,MISC,,,fr,1
 Place nette XXL,Place nette XXL,MISC,,,fr,1
 Opération,Opération,MISC,,,fr,1
 Buffy,Buffy,MISC,,,fr,1
+La Loupe,La Loupe,MISC,0.14285714285714285,0.27142857142857146,fr,1
+TGV,TGV,MISC,,,fr,1
+Lévénement,Lévénement,MISC,,,fr,1
+Tensions,Tensions,MISC,,,fr,1
+Premium X.,Premium X.,MISC,,,fr,1
+deu,deu,MISC,,,fr,1
+MARCELINO,MARCELINO,MISC,,,fr,1
+The New York Times,The New York Times,MISC,,,fr,1
+Le Vif,Le Vif,MISC,,,fr,1
+The post USA,The post USA,MISC,,,fr,1
+Procès FTX,Procès FTX,MISC,,,fr,1
+Convaincu de fraude,Convaincu de fraude,MISC,,,fr,1
+exa,exa,MISC,,,fr,1
+Le procès,Le procès,MISC,,,fr,1
+Pirates des Caraïbes,Pirates des Caraïbes,MISC,,,fr,1
+50 Cent,50 Cent,MISC,,,fr,1
+lOscar,lOscar,MISC,,,fr,1
+”Kind of Kindness”,”Kind of Kindness”,MISC,,,fr,1
+Kind of Kindness”,Kind of Kindness”,MISC,,,fr,1
+lOscar du meilleur acteur,lOscar du meilleur acteur,MISC,,,fr,1
+Kind of,Kind of,MISC,,,fr,1
+Révolution à,Révolution à,MISC,,,fr,1
+accords de Munich,accords de Munich,MISC,,,fr,1
+Opérations dites XXL,Opérations dites XXL,MISC,,,fr,1
+Linstance,Linstance,MISC,,,fr,1
+Une sacrée ristourne,Une sacrée ristourne,MISC,,,fr,1
+Vigipirate à «urgence attentat,Vigipirate à «urgence attentat,MISC,,,fr,1
+Attentat de Moscou,Attentat de Moscou,MISC,,,fr,1
+Vigipirate dimanche soir,Vigipirate dimanche soir,MISC,,,fr,1
+Attentat,Attentat,MISC,,,fr,1
+Le Premier ministre japonais,Le Premier ministre japonais,MISC,,,fr,1
 SMS assassin,SMS assassin,MISC,,,fr,1
 Soupçons,Soupçons,MISC,,,fr,1
 Présidentielle américaine,Présidentielle américaine,MISC,,,fr,1
 CHRONIQUE DE SOPHIE COIGNARD,CHRONIQUE DE SOPHIE COIGNARD,MISC,,,fr,1
-Entente,Entente,MISC,,,fr,1
-Premier ministre dEmmanuel Macron,Premier ministre dEmmanuel Macron,MISC,,,fr,1
-Séries Mania,Séries Mania,MISC,,,fr,1
-En Danger,En Danger,MISC,,,fr,1
-Menaces De Mort Contre Un Enseignant : La Liberté D'expression,Menaces De Mort Contre Un Enseignant : La Liberté D'expression,MISC,,,fr,1
-Palestiniens,Palestiniens,MISC,,,fr,1
-L’ombre”,L’ombre”,MISC,,,fr,1
-Series Mania,Series Mania,MISC,,,fr,1
-festival Séries Mania,festival Séries Mania,MISC,,,fr,1
+coaliti,coaliti,MISC,,,fr,1
+dAmélie Oudéa-Castera,dAmélie Oudéa-Castera,MISC,,,fr,1
+vi,vi,MISC,,,fr,1
+Rule of Law,Rule of Law,MISC,,,fr,1
+les Anglo-Saxons,les Anglo-Saxons,MISC,,,fr,1
+LEtat,LEtat,MISC,,,fr,1
+Ladresse,Ladresse,MISC,,,fr,1
+Lara T,Lara T,MISC,,,fr,1
+Englué,Englué,MISC,,,fr,1
+Pandore »,Pandore »,MISC,,,fr,1
+Se viene el estallido,Se viene el estallido,MISC,,,fr,1
 Ope,Ope,MISC,,,fr,1
+Podcast,Podcast,MISC,,,fr,1
 Premier ministre haïtien contesté,Premier ministre haïtien contesté,MISC,,,fr,1
-Congrès ce lundi,Congrès ce lundi,MISC,,,fr,1
-One love,One love,MISC,,,fr,1
-La voilà jetée,La voilà jetée,MISC,,,fr,1
-MARKUS,MARKUS,MISC,,,fr,1
-Intelligence artificielle,Intelligence artificielle,MISC,,,fr,1
-Psycho Killers” du groupe “Talking Heads”,Psycho Killers” du groupe “Talking Heads”,MISC,,,fr,1
-Inconnue des Français,Inconnue des Français,MISC,,,fr,1
-Maestro,Maestro,MISC,0.21666666666666665,0.3,fr,1
-Oscar du meilleur,Oscar du meilleur,MISC,,,fr,1
-Nominee Gift Bags,Nominee Gift Bags,MISC,,,fr,1
-Menace,Menace,MISC,,,fr,1
-Pile,Pile,MISC,,,fr,1
-Coccinelle,Coccinelle,MISC,,,fr,1
-Premier ministre gre,Premier ministre gre,MISC,,,fr,1
-Premier ministre grec,Premier ministre grec,MISC,,,fr,1
-Le Film français,Le Film français,MISC,,,fr,1
 Le Premier ministre dHaïti,Le Premier ministre dHaïti,MISC,,,fr,1
-ul><li>Partage… [+4980 chars,ul><li>Partage… [+4980 chars,MISC,,,fr,1
-Les Écologistes pour les élections europénnes,Les Écologistes pour les élections europénnes,MISC,,,fr,1
-dav,dav,MISC,,,fr,1
-Braun-Pivet,Braun-Pivet,MISC,,,fr,1
-Ruby,Ruby,MISC,,,fr,1
-Les Trolls 3,Les Trolls 3,MISC,,,fr,1
-Lupita,Lupita,MISC,,,fr,1
-aâ€¦,aâ€¦,MISC,,,fr,1
-The case for James Comer being,The case for James Comer being,MISC,,,fr,1
-Jeux o,Jeux o,MISC,,,fr,1
-JO de Paris 2024,JO de Paris 2024,MISC,,,fr,1
-Fashion week,Fashion week,MISC,,,fr,1
-sceau du Congrès,sceau du Congrès,MISC,,,fr,1
-M Pokora en marcel,M Pokora en marcel,MISC,,,fr,1
-lArgentin,lArgentin,MISC,,,fr,1
-Toile,Toile,MISC,,,fr,1
-Hulu,Hulu,MISC,,,fr,1
 Le Premier ministre d’Haïti,Le Premier ministre d’Haïti,MISC,,,fr,1
 Expulsion,Expulsion,MISC,,,fr,1
 Premier ministre haïtien,Premier ministre haïtien,MISC,,,fr,1
@@ -601,19 +585,34 @@ Ed Harris,Ed Harris,MISC,,,fr,1
 Grand-messe,Grand-messe,MISC,,,fr,1
 Anatomie d'une chute sacré,Anatomie d'une chute sacré,MISC,,,fr,1
 Actualité : Oscars 2024 : Oppenheimer,Actualité : Oscars 2024 : Oppenheimer,MISC,,,fr,1
-Lévénement,Lévénement,MISC,,,fr,1
-Verdict cette nuit,Verdict cette nuit,MISC,,,fr,1
-Pauvres créatures,Pauvres créatures,MISC,,,fr,1
-Killers of the flower,Killers of the flower,MISC,,,fr,1
-Palmarès des Oscars,Palmarès des Oscars,MISC,,,fr,1
-campagne de Reconquête !,campagne de Reconquête !,MISC,,,fr,1
-campagne des Européennes,campagne des Européennes,MISC,,,fr,1
-Imams de France,Imams de France,MISC,,,fr,1
-cheval de Troie,cheval de Troie,MISC,,,fr,1
-RALPH TEDY EROL,RALPH TEDY EROL,MISC,,,fr,1
-Elabe,Elabe,MISC,,,fr,1
-campagne des Européennes de la majorité présidentielle,campagne des Européennes de la majorité présidentielle,MISC,,,fr,1
-Meeting de Renaissance,Meeting de Renaissance,MISC,,,fr,1
-Rassembl,Rassembl,MISC,,,fr,1
-vo,vo,MISC,,,fr,1
-dAnne Rice,dAnne Rice,MISC,,,fr,1
+I'm beginning to think this Aaron Rodgers,I'm beginning to think this Aaron Rodgers,MISC,,,fr,1
+He',He',MISC,,,fr,1
+supposed to be an early pick but sat their awkwardly until #23 when the Packers got him as a Bret,supposed to be an early pick but sat their awkwardly until #23 when the Packers got him as a Bret,MISC,,,fr,1
+DansDans,DansDans,MISC,,,fr,1
+Entente,Entente,MISC,,,fr,1
+Premier ministre dEmmanuel Macron,Premier ministre dEmmanuel Macron,MISC,,,fr,1
+Séries Mania,Séries Mania,MISC,,,fr,1
+En Danger,En Danger,MISC,,,fr,1
+Menaces De Mort Contre Un Enseignant : La Liberté D'expression,Menaces De Mort Contre Un Enseignant : La Liberté D'expression,MISC,,,fr,1
+Palestiniens,Palestiniens,MISC,,,fr,1
+L’ombre”,L’ombre”,MISC,,,fr,1
+Series Mania,Series Mania,MISC,,,fr,1
+festival Séries Mania,festival Séries Mania,MISC,,,fr,1
+Inception ?,Inception ?,MISC,,,fr,1
+CertainesCertaines,CertainesCertaines,MISC,,,fr,1
+Chr,Chr,MISC,,,fr,1
+ALYSSA POINTER,ALYSSA POINTER,MISC,,,fr,1
+La guerre en Ukraine,La guerre en Ukraine,MISC,,,fr,1
+Triangulation,Triangulation,MISC,,,fr,1
+La Franc,La Franc,MISC,,,fr,1
+Courage and Civility,Courage and Civility,MISC,,,fr,1
+Desperate,Desperate,MISC,,,fr,1
+20 Heures de TF1,20 Heures de TF1,MISC,,,fr,1
+Paradise,Paradise,MISC,,,fr,1
+Ready Player One,Ready Player One,MISC,,,fr,1
+str,str,MISC,,,fr,1
+dEmmanuel Macron,dEmmanuel Macron,MISC,,,fr,1
+Pa,Pa,MISC,,,fr,1
+On en Agro !,On en Agro !,MISC,,,fr,1
+Prix planchers en agriculture,Prix planchers en agriculture,MISC,,,fr,1
+Free World”,Free World”,MISC,,,fr,1
