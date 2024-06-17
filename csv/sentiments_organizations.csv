@@ -1,488 +1,479 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Assemblée nationale,Assemblée nationale,ORG,0.04943041890769165,0.10316077441077443,fr,33
 NBA,NBA,ORG,0.1831986687147978,0.2513812083973374,fr,31
-Assemblée nationale,Assemblée nationale,ORG,0.05441799371263658,0.0854811507936508,fr,28
-AFP,AFP,ORG,0.07422619047619046,0.19005952380952382,fr,23
-TF1,TF1,ORG,0.17514354727398207,0.15959627329192544,fr,23
-Apple,Apple,ORG,0.13608616383616387,0.2198915667665667,fr,22
+Apple,Apple,ORG,0.13640125816212778,0.20670787545787542,fr,23
+AFP,AFP,ORG,0.06798654244306418,0.1815967908902692,fr,23
+TF1,TF1,ORG,0.1976704459561603,0.15541761148904001,fr,21
 FTX,FTX,ORG,-0.06856349206349203,0.2602962962962963,fr,21
+Rassemblement national,Rassemblement national,ORG,0.046700302343159486,0.09258280079708654,fr,21
 Macron,Macron,ORG,0.06415452847805789,0.16133169934640523,fr,17
-Elon Musk,Elon Musk,ORG,0.04248366013071896,0.21785994397759106,fr,17
 MoDem,MoDem,ORG,0.09225,0.17989583333333334,fr,16
-lAssemblée nationale,lAssemblée nationale,ORG,0.07042231842231843,0.0996904761904762,fr,15
-TikTok,TikTok,ORG,0.09939795918367346,0.1619472789115646,fr,14
-Rassemblement national,Rassemblement national,ORG,0.0713846114203257,0.10102221191506908,fr,14
-LR,LR,ORG,-0.011509070294784578,0.13856009070294784,fr,14
-Assemblée,Assemblée,ORG,0.041455026455026446,0.12044973544973546,fr,12
-France 2,France 2,ORG,0.09537962962962963,0.1686226851851852,fr,12
+LR,LR,ORG,-0.028191468253968253,0.1266418650793651,fr,16
+lAssemblée nationale,lAssemblée nationale,ORG,0.06956529581529583,0.12347789115646257,fr,14
+TikTok,TikTok,ORG,0.09024908424908425,0.14876373626373626,fr,13
+Assemblée,Assemblée,ORG,0.028621693121693118,0.12211640211640212,fr,12
+Républicains,Républicains,ORG,0.01992529461279461,0.10457070707070705,fr,12
+REUTERS,REUTERS,ORG,0.05509577922077923,0.199708152958153,fr,12
+franceinfo,franceinfo,ORG,0.016227272727272736,0.07087878787878789,fr,11
+Sénat,Sénat,ORG,0.015666666666666666,0.10887445887445887,fr,11
 Hamas,Hamas,ORG,0.060515151515151515,0.1459090909090909,fr,11
-Sciences Po,Sciences Po,ORG,-0.008133333333333334,0.10516666666666667,fr,10
-REUTERS,REUTERS,ORG,0.03284992784992785,0.17072198172198175,fr,9
-Marvel,Marvel,ORG,0.14012152777777775,0.36878472222222225,fr,8
-Parlement européen,Parlement européen,ORG,0.05020138888888889,0.07419444444444444,fr,8
-Sénat,Sénat,ORG,0.021238095238095236,0.11282738095238096,fr,8
+Libération,Libération,ORG,0.10629880952380952,0.20777380952380953,fr,10
+BFMTV,BFMTV,ORG,0.010125060125060127,0.0851851851851852,fr,9
+Elon Musk,Elon Musk,ORG,0.027777777777777776,0.13788888888888887,fr,9
+WBC,WBC,ORG,-0.005312500000000012,0.23197916666666663,fr,8
+Sciences Po,Sciences Po,ORG,0.0002499999999999985,0.111875,fr,8
+France 2,France 2,ORG,0.08723611111111113,0.17751736111111108,fr,8
 Union européenne,Union européenne,ORG,0.03758276643990928,0.11598072562358276,fr,7
-Public Sénat,Public Sénat,ORG,0.18503663003663004,0.10758110936682365,fr,7
-BFMTV,BFMTV,ORG,0.011827458256029684,0.08333333333333334,fr,7
-Chambre des représentants,Chambre des représentants,ORG,0.02796428571428572,0.14880952380952378,fr,7
-Monde,Monde,ORG,-0.002014285714285715,0.1353690476190476,fr,7
-Républicains,Républicains,ORG,0.043706916099773244,0.10167233560090704,fr,7
 Modem,Modem,ORG,-0.012585034013605445,0.09387755102040816,fr,7
-franceinfo,franceinfo,ORG,0.02335714285714287,0.11138095238095239,fr,7
+Atos,Atos,ORG,0.05451190476190478,0.14869047619047618,fr,7
+Economie,Economie,ORG,0.13016666666666668,0.15285714285714283,fr,7
+Monde,Monde,ORG,-0.015250000000000001,0.11993055555555555,fr,6
 Chambre américaine des représentants,Chambre américaine des représentants,ORG,0.020208333333333335,0.14449404761904763,fr,6
-Service Relations Clients,Service Relations Clients,ORG,0.09620138888888889,0.225,fr,6
-LFI,LFI,ORG,-0.01193452380952381,0.0625595238095238,fr,6
-Libération,Libération,ORG,0.07342857142857143,0.1330952380952381,fr,6
 Comité,Comité,ORG,-0.03166666666666666,0.004166666666666668,fr,6
-UE,UE,ORG,0.13435052910052908,0.1475793650793651,fr,6
-ministre de l'Intérieur,ministre de l'Intérieur,ORG,0.042527777777777775,0.10773148148148148,fr,6
-X,X,ORG,0.02085317460317461,0.19626984126984126,fr,6
-Fed,Fed,ORG,0.11021428571428574,0.12904761904761908,fr,5
-CNews,CNews,ORG,-0.001785714285714285,0.02285714285714286,fr,5
+Chambre des représentants,Chambre des représentants,ORG,0.019150000000000007,0.13166666666666665,fr,5
+UE,UE,ORG,0.14144285714285715,0.1730952380952381,fr,5
+Medef,Medef,ORG,-0.022266666666666674,0.06666666666666668,fr,5
 Denver Nuggets,Denver Nuggets,ORG,0.13258333333333333,0.264,fr,5
-Parlement,Parlement,ORG,0.08630952380952381,0.06452380952380954,fr,5
-Conseil constitutionnel,Conseil constitutionnel,ORG,0.02530857142857143,0.15653333333333333,fr,5
-RMC,RMC,ORG,0.064,0.26666666666666666,fr,5
-Economie,Economie,ORG,0.14289999999999997,0.174,fr,5
 Finances,Finances,ORG,0.06483333333333333,0.17166666666666666,fr,5
-Conseil de défense et de sécurité nationale,Conseil de défense et de sécurité nationale,ORG,0.06319999999999999,0.0755,fr,4
-Producteur,Producteur,ORG,0.03187499999999999,0.17604166666666665,fr,4
-Los Angeles Lakers,Los Angeles Lakers,ORG,0.23875,0.09,fr,4
-Transports,Transports,ORG,0.09000000000000001,0.07450000000000001,fr,4
+RMC,RMC,ORG,0.064,0.26666666666666666,fr,5
+ministre de l'Intérieur,ministre de l'Intérieur,ORG,0.03903333333333333,0.09238888888888888,fr,5
+X,X,ORG,0.07252380952380952,0.16409523809523813,fr,5
+Marvel,Marvel,ORG,0.17244444444444446,0.3942222222222222,fr,5
 "AP
 ","AP
-",ORG,0.01735714285714286,0.08044642857142856,fr,4
-New York Times,New York Times,ORG,0.275,0.115,fr,4
-Forbes,Forbes,ORG,-0.03975,0.109375,fr,4
-Insee,Insee,ORG,0.01904166666666667,0.08104166666666665,fr,4
+",ORG,0.04013571428571429,0.09310714285714285,fr,5
+Service Relations Clients,Service Relations Clients,ORG,0.08704166666666666,0.23400000000000004,fr,5
+Fed,Fed,ORG,0.11021428571428574,0.12904761904761908,fr,5
 Can,Can,ORG,0.20020833333333335,0.1691666666666667,fr,4
 Bird,Bird,ORG,0.12467857142857142,0.08964285714285714,fr,4
-Dow Jones,Dow Jones,ORG,0.16235119047619045,0.20297619047619048,fr,4
+New York Times,New York Times,ORG,0.275,0.115,fr,4
+Producteur,Producteur,ORG,0.03187499999999999,0.17604166666666665,fr,4
 Nasdaq,Nasdaq,ORG,0.16235119047619045,0.20297619047619048,fr,4
-Ceta,Ceta,ORG,0.09666666666666668,0.04375,fr,4
-Bourse de New York,Bourse de New York,ORG,0.16235119047619045,0.20297619047619048,fr,4
+Parlement européen,Parlement européen,ORG,0.031097222222222227,0.04597222222222222,fr,4
+CNews,CNews,ORG,0.007142857142857141,0.02142857142857143,fr,4
+Conseil de défense et de sécurité nationale,Conseil de défense et de sécurité nationale,ORG,0.06319999999999999,0.0755,fr,4
 AIEA,AIEA,ORG,0.15749999999999997,0.042499999999999996,fr,4
-UFC,UFC,ORG,-0.023999999999999997,0.11333333333333333,fr,3
-JT,JT,ORG,0.05416666666666667,0.11666666666666668,fr,3
-Constitution,Constitution,ORG,0.06977777777777779,0.13333333333333333,fr,3
-MONDE,MONDE,ORG,0.0968888888888889,0.07638888888888888,fr,3
-Musk,Musk,ORG,-0.07962962962962965,0.295,fr,3
-W9,W9,ORG,0.21444444444444447,0.13333333333333333,fr,3
-Nouvel Hollywood,Nouvel Hollywood,ORG,0.2013492063492064,0.1814814814814815,fr,3
-FMI,FMI,ORG,0.0730769230769231,0.09230769230769231,fr,3
-Parti communiste,Parti communiste,ORG,-0.04722222222222222,0.022222222222222223,fr,3
-Démocrates,Démocrates,ORG,0.060250000000000005,0.05833333333333333,fr,3
-FNSEA,FNSEA,ORG,0.09023809523809523,0.05000000000000001,fr,3
-G7,G7,ORG,0.12875,0.08333333333333333,fr,3
-Sénat américain,Sénat américain,ORG,0.045952380952380946,0.16279761904761905,fr,3
+Los Angeles Lakers,Los Angeles Lakers,ORG,0.23875,0.09,fr,4
+Ceta,Ceta,ORG,0.09666666666666668,0.04375,fr,4
+Forbes,Forbes,ORG,-0.03975,0.109375,fr,4
+Dow Jones,Dow Jones,ORG,0.16235119047619045,0.20297619047619048,fr,4
+Bourse de New York,Bourse de New York,ORG,0.16235119047619045,0.20297619047619048,fr,4
+Transports,Transports,ORG,0.09000000000000001,0.07450000000000001,fr,4
+Les Républicains,Les Républicains,ORG,-0.009623015873015874,0.09363095238095238,fr,4
 Conférence Ouest,Conférence Ouest,ORG,0.08787698412698414,0.22714285714285717,fr,3
-RN,RN,ORG,-0.03898148148148148,0.04074074074074074,fr,3
-Stars,Stars,ORG,0.15666666666666665,0.09333333333333332,fr,3
-DH,DH,ORG,0.19066666666666668,0.11299999999999999,fr,3
-Marine,Marine,ORG,0.04001851851851852,0.07337037037037038,fr,3
-HCFP,HCFP,ORG,0.010284900284900289,0.059259259259259255,fr,3
-OTAN,OTAN,ORG,0.071,0.016666666666666666,fr,3
-Eramet,Eramet,ORG,0.218,0.12,fr,3
 Reporters sans frontières,Reporters sans frontières,ORG,-0.01861111111111111,0.08819444444444445,fr,3
-Commission Européenne,Commission Européenne,ORG,-0.062352941176470576,0.1073529411764706,fr,2
-Apple TV Plus,Apple TV Plus,ORG,0.21222222222222223,0.09444444444444446,fr,2
-TRIBUNE,TRIBUNE,ORG,0.1857142857142857,0.15357142857142855,fr,2
-Peaky Blinders,Peaky Blinders,ORG,0.2711111111111111,0.10833333333333334,fr,2
-Mouvement démocrate,Mouvement démocrate,ORG,-0.08333333333333333,0.06666666666666667,fr,2
-AUTO24,AUTO24,ORG,0.1857142857142857,0.15357142857142855,fr,2
-The Lemon Twigs,The Lemon Twigs,ORG,0.07583333333333335,0.25,fr,2
-SENEK,SENEK,ORG,0.1857142857142857,0.15357142857142855,fr,2
-Canal+,Canal+,ORG,-0.075,0.06666666666666667,fr,2
-Eta,Eta,ORG,0.08520833333333333,0.05833333333333333,fr,2
-Formule 1,Formule 1,ORG,0.09142857142857143,0.08571428571428572,fr,2
-PCF,PCF,ORG,0.10500000000000001,0.18333333333333335,fr,2
-Queen,Queen,ORG,0.16114285714285714,0.06749999999999999,fr,2
-Renault,Renault,ORG,0.021666666666666678,0.06249999999999999,fr,2
-Al-Ittihad,Al-Ittihad,ORG,0.10500000000000001,0.1,fr,2
-PNF,PNF,ORG,-0.06428571428571428,0.021428571428571432,fr,2
-Agence internationale de l'énergie atomique,Agence internationale de l'énergie atomique,ORG,0.2733333333333333,0.024999999999999998,fr,2
-parti Renaissance,parti Renaissance,ORG,0.029999999999999995,0.0875,fr,2
-Kansas City Chiefs,Kansas City Chiefs,ORG,0.08291666666666668,0.075,fr,2
-Haut Conseil,Haut Conseil,ORG,0.14222222222222222,0.13333333333333336,fr,2
-Guardian,Guardian,ORG,-0.04374999999999999,0.07500000000000001,fr,2
-camp Macron,camp Macron,ORG,0.002999999999999999,0.0,fr,2
-cr,cr,ORG,-0.06979166666666667,0.17083333333333336,fr,2
-Costume Institute,Costume Institute,ORG,0.12075,0.0575,fr,2
-RSF,RSF,ORG,-0.027083333333333334,0.09062500000000001,fr,2
-lAFP,lAFP,ORG,0.12916666666666665,2.975,fr,2
-FSB,FSB,ORG,0.021249999999999998,0.025,fr,2
-RDPC,RDPC,ORG,0.0,0.0,fr,2
-Google,Google,ORG,0.07208333333333333,0.1375,fr,2
-LE MONDE,LE MONDE,ORG,0.07976190476190476,0.09166666666666667,fr,2
-LinkedIn,LinkedIn,ORG,0.05,0.25,fr,2
-New York Magazine,New York Magazine,ORG,0.08428571428571428,0.16785714285714287,fr,2
-France Télévisions,France Télévisions,ORG,-0.054375,0.04,fr,2
-Politique,Politique,ORG,0.030555555555555555,0.01666666666666667,fr,2
-Le Nouvel Obs,Le Nouvel Obs,ORG,0.059,0.10500000000000001,fr,2
-INTERVIEW,INTERVIEW,ORG,-0.010833333333333334,0.01875,fr,2
-ministre de l'Economie,ministre de l'Economie,ORG,0.1275,0.06249999999999999,fr,2
-Apple TV+,Apple TV+,ORG,0.15725,0.09,fr,2
-Paris Hilton,Paris Hilton,ORG,0.36000000000000004,0.225,fr,2
-UDI,UDI,ORG,0.1,0.05,fr,2
-Garanti,Garanti,ORG,0.11666666666666665,0.08333333333333333,fr,2
-Éducation nationale,Éducation nationale,ORG,0.0675,0.030000000000000006,fr,2
-quils,quils,ORG,0.173875,0.05500000000000001,fr,2
-Lions indomptables,Lions indomptables,ORG,0.14016666666666666,0.13863636363636364,fr,2
-"AFP
-","AFP
-",ORG,0.12979166666666667,0.05,fr,2
-France 3,France 3,ORG,0.034375,0.056249999999999994,fr,2
-Finances publiques,Finances publiques,ORG,0.0,0.0,fr,2
+Insee,Insee,ORG,0.02538888888888889,0.07888888888888888,fr,3
+LFI,LFI,ORG,-0.0867857142857143,0.023809523809523808,fr,3
+Sénat américain,Sénat américain,ORG,0.045952380952380946,0.16279761904761905,fr,3
+France Télévisions,France Télévisions,ORG,-0.06958333333333332,0.09333333333333332,fr,3
+Parti communiste,Parti communiste,ORG,-0.04722222222222222,0.022222222222222223,fr,3
+OTAN,OTAN,ORG,0.071,0.016666666666666666,fr,3
+Démocrates,Démocrates,ORG,0.060250000000000005,0.05833333333333333,fr,3
+DH,DH,ORG,0.19066666666666668,0.11299999999999999,fr,3
+FMI,FMI,ORG,0.0730769230769231,0.09230769230769231,fr,3
+G7,G7,ORG,0.12875,0.08333333333333333,fr,3
+HCFP,HCFP,ORG,0.010284900284900289,0.059259259259259255,fr,3
+Eramet,Eramet,ORG,0.218,0.12,fr,3
+W9,W9,ORG,0.21444444444444447,0.13333333333333333,fr,3
+PCF,PCF,ORG,0.08533333333333333,0.12888888888888891,fr,3
+U2P,U2P,ORG,-0.053777777777777785,0.06666666666666668,fr,3
+UFC,UFC,ORG,-0.023999999999999997,0.11333333333333333,fr,3
+RN,RN,ORG,-0.03898148148148148,0.04074074074074074,fr,3
+Nouvel Hollywood,Nouvel Hollywood,ORG,0.2013492063492064,0.1814814814814815,fr,3
+MONDE,MONDE,ORG,0.0968888888888889,0.07638888888888888,fr,3
+Conseil constitutionnel,Conseil constitutionnel,ORG,0.010666666666666666,0.13,fr,3
 Fonds monétaire international,Fonds monétaire international,ORG,0.0730769230769231,0.06923076923076923,fr,2
-Société Le Nickel,Société Le Nickel,ORG,0.34,0.125,fr,2
-Otan,Otan,ORG,0.10625,0.025,fr,2
 Haut conseil des finances publiques,Haut conseil des finances publiques,ORG,0.0730769230769231,0.06923076923076923,fr,2
-PDG,PDG,ORG,0.05833333333333333,0.10000000000000002,fr,2
-Amazon,Amazon,ORG,0.0916875,0.116875,fr,2
-Le Monde,Le Monde,ORG,-0.02,0.04,fr,2
-Compagnie des Alpes,Compagnie des Alpes,ORG,0.14200000000000002,0.135,fr,2
-LCI,LCI,ORG,0.09715277777777778,0.05555555555555555,fr,2
-BFMTV-RMC,BFMTV-RMC,ORG,0.044444444444444446,0.022222222222222223,fr,2
-Ebra,Ebra,ORG,0.21,0.06964285714285715,fr,2
-lUnion européenne,lUnion européenne,ORG,0.052444444444444446,0.0475,fr,2
-Haut Conseil des finances publiques,Haut Conseil des finances publiques,ORG,-0.021111111111111115,0.04444444444444444,fr,2
-Conseil des ministres,Conseil des ministres,ORG,0.188,0.04,fr,2
-NSYNC,NSYNC,ORG,0.42000000000000004,0.1125,fr,2
-Union des étudiants juifs,Union des étudiants juifs,ORG,0.16666666666666666,0.03333333333333333,fr,2
-Conseil,Conseil,ORG,0.075,0.15,fr,2
-pr,pr,ORG,0.015625000000000007,0.05833333333333333,fr,2
-Renew Europe,Renew Europe,ORG,0.03383333333333334,0.0475,fr,2
-SEBASTIEN BOZON / AFP,SEBASTIEN BOZON / AFP,ORG,0.11000000000000001,0.0625,fr,2
-xAI,xAI,ORG,0.25142857142857145,0.1892857142857143,fr,2
-Congrès,Congrès,ORG,0.08716666666666667,0.041666666666666664,fr,2
-Comité national républicain,Comité national républicain,ORG,0.022727272727272728,0.03181818181818182,fr,2
-Cour,Cour,ORG,0.075,0.25,fr,2
-The Sustbance,The Sustbance,ORG,0.08124999999999999,0.00625,fr,2
-FBI,FBI,ORG,0.040000000000000015,0.09000000000000001,fr,2
-Marvel Studios,Marvel Studios,ORG,0.24437500000000004,0.1875,fr,2
-Parti socialiste,Parti socialiste,ORG,-0.028571428571428574,0.014285714285714287,fr,2
-Crédit:,Crédit:,ORG,-0.057499999999999996,0.1,fr,2
-Nuggets,Nuggets,ORG,0.06083333333333335,0.03333333333333333,fr,2
-Variety,Variety,ORG,0.14833333333333332,0.07500000000000001,fr,2
-CR7,CR7,ORG,0.1,0.1,fr,2
-Microsoft,Microsoft,ORG,0.3,0.1,fr,2
-M6,M6,ORG,0.23125,0.10625000000000001,fr,2
-Marine Le Pen,Marine Le Pen,ORG,0.026688311688311688,0.031818181818181815,fr,2
-S&P,S&P,ORG,0.09125,0.18333333333333335,fr,2
-ministre de la Culture,ministre de la Culture,ORG,0.0985,0.07500000000000001,fr,2
 Tesla,Tesla,ORG,-0.04428571428571428,0.10357142857142856,fr,2
+Lions indomptables,Lions indomptables,ORG,0.14016666666666666,0.13863636363636364,fr,2
+quils,quils,ORG,0.173875,0.05500000000000001,fr,2
+Ethic,Ethic,ORG,0.05249999999999999,0.016666666666666666,fr,2
+Constitution,Constitution,ORG,0.063,0.15,fr,2
+Lire,Lire,ORG,0.032539682539682535,0.021428571428571432,fr,2
+parti Renaissance,parti Renaissance,ORG,0.029999999999999995,0.0875,fr,2
+pr,pr,ORG,0.015625000000000007,0.05833333333333333,fr,2
 Chambre des représentants des Etats-Unis,Chambre des représentants des Etats-Unis,ORG,0.0,0.0,fr,2
-France 24,France 24,ORG,0.162,0.05,fr,2
-Murray,Murray,ORG,0.19,0.0,fr,1
-France 5,France 5,ORG,-0.29,0.0,fr,1
-Pacte,Pacte,ORG,0.08285714285714287,0.0,fr,1
-Sénat des Etats-Unis,Sénat des Etats-Unis,ORG,0.005714285714285712,0.0,fr,1
-Spotify,Spotify,ORG,0.1425,0.0,fr,1
-ministre de la Santé,ministre de la Santé,ORG,-0.18,0.0,fr,1
-Sénat dun projet de loi,Sénat dun projet de loi,ORG,-0.021428571428571436,0.0,fr,1
-BKA,BKA,ORG,0.032499999999999994,0.0,fr,1
-Lions indomptables du Cameroun,Lions indomptables du Cameroun,ORG,0.24200000000000002,0.0,fr,1
-Daily Mail,Daily Mail,ORG,-0.29,0.0,fr,1
-Nouvel,Nouvel,ORG,0.21800000000000003,0.0,fr,1
-ann,ann,ORG,0.22999999999999998,0.0,fr,1
-Cercle des poètes torturés » en français,Cercle des poètes torturés » en français,ORG,0.22999999999999998,0.0,fr,1
-Gaz,Gaz,ORG,-0.052500000000000005,0.0,fr,1
-Florence +,Florence +,ORG,0.11571428571428569,0.0,fr,1
-Chambre des représentants américaine,Chambre des représentants américaine,ORG,-0.01,0.0,fr,1
-BFM-TV,BFM-TV,ORG,0.20099999999999998,0.0,fr,1
-Cinémathèque française,Cinémathèque française,ORG,0.00833333333333334,0.0,fr,1
-ete arretes en Baviere,ete arretes en Baviere,ORG,0.032499999999999994,0.0,fr,1
-CHENEY,CHENEY,ORG,0.08999999999999998,0.0,fr,1
-NBA Play-offs,NBA Play-offs,ORG,0.3433333333333333,0.0,fr,1
-Trump Organization,Trump Organization,ORG,-0.08333333333333333,0.0,fr,1
-com,com,ORG,0.14333333333333334,0.0,fr,1
-Nuggets lundi,Nuggets lundi,ORG,0.3433333333333333,0.0,fr,1
-Kore-eda,Kore-eda,ORG,0.14333333333333334,0.0,fr,1
-LIESA JOHANNSSEN,LIESA JOHANNSSEN,ORG,0.09363636363636364,0.0,fr,1
-Pew Research Center,Pew Research Center,ORG,0.254,0.0,fr,1
-Rock & Roll Hall of Fame,Rock & Roll Hall of Fame,ORG,0.36000000000000004,0.0,fr,1
-"REUTERS
-LEta","REUTERS
-LEta",ORG,0.08999999999999998,0.0,fr,1
-CSL,CSL,ORG,0.05000000000000001,0.0,fr,1
-UBA,UBA,ORG,0.06714285714285714,0.0,fr,1
-United States,United States,ORG,0.0,0.0,fr,1
-men,men,ORG,0.05600000000000001,0.0,fr,1
-Front de libération nationale kanak socialiste,Front de libération nationale kanak socialiste,ORG,-0.014000000000000002,0.0,fr,1
-DALS,DALS,ORG,0.17666666666666667,0.0,fr,1
-Vanity Fair,Vanity Fair,ORG,0.16749999999999998,0.0,fr,1
-"Pari Texas
-Tic","Pari Texas
-Tic",ORG,0.155,0.0,fr,1
-Chambre des députés,Chambre des députés,ORG,0.16666666666666666,0.0,fr,1
-Moscou,Moscou,ORG,-0.055,0.0,fr,1
-SPD,SPD,ORG,-0.055,0.0,fr,1
-Time,Time,ORG,0.009999999999999998,0.0,fr,1
-F1,F1,ORG,0.09142857142857143,0.0,fr,1
-Mégalopol,Mégalopol,ORG,0.010000000000000007,0.0,fr,1
-ex-Twitter,ex-Twitter,ORG,0.015999999999999993,0.0,fr,1
-X. L',X. L',ORG,0.015999999999999993,0.0,fr,1
-MAHÉ,MAHÉ,ORG,-0.016666666666666653,0.0,fr,1
-Métropole européenne de Lille,Métropole européenne de Lille,ORG,-0.01857142857142856,0.0,fr,1
-VIDÉO,VIDÉO,ORG,-0.288,0.0,fr,1
-Day,Day,ORG,0.21250000000000002,0.0,fr,1
-Miami Heat,Miami Heat,ORG,0.11291666666666667,0.0,fr,1
+SEBASTIEN BOZON / AFP,SEBASTIEN BOZON / AFP,ORG,0.11000000000000001,0.0625,fr,2
+Haut Conseil,Haut Conseil,ORG,0.14222222222222222,0.13333333333333336,fr,2
+Microsoft,Microsoft,ORG,0.3,0.1,fr,2
+Radio France,Radio France,ORG,0.11249999999999999,0.05,fr,2
+Dream Requiem,Dream Requiem,ORG,0.11000000000000001,0.05,fr,2
+LinkedIn,LinkedIn,ORG,0.05,0.25,fr,2
+Apple TV+,Apple TV+,ORG,0.15725,0.09,fr,2
+Al-Ittihad,Al-Ittihad,ORG,0.10500000000000001,0.1,fr,2
+Parlement,Parlement,ORG,0.027857142857142858,0.08214285714285716,fr,2
+Apple TV Plus,Apple TV Plus,ORG,0.21222222222222223,0.09444444444444446,fr,2
+Disney+,Disney+,ORG,0.375,2.39375,fr,2
+Nuggets,Nuggets,ORG,0.06083333333333335,0.03333333333333333,fr,2
+BFMTV-RMC,BFMTV-RMC,ORG,0.044444444444444446,0.022222222222222223,fr,2
+Haut Conseil des finances publiques,Haut Conseil des finances publiques,ORG,-0.021111111111111115,0.04444444444444444,fr,2
+The Sustbance,The Sustbance,ORG,0.08124999999999999,0.00625,fr,2
+camp Macron,camp Macron,ORG,0.002999999999999999,0.0,fr,2
+Costume Institute,Costume Institute,ORG,0.12075,0.0575,fr,2
+FSB,FSB,ORG,0.021249999999999998,0.025,fr,2
+Marvel Studios,Marvel Studios,ORG,0.24437500000000004,0.1875,fr,2
+Marine,Marine,ORG,0.07877777777777778,0.05555555555555555,fr,2
+INTERVIEW,INTERVIEW,ORG,-0.010833333333333334,0.01875,fr,2
+Time,Time,ORG,0.01625,0.23125,fr,2
+VIDÉO,VIDÉO,ORG,-0.07288888888888889,0.13611111111111113,fr,2
+Stars,Stars,ORG,0.15,0.06999999999999999,fr,2
+Queen,Queen,ORG,0.16114285714285714,0.06749999999999999,fr,2
+CR7,CR7,ORG,0.1,0.1,fr,2
+SENEK,SENEK,ORG,0.1857142857142857,0.15357142857142855,fr,2
+AUTO24,AUTO24,ORG,0.1857142857142857,0.15357142857142855,fr,2
+TRIBUNE,TRIBUNE,ORG,0.1857142857142857,0.15357142857142855,fr,2
+HBO,HBO,ORG,0.20307692307692304,0.18846153846153849,fr,2
+Société Le Nickel,Société Le Nickel,ORG,0.34,0.125,fr,2
+Agence internationale de l'énergie atomique,Agence internationale de l'énergie atomique,ORG,0.2733333333333333,0.024999999999999998,fr,2
+Le Monde,Le Monde,ORG,-0.02,0.04,fr,2
+Conseil des ministres,Conseil des ministres,ORG,0.188,0.04,fr,2
+Conseil,Conseil,ORG,0.075,0.15,fr,2
+Renew Europe,Renew Europe,ORG,0.03383333333333334,0.0475,fr,2
 "Shutterstock/SIPA
 ","Shutterstock/SIPA
-",ORG,0.146,0.0,fr,1
-Lun,Lun,ORG,0.139,0.0,fr,1
-MMA,MMA,ORG,0.02166666666666667,0.0,fr,1
-Megalopolis,Megalopolis,ORG,0.22000000000000003,0.0,fr,1
-British Vo,British Vo,ORG,-0.026666666666666675,0.0,fr,1
-BDS,BDS,ORG,0.0,0.0,fr,1
-Conseil de défense,Conseil de défense,ORG,0.1111111111111111,0.0,fr,1
-Nouvel Observateur,Nouvel Observateur,ORG,0.33125,0.0,fr,1
-Amazon Upfront,Amazon Upfront,ORG,0.12833333333333333,0.0,fr,1
-The Boys,The Boys,ORG,0.12833333333333333,0.0,fr,1
-BarbieLe,BarbieLe,ORG,0.08875,0.0,fr,1
-American Honey,American Honey,ORG,0.2557142857142857,0.0,fr,1
-The Apprentice,The Apprentice,ORG,0.3916666666666666,0.0,fr,1
-nou,nou,ORG,0.28500000000000003,0.0,fr,1
-Rosatom,Rosatom,ORG,-0.19,0.0,fr,1
-Débarq,Débarq,ORG,0.0,0.0,fr,1
-POUR,POUR,ORG,-0.010000000000000002,0.0,fr,1
-GUILLAUME HERBAUT,GUILLAUME HERBAUT,ORG,-0.010000000000000002,0.0,fr,1
-Assemblee,Assemblee,ORG,0.0,0.0,fr,1
-lon na,lon na,ORG,0.08750000000000001,0.0,fr,1
-scr,scr,ORG,-0.125,0.0,fr,1
-Association nationale des radiodiffuseurs,Association nationale des radiodiffuseurs,ORG,-0.09666666666666666,0.0,fr,1
-Ve arrondi,Ve arrondi,ORG,0.20400000000000001,0.0,fr,1
-Le Parisien,Le Parisien,ORG,0.145625,0.0,fr,1
-ord,ord,ORG,0.0,0.0,fr,1
-MCU,MCU,ORG,0.4,0.0,fr,1
-Mr Fantastic,Mr Fantastic,ORG,0.3122222222222222,0.0,fr,1
-France Inter,France Inter,ORG,-0.02,0.0,fr,1
-Atlas,Atlas,ORG,0.18000000000000002,0.0,fr,1
-shérif,shérif,ORG,0.12333333333333335,0.0,fr,1
-DIVERGENCE,DIVERGENCE,ORG,0.27666666666666667,0.0,fr,1
-BITTON,BITTON,ORG,0.27666666666666667,0.0,fr,1
-"Macron
-","Macron
-",ORG,-0.01,0.0,fr,1
-PBLV,PBLV,ORG,0.144,0.0,fr,1
-American Zoetrope,American Zoetrope,ORG,0.25333333333333335,0.0,fr,1
+",ORG,0.2094285714285714,0.14500000000000002,fr,2
+Crédit:,Crédit:,ORG,-0.057499999999999996,0.1,fr,2
+LCI,LCI,ORG,0.09715277777777778,0.05555555555555555,fr,2
+Paris Hilton,Paris Hilton,ORG,0.36000000000000004,0.225,fr,2
+Peaky Blinders,Peaky Blinders,ORG,0.2711111111111111,0.10833333333333334,fr,2
+France Inter,France Inter,ORG,0.07250000000000001,0.13333333333333333,fr,2
+New York Magazine,New York Magazine,ORG,0.08428571428571428,0.16785714285714287,fr,2
+RSF,RSF,ORG,-0.027083333333333334,0.09062500000000001,fr,2
+Formule 1,Formule 1,ORG,0.09142857142857143,0.08571428571428572,fr,2
+The Lemon Twigs,The Lemon Twigs,ORG,0.07583333333333335,0.25,fr,2
+lAFP,lAFP,ORG,0.12916666666666665,2.975,fr,2
+Guardian,Guardian,ORG,-0.04374999999999999,0.07500000000000001,fr,2
+Éducation nationale,Éducation nationale,ORG,0.0675,0.030000000000000006,fr,2
+cr,cr,ORG,-0.06979166666666667,0.17083333333333336,fr,2
+Variety,Variety,ORG,0.14833333333333332,0.07500000000000001,fr,2
+M6,M6,ORG,0.23125,0.10625000000000001,fr,2
+Économie,Économie,ORG,-0.001499999999999991,0.06000000000000001,fr,2
+UDI,UDI,ORG,0.1,0.05,fr,2
+Politique,Politique,ORG,0.030555555555555555,0.01666666666666667,fr,2
+Le Nouvel Obs,Le Nouvel Obs,ORG,0.059,0.10500000000000001,fr,2
+Marine Le Pen,Marine Le Pen,ORG,0.026688311688311688,0.031818181818181815,fr,2
+Canal+,Canal+,ORG,-0.075,0.06666666666666667,fr,2
+S&P,S&P,ORG,0.09125,0.18333333333333335,fr,2
+ministre de la Culture,ministre de la Culture,ORG,0.0985,0.07500000000000001,fr,2
+ministre de l'Economie,ministre de l'Economie,ORG,0.1275,0.06249999999999999,fr,2
+Garanti,Garanti,ORG,0.11666666666666665,0.08333333333333333,fr,2
+Renault,Renault,ORG,0.021666666666666678,0.06249999999999999,fr,2
+PNF,PNF,ORG,-0.06428571428571428,0.021428571428571432,fr,2
+LE MONDE,LE MONDE,ORG,0.07976190476190476,0.09166666666666667,fr,2
+Eta,Eta,ORG,0.08520833333333333,0.05833333333333333,fr,2
+Kansas City Chiefs,Kansas City Chiefs,ORG,0.08291666666666668,0.075,fr,2
+Commission Européenne,Commission Européenne,ORG,-0.062352941176470576,0.1073529411764706,fr,2
+CHRONIQUE,CHRONIQUE,ORG,0.02046875,0.075,fr,2
+Mouvement démocrate,Mouvement démocrate,ORG,-0.08333333333333333,0.06666666666666667,fr,2
+France 24,France 24,ORG,0.162,0.05,fr,2
+Google,Google,ORG,0.07208333333333333,0.1375,fr,2
+Parti socialiste,Parti socialiste,ORG,-0.028571428571428574,0.014285714285714287,fr,2
+RDPC,RDPC,ORG,0.0,0.0,fr,2
 Crédit: Getty Ima,Crédit: Getty Ima,ORG,0.11666666666666665,0.0,fr,1
-Commission européenne,Commission européenne,ORG,0.156,0.0,fr,1
-9to5Mac,9to5Mac,ORG,0.21384615384615385,0.0,fr,1
-Service fédéral de sécurité russe,Service fédéral de sécurité russe,ORG,0.021249999999999998,0.0,fr,1
-SBU,SBU,ORG,0.021249999999999998,0.0,fr,1
-Service de sécurité dUkraine,Service de sécurité dUkraine,ORG,0.021249999999999998,0.0,fr,1
-Service de sécurité du pays,Service de sécurité du pays,ORG,0.021249999999999998,0.0,fr,1
-Spurs,Spurs,ORG,0.28375,0.0,fr,1
-Parti radical,Parti radical,ORG,-0.07142857142857142,0.0,fr,1
-Met,Met,ORG,0.39666666666666667,0.0,fr,1
-INFO BFMTV,INFO BFMTV,ORG,0.08846153846153845,0.0,fr,1
+Teasé,Teasé,ORG,0.041666666666666664,0.0,fr,1
+Fox,Fox,ORG,0.04571428571428571,0.0,fr,1
+The Washington Post,The Washington Post,ORG,0.1842857142857143,0.0,fr,1
+franceinfo mercre,franceinfo mercre,ORG,-0.07857142857142856,0.0,fr,1
+SAXON,SAXON,ORG,-0.020000000000000004,0.0,fr,1
+Vital,Vital,ORG,0.19285714285714287,0.0,fr,1
+Sco d’Angers,Sco d’Angers,ORG,0.1985714285714286,0.0,fr,1
+Avengers,Avengers,ORG,-0.33999999999999997,0.0,fr,1
+IHEID de Genève,IHEID de Genève,ORG,0.0,0.0,fr,1
+club de Ligue 2,club de Ligue 2,ORG,0.1985714285714286,0.0,fr,1
+Sil,Sil,ORG,0.34,0.0,fr,1
+ministre de la Défense,ministre de la Défense,ORG,0.1,0.0,fr,1
+La Razon,La Razon,ORG,0.075,0.0,fr,1
+Israël-Hamas,Israël-Hamas,ORG,0.04,0.0,fr,1
+Finances publiques,Finances publiques,ORG,0.0,0.0,fr,1
+Komentari,Komentari,ORG,0.12,0.0,fr,1
+BarbieLe,BarbieLe,ORG,0.08875,0.0,fr,1
+Comptes publics,Comptes publics,ORG,0.19285714285714287,0.0,fr,1
+CGT,CGT,ORG,0.055714285714285716,0.0,fr,1
+Times,Times,ORG,-0.125,0.0,fr,1
+PBLV,PBLV,ORG,0.144,0.0,fr,1
+Times de Londres,Times de Londres,ORG,-0.125,0.0,fr,1
+MICROSOFT,MICROSOFT,ORG,0.1857142857142857,0.0,fr,1
 GOOGLE,GOOGLE,ORG,0.1857142857142857,0.0,fr,1
+arm,arm,ORG,-0.11,0.0,fr,1
+American Zoetrope,American Zoetrope,ORG,0.25333333333333335,0.0,fr,1
+dex,dex,ORG,0.0,0.0,fr,1
+quil,quil,ORG,-0.062352941176470576,0.0,fr,1
+Sco dAngers,Sco dAngers,ORG,0.1985714285714286,0.0,fr,1
+Elysee,Elysee,ORG,0.06666666666666667,0.0,fr,1
+Fédération de football allemande,Fédération de football allemande,ORG,0.056249999999999994,0.0,fr,1
+Commission européenne,Commission européenne,ORG,0.156,0.0,fr,1
+INFO BFMTV,INFO BFMTV,ORG,0.08846153846153845,0.0,fr,1
 SABOOR,SABOOR,ORG,0.0,0.0,fr,1
 ABDUL,ABDUL,ORG,0.0,0.0,fr,1
-Medef,Medef,ORG,0.0,0.0,fr,1
+Figaro,Figaro,ORG,0.0,0.0,fr,1
+Adidas vs Nike,Adidas vs Nike,ORG,0.056249999999999994,0.0,fr,1
+Nike,Nike,ORG,0.056249999999999994,0.0,fr,1
+Kirst,Kirst,ORG,0.45,0.0,fr,1
+Adidas,Adidas,ORG,0.056249999999999994,0.0,fr,1
 RTL-Le Figaro-M6-Paris Première,RTL-Le Figaro-M6-Paris Première,ORG,0.15857142857142859,0.0,fr,1
 Débat des européennes,Débat des européennes,ORG,0.15857142857142859,0.0,fr,1
 ministère ukrainien des Affaires étrangères,ministère ukrainien des Affaires étrangères,ORG,-0.05,0.0,fr,1
 Red,Red,ORG,0.19499999999999998,0.0,fr,1
 Transports espagnol,Transports espagnol,ORG,0.08666666666666664,0.0,fr,1
+CANAL+,CANAL+,ORG,-0.2,0.0,fr,1
+Met,Met,ORG,0.39666666666666667,0.0,fr,1
+Parti radical,Parti radical,ORG,-0.07142857142857142,0.0,fr,1
+MELINDA,MELINDA,ORG,-0.2,0.0,fr,1
+Spurs,Spurs,ORG,0.28375,0.0,fr,1
+Service de sécurité du pays,Service de sécurité du pays,ORG,0.021249999999999998,0.0,fr,1
+Service de sécurité dUkraine,Service de sécurité dUkraine,ORG,0.021249999999999998,0.0,fr,1
+SBU,SBU,ORG,0.021249999999999998,0.0,fr,1
+Service fédéral de sécurité russe,Service fédéral de sécurité russe,ORG,0.021249999999999998,0.0,fr,1
+9to5Mac,9to5Mac,ORG,0.21384615384615385,0.0,fr,1
 lAssemblée,lAssemblée,ORG,0.2125,0.0,fr,1
 Rihanna,Rihanna,ORG,0.06,0.0,fr,1
+lEconomie,lEconomie,ORG,-0.16666666666666666,0.0,fr,1
+The Boys,The Boys,ORG,0.12833333333333333,0.0,fr,1
 Swifties,Swifties,ORG,0.062,0.0,fr,1
 Allemagne nazie,Allemagne nazie,ORG,-0.07833333333333332,0.0,fr,1
-MICROSOFT,MICROSOFT,ORG,0.1857142857142857,0.0,fr,1
-Times de Londres,Times de Londres,ORG,-0.125,0.0,fr,1
-Times,Times,ORG,-0.125,0.0,fr,1
-Komentari,Komentari,ORG,0.12,0.0,fr,1
-ministre de la Défense,ministre de la Défense,ORG,0.1,0.0,fr,1
-Israël-Hamas,Israël-Hamas,ORG,0.04,0.0,fr,1
-La Razon,La Razon,ORG,0.075,0.0,fr,1
-Teasé,Teasé,ORG,0.041666666666666664,0.0,fr,1
-Fox,Fox,ORG,0.04571428571428571,0.0,fr,1
-SAXON,SAXON,ORG,-0.020000000000000004,0.0,fr,1
-Deadline,Deadline,ORG,-0.07749999999999999,0.0,fr,1
-Avengers,Avengers,ORG,-0.33999999999999997,0.0,fr,1
-IHEID de Genève,IHEID de Genève,ORG,0.0,0.0,fr,1
-CGT,CGT,ORG,0.055714285714285716,0.0,fr,1
-Elysee,Elysee,ORG,0.06666666666666667,0.0,fr,1
-Kirst,Kirst,ORG,0.45,0.0,fr,1
 Stormy Daniels,Stormy Daniels,ORG,0.174,0.0,fr,1
-Washington Commanders fan in 2024,Washington Commanders fan in 2024,ORG,0.0,0.0,fr,1
-Républicain,Républicain,ORG,0.14285714285714285,0.0,fr,1
-NDLR,NDLR,ORG,0.24833333333333338,0.0,fr,1
-Comptes publics,Comptes publics,ORG,0.19285714285714287,0.0,fr,1
-CANAL+,CANAL+,ORG,-0.2,0.0,fr,1
-MELINDA,MELINDA,ORG,-0.2,0.0,fr,1
-lEconomie,lEconomie,ORG,-0.16666666666666666,0.0,fr,1
-Sco dAngers,Sco dAngers,ORG,0.1985714285714286,0.0,fr,1
-club de Ligue 2,club de Ligue 2,ORG,0.1985714285714286,0.0,fr,1
-Sco d’Angers,Sco d’Angers,ORG,0.1985714285714286,0.0,fr,1
-The Washington Post,The Washington Post,ORG,0.1842857142857143,0.0,fr,1
-Vital,Vital,ORG,0.19285714285714287,0.0,fr,1
-arm,arm,ORG,-0.11,0.0,fr,1
-Adidas vs Nike,Adidas vs Nike,ORG,0.056249999999999994,0.0,fr,1
-dex,dex,ORG,0.0,0.0,fr,1
-Sil,Sil,ORG,0.34,0.0,fr,1
-EELV,EELV,ORG,0.3,0.0,fr,1
-Groupes,Groupes,ORG,0.08916666666666667,0.0,fr,1
-lentrepris,lentrepris,ORG,0.14108333333333334,0.0,fr,1
-LuckyChap,LuckyChap,ORG,0.23666666666666666,0.0,fr,1
-Conseil européen de printemps,Conseil européen de printemps,ORG,0.0075,0.0,fr,1
-Parti communiste d’une province,Parti communiste d’une province,ORG,0.03333333333333333,0.0,fr,1
-Figaro,Figaro,ORG,0.0,0.0,fr,1
-Fédération de football allemande,Fédération de football allemande,ORG,0.056249999999999994,0.0,fr,1
-The Ministry of Ungentlemanly Warfare,The Ministry of Ungentlemanly Warfare,ORG,0.12,0.0,fr,1
-EI,EI,ORG,0.04066666666666667,0.0,fr,1
-Union nationale des centres communaux d'action sociale,Union nationale des centres communaux d'action sociale,ORG,0.145,0.0,fr,1
-Blood Runs Coal,Blood Runs Coal,ORG,0.188,0.0,fr,1
-RFK Jr,RFK Jr,ORG,0.05666666666666667,0.0,fr,1
-Légion dhonneur le cacique,Légion dhonneur le cacique,ORG,0.145,0.0,fr,1
-Légion d’honneur,Légion d’honneur,ORG,0.145,0.0,fr,1
-RTL,RTL,ORG,-0.009999999999999988,0.0,fr,1
-Économie,Économie,ORG,-0.009999999999999988,0.0,fr,1
-pa,pa,ORG,0.12,0.0,fr,1
-Commission des affaires dEtat de la République populaire dém,Commission des affaires dEtat de la République populaire dém,ORG,0.11538461538461539,0.0,fr,1
-Nike,Nike,ORG,0.056249999999999994,0.0,fr,1
-KCNA,KCNA,ORG,0.11538461538461539,0.0,fr,1
-Rassemblement démocratique du peuple camerounais,Rassemblement démocratique du peuple camerounais,ORG,0.0,0.0,fr,1
-"Rassemblement
-démocratique du peuple camerounais","Rassemblement
-démocratique du peuple camerounais",ORG,0.0,0.0,fr,1
-Sécurité nationale,Sécurité nationale,ORG,-0.14333333333333334,0.0,fr,1
-CHRONIQUE,CHRONIQUE,ORG,0.009999999999999998,0.0,fr,1
-Parlement de Serbie,Parlement de Serbie,ORG,0.1366666666666667,0.0,fr,1
-MoDem Horizons,MoDem Horizons,ORG,0.08,0.0,fr,1
-Adidas,Adidas,ORG,0.056249999999999994,0.0,fr,1
-Conseil d’État,Conseil d’État,ORG,0.146,0.0,fr,1
-ministre de l’Intérieur,ministre de l’Intérieur,ORG,0.146,0.0,fr,1
-EP,EP,ORG,0.23125,0.0,fr,1
-VIP,VIP,ORG,0.16999999999999998,0.0,fr,1
-Conseil dEtat la confirmé,Conseil dEtat la confirmé,ORG,-0.03749999999999999,0.0,fr,1
-Public Sénat jeudi soir Jeudi soir,Public Sénat jeudi soir Jeudi soir,ORG,0.05833333333333333,0.0,fr,1
-LCP,LCP,ORG,0.23875000000000002,0.0,fr,1
-Opposition,Opposition,ORG,0.1675,0.0,fr,1
-NFL,NFL,ORG,0.078,0.0,fr,1
-Mira Murati,Mira Murati,ORG,0.07714285714285715,0.0,fr,1
-Assemblé,Assemblé,ORG,0.15,0.0,fr,1
-Horizons de l’ex-Premier,Horizons de l’ex-Premier,ORG,0.15,0.0,fr,1
-grand’croix de la Légion d’honneur,grand’croix de la Légion d’honneur,ORG,0.16999999999999998,0.0,fr,1
-Finances du Sénat,Finances du Sénat,ORG,0.1,0.0,fr,1
-LVMH,LVMH,ORG,0.16999999999999998,0.0,fr,1
-Bolloré,Bolloré,ORG,0.16999999999999998,0.0,fr,1
-Fondation nationale des sciences politiques,Fondation nationale des sciences politiques,ORG,-0.25,0.0,fr,1
-Profs,Profs,ORG,0.0,0.0,fr,1
-Chambre mardi,Chambre mardi,ORG,0.066,0.0,fr,1
-Conseil d’Etat,Conseil d’Etat,ORG,0.07740000000000001,0.0,fr,1
-Immigration,Immigration,ORG,0.017142857142857154,0.0,fr,1
-France Musique,France Musique,ORG,0.1175,0.0,fr,1
-Mubadala Investment Company,Mubadala Investment Company,ORG,0.05833333333333333,0.0,fr,1
-Insoumis,Insoumis,ORG,0.06000000000000001,0.0,fr,1
-Parlement européen de Strasbourg,Parlement européen de Strasbourg,ORG,0.06000000000000001,0.0,fr,1
-DOJ,DOJ,ORG,-0.10499999999999998,0.0,fr,1
-Agence de presse vietnamienne,Agence de presse vietnamienne,ORG,-0.07500000000000001,0.0,fr,1
-lAgence de presse VNA,lAgence de presse VNA,ORG,-0.0625,0.0,fr,1
-Parti,Parti,ORG,-0.0625,0.0,fr,1
+Les Républicains au Sénat,Les Républicains au Sénat,ORG,0.015,0.0,fr,1
+British Vo,British Vo,ORG,-0.026666666666666675,0.0,fr,1
+Amazon Upfront,Amazon Upfront,ORG,0.12833333333333333,0.0,fr,1
+lon na,lon na,ORG,0.08750000000000001,0.0,fr,1
+JT,JT,ORG,0.08750000000000001,0.0,fr,1
+scr,scr,ORG,-0.125,0.0,fr,1
 Ve République,Ve République,ORG,0.2557142857142857,0.0,fr,1
+Dream,Dream,ORG,0.145,0.0,fr,1
+Auditorium de Radio France,Auditorium de Radio France,ORG,0.14,0.0,fr,1
+Association nationale des radiodiffuseurs,Association nationale des radiodiffuseurs,ORG,-0.09666666666666666,0.0,fr,1
+Ve arrondi,Ve arrondi,ORG,0.20400000000000001,0.0,fr,1
+Rosatom,Rosatom,ORG,-0.19,0.0,fr,1
+Economie Bruno Le Maire,Economie Bruno Le Maire,ORG,0.08125,0.0,fr,1
+Le Parisien,Le Parisien,ORG,0.145625,0.0,fr,1
+MCU,MCU,ORG,0.4,0.0,fr,1
+Mr Fantastic,Mr Fantastic,ORG,0.3122222222222222,0.0,fr,1
+Parti,Parti,ORG,-0.0625,0.0,fr,1
+lAgence de presse VNA,lAgence de presse VNA,ORG,-0.0625,0.0,fr,1
+Agence de presse vietnamienne,Agence de presse vietnamienne,ORG,-0.07500000000000001,0.0,fr,1
 Macron-Attal,Macron-Attal,ORG,0.2557142857142857,0.0,fr,1
+Assemblee,Assemblee,ORG,0.0,0.0,fr,1
+Maintenir Atos,Maintenir Atos,ORG,0.046,0.0,fr,1
+GUILLAUME HERBAUT,GUILLAUME HERBAUT,ORG,-0.010000000000000002,0.0,fr,1
+IFOP,IFOP,ORG,0.049999999999999996,0.0,fr,1
+CGPM,CGPM,ORG,0.049999999999999996,0.0,fr,1
+Front Populaire,Front Populaire,ORG,0.06800000000000003,0.0,fr,1
 ministre de l'Éducation nationale,ministre de l'Éducation nationale,ORG,0.034999999999999996,0.0,fr,1
-ministre de l'Education,ministre de l'Education,ORG,0.034999999999999996,0.0,fr,1
-Lhyfe,Lhyfe,ORG,-0.03,0.0,fr,1
-Air,Air,ORG,-0.03,0.0,fr,1
-deputee europeenne,deputee europeenne,ORG,0.0752,0.0,fr,1
-Jeunes Agriculteurs de la Haute-Garonne,Jeunes Agriculteurs de la Haute-Garonne,ORG,0.3516666666666666,0.0,fr,1
-Police judiciaire,Police judiciaire,ORG,0.0,0.0,fr,1
-"Police judiciaire
-","Police judiciaire
-",ORG,0.0,0.0,fr,1
-MOHAMMED ABED,MOHAMMED ABED,ORG,0.2333333333333333,0.0,fr,1
-Salon de l’Agriculture,Salon de l’Agriculture,ORG,0.13,0.0,fr,1
-Attendue,Attendue,ORG,0.20500000000000002,0.0,fr,1
-Orbán,Orbán,ORG,-0.026666666666666672,0.0,fr,1
-lUnion nationale des centres communaux d'acti,lUnion nationale des centres communaux d'acti,ORG,0.145,0.0,fr,1
-Conseil de sécurité,Conseil de sécurité,ORG,-0.018000000000000002,0.0,fr,1
-Conseil national de sécurité,Conseil national de sécurité,ORG,-0.018000000000000002,0.0,fr,1
-New-York Times,New-York Times,ORG,0.07025,0.0,fr,1
+DILKOFF,DILKOFF,ORG,-0.007142857142857145,0.0,fr,1
+Centre des Jeunes Dirigeants,Centre des Jeunes Dirigeants,ORG,0.021999999999999995,0.0,fr,1
+"Commenter
+Google","Commenter
+Google",ORG,0.07222222222222222,0.0,fr,1
+"Le Nouvel Obs 
+ Publié","Le Nouvel Obs 
+ Publié",ORG,0.07222222222222222,0.0,fr,1
+porte des,porte des,ORG,0.07222222222222222,0.0,fr,1
+LR-RN,LR-RN,ORG,0.07222222222222222,0.0,fr,1
+Collaboration,Collaboration,ORG,0.001909090909090909,0.0,fr,1
+BFMT,BFMT,ORG,0.10000000000000002,0.0,fr,1
+blo,blo,ORG,0.011000000000000013,0.0,fr,1
+Débarq,Débarq,ORG,0.0,0.0,fr,1
+POUR,POUR,ORG,-0.010000000000000002,0.0,fr,1
+PS,PS,ORG,0.046,0.0,fr,1
+Geo,Geo,ORG,0.10400000000000001,0.0,fr,1
+Nouvel Observateur,Nouvel Observateur,ORG,0.33125,0.0,fr,1
+MAHÉ,MAHÉ,ORG,-0.016666666666666653,0.0,fr,1
+Parti communiste d’une province,Parti communiste d’une province,ORG,0.03333333333333333,0.0,fr,1
+Conseil européen de printemps,Conseil européen de printemps,ORG,0.0075,0.0,fr,1
+Day,Day,ORG,0.21250000000000002,0.0,fr,1
+Miami Heat,Miami Heat,ORG,0.11291666666666667,0.0,fr,1
+Mégalopol,Mégalopol,ORG,0.010000000000000007,0.0,fr,1
+Lun,Lun,ORG,0.139,0.0,fr,1
+Megalopolis,Megalopolis,ORG,0.22000000000000003,0.0,fr,1
+LuckyChap,LuckyChap,ORG,0.23666666666666666,0.0,fr,1
+lentrepris,lentrepris,ORG,0.14108333333333334,0.0,fr,1
+Groupes,Groupes,ORG,0.08916666666666667,0.0,fr,1
+nou,nou,ORG,0.28500000000000003,0.0,fr,1
+BDS,BDS,ORG,0.0,0.0,fr,1
+Variety”,Variety”,ORG,-0.02875,0.0,fr,1
+Conseil de défense,Conseil de défense,ORG,0.1111111111111111,0.0,fr,1
+EELV,EELV,ORG,0.3,0.0,fr,1
+Métropole européenne de Lille,Métropole européenne de Lille,ORG,-0.01857142857142856,0.0,fr,1
+Crédit,Crédit,ORG,0.030000000000000006,0.0,fr,1
+Atlas,Atlas,ORG,0.18000000000000002,0.0,fr,1
+Conseil d’État,Conseil d’État,ORG,0.146,0.0,fr,1
+shérif,shérif,ORG,0.12333333333333335,0.0,fr,1
+Finances du Sénat,Finances du Sénat,ORG,0.1,0.0,fr,1
+DIVERGENCE,DIVERGENCE,ORG,0.27666666666666667,0.0,fr,1
+BITTON,BITTON,ORG,0.27666666666666667,0.0,fr,1
+"Macron
+","Macron
+",ORG,-0.01,0.0,fr,1
+ord,ord,ORG,0.0,0.0,fr,1
+EXCLUSIF,EXCLUSIF,ORG,0.124,0.0,fr,1
+The Apprentice,The Apprentice,ORG,0.3916666666666666,0.0,fr,1
+MMA,MMA,ORG,0.02166666666666667,0.0,fr,1
+EP,EP,ORG,0.23125,0.0,fr,1
+American Honey,American Honey,ORG,0.2557142857142857,0.0,fr,1
+ex-Twitter,ex-Twitter,ORG,0.015999999999999993,0.0,fr,1
+X. L',X. L',ORG,0.015999999999999993,0.0,fr,1
+ministre de l’Intérieur,ministre de l’Intérieur,ORG,0.146,0.0,fr,1
+Iron,Iron,ORG,0.1285714285714286,0.0,fr,1
+MoDem Horizons,MoDem Horizons,ORG,0.08,0.0,fr,1
+Sécurité nationale,Sécurité nationale,ORG,-0.14333333333333334,0.0,fr,1
+Parlement de Serbie,Parlement de Serbie,ORG,0.1366666666666667,0.0,fr,1
+"AFP
+","AFP
+",ORG,0.026250000000000002,0.0,fr,1
+NBC,NBC,ORG,0.192,0.0,fr,1
+FOX,FOX,ORG,-0.08666666666666667,0.0,fr,1
 Le Nouveau monde,Le Nouveau monde,ORG,0.21222222222222223,0.0,fr,1
 Minority Report,Minority Report,ORG,0.21222222222222223,0.0,fr,1
 Nouveau monde”,Nouveau monde”,ORG,0.21222222222222223,0.0,fr,1
+ALEX,ALEX,ORG,-0.034999999999999996,0.0,fr,1
 Hilton,Hilton,ORG,0.18,0.0,fr,1
 ministre de l’Economie,ministre de l’Economie,ORG,0.27249999999999996,0.0,fr,1
 Cinema Con de Las Vegas,Cinema Con de Las Vegas,ORG,-0.11833333333333335,0.0,fr,1
 Warner Bros,Warner Bros,ORG,-0.11833333333333335,0.0,fr,1
+LGBT,LGBT,ORG,-0.0027272727272727258,0.0,fr,1
 Parti c,Parti c,ORG,0.08333333333333333,0.0,fr,1
-MYOP,MYOP,ORG,-0.25,0.0,fr,1
-député(e,député(e,ORG,0.08499999999999999,0.0,fr,1
-Emerson Collective,Emerson Collective,ORG,0.15916666666666665,0.0,fr,1
-Thrive Capital,Thrive Capital,ORG,0.15916666666666665,0.0,fr,1
-The Information,The Information,ORG,0.15916666666666665,0.0,fr,1
-JASON HENRY,JASON HENRY,ORG,0.05,0.0,fr,1
-Caricom,Caricom,ORG,0.13857142857142857,0.0,fr,1
-Al-Taa,Al-Taa,ORG,-0.06333333333333331,0.0,fr,1
-Les Echos,Les Echos,ORG,0.17857142857142858,0.0,fr,1
-Elabe,Elabe,ORG,0.17857142857142858,0.0,fr,1
-NBC,NBC,ORG,0.192,0.0,fr,1
-KAY,KAY,ORG,0.026250000000000002,0.0,fr,1
-Hezbollah,Hezbollah,ORG,0.18,0.0,fr,1
-Houthis,Houthis,ORG,0.18,0.0,fr,1
-l’IA,l’IA,ORG,0.12,0.0,fr,1
-Conseil européen,Conseil européen,ORG,0.145,0.0,fr,1
-ENA,ENA,ORG,0.04,0.0,fr,1
-Wall Street Journal,Wall Street Journal,ORG,-0.06799999999999998,0.0,fr,1
-Président,Président,ORG,0.2732,0.0,fr,1
-HCFÏP,HCFÏP,ORG,0.0730769230769231,0.0,fr,1
-Conseil des sages de la laïcité »,Conseil des sages de la laïcité »,ORG,0.1,0.0,fr,1
-Fédération camerounaise de fo,Fédération camerounaise de fo,ORG,0.03833333333333333,0.0,fr,1
-ministre des Sports,ministre des Sports,ORG,0.03833333333333333,0.0,fr,1
-Conseil Otan-Ukraine,Conseil Otan-Ukraine,ORG,-0.025,0.0,fr,1
-ARGENTINE,ARGENTINE,ORG,-0.05999999999999999,0.0,fr,1
-dEurope 1,dEurope 1,ORG,0.19166666666666665,0.0,fr,1
-AAP,AAP,ORG,0.07428571428571429,0.0,fr,1
-Chambre des,Chambre des,ORG,-0.07125000000000001,0.0,fr,1
-Cyberattaques,Cyberattaques,ORG,0.025,0.0,fr,1
-Do,Do,ORG,0.012499999999999997,0.0,fr,1
-Union,Union,ORG,0.012499999999999997,0.0,fr,1
-Education nationale,Education nationale,ORG,0.02142857142857143,0.0,fr,1
-Education nat,Education nat,ORG,0.28,0.0,fr,1
-RNBO,RNBO,ORG,-0.018000000000000002,0.0,fr,1
-ALEX,ALEX,ORG,-0.034999999999999996,0.0,fr,1
-usi,usi,ORG,0.39999999999999997,0.0,fr,1
-Continuer,Continuer,ORG,0.39999999999999997,0.0,fr,1
-fea,fea,ORG,0.2085714285714286,0.0,fr,1
-ALAIN JOCARD,ALAIN JOCARD,ORG,0.060000000000000005,0.0,fr,1
-Premium.</li><li,Premium.</li><li,ORG,-0.08600000000000001,0.0,fr,1
-X.,X.,ORG,0.11200000000000002,0.0,fr,1
 "REUTERS
 Baisemain","REUTERS
 Baisemain",ORG,0.06400000000000002,0.0,fr,1
-LGBT,LGBT,ORG,-0.0027272727272727258,0.0,fr,1
-FOX,FOX,ORG,-0.08666666666666667,0.0,fr,1
-APPLE,APPLE,ORG,0.05499999999999999,0.0,fr,1
-PEROBELLI,PEROBELLI,ORG,0.014000000000000007,0.0,fr,1
-AMANDA,AMANDA,ORG,0.014000000000000007,0.0,fr,1
-Harvard,Harvard,ORG,-0.05333333333333332,0.0,fr,1
-Pirates des Caraïbes,Pirates des Caraïbes,ORG,-0.07333333333333335,0.0,fr,1
-SN,SN,ORG,-0.21666666666666667,0.0,fr,1
+Otan,Otan,ORG,-0.0375,0.0,fr,1
+X.,X.,ORG,0.11200000000000002,0.0,fr,1
+KAY,KAY,ORG,0.026250000000000002,0.0,fr,1
+Hezbollah,Hezbollah,ORG,0.18,0.0,fr,1
+New-York Times,New-York Times,ORG,0.07025,0.0,fr,1
+Houthis,Houthis,ORG,0.18,0.0,fr,1
 Plan,Plan,ORG,-0.25,0.0,fr,1
-Lánthimos,Lánthimos,ORG,-0.08499999999999999,0.0,fr,1
-Transports redevenu député de Paris,Transports redevenu député de Paris,ORG,0.0275,0.0,fr,1
+SN,SN,ORG,-0.21666666666666667,0.0,fr,1
+Conseil Otan-Ukraine,Conseil Otan-Ukraine,ORG,-0.025,0.0,fr,1
+ARGENTINE,ARGENTINE,ORG,-0.05999999999999999,0.0,fr,1
+Pirates des Caraïbes,Pirates des Caraïbes,ORG,-0.07333333333333335,0.0,fr,1
+dEurope 1,dEurope 1,ORG,0.19166666666666665,0.0,fr,1
+AAP,AAP,ORG,0.07428571428571429,0.0,fr,1
+Chambre des,Chambre des,ORG,-0.07125000000000001,0.0,fr,1
+Congrès,Congrès,ORG,0.10833333333333335,0.0,fr,1
+Harvard,Harvard,ORG,-0.05333333333333332,0.0,fr,1
+AMANDA,AMANDA,ORG,0.014000000000000007,0.0,fr,1
+PEROBELLI,PEROBELLI,ORG,0.014000000000000007,0.0,fr,1
+Cyberattaques,Cyberattaques,ORG,0.025,0.0,fr,1
+Do,Do,ORG,0.012499999999999997,0.0,fr,1
+Union,Union,ORG,0.012499999999999997,0.0,fr,1
+Premium.</li><li,Premium.</li><li,ORG,-0.08600000000000001,0.0,fr,1
+MYOP,MYOP,ORG,-0.25,0.0,fr,1
+Fédération camerounaise de fo,Fédération camerounaise de fo,ORG,0.03833333333333333,0.0,fr,1
+Centre aquatique olympique,Centre aquatique olympique,ORG,0.5133333333333333,0.0,fr,1
+HCC,HCC,ORG,0.14222222222222222,0.0,fr,1
 TotalEnergies,TotalEnergies,ORG,0.198,0.0,fr,1
 sup,sup,ORG,0.198,0.0,fr,1
 CRS,CRS,ORG,0.08333333333333333,0.0,fr,1
 To,To,ORG,-0.10333333333333333,0.0,fr,1
-CORET,CORET,ORG,0.06799999999999999,0.0,fr,1
-parti des,parti des,ORG,0.05222222222222222,0.0,fr,1
-Centre aquatique olympique,Centre aquatique olympique,ORG,0.5133333333333333,0.0,fr,1
-Oudéa-Castéra,Oudéa-Castéra,ORG,0.5133333333333333,0.0,fr,1
-HCC,HCC,ORG,0.14222222222222222,0.0,fr,1
 ini,ini,ORG,0.085,0.0,fr,1
+OQEE,OQEE,ORG,0.01,0.0,fr,1
+Cr,Cr,ORG,0.01,0.0,fr,1
 ministre des Sports Amélie Oudéa-Castéra,ministre des Sports Amélie Oudéa-Castéra,ORG,0.2185555555555555,0.0,fr,1
+Rolling Stone,Rolling Stone,ORG,0.2842857142857143,0.0,fr,1
 MIGUEL MEDINA,MIGUEL MEDINA,ORG,0.20714285714285716,0.0,fr,1
 LIRM,LIRM,ORG,0.385,0.0,fr,1
 CEA,CEA,ORG,0.385,0.0,fr,1
 Agence VU,Agence VU,ORG,0.11875,0.0,fr,1
 Consideration,Consideration,ORG,0.20333333333333334,0.0,fr,1
+Oudéa-Castéra,Oudéa-Castéra,ORG,0.5133333333333333,0.0,fr,1
+parti des,parti des,ORG,0.05222222222222222,0.0,fr,1
+ALAIN JOCARD,ALAIN JOCARD,ORG,0.060000000000000005,0.0,fr,1
+usi,usi,ORG,0.39999999999999997,0.0,fr,1
+Emerson Collective,Emerson Collective,ORG,0.15916666666666665,0.0,fr,1
+Thrive Capital,Thrive Capital,ORG,0.15916666666666665,0.0,fr,1
+The Information,The Information,ORG,0.15916666666666665,0.0,fr,1
+JASON HENRY,JASON HENRY,ORG,0.05,0.0,fr,1
+fea,fea,ORG,0.2085714285714286,0.0,fr,1
+Républicain,Républicain,ORG,0.14285714285714285,0.0,fr,1
+Al-Taa,Al-Taa,ORG,-0.06333333333333331,0.0,fr,1
+Les Echos,Les Echos,ORG,0.17857142857142858,0.0,fr,1
+Elabe,Elabe,ORG,0.17857142857142858,0.0,fr,1
+Education nationale,Education nationale,ORG,0.02142857142857143,0.0,fr,1
+député(e,député(e,ORG,0.08499999999999999,0.0,fr,1
+Education nat,Education nat,ORG,0.28,0.0,fr,1
+APPLE,APPLE,ORG,0.05499999999999999,0.0,fr,1
+CORET,CORET,ORG,0.06799999999999999,0.0,fr,1
+Continuer,Continuer,ORG,0.39999999999999997,0.0,fr,1
+ministre des Sports,ministre des Sports,ORG,0.03833333333333333,0.0,fr,1
+Conseil des sages de la laïcité »,Conseil des sages de la laïcité »,ORG,0.1,0.0,fr,1
+F1,F1,ORG,0.09142857142857143,0.0,fr,1
+Rassemblement démocratique du peuple camerounais,Rassemblement démocratique du peuple camerounais,ORG,0.0,0.0,fr,1
+Commission des affaires dEtat de la République populaire dém,Commission des affaires dEtat de la République populaire dém,ORG,0.11538461538461539,0.0,fr,1
+ministre de la Santé,ministre de la Santé,ORG,-0.18,0.0,fr,1
+CSL,CSL,ORG,0.05000000000000001,0.0,fr,1
+LIESA JOHANNSSEN,LIESA JOHANNSSEN,ORG,0.09363636363636364,0.0,fr,1
+lUnion européenne,lUnion européenne,ORG,0.006000000000000005,0.0,fr,1
+"REUTERS
+LEta","REUTERS
+LEta",ORG,0.08999999999999998,0.0,fr,1
+CHENEY,CHENEY,ORG,0.08999999999999998,0.0,fr,1
+Pacte,Pacte,ORG,0.08285714285714287,0.0,fr,1
+EI,EI,ORG,0.04066666666666667,0.0,fr,1
+Sénat des Etats-Unis,Sénat des Etats-Unis,ORG,0.005714285714285712,0.0,fr,1
+Sénat dun projet de loi,Sénat dun projet de loi,ORG,-0.021428571428571436,0.0,fr,1
+Rock & Roll Hall of Fame,Rock & Roll Hall of Fame,ORG,0.36000000000000004,0.0,fr,1
+Cinémathèque française,Cinémathèque française,ORG,0.00833333333333334,0.0,fr,1
+pa,pa,ORG,0.12,0.0,fr,1
+RTL,RTL,ORG,-0.009999999999999988,0.0,fr,1
+KCNA,KCNA,ORG,0.11538461538461539,0.0,fr,1
+United States,United States,ORG,0.0,0.0,fr,1
+France 5,France 5,ORG,-0.29,0.0,fr,1
+France 3,France 3,ORG,0.0,0.0,fr,1
+Moscou,Moscou,ORG,-0.055,0.0,fr,1
+SPD,SPD,ORG,-0.055,0.0,fr,1
+Gaz,Gaz,ORG,-0.052500000000000005,0.0,fr,1
 Commission Euro,Commission Euro,ORG,-0.062352941176470576,0.0,fr,1
-quil,quil,ORG,-0.062352941176470576,0.0,fr,1
-Rolling Stone,Rolling Stone,ORG,0.2842857142857143,0.0,fr,1
-Cr,Cr,ORG,0.01,0.0,fr,1
-OQEE,OQEE,ORG,0.01,0.0,fr,1
-blo,blo,ORG,0.011000000000000013,0.0,fr,1
+"Rassemblement
+démocratique du peuple camerounais","Rassemblement
+démocratique du peuple camerounais",ORG,0.0,0.0,fr,1
+Chambre des députés,Chambre des députés,ORG,0.16666666666666666,0.0,fr,1
+Vanity Fair,Vanity Fair,ORG,0.16749999999999998,0.0,fr,1
+Front de libération nationale kanak socialiste,Front de libération nationale kanak socialiste,ORG,-0.014000000000000002,0.0,fr,1
+men,men,ORG,0.05600000000000001,0.0,fr,1
+Pew Research Center,Pew Research Center,ORG,0.254,0.0,fr,1
+Nuggets lundi,Nuggets lundi,ORG,0.3433333333333333,0.0,fr,1
+NBA Play-offs,NBA Play-offs,ORG,0.3433333333333333,0.0,fr,1
+Murray,Murray,ORG,0.19,0.0,fr,1
+com,com,ORG,0.14333333333333334,0.0,fr,1
+Kore-eda,Kore-eda,ORG,0.14333333333333334,0.0,fr,1
+Daily Mail,Daily Mail,ORG,-0.29,0.0,fr,1
+Spotify,Spotify,ORG,0.1425,0.0,fr,1
+Amazon,Amazon,ORG,0.058374999999999996,0.0,fr,1
+The Ministry of Ungentlemanly Warfare,The Ministry of Ungentlemanly Warfare,ORG,0.12,0.0,fr,1
+Conseil européen,Conseil européen,ORG,0.145,0.0,fr,1
+ENA,ENA,ORG,0.04,0.0,fr,1
+Wall Street Journal,Wall Street Journal,ORG,-0.06799999999999998,0.0,fr,1
+Président,Président,ORG,0.2732,0.0,fr,1
+RFK Jr,RFK Jr,ORG,0.05666666666666667,0.0,fr,1
+Blood Runs Coal,Blood Runs Coal,ORG,0.188,0.0,fr,1
+Union nationale des centres communaux d'action sociale,Union nationale des centres communaux d'action sociale,ORG,0.145,0.0,fr,1
+lUnion nationale des centres communaux d'acti,lUnion nationale des centres communaux d'acti,ORG,0.145,0.0,fr,1
+Conseil de sécurité,Conseil de sécurité,ORG,-0.018000000000000002,0.0,fr,1
+ministre de l'Education,ministre de l'Education,ORG,0.034999999999999996,0.0,fr,1
+Conseil national de sécurité,Conseil national de sécurité,ORG,-0.018000000000000002,0.0,fr,1
+HCFÏP,HCFÏP,ORG,0.0730769230769231,0.0,fr,1
+RNBO,RNBO,ORG,-0.018000000000000002,0.0,fr,1
+Transports redevenu député de Paris,Transports redevenu député de Paris,ORG,0.0275,0.0,fr,1
+Lánthimos,Lánthimos,ORG,-0.08499999999999999,0.0,fr,1
+l’IA,l’IA,ORG,0.12,0.0,fr,1
+NDLR,NDLR,ORG,0.24833333333333338,0.0,fr,1
+Trump Organization,Trump Organization,ORG,-0.08333333333333333,0.0,fr,1
+Deadline,Deadline,ORG,-0.07749999999999999,0.0,fr,1
+"Pari Texas
+Tic","Pari Texas
+Tic",ORG,0.155,0.0,fr,1
+Légion d’honneur,Légion d’honneur,ORG,0.145,0.0,fr,1
+Chambre des représentants américaine,Chambre des représentants américaine,ORG,-0.01,0.0,fr,1
+DALS,DALS,ORG,0.17666666666666667,0.0,fr,1
+BKA,BKA,ORG,0.032499999999999994,0.0,fr,1
+ete arretes en Baviere,ete arretes en Baviere,ORG,0.032499999999999994,0.0,fr,1
+Nouvel,Nouvel,ORG,0.21800000000000003,0.0,fr,1
+UBA,UBA,ORG,0.06714285714285714,0.0,fr,1
+Lions indomptables du Cameroun,Lions indomptables du Cameroun,ORG,0.24200000000000002,0.0,fr,1
+Légion dhonneur le cacique,Légion dhonneur le cacique,ORG,0.145,0.0,fr,1
+ann,ann,ORG,0.22999999999999998,0.0,fr,1
+Cercle des poètes torturés » en français,Cercle des poètes torturés » en français,ORG,0.22999999999999998,0.0,fr,1
+Florence +,Florence +,ORG,0.11571428571428569,0.0,fr,1
+BFM-TV,BFM-TV,ORG,0.20099999999999998,0.0,fr,1
+Washington Commanders fan in 2024,Washington Commanders fan in 2024,ORG,0.0,0.0,fr,1
+Standard &amp,Standard &amp,ORG,0.035,0.0,fr,1
