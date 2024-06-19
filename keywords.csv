@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Juliette Binoche',fr,unknown,#111111,#111111,2,0.5169447861506054
 'Camille Cottin',fr,unknown,#111111,#111111,1,0.5157550602318277
 'Jacoby Brissett',fr,unknown,#111111,#111111,2,0.5091203385385116
 'Julia Louis-Dreyfus',fr,unknown,#111111,#111111,2,0.5057546461259134
@@ -12,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demi Moore',fr,unknown,#111111,#111111,3,0.4697768012323242
 'Andrea Arnold',fr,unknown,#111111,#111111,2,0.4610850849357814
 'Francis Ford Coppola',fr,unknown,#111111,#111111,3,0.4605648260768102
-'Charlize Theron',fr,unknown,#111111,#111111,2,0.46030540322115937
+'Charlize Theron',fr,unknown,#111111,#111111,2,0.4603054032211593
 'Dua Lipa',fr,unknown,#111111,#111111,3,0.4590621434057688
 'Édouard Philippe',fr,unknown,#111111,#111111,3,0.4589937418797684
 'Eva Green',fr,unknown,#111111,#111111,2,0.457814616974176
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nathalie Emmanuel',fr,unknown,#111111,#111111,3,0.4404995975793007
 'James Biden',fr,unknown,#111111,#111111,3,0.440239613880033
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4399775335735187
+'Juliette Binoche',fr,unknown,#111111,#111111,1,0.43940330822801454
 'Jake Gyllenhaal',fr,unknown,#111111,#111111,1,0.4373775096094837
 'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4369120564385088
 'Lana Del Rey',fr,unknown,#111111,#111111,2,0.4361684995740854
@@ -273,17 +273,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
+'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,2,0.361149957477122
 'Jennifer Lopez',fr,unknown,#111111,#111111,2,0.3609814317893738
 'François Braun',fr,unknown,#111111,#111111,3,0.3607370197114447
@@ -588,11 +588,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',fr,Russland,#e81818,#e81818,1,0.2220531906294687
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mathias Döpfner',fr,Deutschland,#1818e8,#1818e8,1,0.2198243804009039
