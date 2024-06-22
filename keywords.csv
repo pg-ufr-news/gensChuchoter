@@ -131,7 +131,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,2,0.4046706942563635
 'Vo Van Thuong',fr,unknown,#111111,#111111,1,0.4037295080477713
 'Premier ministre',fr,unknown,#111111,#111111,3,0.403072832791061
-'Selena Gomez',fr,unknown,#111111,#111111,2,0.4012709695328206
 'Sophia Chikirou',fr,unknown,#111111,#111111,3,0.4011941389726304
 'Amber Heard',fr,USA,#18e8e8,#18e8e8,2,0.4008985901838606
 'Javier Milei',fr,unknown,#111111,#111111,2,0.4008500325014768
@@ -221,6 +220,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mira Murati',fr,unknown,#111111,#111111,1,0.3690670266851377
 'Robert De Niro',fr,USA,#18e8e8,#18e8e8,2,0.36886083471993
 'Willem Dafoe',fr,unknown,#111111,#111111,1,0.3688259692613996
+'Selena Gomez',fr,unknown,#111111,#111111,3,0.36875860183017023
 'Ana Navarro',fr,unknown,#111111,#111111,1,0.3686542825640511
 'Trevian Kutti',fr,unknown,#111111,#111111,1,0.368625015
 'Teresa Giudice',fr,unknown,#111111,#111111,1,0.3684497098264766
@@ -274,17 +274,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,2,0.361149957477122
 'Jennifer Lopez',fr,unknown,#111111,#111111,2,0.3609814317893738
 'François Braun',fr,unknown,#111111,#111111,3,0.3607370197114447
@@ -588,11 +588,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',fr,Russland,#e81818,#e81818,1,0.2220531906294687
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
+'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mathias Döpfner',fr,Deutschland,#1818e8,#1818e8,1,0.2198243804009039
@@ -734,7 +734,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Koch',fr,USA,#18e8e8,#18e8e8,2,0.1272917809567915
 'Hans Joachim Schellnhuber',fr,Deutschland,#1818e8,#1818e8,1,0.1270797802032631
 'Veronika Grimm',fr,Deutschland,#1818e8,#1818e8,1,0.1258097642369795
-'Carl Friedrich Gauß',fr,Deutschland,#1818e8,#1818e8,1,0.12575809497811982
+'Carl Friedrich Gauß',fr,Deutschland,#1818e8,#1818e8,1,0.1257580949781198
 'Scott Morrison',fr,Australien,#111111,#111111,1,0.1254962258655283
 'Kardinal Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.1234836646678884
 'Macky Sall',fr,Senegal,#111111,#111111,1,0.1234266710588938
