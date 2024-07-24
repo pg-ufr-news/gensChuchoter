@@ -67,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4245893902344634
 'Ron Howard',fr,unknown,#111111,#111111,1,0.4240157564831752
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.4239919493399884
+'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.42383824386965485
 'Fabien Roussel',fr,unknown,#111111,#111111,3,0.4235972758280261
 'Jon Batiste',fr,unknown,#111111,#111111,2,0.4222693404037111
 'Emma Stone',fr,unknown,#111111,#111111,2,0.4220113782260007
@@ -81,7 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Luc Terlinden',fr,unknown,#111111,#111111,2,0.4189166713239729
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4185050709231448
 'Camille Cottin',fr,unknown,#111111,#111111,1,0.4180918893508287
-'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.4179359943921074
 'Adam Driver',fr,unknown,#111111,#111111,3,0.4178957527315391
 'Elizabeth Warren',fr,unknown,#111111,#111111,1,0.4174946735815725
 'Joe Alwyn',fr,unknown,#111111,#111111,1,0.4168803493780808
@@ -255,17 +255,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Jennifer Lopez',fr,unknown,#111111,#111111,2,0.3609814317893738
 'François Braun',fr,unknown,#111111,#111111,3,0.3607370197114447
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,3,0.3606871268428181
@@ -454,11 +454,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',fr,Schweiz,#111111,#111111,1,0.3075376980124999
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,2,0.307253404513551
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3072125149999999
+'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,1,0.3069774638555537
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.305532645573125
@@ -528,11 +528,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',fr,Deutschland,#1818e8,#1818e8,1,0.2614041525987499
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.261239032799375
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2612227765493749
+'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2610031249999999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.2610031249999999
-'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2610031249999999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.2610031249999999
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.2601333136739115
 'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.2590972047842891
 'Penny Mordaunt',fr,UK,#e838e8,#e838e8,1,0.2574512510311514
