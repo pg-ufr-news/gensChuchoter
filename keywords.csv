@@ -101,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Messi',fr,Argentinien,#111111,#111111,3,0.4074853048356437
 'Kevin Hart',fr,unknown,#111111,#111111,1,0.4061743076464733
 'Anya Taylor-Joy',fr,unknown,#111111,#111111,2,0.4053994284721789
+'Nathalie Emmanuel',fr,unknown,#111111,#111111,3,0.4050309148192266
 'Javier Milei',fr,unknown,#111111,#111111,2,0.4047641117171643
 'Vo Van Thuong',fr,unknown,#111111,#111111,1,0.4037295080477713
 'Chris Hemsworth',fr,unknown,#111111,#111111,3,0.4034519726741388
@@ -171,7 +172,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paris Hilton',fr,unknown,#111111,#111111,1,0.3752388362322826
 'Paul Biya',fr,unknown,#111111,#111111,3,0.3751523287375169
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.3744597187525994
-'Nathalie Emmanuel',fr,unknown,#111111,#111111,2,0.3744256329424056
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.3743850481567652
 'Irina Shayk',fr,unknown,#111111,#111111,1,0.3743536135688818
 'James Biden',fr,unknown,#111111,#111111,1,0.374203896798028
@@ -255,17 +255,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Jennifer Lopez',fr,unknown,#111111,#111111,2,0.3609814317893738
 'François Braun',fr,unknown,#111111,#111111,3,0.3607370197114447
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,3,0.3606871268428181
