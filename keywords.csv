@@ -5,6 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dua Lipa',fr,unknown,#111111,#111111,3,0.4600353000767216
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.4584854232597902
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.4538030202767201
+'James Biden',fr,unknown,#111111,#111111,3,0.4502969395510511
 'président de la République',fr,unknown,#111111,#111111,3,0.4491738016311695
 'Ben Wallace',fr,unknown,#111111,#111111,2,0.4489641707143749
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.4480030328622142
@@ -173,7 +174,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.3744597187525994
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.3743850481567652
 'Irina Shayk',fr,unknown,#111111,#111111,1,0.3743536135688818
-'James Biden',fr,unknown,#111111,#111111,1,0.374203896798028
 'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.3736109141764828
 'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.3735839063021171
 'Leonard Bernstein',fr,unknown,#111111,#111111,1,0.3735404624656065
@@ -527,10 +527,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',fr,Deutschland,#1818e8,#1818e8,1,0.2614041525987499
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.261239032799375
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2612227765493749
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.2610031249999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.2610031249999999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2610031249999999
+'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.2601333136739115
 'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.2590972047842891
 'Penny Mordaunt',fr,UK,#e838e8,#e838e8,1,0.2574512510311514
