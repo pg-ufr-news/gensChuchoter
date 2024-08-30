@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kristen Wiig',fr,unknown,#111111,#111111,2,0.4286404124239514
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.4286166608523806
 'Jerod Mayo',fr,unknown,#111111,#111111,1,0.4282843102172731
-'Eliot Wolf',fr,unknown,#111111,#111111,1,0.4280971910198258
 'Drew Bledsoe',fr,unknown,#111111,#111111,1,0.4279822257011514
 'Robert Downey Jr',fr,unknown,#111111,#111111,1,0.4278066213779907
 'Aubrey Plaza',fr,unknown,#111111,#111111,1,0.4276642055658312
@@ -95,8 +94,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.3979962615931818
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.39767503
 'Jake Gyllenhaal',fr,unknown,#111111,#111111,1,0.3976709731680611
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.397375
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.397375
 'Mark Meadows',fr,unknown,#111111,#111111,1,0.3973335568493202
 'nan Si',fr,unknown,#111111,#111111,1,0.3969283605990067
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.3967131383804254
@@ -211,6 +210,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wagner-Chef Prigoschin',fr,unknown,#111111,#111111,1,0.3645953538883573
 'Sherri Shepherd',fr,unknown,#111111,#111111,1,0.364547183443331
 'Melania Trump',fr,unknown,#111111,#111111,1,0.3644965562828161
+'Eliot Wolf',fr,unknown,#111111,#111111,1,0.36403262736685194
 'Linda Yaccarino',fr,USA,#18e8e8,#18e8e8,3,0.3635298623645496
 'Cassidy Hutchinson',fr,unknown,#111111,#111111,1,0.3634172500474729
 'Jack Antonoff',fr,unknown,#111111,#111111,2,0.3633263324603483
@@ -233,13 +233,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
