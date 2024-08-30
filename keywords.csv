@@ -233,17 +233,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
-'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Jennifer Lopez',fr,unknown,#111111,#111111,2,0.3609814317893738
 'François Braun',fr,unknown,#111111,#111111,3,0.3607370197114447
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,3,0.3606871268428181
@@ -623,7 +623,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgia Meloni',fr,Italien,#111111,#111111,3,0.1977848506583311
 'Mike Pence',fr,USA,#18e8e8,#18e8e8,1,0.196391398583942
 'Frank Plasberg',fr,Deutschland,#1818e8,#1818e8,1,0.1960224546363952
-'Holger Friedrich',fr,Deutschland,#1818e8,#1818e8,1,0.1959323740949097
 'Katharina König-Press',fr,Deutschland,#1818e8,#1818e8,2,0.1957494633347225
 'Mark Zuckerberg',fr,USA,#18e8e8,#18e8e8,3,0.1956783802064481
 'Charles Koch',fr,USA,#18e8e8,#18e8e8,2,0.1953585457074567
@@ -676,6 +675,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Pistorius',fr,Deutschland,#1818e8,#1818e8,2,0.1685205659939535
 'Andreas Baum',fr,Deutschland,#1818e8,#1818e8,1,0.168427951669922
 'Christine Lagarde',fr,EU,#111111,#111111,3,0.1673524284627061
+'Holger Friedrich',fr,Deutschland,#1818e8,#1818e8,1,0.16654251798067324
 'Luisa Neubauer',fr,Deutschland,#1818e8,#1818e8,1,0.1659245153670076
 'Winfried Kretschmann',fr,Deutschland,#1818e8,#1818e8,1,0.1651134705123221
 'Roberta Metsola',fr,EU,#111111,#111111,1,0.164994776793156
