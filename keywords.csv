@@ -57,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valérie Hayer',fr,unknown,#111111,#111111,3,0.4207687422669944
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.419564840344478
 'Joey Fatone',fr,unknown,#111111,#111111,1,0.4191847514223578
-'Prince Charles',fr,UK,#e838e8,#e838e8,3,0.4189827920268152
 'Camille Cottin',fr,unknown,#111111,#111111,1,0.4180918893508287
 'Elizabeth Warren',fr,unknown,#111111,#111111,1,0.4174946735815725
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,2,0.4173045395350484
@@ -84,7 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlize Theron',fr,unknown,#111111,#111111,2,0.4020204747695334
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,2,0.4012374777560403
 'Sophia Chikirou',fr,unknown,#111111,#111111,3,0.4011941389726304
-'Antonio Brown',fr,unknown,#111111,#111111,1,0.40101338451127183
+'Antonio Brown',fr,unknown,#111111,#111111,1,0.4010133845112718
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.4002844282880587
 'Rupert Murdoch',fr,unknown,#111111,#111111,1,0.40017568654625
 'Dwayne Johnson',fr,unknown,#111111,#111111,1,0.3997640150659821
@@ -123,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Badinter',fr,unknown,#111111,#111111,2,0.3824951050521765
 'Jean-Denis Combrexelle',fr,unknown,#111111,#111111,1,0.3821515121008312
 'George Miller',fr,unknown,#111111,#111111,1,0.3819981768383632
+'Prince Charles',fr,UK,#e838e8,#e838e8,3,0.38163616822279295
 'Ben Wallace',fr,unknown,#111111,#111111,1,0.3816195601072186
 'Dua Lipa',fr,unknown,#111111,#111111,2,0.3815447211690677
 'David Weiss',fr,unknown,#111111,#111111,2,0.3811645075803946
@@ -231,16 +231,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Jennifer Lopez',fr,unknown,#111111,#111111,2,0.3609814317893738
 'François Braun',fr,unknown,#111111,#111111,3,0.3607370197114447
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,3,0.3606871268428181
@@ -330,17 +330,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geoffrey Hinton',fr,UK,#e838e8,#e838e8,3,0.3381354264958989
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.3380462777499999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.3378396345136363
+'Kyle Pope',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Kyle Pope',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Hans Joosten',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Hans Joosten',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.3377493612303905
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.3373561826233616
 'Roman Pacino',fr,unknown,#111111,#111111,2,0.3373385360570501
