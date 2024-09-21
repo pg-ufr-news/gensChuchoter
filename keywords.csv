@@ -226,16 +226,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3612501402499999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
-'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
+'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'François Braun',fr,unknown,#111111,#111111,3,0.3607370197114447
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,3,0.3606871268428181
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.3606657808734067
@@ -443,10 +443,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Bayes',fr,UK,#e838e8,#e838e8,1,0.3073625299999999
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,2,0.307253404513551
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3072125149999999
-'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
+'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.305532645573125
@@ -763,7 +763,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Jödecke',fr,Deutschland,#1818e8,#1818e8,1,0.0952087999496758
 'Jair Lapid',fr,Israel,#111111,#111111,1,0.0949975903305199
 'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.0947607989411315
-'Jewgeni Prigoschin',fr,Russland,#e81818,#e81818,1,0.09353382041033
 'Daniel Zhang',fr,China,#e88818,#e88818,1,0.0934490626863142
 'Milo Yiannopoulos',fr,UK,#e838e8,#e838e8,1,0.0920387840292876
 'Nicola Sturgeon',fr,UK,#e838e8,#e838e8,1,0.091977099946588
@@ -777,6 +776,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amin Nasser',fr,SaudiArabien,#111111,#111111,1,0.0826827306069427
 'Igor Setschin',fr,Russland,#e81818,#e81818,1,0.0818003113276166
 'Miguel Díaz-Canel',fr,Kuba,#111111,#111111,1,0.0809188967957799
+'Jewgeni Prigoschin',fr,Russland,#e81818,#e81818,1,0.07950374734878049
 'Sergej Lavrov',fr,Russland,#e81818,#e81818,1,0.0784063434484537
 'Lael Brainard',fr,USA,#18e8e8,#18e8e8,1,0.0765118461072041
 'Badri Hosseini Chamenei',fr,Iran,#111111,#111111,1,0.0764442041235956
