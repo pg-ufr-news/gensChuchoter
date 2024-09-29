@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.4881419894450859
+'Édouard Philippe',fr,unknown,#111111,#111111,3,0.46489424850682953
 'Yaël Braun-Pivet',fr,unknown,#111111,#111111,3,0.459344859799574
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4518786470361889
 'Rosalynn Carter',fr,USA,#18e8e8,#18e8e8,2,0.4506403275669686
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudolf Steiner',fr,Oesterreich,#111111,#111111,2,0.4362171813825968
 'Lana Del Rey',fr,unknown,#111111,#111111,3,0.4361227807895714
 'Jennifer Lopez',fr,unknown,#111111,#111111,3,0.4345120747482405
-'Édouard Philippe',fr,unknown,#111111,#111111,3,0.4341571736443984
 'François Bayrou',fr,unknown,#111111,#111111,3,0.433596190180051
 'LeBron James',fr,unknown,#111111,#111111,3,0.4325343263706673
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,3,0.4322387583151756
@@ -575,13 +575,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
+'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
@@ -729,7 +729,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskiy',fr,Ukraine,#e818e8,#e818e8,1,0.1273893204557615
 'Julia Koch',fr,USA,#18e8e8,#18e8e8,2,0.1272917809567915
 'Hans Joachim Schellnhuber',fr,Deutschland,#1818e8,#1818e8,1,0.1270797802032631
-'Karl Nehammer',fr,Oesterreich,#111111,#111111,1,0.12694602810771155
+'Karl Nehammer',fr,Oesterreich,#111111,#111111,1,0.1269460281077115
 'Veronika Grimm',fr,Deutschland,#1818e8,#1818e8,1,0.1258097642369795
 'Scott Morrison',fr,Australien,#111111,#111111,1,0.1254962258655283
 'Kardinal Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.1234836646678884
