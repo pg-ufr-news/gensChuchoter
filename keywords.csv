@@ -575,13 +575,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
@@ -688,7 +688,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',fr,USA,#18e8e8,#18e8e8,1,0.161367019939558
 'Dalai Lama',fr,Tibet,#111111,#111111,1,0.1609550146273434
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.1607160868906249
-'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.1603951417774636
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Prinz Archie',fr,UK,#e838e8,#e838e8,1,0.1600768626653042
 'Gautam Adani',fr,Indien,#111111,#111111,1,0.1588332001257897
@@ -717,6 +716,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nick Fuentes',fr,USA,#18e8e8,#18e8e8,1,0.1367902435696092
 'Barbara Walters',fr,USA,#18e8e8,#18e8e8,1,0.1367562739485645
 'Edmund Stoiber',fr,Deutschland,#1818e8,#1818e8,1,0.1364725915971147
+'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.13633587051084406
 'Benjamin Nethanaju',fr,Israel,#111111,#111111,1,0.1362452625195311
 'Schellnhuber',fr,Deutschland,#1818e8,#1818e8,2,0.1357232008737172
 'Robin Li',fr,China,#e88818,#e88818,1,0.1328455654173694
