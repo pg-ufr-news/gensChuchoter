@@ -578,16 +578,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
+'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mathias Döpfner',fr,Deutschland,#1818e8,#1818e8,1,0.2198243804009039
 'Barbara Sturm',fr,Deutschland,#1818e8,#1818e8,1,0.2181711208506068
-'Sergej Schoigu',fr,Russland,#e81818,#e81818,3,0.217707713489173
 'Rainer Maria Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.2166518726093558
 'Recep Tayyip Erdoğan',fr,Türkei,#111111,#111111,2,0.216266069377041
 'Herbert Diess',fr,Deutschland,#1818e8,#1818e8,1,0.2149003512928284
@@ -640,6 +639,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Thunberg',fr,Schweden,#111111,#111111,2,0.1874870610526381
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',fr,Japan,#111111,#111111,3,0.1870351350228879
+'Sergej Schoigu',fr,Russland,#e81818,#e81818,2,0.18505155646579705
 'Martin Schirdewan',fr,Deutschland,#1818e8,#1818e8,2,0.1823743431303657
 'Richard David Precht',fr,Deutschland,#1818e8,#1818e8,1,0.1817510973350538
 'Mojib Latif',fr,Deutschland,#1818e8,#1818e8,1,0.1817305751150951
