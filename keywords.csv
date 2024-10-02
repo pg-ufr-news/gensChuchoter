@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.469880951028323
 'Édouard Philippe',fr,unknown,#111111,#111111,3,0.4648942485068295
 'Yaël Braun-Pivet',fr,unknown,#111111,#111111,3,0.459344859799574
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4518786470361889
@@ -14,13 +13,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabriel Attal',fr,unknown,#111111,#111111,3,0.4392905848227108
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,2,0.438578334713732
 'Kamilla Cardoso',fr,unknown,#111111,#111111,1,0.4374729575172044
-'Gigi Hadid',fr,unknown,#111111,#111111,2,0.43736568270765624
+'Gigi Hadid',fr,unknown,#111111,#111111,2,0.4373656827076562
 'Rudolf Steiner',fr,Oesterreich,#111111,#111111,2,0.4362171813825968
 'Lana Del Rey',fr,unknown,#111111,#111111,3,0.4361227807895714
 'Jennifer Lopez',fr,unknown,#111111,#111111,3,0.4345120747482405
 'François Bayrou',fr,unknown,#111111,#111111,3,0.433596190180051
 'LeBron James',fr,unknown,#111111,#111111,3,0.4325343263706673
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,3,0.4322387583151756
+'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.4316323206468018
 'Ryan Gosling',fr,unknown,#111111,#111111,2,0.429515149575
 'Benny Safdie',fr,unknown,#111111,#111111,2,0.4292254865684506
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.4286166608523806
@@ -575,13 +575,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
+'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
-'Robert Nozick',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
