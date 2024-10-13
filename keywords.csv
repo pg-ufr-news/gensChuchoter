@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.4431395065548046
 'Edouard Philippe',fr,unknown,#111111,#111111,3,0.4431084873752056
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.441944610343579
+'LeBron James',fr,unknown,#111111,#111111,3,0.44078656559688534
 'Gabriel Attal',fr,unknown,#111111,#111111,3,0.4392905848227108
 'Francis Ford Coppola',fr,unknown,#111111,#111111,3,0.437648271214421
 'Kamilla Cardoso',fr,unknown,#111111,#111111,1,0.4374729575172044
@@ -18,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Radical Optimism',fr,unknown,#111111,#111111,2,0.4346667666481416
 'Jennifer Lopez',fr,unknown,#111111,#111111,3,0.4345120747482405
 'François Bayrou',fr,unknown,#111111,#111111,3,0.433596190180051
-'LeBron James',fr,unknown,#111111,#111111,3,0.4325343263706673
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,3,0.4322387583151756
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.4316323206468018
 'Bradley Cooper',fr,unknown,#111111,#111111,3,0.4306771470528371
@@ -370,7 +370,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',fr,USA,#18e8e8,#18e8e8,1,0.3232245946481249
 'Charles III',fr,UK,#e838e8,#e838e8,3,0.3229634203263249
 'Ahmed Al Jaber',fr,unknown,#111111,#111111,1,0.3229578140180681
-'Imran Khan',fr,unknown,#111111,#111111,1,0.32271342319125146
+'Imran Khan',fr,unknown,#111111,#111111,1,0.3227134231912514
 'Paul-Henry Nargeolet',fr,Frankreich,#e8e808,#e8e808,1,0.3225878858749998
 'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,1,0.3223080371849998
 'Sam Asghari',fr,unknown,#111111,#111111,1,0.3221149728361913
@@ -439,11 +439,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,2,0.307253404513551
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.3072125149999999
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3070626192124999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
+'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.305532645573125
 'Meg Bellamy',fr,UK,#e838e8,#e838e8,2,0.3045747367962499
