@@ -577,12 +577,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
@@ -626,7 +626,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tino Chrupalla',fr,Deutschland,#1818e8,#1818e8,2,0.1937899845784159
 'Björn Höcke',fr,Deutschland,#1818e8,#1818e8,1,0.1932045648245208
 'Jeffrey Donaldson',fr,Irland,#111111,#111111,1,0.1924692566203389
-'Francoise Bettencourt-Meyers',fr,Frankreich,#e8e808,#e8e808,1,0.19234625296875
 'Christoph Heusgen',fr,Deutschland,#1818e8,#1818e8,3,0.191097369710278
 'Karine Jean-Pierre',fr,USA,#18e8e8,#18e8e8,3,0.1904188018847302
 'Sergej Lawrow',fr,Russland,#e81818,#e81818,3,0.1901162263136014
@@ -680,6 +679,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Liz Truss',fr,UK,#e838e8,#e838e8,1,0.164922164965322
 'Sergey Brin',fr,USA,#18e8e8,#18e8e8,1,0.1644774733059029
 'Daniel Freund',fr,EU,#111111,#111111,1,0.1638080531626398
+'Francoise Bettencourt-Meyers',fr,Frankreich,#e8e808,#e8e808,1,0.16349431502343748
 'Stephan Harbarth',fr,Deutschland,#1818e8,#1818e8,1,0.1634309033611339
 'Saskia Esken',fr,Deutschland,#1818e8,#1818e8,2,0.1633994218660553
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,2,0.1627057727801119
