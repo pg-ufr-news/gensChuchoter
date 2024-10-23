@@ -389,7 +389,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maya Rudolph',fr,unknown,#111111,#111111,1,0.3160676320725766
 'Lawrence Jones',fr,unknown,#111111,#111111,1,0.315379065385497
 'Recep Tayyip Erdoan',fr,Türkei,#111111,#111111,2,0.3150587568272697
-'Viktor Shokin',fr,unknown,#111111,#111111,1,0.31468170553378816
+'Viktor Shokin',fr,unknown,#111111,#111111,1,0.3146817055337881
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.3143820654741391
 'Drena De Niro',fr,USA,#18e8e8,#18e8e8,1,0.3143724338487499
 'Patricia Blanco',fr,Deutschland,#1818e8,#1818e8,1,0.3141719327993749
@@ -577,12 +577,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
@@ -745,6 +745,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1158084731416014
 'Ulf Poschardt',fr,Deutschland,#1818e8,#1818e8,1,0.1145750128078285
 'Nikos Androulakis',fr,Griechenland,#1858e8,#1858e8,2,0.1135535340121011
+'Larry Page',fr,USA,#18e8e8,#18e8e8,1,0.11244284642757306
 'Susanne Klatten',fr,Deutschland,#1818e8,#1818e8,1,0.111162752109088
 'Gregor Gysi',fr,Deutschland,#1818e8,#1818e8,1,0.110145909003977
 'Volker Wissing',fr,Deutschland,#1818e8,#1818e8,2,0.1094209298414173
@@ -783,7 +784,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klaus Hasselmann',fr,Deutschland,#1818e8,#1818e8,1,0.0744417192864673
 'Frank Bainimarama',fr,Fidschi,#111111,#111111,1,0.0729372324530693
 'Kurt Krömer',fr,Deutschland,#1818e8,#1818e8,1,0.0725310067236931
-'Larry Page',fr,USA,#18e8e8,#18e8e8,1,0.0724032428559683
 'Jochen Thewes',fr,Deutschland,#1818e8,#1818e8,1,0.063390329511489
 'Bartholomäus',fr,Türkei,#111111,#111111,1,0.0609461657967015
 'Katalin Novak',fr,Ungarn,#111111,#111111,1,0.0525980292485102
