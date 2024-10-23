@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lana Del Rey',fr,unknown,#111111,#111111,3,0.4361227807895714
 'Radical Optimism',fr,unknown,#111111,#111111,2,0.4346667666481416
 'Jennifer Lopez',fr,unknown,#111111,#111111,3,0.4345120747482405
-'François Bayrou',fr,unknown,#111111,#111111,3,0.433596190180051
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.4316323206468018
 'Bradley Cooper',fr,unknown,#111111,#111111,3,0.4306771470528371
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.4286166608523806
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron Howard',fr,unknown,#111111,#111111,1,0.4108634380106989
 'Aubrey Plaza',fr,unknown,#111111,#111111,1,0.41018247678978
 'Narendra Modi',fr,Indien,#111111,#111111,3,0.4100119890492612
+'François Bayrou',fr,unknown,#111111,#111111,3,0.4066578116530434
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4061390307392185
 'Nathalie Emmanuel',fr,unknown,#111111,#111111,3,0.4050309148192266
 'président de la République',fr,unknown,#111111,#111111,3,0.4049501895683122
@@ -577,12 +577,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
+'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
@@ -745,7 +745,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Megyn Kell',fr,USA,#18e8e8,#18e8e8,1,0.1158084731416014
 'Ulf Poschardt',fr,Deutschland,#1818e8,#1818e8,1,0.1145750128078285
 'Nikos Androulakis',fr,Griechenland,#1858e8,#1858e8,2,0.1135535340121011
-'Larry Page',fr,USA,#18e8e8,#18e8e8,1,0.11244284642757306
+'Larry Page',fr,USA,#18e8e8,#18e8e8,1,0.112442846427573
 'Susanne Klatten',fr,Deutschland,#1818e8,#1818e8,1,0.111162752109088
 'Gregor Gysi',fr,Deutschland,#1818e8,#1818e8,1,0.110145909003977
 'Volker Wissing',fr,Deutschland,#1818e8,#1818e8,2,0.1094209298414173
