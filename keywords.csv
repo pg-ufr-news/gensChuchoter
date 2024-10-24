@@ -577,12 +577,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
@@ -679,7 +679,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Liz Truss',fr,UK,#e838e8,#e838e8,1,0.164922164965322
 'Sergey Brin',fr,USA,#18e8e8,#18e8e8,1,0.1644774733059029
 'Daniel Freund',fr,EU,#111111,#111111,1,0.1638080531626398
-'Francoise Bettencourt-Meyers',fr,Frankreich,#e8e808,#e8e808,1,0.16349431502343748
+'Francoise Bettencourt-Meyers',fr,Frankreich,#e8e808,#e8e808,1,0.1634943150234374
 'Stephan Harbarth',fr,Deutschland,#1818e8,#1818e8,1,0.1634309033611339
 'Saskia Esken',fr,Deutschland,#1818e8,#1818e8,2,0.1633994218660553
 'Oliver Blume',fr,Deutschland,#1818e8,#1818e8,2,0.1627057727801119
@@ -730,6 +730,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Nehammer',fr,Oesterreich,#111111,#111111,1,0.1269460281077115
 'Veronika Grimm',fr,Deutschland,#1818e8,#1818e8,1,0.1258097642369795
 'Scott Morrison',fr,Australien,#111111,#111111,1,0.1254962258655283
+'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.12467112624280297
 'Kardinal Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.1234836646678884
 'Macky Sall',fr,Senegal,#111111,#111111,1,0.1234266710588938
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.1225637212387343
@@ -770,7 +771,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jitzchak Herzog',fr,Israel,#111111,#111111,1,0.088442360240407
 'Joko Widodo',fr,Indonesien,#111111,#111111,1,0.0881054099690376
 'Carola Rackete',fr,Deutschland,#1818e8,#1818e8,1,0.0879613185654008
-'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.0867894544032976
 'Tamim bin Hamad Al-Thani',fr,Katar,#111111,#111111,1,0.0857657360781233
 'Ayatollah Ali Chamenei',fr,Iran,#111111,#111111,1,0.0853387457918401
 'Alberto Ángel Fernández',fr,Argentinien,#111111,#111111,1,0.0834899180866222
