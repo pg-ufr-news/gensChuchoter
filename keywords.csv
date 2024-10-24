@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Poutine',fr,Russland,#e81818,#e81818,3,0.5052345002609914
+'Poutine',fr,Russland,#e81818,#e81818,3,0.5116834524945699
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,3,0.4680908421753071
 'Ainsley Earhardt',fr,unknown,#111111,#111111,2,0.4611404716225377
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,3,0.4555523060926342
@@ -577,12 +577,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
+'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
-'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
