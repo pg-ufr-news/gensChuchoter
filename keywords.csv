@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Leni Klum',fr,unknown,#111111,#111111,2,0.46777033397067863
 'Ainsley Earhardt',fr,unknown,#111111,#111111,2,0.4611404716225377
 'Édouard Philippe',fr,unknown,#111111,#111111,3,0.4546572307762596
 'Edouard Philippe',fr,unknown,#111111,#111111,3,0.4543204469961974
@@ -119,7 +120,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Irina Shayk',fr,unknown,#111111,#111111,1,0.3743536135688818
 'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.3736109141764828
 'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.3735839063021171
-'Leni Klum',fr,unknown,#111111,#111111,1,0.373494475259622
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,2,0.3734144044325568
 'Kate Hudson',fr,unknown,#111111,#111111,1,0.3730644946064096
 'Olivier Dussopt',fr,unknown,#111111,#111111,1,0.3724056850420453
@@ -196,9 +196,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
