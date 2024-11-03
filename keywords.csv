@@ -763,7 +763,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Jödecke',fr,Deutschland,#1818e8,#1818e8,1,0.0952087999496758
 'Alexej Kudrin',fr,Russland,#e81818,#e81818,1,0.0951055129018731
 'Jair Lapid',fr,Israel,#111111,#111111,1,0.0949975903305199
-'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.0947607989411315
 'Daniel Zhang',fr,China,#e88818,#e88818,1,0.0934490626863142
 'Milo Yiannopoulos',fr,UK,#e838e8,#e838e8,1,0.0920387840292876
 'Nicola Sturgeon',fr,UK,#e838e8,#e838e8,1,0.091977099946588
@@ -776,6 +775,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alberto Ángel Fernández',fr,Argentinien,#111111,#111111,1,0.0834899180866222
 'Amin Nasser',fr,SaudiArabien,#111111,#111111,1,0.0826827306069427
 'Igor Setschin',fr,Russland,#e81818,#e81818,1,0.0818003113276166
+'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.08054667909996177
 'Miguel Díaz-Canel',fr,Kuba,#111111,#111111,1,0.0798146656097462
 'Jewgeni Prigoschin',fr,Russland,#e81818,#e81818,1,0.0795037473487804
 'Sergej Lavrov',fr,Russland,#e81818,#e81818,1,0.0784063434484537
