@@ -709,7 +709,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Lukaschenko',fr,Belarus,#e81858,#e81858,1,0.138829039140324
 'Michael Kretschmer',fr,Deutschland,#1818e8,#1818e8,1,0.1387489361653552
 'Viktor Orbán',fr,Ungarn,#111111,#111111,1,0.1385394459131953
-'Steffi Lemke',fr,Deutschland,#1818e8,#1818e8,2,0.1384690476042515
 'Alexei Nawalny',fr,Russland,#e81818,#e81818,1,0.1374186938083438
 'Nick Fuentes',fr,USA,#18e8e8,#18e8e8,1,0.1367902435696092
 'Barbara Walters',fr,USA,#18e8e8,#18e8e8,1,0.1367562739485645
@@ -740,6 +739,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanjahu',fr,Israel,#111111,#111111,1,0.1185807077518884
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,1,0.1185770693724193
 'Paul Gosar',fr,USA,#18e8e8,#18e8e8,1,0.1181246426044334
+'Steffi Lemke',fr,Deutschland,#1818e8,#1818e8,1,0.11769869046361377
 'Erik Marquardt',fr,EU,#111111,#111111,1,0.1173168427736339
 'Steffen Große',fr,Deutschland,#1818e8,#1818e8,3,0.1166318523775728
 'Holger Münch',fr,Deutschland,#1818e8,#1818e8,2,0.116486442922703
@@ -775,7 +775,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alberto Ángel Fernández',fr,Argentinien,#111111,#111111,1,0.0834899180866222
 'Amin Nasser',fr,SaudiArabien,#111111,#111111,1,0.0826827306069427
 'Igor Setschin',fr,Russland,#e81818,#e81818,1,0.0818003113276166
-'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.08054667909996177
+'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.0805466790999617
 'Miguel Díaz-Canel',fr,Kuba,#111111,#111111,1,0.0798146656097462
 'Jewgeni Prigoschin',fr,Russland,#e81818,#e81818,1,0.0795037473487804
 'Sergej Lavrov',fr,Russland,#e81818,#e81818,1,0.0784063434484537
