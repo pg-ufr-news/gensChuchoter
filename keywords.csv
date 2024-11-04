@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Leni Klum',fr,unknown,#111111,#111111,2,0.4677703339706786
 'Ainsley Earhardt',fr,unknown,#111111,#111111,2,0.4611404716225377
 'Édouard Philippe',fr,unknown,#111111,#111111,3,0.4546572307762596
 'Edouard Philippe',fr,unknown,#111111,#111111,3,0.4543204469961974
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rupert Murdoch',fr,unknown,#111111,#111111,1,0.40017568654625
 'Vincent Van Quickenborne',fr,unknown,#111111,#111111,2,0.3999322426551745
 'Jimmy Kimmel',fr,unknown,#111111,#111111,2,0.3987918644927526
+'Leni Klum',fr,unknown,#111111,#111111,2,0.3979048138750768
 'Robert Downey Jr',fr,unknown,#111111,#111111,1,0.3978786953141492
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,2,0.397877905849011
 'Tasneem Essop',fr,unknown,#111111,#111111,1,0.39767503
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.3940614807353407
 'Jamie Spears',fr,unknown,#111111,#111111,2,0.3938840789069378
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,2,0.3934705401179089
-'Olivier Dussopt',fr,unknown,#111111,#111111,2,0.39244492228573846
+'Olivier Dussopt',fr,unknown,#111111,#111111,2,0.3924449222857384
 'Michelle Williams',fr,unknown,#111111,#111111,1,0.3893333979988079
 'Eva Green',fr,unknown,#111111,#111111,1,0.3891424544280496
 'Brad Pitt',fr,unknown,#111111,#111111,3,0.3888997863297871
