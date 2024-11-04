@@ -82,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.3940614807353407
 'Jamie Spears',fr,unknown,#111111,#111111,2,0.3938840789069378
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,2,0.3934705401179089
+'Olivier Dussopt',fr,unknown,#111111,#111111,2,0.39244492228573846
 'Michelle Williams',fr,unknown,#111111,#111111,1,0.3893333979988079
 'Eva Green',fr,unknown,#111111,#111111,1,0.3891424544280496
 'Brad Pitt',fr,unknown,#111111,#111111,3,0.3888997863297871
@@ -121,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.3735839063021171
 'Aurélien Pradié',fr,Frankreich,#e8e808,#e8e808,2,0.3734144044325568
 'Kate Hudson',fr,unknown,#111111,#111111,1,0.3730644946064096
-'Olivier Dussopt',fr,unknown,#111111,#111111,1,0.3724056850420453
 'Selenskyj',fr,Ukraine,#e818e8,#e818e8,2,0.3722386039214373
 'Chuck Schumer',fr,unknown,#111111,#111111,1,0.3717130230307049
 'Gisele Bündchen',fr,unknown,#111111,#111111,1,0.3715276294106612
@@ -739,7 +739,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanjahu',fr,Israel,#111111,#111111,1,0.1185807077518884
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,1,0.1185770693724193
 'Paul Gosar',fr,USA,#18e8e8,#18e8e8,1,0.1181246426044334
-'Steffi Lemke',fr,Deutschland,#1818e8,#1818e8,1,0.11769869046361377
+'Steffi Lemke',fr,Deutschland,#1818e8,#1818e8,1,0.1176986904636137
 'Erik Marquardt',fr,EU,#111111,#111111,1,0.1173168427736339
 'Steffen Große',fr,Deutschland,#1818e8,#1818e8,3,0.1166318523775728
 'Holger Münch',fr,Deutschland,#1818e8,#1818e8,2,0.116486442922703
