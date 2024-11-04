@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.5036340733952723
 'Ainsley Earhardt',fr,unknown,#111111,#111111,2,0.4611404716225377
 'Édouard Philippe',fr,unknown,#111111,#111111,3,0.4546572307762596
 'Edouard Philippe',fr,unknown,#111111,#111111,3,0.4543204469961974
@@ -20,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emily Blunt',fr,unknown,#111111,#111111,2,0.4294863999959785
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.426669348841973
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.4265604041199405
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4262516435666306
 'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4261589004065189
 'Vivek Ramaswamy',fr,unknown,#111111,#111111,1,0.4260484034629611
 'Gérard Larcher',fr,unknown,#111111,#111111,3,0.4259103029636626
@@ -194,9 +194,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
@@ -407,7 +407,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billionaire Bunker',fr,unknown,#111111,#111111,1,0.3119542193498382
 'Andrew Schulz',fr,unknown,#111111,#111111,1,0.3119153875019315
 'Tony Bobulinski',fr,unknown,#111111,#111111,1,0.311724869056853
-'Joy Behar',fr,unknown,#111111,#111111,1,0.31151867900842545
+'Joy Behar',fr,unknown,#111111,#111111,1,0.3115186790084254
 'Sunny Hostin',fr,unknown,#111111,#111111,1,0.3113099821804901
 'Matt Lauer',fr,unknown,#111111,#111111,1,0.3112783144180516
 'Jake Tapper',fr,unknown,#111111,#111111,1,0.3112047713834145
