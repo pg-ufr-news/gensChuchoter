@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vivek Ramaswamy',fr,unknown,#111111,#111111,2,0.5124411729435169
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4641815806644478
 'Ainsley Earhardt',fr,unknown,#111111,#111111,2,0.4611404716225377
 'Édouard Philippe',fr,unknown,#111111,#111111,3,0.4546572307762596
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gigi Hadid',fr,unknown,#111111,#111111,2,0.4373656827076562
 'Jerod Mayo',fr,unknown,#111111,#111111,1,0.4370629418819797
 'Lana Del Rey',fr,unknown,#111111,#111111,3,0.4361227807895714
+'Vivek Ramaswamy',fr,unknown,#111111,#111111,2,0.4358750270019893
 'Radical Optimism',fr,unknown,#111111,#111111,2,0.4346667666481416
 'Jennifer Lopez',fr,unknown,#111111,#111111,3,0.4345120747482405
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.4316323206468018
@@ -191,12 +191,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,3,0.3612966174352273
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3612500254999999
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3612499999999999
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
