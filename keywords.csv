@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,3,0.4442591519226141
 'Jared Kushner',fr,unknown,#111111,#111111,3,0.4428925113298894
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.4414039697813008
-'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.440725
-'Lea Bonasera',fr,Deutschland,#1818e8,#1818e8,1,0.440725
 'Andrei Sacharow',fr,Russland,#e81818,#e81818,1,0.440725
+'Lea Bonasera',fr,Deutschland,#1818e8,#1818e8,1,0.440725
+'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.440725
 'Gabriel Attal',fr,unknown,#111111,#111111,3,0.4392905848227108
 'Tasneem Essop',fr,unknown,#111111,#111111,2,0.4384738204999999
 'Matt Gaetz',fr,unknown,#111111,#111111,3,0.4379224282344205
@@ -74,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.3940614807353407
 'Lionel Messi',fr,Argentinien,#111111,#111111,3,0.3940229959482979
 'Jamie Spears',fr,unknown,#111111,#111111,2,0.3938840789069378
+'Barry Keoghan',fr,unknown,#111111,#111111,3,0.39229764953606816
 'Édouard Philippe',fr,unknown,#111111,#111111,2,0.390653258940393
 'Bronny James',fr,unknown,#111111,#111111,2,0.3896796636024008
 'Michelle Williams',fr,unknown,#111111,#111111,1,0.3893333979988079
@@ -103,11 +104,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Stern',fr,unknown,#111111,#111111,2,0.3758540232110761
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,2,0.3757926619367992
 'LeBron James',fr,unknown,#111111,#111111,2,0.3746695707573524
-'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Maja Göpel',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
-'Hilda Nakabuye',fr,Uganda,#111111,#111111,1,0.37461625
-'Ottmar Edenhofer',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.37461625
+'Hilda Nakabuye',fr,Uganda,#111111,#111111,1,0.37461625
+'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
+'Ottmar Edenhofer',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,1,0.3745503206207386
 'Jean-Luc Mélenchon',fr,unknown,#111111,#111111,3,0.3743789614511015
 'Irina Shayk',fr,unknown,#111111,#111111,1,0.3743536135688818
@@ -124,10 +125,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valérie Hayer',fr,unknown,#111111,#111111,1,0.3690308437879034
 'Selena Gomez',fr,unknown,#111111,#111111,3,0.3687586018301702
 'Sergio Mattarella',fr,Italien,#111111,#111111,2,0.3686514205661516
-'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.368475
-'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.368475
 'Arno Antlitz',fr,Deutschland,#1818e8,#1818e8,1,0.368475
 'Ralf Dieter',fr,Deutschland,#1818e8,#1818e8,1,0.368475
+'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.368475
+'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.368475
 'Robin Roberts',fr,unknown,#111111,#111111,1,0.3683865345287481
 'Peyton Manning',fr,unknown,#111111,#111111,1,0.3680131077142565
 'George Miller',fr,unknown,#111111,#111111,1,0.3672577062216996
@@ -163,13 +164,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pablo Picasso',fr,Spanien,#111111,#111111,2,0.3617233855625
 'George Santos',fr,USA,#18e8e8,#18e8e8,1,0.3615050704999999
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.3614000149999999
-'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3612499999999999
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,3,0.3606871268428181
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.3606657808734067
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,3,0.3606222457617045
@@ -206,7 +207,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,1,0.35471742347773
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.3547088586047912
 'Meryl Streep',fr,unknown,#111111,#111111,2,0.3537477831053436
-'Barry Keoghan',fr,unknown,#111111,#111111,1,0.3533658304702406
 'Gerald Darmanin',fr,unknown,#111111,#111111,1,0.3525603357425489
 'Derek Chauvin',fr,unknown,#111111,#111111,1,0.3523417828689035
 'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,3,0.3523348265040064
@@ -258,12 +258,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.3382756610508928
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.3380462777499999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.3378396345136363
+'Enissa Amani',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Enissa Amani',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.3377687499999999
@@ -556,7 +556,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Pistorius',fr,Deutschland,#1818e8,#1818e8,2,0.2450426610948604
 'Mark Rutte',fr,Niederlande,#111111,#111111,3,0.2447730012473192
 'Prinz Louis',fr,UK,#e838e8,#e838e8,1,0.2443294534998401
-'Andreas Jung',fr,Deutschland,#1818e8,#1818e8,1,0.24419148408905106
+'Andreas Jung',fr,Deutschland,#1818e8,#1818e8,1,0.244191484089051
 'Herschel Walker',fr,USA,#18e8e8,#18e8e8,1,0.2440379218749999
 'King Charles III',fr,UK,#e838e8,#e838e8,1,0.2436297351436242
 'Cyril Ramaphosa',fr,Südafrika,#111111,#111111,3,0.2419208322667199
