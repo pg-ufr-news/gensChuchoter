@@ -101,10 +101,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergei Shoigu',fr,unknown,#111111,#111111,2,0.3761681549400457
 'Howard Stern',fr,unknown,#111111,#111111,2,0.3758540232110761
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,2,0.3757926619367992
-'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
-'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.37461625
 'Maja Göpel',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
+'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.37461625
 'Hilda Nakabuye',fr,Uganda,#111111,#111111,1,0.37461625
+'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Ottmar Edenhofer',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,1,0.3745503206207386
 'Jean-Luc Mélenchon',fr,unknown,#111111,#111111,3,0.3743789614511015
@@ -122,10 +122,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valérie Hayer',fr,unknown,#111111,#111111,1,0.3690308437879034
 'Selena Gomez',fr,unknown,#111111,#111111,3,0.3687586018301702
 'Sergio Mattarella',fr,Italien,#111111,#111111,2,0.3686514205661516
-'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.368475
 'Arno Antlitz',fr,Deutschland,#1818e8,#1818e8,1,0.368475
-'Ralf Dieter',fr,Deutschland,#1818e8,#1818e8,1,0.368475
+'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.368475
 'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.368475
+'Ralf Dieter',fr,Deutschland,#1818e8,#1818e8,1,0.368475
 'Robin Roberts',fr,unknown,#111111,#111111,1,0.3683865345287481
 'Peyton Manning',fr,unknown,#111111,#111111,1,0.3680131077142565
 'Hubert Aiwanger',fr,unknown,#111111,#111111,1,0.3671742373936165
@@ -254,18 +254,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.3382756610508928
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.3380462777499999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.3378396345136363
+'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.3377493612303905
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.3373561826233616
 'Ayo Edebiri',fr,unknown,#111111,#111111,1,0.3370196605629101
@@ -790,7 +790,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim bin Hamad Al-Thani',fr,Katar,#111111,#111111,1,0.0857657360781233
 'Ayatollah Ali Chamenei',fr,Iran,#111111,#111111,1,0.0853387457918401
 'Jewgenij Roisman',fr,Russland,#e81818,#e81818,1,0.0846642220890158
-'Alberto Ángel Fernández',fr,Argentinien,#111111,#111111,1,0.0834899180866222
 'Amin Nasser',fr,SaudiArabien,#111111,#111111,1,0.0826827306069427
 'Igor Setschin',fr,Russland,#e81818,#e81818,1,0.0818003113276166
 'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.0805466790999617
@@ -802,6 +801,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klaus Hasselmann',fr,Deutschland,#1818e8,#1818e8,1,0.0744417192864673
 'Frank Bainimarama',fr,Fidschi,#111111,#111111,1,0.0729372324530693
 'Kurt Krömer',fr,Deutschland,#1818e8,#1818e8,1,0.0725310067236931
+'Alberto Ángel Fernández',fr,Argentinien,#111111,#111111,1,0.07096643037362887
 'Jochen Thewes',fr,Deutschland,#1818e8,#1818e8,1,0.063390329511489
 'Bartholomäus',fr,Türkei,#111111,#111111,1,0.0609461657967015
 'Katalin Novak',fr,Ungarn,#111111,#111111,1,0.0525980292485102
