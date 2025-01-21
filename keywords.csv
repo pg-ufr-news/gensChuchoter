@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4600834556711252
 'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4535518367091774
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4518786470361889
 'Yaël Braun-Pivet',fr,unknown,#111111,#111111,3,0.4518662545886895
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.447728931980541
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.4448999537884043
 'Jared Kushner',fr,unknown,#111111,#111111,3,0.4428925113298894
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.44149571777500185
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.4414039697813008
 'Gabriel Attal',fr,unknown,#111111,#111111,3,0.4392905848227108
 'Matt Gaetz',fr,unknown,#111111,#111111,3,0.4379224282344205
@@ -251,12 +251,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.3380462777499999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.3378396345136363
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Kyle Pope',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Helena Gualinga',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Helena Gualinga',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Kyle Pope',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.3377687499999999
