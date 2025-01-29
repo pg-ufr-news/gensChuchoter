@@ -97,9 +97,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,2,0.3757926619367992
 'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
+'Andrei Sacharow',fr,Russland,#e81818,#e81818,1,0.37461625
 'Maja Göpel',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Lea Bonasera',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
-'Andrei Sacharow',fr,Russland,#e81818,#e81818,1,0.37461625
 'Hilda Nakabuye',fr,Uganda,#111111,#111111,1,0.37461625
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.37461625
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,1,0.3745503206207386
@@ -427,13 +427,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3070625216749999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3070624999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.3065291639460788
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.305532645573125
@@ -470,7 +470,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',fr,USA,#18e8e8,#18e8e8,1,0.2949777163610441
 'Jean Carroll',fr,USA,#18e8e8,#18e8e8,1,0.2948687677412919
 'William Shakespeare',fr,UK,#e838e8,#e838e8,2,0.2944378350005486
-'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,1,0.2943896813619318
 'Kanye West',fr,USA,#18e8e8,#18e8e8,2,0.2930782439072087
 'Dmitri Medwedew',fr,Russland,#e81818,#e81818,1,0.2928759655692045
 'Juliette Binoche',fr,unknown,#111111,#111111,1,0.2927682263652535
@@ -549,6 +548,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,1,0.2539834845642454
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.2536225570339593
 'Helge Schneider',fr,Deutschland,#1818e8,#1818e8,1,0.2506655075443852
+'Bettina Jarasch',fr,Deutschland,#1818e8,#1818e8,1,0.250231229157642
 'George Washington',fr,USA,#18e8e8,#18e8e8,2,0.249608241513207
 'Anne Will',fr,Deutschland,#1818e8,#1818e8,1,0.2489515653462291
 'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.2468324082179528
