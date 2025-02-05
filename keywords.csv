@@ -200,7 +200,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Tate',fr,USA,#18e8e8,#18e8e8,1,0.3470077593230795
 'Ron Johnson',fr,unknown,#111111,#111111,1,0.3468684824237203
 'William Friedkin',fr,unknown,#111111,#111111,1,0.3466426141499999
-'Justin Timberlake',fr,unknown,#111111,#111111,2,0.34537483472934394
+'Justin Timberlake',fr,unknown,#111111,#111111,2,0.3453748347293439
 'Ted Cruz',fr,USA,#18e8e8,#18e8e8,2,0.3453106314393675
 'Anya Taylor-Joy',fr,unknown,#111111,#111111,2,0.3451895742013521
 'Robert Menendez',fr,unknown,#111111,#111111,1,0.3448368670979198
@@ -235,16 +235,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.3381966549716593
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.3380462777499999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.3378396345136363
+'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.3377493612303905
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.3373561826233616
 'Ayo Edebiri',fr,unknown,#111111,#111111,1,0.3370196605629101
@@ -420,15 +420,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,1,0.3071021248199432
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3070626192124999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3070625216749999
-'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3070624999999999
-'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
+'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.3065291639460788
 'Marie Trintignant',fr,unknown,#111111,#111111,1,0.3061825339002647
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
@@ -591,10 +591,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
@@ -720,7 +720,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mahmud Abbas',fr,Palistina,#111111,#111111,1,0.1444871561380068
 'Vitali Klitschko',fr,Ukraine,#e818e8,#e818e8,1,0.1419265243173076
 'Julian Assange',fr,Australien,#111111,#111111,1,0.1416693349035563
-'Christian Drosten',fr,Deutschland,#1818e8,#1818e8,1,0.1407332131761581
 'Millie Mackintosh',fr,UK,#e838e8,#e838e8,1,0.139499648432588
 'Alexander Lukaschenko',fr,Belarus,#e81858,#e81858,1,0.138829039140324
 'Michael Kretschmer',fr,Deutschland,#1818e8,#1818e8,1,0.1387489361653552
@@ -751,6 +750,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Nobel',fr,Schweden,#111111,#111111,1,0.1224186185572472
 'Andrea Lindholz',fr,Deutschland,#1818e8,#1818e8,1,0.1215484100054518
 'Klaus-Michael Kühne',fr,Deutschland,#1818e8,#1818e8,1,0.1205609946737942
+'Christian Drosten',fr,Deutschland,#1818e8,#1818e8,1,0.1197732461997344
 'Ali Chamenei',fr,Iran,#111111,#111111,2,0.119089814679992
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,1,0.1185770693724193
 'Paul Gosar',fr,USA,#18e8e8,#18e8e8,1,0.1181246426044334
