@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'président de la République',fr,unknown,#111111,#111111,3,0.49727019389789756
+'président de la République',fr,unknown,#111111,#111111,3,0.47310218026775835
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4518786470361889
 'Yaël Braun-Pivet',fr,unknown,#111111,#111111,3,0.4518662545886895
 'Vivek Ramaswamy',fr,unknown,#111111,#111111,3,0.45118529261608
@@ -87,11 +87,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jared Kushner',fr,unknown,#111111,#111111,2,0.3764588296304059
 'Sergei Shoigu',fr,unknown,#111111,#111111,2,0.3761681549400457
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,2,0.3757926619367992
-'Hilda Nakabuye',fr,Uganda,#111111,#111111,1,0.37461625
+'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Lea Bonasera',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
-'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Andrei Sacharow',fr,Russland,#e81818,#e81818,1,0.37461625
+'Hilda Nakabuye',fr,Uganda,#111111,#111111,1,0.37461625
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.37461625
 'Maja Göpel',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,1,0.3745503206207386
@@ -112,9 +112,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selena Gomez',fr,unknown,#111111,#111111,3,0.3687586018301702
 'Sergio Mattarella',fr,Italien,#111111,#111111,2,0.3686514205661516
 'Mike Johnson',fr,unknown,#111111,#111111,2,0.3685970407948518
-'Arno Antlitz',fr,Deutschland,#1818e8,#1818e8,1,0.368475
 'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.368475
 'Merrill McCollum',fr,USA,#18e8e8,#18e8e8,1,0.368475
+'Arno Antlitz',fr,Deutschland,#1818e8,#1818e8,1,0.368475
 'Peyton Manning',fr,unknown,#111111,#111111,1,0.3680131077142565
 'Robert Downey Jr',fr,unknown,#111111,#111111,2,0.3672689625008364
 'Hubert Aiwanger',fr,unknown,#111111,#111111,1,0.3671742373936165
@@ -231,16 +231,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.3381966549716593
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.3380462777499999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.3378396345136363
+'Minka Indigena',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Helena Gualinga',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Helena Gualinga',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Kyle Pope',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Kyle Pope',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.3377493612303905
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.3373561826233616
 'Ayo Edebiri',fr,unknown,#111111,#111111,1,0.3370196605629101
@@ -591,10 +591,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
-'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
+'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
