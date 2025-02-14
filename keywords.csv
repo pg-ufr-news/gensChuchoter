@@ -109,10 +109,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valérie Hayer',fr,unknown,#111111,#111111,1,0.3690308437879034
 'Selena Gomez',fr,unknown,#111111,#111111,3,0.3687586018301702
 'Sergio Mattarella',fr,Italien,#111111,#111111,2,0.3686514205661516
-'Arno Antlitz',fr,Deutschland,#1818e8,#1818e8,1,0.368475
 'Brian Kozlowski',fr,USA,#18e8e8,#18e8e8,1,0.368475
-'Merrill McCollum',fr,USA,#18e8e8,#18e8e8,1,0.368475
+'Arno Antlitz',fr,Deutschland,#1818e8,#1818e8,1,0.368475
 'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.368475
+'Merrill McCollum',fr,USA,#18e8e8,#18e8e8,1,0.368475
 'Peyton Manning',fr,unknown,#111111,#111111,1,0.3680131077142565
 'Robert Downey Jr',fr,unknown,#111111,#111111,2,0.3672689625008364
 'Hubert Aiwanger',fr,unknown,#111111,#111111,1,0.3671742373936165
@@ -509,12 +509,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pietro Lombardi',fr,Deutschland,#1818e8,#1818e8,1,0.2734512971834211
 'James Cleverly',fr,UK,#e838e8,#e838e8,1,0.2729531908442484
 'Michelle O\'Neill',fr,Irland,#111111,#111111,1,0.2708167826198213
-'Leonardo da Vinci',fr,Italien,#111111,#111111,1,0.2704549383572499
 'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,1,0.2702362814587018
 'Phoebe Bridgers',fr,unknown,#111111,#111111,1,0.270041033184464
 'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.2699143723032796
 'Jan Böhmermann',fr,Deutschland,#1818e8,#1818e8,3,0.2696707451532107
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,2,0.2686551632290795
+'Leonardo da Vinci',fr,Italien,#111111,#111111,1,0.2679867576036624
 'Katja Krasavice',fr,Deutschland,#1818e8,#1818e8,1,0.2676497816152081
 'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,1,0.2675417823265946
 'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.2674674462850483
@@ -591,10 +591,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
