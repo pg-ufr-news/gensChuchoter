@@ -414,15 +414,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,1,0.3071021248199432
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3070626192124999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3070625216749999
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3070624999999999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.3070624999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.3065291639460788
 'Marie Trintignant',fr,unknown,#111111,#111111,1,0.3061825339002647
 'Kemal Kiliçdaroglu',fr,Türkei,#111111,#111111,3,0.305737039579551
@@ -477,11 +477,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.2889038399139016
 'Willie Nelson',fr,unknown,#111111,#111111,1,0.2886064206855595
 'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.2872534524999999
-'Helena Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Helena Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Afida Turner',fr,Frankreich,#e8e808,#e8e808,1,0.2869288825268749
 'Jeff Bezos',fr,USA,#18e8e8,#18e8e8,3,0.2864736089870707
 'Xi Jinping',fr,China,#e88818,#e88818,3,0.2847864150593707
@@ -510,7 +510,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cleverly',fr,UK,#e838e8,#e838e8,1,0.2729531908442484
 'Michelle O\'Neill',fr,Irland,#111111,#111111,1,0.2708167826198213
 'Leonardo DiCaprio',fr,USA,#18e8e8,#18e8e8,1,0.2702362814587018
-'Phoebe Bridgers',fr,unknown,#111111,#111111,1,0.270041033184464
 'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.2699143723032796
 'Jan Böhmermann',fr,Deutschland,#1818e8,#1818e8,3,0.2696707451532107
 'Peter Urban',fr,Deutschland,#1818e8,#1818e8,2,0.2686551632290795
@@ -577,6 +576,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Michel',fr,EU,#111111,#111111,2,0.2331181590039212
 'Joschka Fischer',fr,Deutschland,#1818e8,#1818e8,1,0.2324487513776068
 'Chez Krömer',fr,Deutschland,#1818e8,#1818e8,1,0.2310557212276936
+'Phoebe Bridgers',fr,unknown,#111111,#111111,1,0.2296848932067944
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2289741410301127
 'Napoleon Bonaparte',fr,Frankreich,#e8e808,#e8e808,1,0.2280084326832702
 'Isaac Newton',fr,UK,#e838e8,#e838e8,1,0.2275188699646192
@@ -591,10 +591,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
