@@ -476,7 +476,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Afida Turner',fr,Frankreich,#e8e808,#e8e808,1,0.2869288825268749
 'Jeff Bezos',fr,USA,#18e8e8,#18e8e8,3,0.2864736089870707
 'Dorothée Pacaud',fr,Frankreich,#e8e808,#e8e808,1,0.2848925243685689
 'Xi Jinping',fr,China,#e88818,#e88818,3,0.2847864150593707
@@ -556,6 +555,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Pistorius',fr,Deutschland,#1818e8,#1818e8,2,0.2450426610948604
 'Mark Rutte',fr,Niederlande,#111111,#111111,3,0.2447730012473192
 'Prinz Louis',fr,UK,#e838e8,#e838e8,1,0.2443294534998401
+'Afida Turner',fr,Frankreich,#e8e808,#e8e808,1,0.24388955014784364
 'Cyril Ramaphosa',fr,Südafrika,#111111,#111111,3,0.2419208322667199
 'Buzz Aldrin',fr,USA,#18e8e8,#18e8e8,1,0.2414065271473436
 'Ursula von der Leyen',fr,EU,#111111,#111111,3,0.2412793076076889
@@ -589,10 +589,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
