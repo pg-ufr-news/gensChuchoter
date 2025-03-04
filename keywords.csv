@@ -30,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.417362713498717
 'Sean Hannity',fr,unknown,#111111,#111111,1,0.4173495247862729
 'Mark Meadows',fr,unknown,#111111,#111111,1,0.4147010075736337
-'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.413989458523801
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4121769005736582
 'Rupert Murdoch',fr,unknown,#111111,#111111,2,0.4116314817461307
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4114641829012875
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Bayrou',fr,unknown,#111111,#111111,3,0.4066578116530434
 'Nathalie Emmanuel',fr,unknown,#111111,#111111,3,0.4050309148192266
 'François Braun',fr,unknown,#111111,#111111,3,0.402537679319895
+'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.4023009701997763
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,3,0.4007727468299931
 'Jean Jouzel',fr,unknown,#111111,#111111,2,0.3979939587509012
 'Premier ministre',fr,unknown,#111111,#111111,3,0.3976290778724018
@@ -589,10 +589,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
@@ -780,7 +780,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Jödecke',fr,Deutschland,#1818e8,#1818e8,1,0.0952087999496758
 'Alexej Kudrin',fr,Russland,#e81818,#e81818,1,0.0951055129018731
 'Jair Lapid',fr,Israel,#111111,#111111,1,0.0949975903305199
-'Gregor Gysi',fr,Deutschland,#1818e8,#1818e8,1,0.09377403765338045
+'Gregor Gysi',fr,Deutschland,#1818e8,#1818e8,1,0.0937740376533804
 'Daniel Zhang',fr,China,#e88818,#e88818,1,0.0934490626863142
 'Milo Yiannopoulos',fr,UK,#e838e8,#e838e8,1,0.0920387840292876
 'Nicola Sturgeon',fr,UK,#e838e8,#e838e8,1,0.091977099946588
