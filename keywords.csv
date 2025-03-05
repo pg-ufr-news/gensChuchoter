@@ -439,7 +439,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pape François',fr,Vatikan,#58b8e8,#58b8e8,3,0.2995674475202014
 'George Bush',fr,USA,#18e8e8,#18e8e8,1,0.2991294504369153
 'Winston Churchill',fr,UK,#e838e8,#e838e8,2,0.2984873633406154
-'Margaret Qualley',fr,unknown,#111111,#111111,1,0.2983946746868159
 'Papst Franziskus',fr,Vatikan,#58b8e8,#58b8e8,1,0.2983754277524075
 'Hamish Harding',fr,UK,#e838e8,#e838e8,2,0.298296727383409
 'Demeke Mekonnen',fr,unknown,#111111,#111111,1,0.29817077412125
@@ -456,6 +455,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',fr,USA,#18e8e8,#18e8e8,1,0.2949777163610441
 'Jean Carroll',fr,USA,#18e8e8,#18e8e8,1,0.2948687677412919
 'William Shakespeare',fr,UK,#e838e8,#e838e8,2,0.2944378350005486
+'Margaret Qualley',fr,unknown,#111111,#111111,1,0.2935357134837935
 'Anya Taylor-Joy',fr,unknown,#111111,#111111,1,0.2934113330711492
 'Kanye West',fr,USA,#18e8e8,#18e8e8,2,0.2930782439072087
 'Dmitri Medwedew',fr,Russland,#e81818,#e81818,1,0.2928759655692045
@@ -589,10 +589,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
-'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
