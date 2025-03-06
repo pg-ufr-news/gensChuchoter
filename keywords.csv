@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabriel Attal',fr,unknown,#111111,#111111,3,0.4722376340501441
+'Taylor Swift',fr,unknown,#111111,#111111,3,0.4667391711109488
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.4487511042523807
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.4485625992853467
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.447728931980541
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Brockman',fr,unknown,#111111,#111111,2,0.4306310415803651
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4267825758375079
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.4265604041199405
-'Taylor Swift',fr,unknown,#111111,#111111,3,0.4256330836599398
 'Gerald Darmanin',fr,unknown,#111111,#111111,2,0.4255763753811665
 'Yaël Braun-Pivet',fr,unknown,#111111,#111111,3,0.4254023227640224
 'président de la République',fr,unknown,#111111,#111111,3,0.4252875114094127
@@ -593,7 +593,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
-'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,1,0.22179121763563747
+'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,1,0.2217912176356374
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mathias Döpfner',fr,Deutschland,#1818e8,#1818e8,1,0.2198243804009039
