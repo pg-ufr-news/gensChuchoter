@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabriel Attal',fr,unknown,#111111,#111111,3,0.4722376340501441
 'Jean-Denis Combrexelle',fr,unknown,#111111,#111111,2,0.4667970624752998
+'Radical Optimism',fr,unknown,#111111,#111111,2,0.461950807653006
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.4487511042523807
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.4485625992853467
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.447728931980541
@@ -108,7 +109,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.368475
 'Robert Downey Jr',fr,unknown,#111111,#111111,2,0.3672689625008364
 'Hubert Aiwanger',fr,unknown,#111111,#111111,1,0.3671742373936165
-'Radical Optimism',fr,unknown,#111111,#111111,2,0.3668244619447129
 'Cameron Brink',fr,unknown,#111111,#111111,1,0.366649535379088
 'Chris Kirkpatrick',fr,unknown,#111111,#111111,1,0.3665969704172153
 'Kim Mulkey',fr,unknown,#111111,#111111,1,0.3664785256211897
