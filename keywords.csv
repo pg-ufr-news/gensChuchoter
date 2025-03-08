@@ -476,6 +476,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Warren Buffett',fr,USA,#18e8e8,#18e8e8,2,0.28656995421107057
 'Jeff Bezos',fr,USA,#18e8e8,#18e8e8,3,0.2864736089870707
 'Dorothée Pacaud',fr,Frankreich,#e8e808,#e8e808,1,0.2848925243685689
 'Xi Jinping',fr,China,#e88818,#e88818,3,0.2847864150593707
@@ -597,7 +598,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Buschmann',fr,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mathias Döpfner',fr,Deutschland,#1818e8,#1818e8,1,0.2198243804009039
 'Nancy Faeser',fr,Deutschland,#1818e8,#1818e8,3,0.2190911801087568
-'Warren Buffett',fr,USA,#18e8e8,#18e8e8,1,0.2184351343659654
 'Königin Camilla',fr,UK,#e838e8,#e838e8,1,0.218324930776289
 'Barbara Sturm',fr,Deutschland,#1818e8,#1818e8,1,0.2181711208506068
 'Alexander von Humboldt',fr,Deutschland,#1818e8,#1818e8,1,0.2167688332164069
