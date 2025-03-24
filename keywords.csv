@@ -224,13 +224,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.3381966549716593
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.3380462777499999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.3378396345136363
-'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Kyle Pope',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Kyle Pope',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.3377493612303905
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.3373561826233616
 'Ayo Edebiri',fr,unknown,#111111,#111111,1,0.3370196605629101
@@ -653,7 +653,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katharina König-Press',fr,Deutschland,#1818e8,#1818e8,2,0.1957494633347225
 'Mark Zuckerberg',fr,USA,#18e8e8,#18e8e8,3,0.1956783802064481
 'Charles Koch',fr,USA,#18e8e8,#18e8e8,2,0.1953585457074567
-'Karl Lauterbach',fr,Deutschland,#1818e8,#1818e8,3,0.1953286624714419
 'Christine Lambrecht',fr,Deutschland,#1818e8,#1818e8,1,0.1951976735611212
 'Karl Jenkins',fr,UK,#e838e8,#e838e8,1,0.1940153238863952
 'Tino Chrupalla',fr,Deutschland,#1818e8,#1818e8,2,0.1937899845784159
@@ -700,6 +699,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Baum',fr,Deutschland,#1818e8,#1818e8,1,0.168427951669922
 'Frank Plasberg',fr,Deutschland,#1818e8,#1818e8,1,0.1666190864409359
 'Holger Friedrich',fr,Deutschland,#1818e8,#1818e8,1,0.1665425179806732
+'Karl Lauterbach',fr,Deutschland,#1818e8,#1818e8,2,0.1660293631007256
 'Luisa Neubauer',fr,Deutschland,#1818e8,#1818e8,1,0.1659245153670076
 'Maria Kolesnikowa',fr,Belarus,#e81858,#e81858,1,0.1655959440403415
 'Winfried Kretschmann',fr,Deutschland,#1818e8,#1818e8,1,0.1651134705123221
