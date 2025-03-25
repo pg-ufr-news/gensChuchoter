@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jean-Denis Combrexelle',fr,unknown,#111111,#111111,2,0.4667970624752998
 'Gabriel Attal',fr,unknown,#111111,#111111,3,0.460899783488077
 'Mark Carney',fr,unknown,#111111,#111111,3,0.4598255270625255
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4597412943652398
@@ -17,13 +16,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lara Trump',fr,unknown,#111111,#111111,2,0.4358125751337857
 'JD Vance',fr,unknown,#111111,#111111,2,0.4356327033854545
 'Christian Günther',fr,unknown,#111111,#111111,1,0.43503765375
+'Chris Luxon',fr,unknown,#111111,#111111,1,0.4335
 'Henning Jeschke',fr,unknown,#111111,#111111,1,0.4335
 'Kara Hurst',fr,unknown,#111111,#111111,1,0.4335
 'Maria Sacharowa',fr,unknown,#111111,#111111,1,0.4335
 'Melanie Guttmann',fr,unknown,#111111,#111111,1,0.4335
 'Ulrike Hermann',fr,unknown,#111111,#111111,1,0.4335
 'Vinod Khosla',fr,unknown,#111111,#111111,1,0.4335
-'Chris Luxon',fr,unknown,#111111,#111111,1,0.4335
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.4316323206468018
 'Greg Brockman',fr,unknown,#111111,#111111,2,0.4306310415803651
 'Taylor Swift',fr,unknown,#111111,#111111,3,0.4289520727170338
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.4023009701997763
 'Jean Jouzel',fr,unknown,#111111,#111111,2,0.3979939587509012
 'Jennifer Morgan',fr,unknown,#111111,#111111,1,0.3969848916
+'Jean-Denis Combrexelle',fr,unknown,#111111,#111111,1,0.3967775031040048
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.3956386215828811
 'Prince Charles',fr,UK,#e838e8,#e838e8,3,0.3953463497455132
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.3940614807353407
@@ -140,10 +140,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Gyllenhaal',fr,unknown,#111111,#111111,1,0.3615491086214233
 'Hugh Grant',fr,unknown,#111111,#111111,2,0.3614457720794418
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.3614000149999999
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,3,0.3606871268428181
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.3606657808734067
@@ -346,9 +346,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.313353765
 'Bill Barr',fr,unknown,#111111,#111111,1,0.3133353972530616
 'Robin Roberts',fr,unknown,#111111,#111111,1,0.3132785693494359
-'Ralf Dieter',fr,Deutschland,#1818e8,#1818e8,1,0.31320375
 'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Brian Kozlowski',fr,USA,#18e8e8,#18e8e8,1,0.31320375
+'Ralf Dieter',fr,Deutschland,#1818e8,#1818e8,1,0.31320375
 'Missy Elliott',fr,unknown,#111111,#111111,1,0.3131949049188577
 'David Koch',fr,unknown,#111111,#111111,1,0.3130063469136207
 'Peyton Manning',fr,unknown,#111111,#111111,1,0.312961156557118
