@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gabriel Attal',fr,unknown,#111111,#111111,3,0.460899783488077
 'Mark Carney',fr,unknown,#111111,#111111,3,0.4598255270625255
 'Nicolas Sarkozy',fr,unknown,#111111,#111111,3,0.4597412943652398
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4583107741896186
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'président de la République',fr,unknown,#111111,#111111,3,0.4252875114094127
 'Rachida Dati',fr,unknown,#111111,#111111,3,0.4241970736107228
 "'Dwayne ""The Rock"" Johnson'",fr,unknown,#111111,#111111,2,0.4241004881445904
+'Gabriel Attal',fr,unknown,#111111,#111111,3,0.42399012323759266
 'Javier Milei',fr,unknown,#111111,#111111,3,0.4238510849595896
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.4230521113593609
 'Emma Stone',fr,unknown,#111111,#111111,2,0.4220113782260007
@@ -344,9 +344,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.313353765
 'Bill Barr',fr,unknown,#111111,#111111,1,0.3133353972530616
 'Robin Roberts',fr,unknown,#111111,#111111,1,0.3132785693494359
+'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Ralf Dieter',fr,Deutschland,#1818e8,#1818e8,1,0.31320375
 'Brian Kozlowski',fr,USA,#18e8e8,#18e8e8,1,0.31320375
-'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Missy Elliott',fr,unknown,#111111,#111111,1,0.3131949049188577
 'David Koch',fr,unknown,#111111,#111111,1,0.3130063469136207
 'Peyton Manning',fr,unknown,#111111,#111111,1,0.312961156557118
