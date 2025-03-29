@@ -79,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ines de Ramon',fr,unknown,#111111,#111111,1,0.3866125973110335
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.3862525309332504
 'Camille Cottin',fr,unknown,#111111,#111111,1,0.3861281809482044
+'Pedro Pascal',fr,unknown,#111111,#111111,2,0.3841702795258419
 'Bill Belichick',fr,unknown,#111111,#111111,1,0.3838835692414459
 'Vivek Ramaswamy',fr,unknown,#111111,#111111,2,0.3835076937236679
 'Jerry Seinfeld',fr,unknown,#111111,#111111,2,0.3834853958089432
@@ -109,7 +110,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.3718528099358358
 'Chuck Schumer',fr,unknown,#111111,#111111,1,0.3717130230307049
 'Jerod Mayo',fr,unknown,#111111,#111111,1,0.3715035005996827
-'Pedro Pascal',fr,unknown,#111111,#111111,2,0.3712744363405627
 'Christian Günther',fr,unknown,#111111,#111111,1,0.3699320206875
 'Valérie Hayer',fr,unknown,#111111,#111111,1,0.3690308437879034
 'Selena Gomez',fr,unknown,#111111,#111111,3,0.3687586018301702
@@ -138,8 +138,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pablo Picasso',fr,Spanien,#111111,#111111,2,0.3617233855625
 'Jake Gyllenhaal',fr,unknown,#111111,#111111,1,0.3615491086214233
 'Hugh Grant',fr,unknown,#111111,#111111,2,0.3614457720794418
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.3612499999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,3,0.3606871268428181
@@ -344,9 +344,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.313353765
 'Bill Barr',fr,unknown,#111111,#111111,1,0.3133353972530616
 'Robin Roberts',fr,unknown,#111111,#111111,1,0.3132785693494359
+'Brian Kozlowski',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Ralf Dieter',fr,Deutschland,#1818e8,#1818e8,1,0.31320375
-'Brian Kozlowski',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Missy Elliott',fr,unknown,#111111,#111111,1,0.3131949049188577
 'David Koch',fr,unknown,#111111,#111111,1,0.3130063469136207
 'Peyton Manning',fr,unknown,#111111,#111111,1,0.312961156557118
