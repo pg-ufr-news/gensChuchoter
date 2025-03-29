@@ -344,9 +344,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',fr,Deutschland,#1818e8,#1818e8,1,0.313353765
 'Bill Barr',fr,unknown,#111111,#111111,1,0.3133353972530616
 'Robin Roberts',fr,unknown,#111111,#111111,1,0.3132785693494359
+'Brian Kozlowski',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Ralf Dieter',fr,Deutschland,#1818e8,#1818e8,1,0.31320375
-'Brian Kozlowski',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Missy Elliott',fr,unknown,#111111,#111111,1,0.3131949049188577
 'David Koch',fr,unknown,#111111,#111111,1,0.3130063469136207
 'Peyton Manning',fr,unknown,#111111,#111111,1,0.312961156557118
@@ -526,7 +526,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacinda Ardern',fr,Neuseeland,#1818e8,#1818e8,1,0.2675417823265946
 'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.2674674462850483
 'Leandro De Niro Rodriguez',fr,USA,#18e8e8,#18e8e8,1,0.2670461520087077
-'Trevian Kutti',fr,unknown,#111111,#111111,1,0.2663315733375
 'Teresa Giudice',fr,unknown,#111111,#111111,1,0.2662049153496293
 'Joy Behar',fr,unknown,#111111,#111111,1,0.2647908771571616
 'Joaquim Valente',fr,unknown,#111111,#111111,1,0.2647790103062898
@@ -592,6 +591,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mateusz Morawiecki',fr,Polen,#111111,#111111,3,0.2289741410301127
 'Napoleon Bonaparte',fr,Frankreich,#e8e808,#e8e808,1,0.2280084326832702
 'Isaac Newton',fr,UK,#e838e8,#e838e8,1,0.2275188699646192
+'Trevian Kutti',fr,unknown,#111111,#111111,1,0.226381837336875
 'Don Lemon',fr,USA,#18e8e8,#18e8e8,1,0.226289709375
 'Leah McSweeney',fr,unknown,#111111,#111111,1,0.2259913476300251
 'Katarina Barley',fr,EU,#111111,#111111,1,0.2254297697990309
@@ -604,8 +604,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,1,0.2217912176356374
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
