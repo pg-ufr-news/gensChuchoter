@@ -552,7 +552,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Norbert Röttgen',fr,Deutschland,#1818e8,#1818e8,1,0.2560412821580246
 'Michael Kahle',fr,Deutschland,#1818e8,#1818e8,1,0.2557830625
 'Jair Bolsonaro',fr,Brasilien,#58e838,#58e848,3,0.2552308535570429
-'Jens Stoltenberg',fr,Norwegen,#e818e8,#e818e8,3,0.2552114217204134
 'Willy Brandt',fr,Deutschland,#1818e8,#1818e8,1,0.2542726890063244
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,1,0.2539834845642454
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.2536225570339593
@@ -602,10 +601,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alice Weidel',fr,Deutschland,#1818e8,#1818e8,3,0.2221658201928851
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,1,0.2217912176356374
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
@@ -614,6 +613,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Faeser',fr,Deutschland,#1818e8,#1818e8,3,0.2190911801087568
 'Königin Camilla',fr,UK,#e838e8,#e838e8,1,0.218324930776289
 'Barbara Sturm',fr,Deutschland,#1818e8,#1818e8,1,0.2181711208506068
+'Jens Stoltenberg',fr,Norwegen,#e818e8,#e818e8,2,0.2169297384623514
 'Alexander von Humboldt',fr,Deutschland,#1818e8,#1818e8,1,0.2167688332164069
 'Rainer Maria Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.2166518726093558
 'Recep Tayyip Erdoğan',fr,Türkei,#111111,#111111,2,0.216266069377041
