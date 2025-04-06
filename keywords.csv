@@ -62,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Luc Mélenchon',fr,unknown,#111111,#111111,3,0.3913584354152544
 'Édouard Philippe',fr,unknown,#111111,#111111,2,0.390653258940393
 'Michelle Williams',fr,unknown,#111111,#111111,1,0.3893333979988079
-'Brad Pitt',fr,unknown,#111111,#111111,3,0.3888997863297871
 'Tom Brady',fr,unknown,#111111,#111111,2,0.3888104549528446
 'Premier ministre',fr,unknown,#111111,#111111,3,0.3884443266460869
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.3879308392717855
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Belichick',fr,unknown,#111111,#111111,1,0.3838835692414459
 'Vivek Ramaswamy',fr,unknown,#111111,#111111,2,0.3835076937236679
 'Jerry Seinfeld',fr,unknown,#111111,#111111,2,0.3834853958089432
+'Brad Pitt',fr,unknown,#111111,#111111,3,0.382815538380319
 'Javier Milei',fr,unknown,#111111,#111111,3,0.3827530886442226
 'Matteo Salvini',fr,Italien,#111111,#111111,2,0.3826987620083311
 'Ron Howard',fr,unknown,#111111,#111111,1,0.3818900056846083
@@ -215,13 +215,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',fr,USA,#18e8e8,#18e8e8,1,0.3381966549716593
 'Robin Wall Kimmerer',fr,unknown,#111111,#111111,1,0.3380462777499999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.3378396345136363
+'Gorbatschow',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Kyle Pope',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',fr,unknown,#111111,#111111,1,0.3377687499999999
-'Gorbatschow',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',fr,unknown,#111111,#111111,1,0.3377687499999999
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.3377493612303905
 'Lewis Kaplan',fr,unknown,#111111,#111111,2,0.3373561826233616
 'Ayo Edebiri',fr,unknown,#111111,#111111,1,0.3370196605629101
@@ -539,10 +539,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Walzer',fr,USA,#18e8e8,#18e8e8,1,0.2624817911975
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.261239032799375
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,1,0.2611656938365183
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.2610031249999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.2610031249999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.2601333136739115
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.2597027487371562
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.2594363191932174
