@@ -89,10 +89,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergei Shoigu',fr,unknown,#111111,#111111,2,0.3761681549400457
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,2,0.3757926619367992
 'Lea Bonasera',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
-'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Hilda Nakabuye',fr,Uganda,#111111,#111111,1,0.37461625
-'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.37461625
+'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
+'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.37461625
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,1,0.3745503206207386
 'Irina Shayk',fr,unknown,#111111,#111111,1,0.3743536135688818
 'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.3736109141764828
@@ -173,6 +173,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',fr,unknown,#111111,#111111,2,0.3443751631565033
 'Steven Spielberg',fr,USA,#18e8e8,#18e8e8,3,0.3440426978705369
 'Sophie Turner',fr,unknown,#111111,#111111,2,0.3439252320388659
+'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.34392500617749683
 'Vo Van Thuong',fr,unknown,#111111,#111111,1,0.3434701118406056
 'Patrick Mahomes',fr,unknown,#111111,#111111,1,0.3418397825762501
 'Charlize Theron',fr,unknown,#111111,#111111,1,0.3417175385541034
@@ -222,7 +223,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arno Antlitz',fr,Deutschland,#1818e8,#1818e8,1,0.3347731079625
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.3347376097320306
 'Gigi Hadid',fr,unknown,#111111,#111111,1,0.3344642100803393
-'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.3344500041002225
 'Steve Jobs',fr,USA,#18e8e8,#18e8e8,2,0.3344056574655363
 'Aurélien Rousseau',fr,unknown,#111111,#111111,1,0.3343050138678851
 'Helmut Kohl',fr,Deutschland,#1818e8,#1818e8,1,0.3342367445204118
