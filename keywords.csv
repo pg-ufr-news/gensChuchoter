@@ -89,10 +89,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Menendez',fr,unknown,#111111,#111111,1,0.376772149228247
 'Sergei Shoigu',fr,unknown,#111111,#111111,2,0.3761681549400457
 'Chris Hipkins',fr,Neuseeland,#1818e8,#1818e8,2,0.3757926619367992
-'Hilda Nakabuye',fr,Uganda,#111111,#111111,1,0.37461625
-'Lea Bonasera',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
+'Lea Bonasera',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Christian Kroll',fr,Deutschland,#1818e8,#1818e8,1,0.37461625
+'Hilda Nakabuye',fr,Uganda,#111111,#111111,1,0.37461625
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.37461625
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,1,0.3745503206207386
 'Irina Shayk',fr,unknown,#111111,#111111,1,0.3743536135688818
@@ -577,7 +577,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nadja Abd el Farrag',fr,Deutschland,#1818e8,#1818e8,1,0.233825497678368
 'Lee Hsien Loong',fr,Singapur,#111111,#111111,2,0.2336097975350866
 'Immanuel Kant',fr,Deutschland,#1818e8,#1818e8,1,0.2333531602152138
-'Boris Palmer',fr,Deutschland,#1818e8,#1818e8,3,0.233266270381874
 'Georg Bätzing',fr,Deutschland,#1818e8,#1818e8,1,0.233197906526228
 'Charles Michel',fr,EU,#111111,#111111,2,0.2331181590039212
 'Joschka Fischer',fr,Deutschland,#1818e8,#1818e8,1,0.2324487513776068
@@ -599,9 +598,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alice Weidel',fr,Deutschland,#1818e8,#1818e8,3,0.2221658201928851
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
 'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,2,0.2220171934204527
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,1,0.2217912176356374
 'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,1,0.2204238079103749
@@ -640,6 +639,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Faisal Kawusi',fr,Deutschland,#1818e8,#1818e8,1,0.1999490529601561
 'Prinz George',fr,UK,#e838e8,#e838e8,1,0.1999419217048628
 'Katalin Novák',fr,Ungarn,#111111,#111111,1,0.1996202323619708
+'Boris Palmer',fr,Deutschland,#1818e8,#1818e8,2,0.1982763298245929
 'Franziska Giffey',fr,Deutschland,#1818e8,#1818e8,3,0.198223685399118
 'Giorgia Meloni',fr,Italien,#111111,#111111,3,0.1977848506583311
 'Markus Krebber',fr,Deutschland,#1818e8,#1818e8,1,0.1977642961975386
