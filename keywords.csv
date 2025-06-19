@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.4532752523554985
 'Katherina Reiche',fr,unknown,#111111,#111111,1,0.45150828754625
 'Johann Wadephul',fr,Deutschland,#111111,#111111,2,0.4509768028377986
-'Yaël Braun-Pivet',fr,unknown,#111111,#111111,3,0.4436627841881287
 'Sergio Mattarella',fr,Italien,#111111,#111111,2,0.4429752560526574
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.4422142398110527
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4414957177750018
@@ -24,9 +23,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfram Weimer',fr,Deutschland,#111111,#111111,1,0.4301650277499999
 'Reem Alabali-Radovan',fr,Deutschland,#111111,#111111,1,0.4298875235875
 'Carsten Schneider',fr,Deutschland,#111111,#111111,1,0.4298875235875
-'Karin Prien',fr,Deutschland,#111111,#111111,1,0.4298874999999999
 'Christiane Schenderlein',fr,Deutschland,#111111,#111111,1,0.4298874999999999
 'Alois Rainer',fr,Deutschland,#111111,#111111,1,0.4298874999999999
+'Karin Prien',fr,Deutschland,#111111,#111111,1,0.4298874999999999
 'Gwede Mantashe',fr,unknown,#111111,#111111,1,0.4298874999999999
 'Patrick Schnieder',fr,Deutschland,#111111,#111111,1,0.4298874999999999
 'Steffen Kotre',fr,unknown,#111111,#111111,1,0.4298874999999999
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thorsten Frei',fr,Deutschland,#111111,#111111,1,0.4298874999999999
 'Benjamin Hasselhorn',fr,unknown,#111111,#111111,1,0.4298874999999999
 'Nina Warken',fr,Deutschland,#111111,#111111,1,0.4298874999999999
+'Yaël Braun-Pivet',fr,unknown,#111111,#111111,3,0.4289145365599094
 'Alexander Dobrindt',fr,Deutschland,#111111,#111111,1,0.4288952700950961
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.4288154036250395
 'Curtis Yarvin',fr,USA,#111111,#111111,1,0.4258247916328468
@@ -42,7 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4234892786694276
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4228816686479125
 'Emma Stone',fr,unknown,#111111,#111111,2,0.4220113782260007
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.42192158693161186
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4219215869316118
 'prince Harry',fr,UK,#e838e8,#e838e8,3,0.4210555697446541
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.4200445169344109
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.4196345927860526
@@ -128,11 +128,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'William Friedkin',fr,unknown,#111111,#111111,2,0.3699462520274999
 'Christian Günther',fr,unknown,#111111,#111111,1,0.3699320206875
 'Valérie Hayer',fr,unknown,#111111,#111111,1,0.3690308437879034
+'Maria Sacharowa',fr,unknown,#111111,#111111,1,0.368475
 'Chris Luxon',fr,unknown,#111111,#111111,1,0.368475
 'Henning Jeschke',fr,unknown,#111111,#111111,1,0.368475
-'Kara Hurst',fr,unknown,#111111,#111111,1,0.368475
-'Maria Sacharowa',fr,unknown,#111111,#111111,1,0.368475
 'Vinod Khosla',fr,unknown,#111111,#111111,1,0.368475
+'Kara Hurst',fr,unknown,#111111,#111111,1,0.368475
 'Robert Downey Jr',fr,unknown,#111111,#111111,2,0.3672689625008364
 'Hubert Aiwanger',fr,unknown,#111111,#111111,1,0.3671742373936165
 'Cameron Brink',fr,unknown,#111111,#111111,1,0.366649535379088
@@ -555,10 +555,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vučić',fr,Serbien,#111111,#111111,2,0.2631335223312125
 'Michael Walzer',fr,USA,#18e8e8,#18e8e8,1,0.2624817911975
 'Mark Kerr',fr,unknown,#111111,#111111,1,0.2621606362929438
-'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.2610031249999999
+'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.2610031249999999
+'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.2610031249999999
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.2601333136739115
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.2597027487371562
