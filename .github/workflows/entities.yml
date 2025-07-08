@@ -33,7 +33,7 @@ jobs:
       - name: cd /cre/python/
         run: (cd /cre/python/)
       - name: Install spacy textblob_de
-        run: (pip3 install spacy~=3.6 textblob-fr nltk==3.8)
+        run: (pip3 install spacy==3.6 textblob-fr nltk==3.8)
       - name: Install download fr_core_news_md
         run: (python3 -m spacy download fr_core_news_md)
       - name: Run entities
