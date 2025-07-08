@@ -1,305 +1,218 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Tyson Fury,Tyson Fury,PER,0.0768528775146423,0.25678714667685254,fr,34
-Camille Cottin,Camille Cottin,PER,0.07023809523809522,0.17011054421768712,fr,14
-Juliette Binoche,Juliette Binoche,PER,0.15481818181818177,0.2746915584415585,fr,11
-Charlize Theron,Charlize Theron,PER,0.41729166666666667,0.3829166666666667,fr,10
-Jean-Claude Gaudin,Jean-Claude Gaudin,PER,0.06407407407407407,0.09111111111111111,fr,9
-Adrien Antoine,Adrien Antoine,PER,0.17646969696969694,0.2808333333333333,fr,8
-Victor Wembanyama,Victor Wembanyama,PER,0.24829166666666666,0.213125,fr,6
-Daniel Ricciardo,Daniel Ricciardo,PER,0.13223443223443224,0.18095238095238098,fr,6
-Rufus Wainwright,Rufus Wainwright,PER,0.11166666666666665,0.1625,fr,6
-Jacques Audiard,Jacques Audiard,PER,0.10044444444444445,0.19499999999999998,fr,6
-Stephen Curry,Stephen Curry,PER,0.13258333333333333,2.54,fr,5
-Judith Godrèche,Judith Godrèche,PER,0.266,0.2733333333333333,fr,5
-Joel Embiid,Joel Embiid,PER,0.11583333333333334,0.4583333333333333,fr,4
-Léa Seydoux,Léa Seydoux,PER,0.15140151515151515,0.1897727272727273,fr,4
-Inès Reg,Inès Reg,PER,0.35,0.26875,fr,4
-Jack Nicholson,Jack Nicholson,PER,0.11455357142857142,0.23345238095238094,fr,4
-Richard Gere,Richard Gere,PER,0.12171130952380954,0.22395833333333331,fr,4
-Quentin Dupieux,Quentin Dupieux,PER,0.03570833333333332,0.3590277777777778,fr,3
-Justine Triet,Justine Triet,PER,0.19305555555555554,0.33958333333333335,fr,3
-Kevin Durant,Kevin Durant,PER,0.09750000000000002,0.25,fr,3
-George Lucas,George Lucas,PER,0.2253373015873016,0.2210648148148148,fr,3
-Tom Cruise,Tom Cruise,PER,0.25416666666666665,0.4041666666666666,fr,3
-Thierry Frémaux,Thierry Frémaux,PER,0.18825396825396826,0.30357142857142855,fr,3
-Henry Cavill,Henry Cavill,PER,0.010666666666666666,0.21190476190476193,fr,3
-Kylian Mbappé,Kylian Mbappé,PER,0.10000000000000002,0.20000000000000004,fr,3
-Yórgos Lánthimos,Yórgos Lánthimos,PER,0.2493131313131313,0.271969696969697,fr,3
-Thierry Meyssan,Thierry Meyssan,PER,-0.01,0.0,fr,3
-Zaho de Sagazan,Zaho de Sagazan,PER,0.09500000000000001,0.13194444444444445,fr,3
-James Bond,James Bond,PER,0.010666666666666666,0.21190476190476193,fr,3
-Stéphane Séjourné,Stéphane Séjourné,PER,0.10116666666666667,0.12416666666666669,fr,3
-Coralie Fargeat,Coralie Fargeat,PER,-0.04351190476190477,0.18273809523809526,fr,3
-Kevin Costner,Kevin Costner,PER,0.15830952380952382,0.22166666666666668,fr,3
-Fred Weis,Fred Weis,PER,0.13,0.4666666666666666,fr,3
-Paul Auster,Paul Auster,PER,0.4000000000000001,0.18000000000000002,fr,3
-Ali Abbasi,Ali Abbasi,PER,0.3916666666666666,0.4083333333333334,fr,3
-Vincent Cassel,Vincent Cassel,PER,0.1720238095238095,0.0773809523809524,fr,3
-The Fall Guy,The Fall Guy,PER,0.16824999999999998,0.23325,fr,2
-Valérie Pécresse,Valérie Pécresse,PER,0.012499999999999997,0.15625,fr,2
-Sylvain ROLAND,Sylvain ROLAND,PER,0.1857142857142857,0.3071428571428571,fr,2
-Mdou Moctar,Mdou Moctar,PER,0.28500000000000003,0.4,fr,2
-Axel PEYRIERE,Axel PEYRIERE,PER,0.1857142857142857,0.3071428571428571,fr,2
-Benoit VALADE,Benoit VALADE,PER,0.1857142857142857,0.3071428571428571,fr,2
-Rémi Bastille,Rémi Bastille,PER,0.05600000000000001,0.18,fr,2
-Frédéric Potier,Frédéric Potier,PER,0.05600000000000001,0.18,fr,2
-Quentin Tarantino,Quentin Tarantino,PER,-0.07749999999999999,0.28750000000000003,fr,2
-Eric Thiers,Eric Thiers,PER,0.05600000000000001,0.18,fr,2
-Marie-France Garaud,Marie-France Garaud,PER,0.095,0.0,fr,2
-Emmanuel BOURCET,Emmanuel BOURCET,PER,0.1857142857142857,0.3071428571428571,fr,2
-Faux Real,Faux Real,PER,-0.13333333333333333,0.5,fr,2
-Penny Arcade,Penny Arcade,PER,-0.13333333333333333,0.5,fr,2
-Nathalie KOSCIUSKO MORIZET,Nathalie KOSCIUSKO MORIZET,PER,0.1857142857142857,0.3071428571428571,fr,2
-Franz Rogowski,Franz Rogowski,PER,0.4183333333333333,0.4083333333333334,fr,2
-Lennox Lewis,Lennox Lewis,PER,0.34750000000000003,0.21999999999999997,fr,2
-Philippe Sollers,Philippe Sollers,PER,0.45,0.45,fr,2
-Ryan Reynolds,Ryan Reynolds,PER,0.19499999999999998,0.08333333333333333,fr,2
-Budget rikiki,Budget rikiki,PER,0.04444444444444443,0.19999999999999998,fr,2
-Mel Gibson,Mel Gibson,PER,0.07250000000000001,0.12125,fr,2
-Laurent Fabius,Laurent Fabius,PER,0.024,0.3,fr,2
-Samuel Douhaire,Samuel Douhaire,PER,-0.288,0.58,fr,2
-Jacques Chirac,Jacques Chirac,PER,0.014250000000000006,0.07,fr,2
-Jacquouille la Fripouille,Jacquouille la Fripouille,PER,0.07395833333333336,0.21666666666666667,fr,2
-Uma Thurman,Uma Thurman,PER,0.12333333333333335,0.22916666666666666,fr,2
-Kendji Girac,Kendji Girac,PER,0.144,0.29,fr,2
-David Beckham,David Beckham,PER,0.17976190476190476,0.23452380952380952,fr,2
-Xavier Bertrand,Xavier Bertrand,PER,0.11,0.05,fr,2
-Tony Goldwyn,Tony Goldwyn,PER,0.18000000000000002,0.5375,fr,2
-Nicole Belloubet,Nicole Belloubet,PER,0.05000000000000001,0.06666666666666667,fr,2
-Mahamat Déby,Mahamat Déby,PER,0.174,0.1,fr,2
-Jacob Tomuri,Jacob Tomuri,PER,0.37000000000000005,0.525,fr,2
-Tom Hardy,Tom Hardy,PER,0.37000000000000005,0.525,fr,2
-Mahamat Idriss Déby Itno,Mahamat Idriss Déby Itno,PER,0.174,0.1,fr,2
-Emilia Pérez,Emilia Pérez,PER,-0.006,0.1,fr,2
-Jamal Murray,Jamal Murray,PER,0.08000000000000002,0.22499999999999998,fr,2
-Michel Hazanavicius,Michel Hazanavicius,PER,0.33666666666666667,0.205,fr,2
-Nathalie Saint-Cricq,Nathalie Saint-Cricq,PER,-0.08875,0.19375,fr,2
-James Marape,James Marape,PER,0.3041666666666667,0.14833333333333332,fr,2
-Amanda Seyfried,Amanda Seyfried,PER,0.08428571428571428,0.14285714285714285,fr,2
-Chloë Sevigny,Chloë Sevigny,PER,0.00833333333333334,0.075,fr,2
-Andrew Garfield,Andrew Garfield,PER,0.00833333333333334,0.075,fr,2
-Julia Roberts,Julia Roberts,PER,0.00833333333333334,0.075,fr,2
-Fane Fonda,Fane Fonda,PER,-0.20666666666666667,0.19999999999999998,fr,2
-Mike Tyson,Mike Tyson,PER,0.1357857142857143,0.21535714285714286,fr,2
-Marc Brys,Marc Brys,PER,0.24200000000000002,0.2772727272727273,fr,2
-Ramon Fonseca,Ramon Fonseca,PER,-0.0625,0.07500000000000001,fr,2
-Nathalie Loiseau,Nathalie Loiseau,PER,0.019999999999999997,0.02,fr,2
-Aya Nakamura,Aya Nakamura,PER,0.28708333333333336,0.23416666666666666,fr,2
-Mohamed Ali,Mohamed Ali,PER,0.1357857142857143,0.21535714285714286,fr,2
-Mahyar Monshipour,Mahyar Monshipour,PER,0.03833333333333334,0.255,fr,2
-Nadine Labaki,Nadine Labaki,PER,0.08833333333333333,0.08333333333333334,fr,2
-Juan Antonio Bayona,Juan Antonio Bayona,PER,0.10828571428571429,0.155,fr,2
-Hirokazu Kore-Eda,Hirokazu Kore-Eda,PER,0.10828571428571429,0.155,fr,2
-Doug Liman,Doug Liman,PER,-0.076,0.16999999999999998,fr,2
-Michael Corleone,Michael Corleone,PER,0.0,0.0,fr,2
-Neil Young,Neil Young,PER,0.18233766233766235,0.24253246753246757,fr,2
-Justin Bieber,Justin Bieber,PER,0.023,0.26,fr,2
-Edgard Morin,Edgard Morin,PER,0.4,0.15,fr,2
-Hideo Kojima,Hideo Kojima,PER,0.22142857142857145,0.42857142857142855,fr,2
-Christophe Licata,Christophe Licata,PER,0.435,0.275,fr,2
-Marion Cotillard,Marion Cotillard,PER,0.14333333333333334,-0.08333333333333333,fr,2
-Rich Paul,Rich Paul,PER,0.06571428571428573,0.3314285714285714,fr,2
-Ariana Grande,Ariana Grande,PER,0.1725,0.3375,fr,1
-Marie Sauvion,Marie Sauvion,PER,-0.288,0.58,fr,1
-Francis Ngannou,Francis Ngannou,PER,0.030000000000000006,0.22999999999999998,fr,1
-Hans Zimmer,Hans Zimmer,PER,0.128,0.24000000000000005,fr,1
-Nicolas Cage,Nicolas Cage,PER,0.11875000000000001,0.2375,fr,1
-Maroun Eddé,Maroun Eddé,PER,0.04,0.09999999999999999,fr,1
-Finneas O’Connell,Finneas O’Connell,PER,0.1125,0.19999999999999998,fr,1
-Nykiya Adams,Nykiya Adams,PER,-0.01625,0.2625,fr,1
-Hugo Bardin,Hugo Bardin,PER,0.49625,0.45,fr,1
-David Fisher,David Fisher,PER,0.27285714285714285,0.24999999999999997,fr,1
-Emma Defaud,Emma Defaud,PER,0.27285714285714285,0.24999999999999997,fr,1
-Donna Summer,Donna Summer,PER,0.19999999999999998,0.2833333333333333,fr,1
-Nico Capone,Nico Capone,PER,0.19999999999999998,0.2833333333333333,fr,1
-Daniela Pinto,Daniela Pinto,PER,0.19999999999999998,0.2833333333333333,fr,1
-Déborah Laurent,Déborah Laurent,PER,-0.0175,0.1,fr,1
-Romy Mars,Romy Mars,PER,-0.1,0.35,fr,1
-George MIller,George MIller,PER,0.08,0.125,fr,1
-Bird dAndrea Ar,Bird dAndrea Ar,PER,0.35,0.175,fr,1
-César Catilina,César Catilina,PER,0.139,0.259,fr,1
-Julia Cicero,Julia Cicero,PER,0.139,0.259,fr,1
-Sophie Filières,Sophie Filières,PER,0.34,0.25,fr,1
-Thierry Fremaux,Thierry Fremaux,PER,0.146,0.29000000000000004,fr,1
-Iris Knobloch,Iris Knobloch,PER,0.146,0.29000000000000004,fr,1
-Alfonso Catalano,Alfonso Catalano,PER,0.146,0.29000000000000004,fr,1
-Giannis Antetokounmpo,Giannis Antetokounmpo,PER,0.11291666666666667,0.35000000000000003,fr,1
-Apolypsis Nunc,Apolypsis Nunc,PER,-0.024500000000000004,0.18,fr,1
-Hunter Schafer,Hunter Schafer,PER,0.14727272727272725,0.24090909090909093,fr,1
-Sabrina Agresti-Roubache,Sabrina Agresti-Roubache,PER,0.09666666666666666,0.09999999999999999,fr,1
-cest LE,cest LE,PER,0.25,0.20999999999999996,fr,1
-Mohammad Rasoulof,Mohammad Rasoulof,PER,0.2,0.425,fr,1
-Frédéric Sojcher,Frédéric Sojcher,PER,-0.016000000000000004,0.04,fr,1
-Sean Baker,Sean Baker,PER,0.1081818181818182,0.18181818181818182,fr,1
-Iranien Mohammad Rasoulof,Iranien Mohammad Rasoulof,PER,0.1081818181818182,0.18181818181818182,fr,1
-Boris Vallaud,Boris Vallaud,PER,0.046,0.02,fr,1
-Patrick Kanner,Patrick Kanner,PER,0.046,0.02,fr,1
-Président sapprête,Président sapprête,PER,0.17777777777777778,0.21111111111111114,fr,1
-Vanessa Ki,Vanessa Ki,PER,0.3122222222222222,0.4444444444444444,fr,1
-Débat Macron,Débat Macron,PER,-0.057499999999999996,0.2125,fr,1
-Alexeï Likhatchiov,Alexeï Likhatchiov,PER,-0.19,0.06999999999999999,fr,1
-Mary-Kate Olsen,Mary-Kate Olsen,PER,0.20400000000000001,0.18,fr,1
-Victoria Monfort,Victoria Monfort,PER,0.20400000000000001,0.18,fr,1
-Hugo Cremaschi,Hugo Cremaschi,PER,0.20400000000000001,0.18,fr,1
-Donald Tump,Donald Tump,PER,-0.12666666666666668,0.08333333333333333,fr,1
-Walt Disney,Walt Disney,PER,0.12,0.352,fr,1
-Bobby Cannavale,Bobby Cannavale,PER,0.18000000000000002,0.5375,fr,1
-Frederic Dabi,Frederic Dabi,PER,-0.125,0.0375,fr,1
-Anne-Sophie Lapix,Anne-Sophie Lapix,PER,0.07,0.0075,fr,1
-Gilles Bouleau,Gilles Bouleau,PER,0.07,0.0075,fr,1
-dune interview tél,dune interview tél,PER,0.1325,0.125,fr,1
-Anne Hidalgo,Anne Hidalgo,PER,0.18500000000000003,0.0875,fr,1
-Arthur Chevallier,Arthur Chevallier,PER,0.026000000000000002,0.24,fr,1
-Reese Witherspoon,Reese Witherspoon,PER,0.14333333333333334,-0.08333333333333333,fr,1
-Jennifer Aniston,Jennifer Aniston,PER,0.14333333333333334,-0.08333333333333333,fr,1
-Jean-Francois Robert,Jean-Francois Robert,PER,0.14333333333333334,-0.08333333333333333,fr,1
-Guilhem Carayon,Guilhem Carayon,PER,0.005000000000000002,0.15000000000000002,fr,1
-Mohammad Rassoulov,Mohammad Rassoulov,PER,0.2425,0.39375,fr,1
-Isabel Marant,Isabel Marant,PER,0.18285714285714286,0.2357142857142857,fr,1
-Louise Courvoisier,Louise Courvoisier,PER,0.18833333333333335,0.34833333333333333,fr,1
-Jade Hallyday,Jade Hallyday,PER,0.18285714285714286,0.2357142857142857,fr,1
-Marcello Mastroianni,Marcello Mastroianni,PER,0.3725,0.275,fr,1
-Carla Bruni,Carla Bruni,PER,0.13666666666666666,0.20000000000000004,fr,1
-Tomer Sisley,Tomer Sisley,PER,0.13666666666666666,0.20000000000000004,fr,1
-Oleksandr Osyk,Oleksandr Osyk,PER,0.11636363636363636,0.22272727272727275,fr,1
-John Seale,John Seale,PER,0.22999999999999998,0.21666666666666667,fr,1
-Vashi Nedomansky,Vashi Nedomansky,PER,0.22999999999999998,0.21666666666666667,fr,1
-Jean-Philippe Lustyk,Jean-Philippe Lustyk,PER,0.04857142857142858,0.32142857142857145,fr,1
-Oleksander Usyk,Oleksander Usyk,PER,0.1285714285714286,0.21571428571428572,fr,1
-Joe Louis,Joe Louis,PER,0.1285714285714286,0.21571428571428572,fr,1
-Max Rockatansky,Max Rockatansky,PER,0.5,0.2,fr,1
-Max Rockatan,Max Rockatan,PER,0.5,0.2,fr,1
-Brigitte Macron,Brigitte Macron,PER,0.09666666666666666,0.09999999999999999,fr,1
-Christophe Béchu,Christophe Béchu,PER,0.09666666666666666,0.09999999999999999,fr,1
-Débat Attal-Bardella,Débat Attal-Bardella,PER,0.251,0.245,fr,1
-dune interview,dune interview,PER,0.018749999999999996,0.26875,fr,1
-Brad Peyton,Brad Peyton,PER,0.2475,0.21250000000000002,fr,1
-Jean-Yves Garaud,Jean-Yves Garaud,PER,0.095,0.0,fr,1
-Michel Rocard,Michel Rocard,PER,0.1,0.1,fr,1
-Nathalie Mrgudovic,Nathalie Mrgudovic,PER,0.1,0.1,fr,1
-Jalil Lespert,Jalil Lespert,PER,0.18285714285714286,0.2357142857142857,fr,1
-Laeticia Hallyday,Laeticia Hallyday,PER,0.18285714285714286,0.2357142857142857,fr,1
-Albert de Monaco,Albert de Monaco,PER,0.18285714285714286,0.2357142857142857,fr,1
-Azucena Pagny flique Florent,Azucena Pagny flique Florent,PER,0.18285714285714286,0.2357142857142857,fr,1
-Harry Styles,Harry Styles,PER,0.18285714285714286,0.2357142857142857,fr,1
-Nicolas Duvauchel,Nicolas Duvauchel,PER,0.18285714285714286,0.2357142857142857,fr,1
-Hannibal Lecter,Hannibal Lecter,PER,0.49625,0.45,fr,1
-David Cronenberg,David Cronenberg,PER,0.264,0.37,fr,1
-Elsa Pataky,Elsa Pataky,PER,0.13666666666666666,0.20000000000000004,fr,1
-Isaac Herzog,Isaac Herzog,PER,0.09,0.175,fr,1
-Sigmund Freud,Sigmund Freud,PER,-0.027142857142857132,0.14999999999999997,fr,1
-Hughes Aufray,Hughes Aufray,PER,0.4,0.15,fr,1
-Edgar Morin,Edgar Morin,PER,0.4,0.15,fr,1
-Carter was,Carter was,PER,0.0,0.0,fr,1
-Hirokazu Kore-eda,Hirokazu Kore-eda,PER,0.0,0.0,fr,1
-Pierfrancesco Favino,Pierfrancesco Favino,PER,0.0,0.1,fr,1
-Ebru Ceylan,Ebru Ceylan,PER,0.0,0.1,fr,1
-James na,James na,PER,0.175,0.225,fr,1
-Lebron James,Lebron James,PER,0.19,0.16,fr,1
-Arnaud Leparmentier,Arnaud Leparmentier,PER,0.07,0.05000000000000001,fr,1
-François-Xavier Bellamy,François-Xavier Bellamy,PER,0.05600000000000001,0.13,fr,1
-Lee Majors,Lee Majors,PER,0.16824999999999998,0.23325,fr,1
-Thomas VDB,Thomas VDB,PER,0.121875,0.4,fr,1
-Andrea Kotarac,Andrea Kotarac,PER,0.019999999999999997,0.02,fr,1
-Thomas Sotto,Thomas Sotto,PER,0.121875,0.4,fr,1
-Scott Turow,Scott Turow,PER,0.20000000000000004,0.20384615384615384,fr,1
-Shai Gilgeous-Alexander,Shai Gilgeous-Alexander,PER,0.08500000000000002,0.22499999999999998,fr,1
-Anthony Edwards,Anthony Edwards,PER,0.08500000000000002,0.22499999999999998,fr,1
-Kevin Parker,Kevin Parker,PER,0.125,0.4125,fr,1
-lincontournable Kevin Parker,lincontournable Kevin Parker,PER,0.125,0.4125,fr,1
-Jessica Pratt,Jessica Pratt,PER,0.28500000000000003,0.4,fr,1
-Caroline Polachek,Caroline Polachek,PER,-0.13333333333333333,0.5,fr,1
-Ravyn Lenae,Ravyn Lenae,PER,0.233,0.23000000000000004,fr,1
-Danny L Harl,Danny L Harl,PER,0.26625,0.6000000000000001,fr,1
-Rafael Nadal,Rafael Nadal,PER,0.0175,0.1,fr,1
-Ulf Andersen,Ulf Andersen,PER,0.45,0.45,fr,1
-Chris Marques,Chris Marques,PER,0.435,0.275,fr,1
-Catherine Vautrin,Catherine Vautrin,PER,-0.18,0.15,fr,1
-Sarah Meyssonnier,Sarah Meyssonnier,PER,0.2125,0.44999999999999996,fr,1
-Hervé Morin,Hervé Morin,PER,-0.028333333333333332,0.10000000000000002,fr,1
-Benyamin Netanyahou,Benyamin Netanyahou,PER,0.145,0.15833333333333333,fr,1
-Post Malone,Post Malone,PER,0.11571428571428569,0.25,fr,1
-Aaron Dessner,Aaron Dessner,PER,0.25050000000000006,0.22999999999999998,fr,1
-Ernesto Bohoslavsky,Ernesto Bohoslavsky,PER,-0.14750000000000002,0.20625,fr,1
-Marianne Gonzalez Aleman,Marianne Gonzalez Aleman,PER,-0.14750000000000002,0.20625,fr,1
-Nadia Tahir,Nadia Tahir,PER,-0.14750000000000002,0.20625,fr,1
-Nicolas II,Nicolas II,PER,0.277,0.67,fr,1
-Charlène &Jacques de Monaco,Charlène &Jacques de Monaco,PER,0.17666666666666667,0.23333333333333336,fr,1
-Charlotte Casiraghi,Charlotte Casiraghi,PER,0.17666666666666667,0.23333333333333336,fr,1
-Nicolas Mathieu,Nicolas Mathieu,PER,0.17666666666666667,0.23333333333333336,fr,1
-Meghan Markle,Meghan Markle,PER,0.17666666666666667,0.23333333333333336,fr,1
-Reine Rania de Jordanie,Reine Rania de Jordanie,PER,0.17666666666666667,0.23333333333333336,fr,1
-Nathalie Colin-Oesterlé,Nathalie Colin-Oesterlé,PER,-0.028333333333333332,0.10000000000000002,fr,1
-Alain Policar,Alain Policar,PER,0.05000000000000001,0.06666666666666667,fr,1
-Emmanuel Dupuy,Emmanuel Dupuy,PER,-0.028333333333333332,0.10000000000000002,fr,1
-Marc Beaugé,Marc Beaugé,PER,0.155,0.15999999999999998,fr,1
-Instagram des Lakers,Instagram des Lakers,PER,0.10307692307692307,0.23461538461538461,fr,1
-Elodie Poux,Elodie Poux,PER,-0.29,0.35000000000000003,fr,1
-Thierry Lhermitte,Thierry Lhermitte,PER,-0.29,0.35000000000000003,fr,1
-Anthony Davis,Anthony Davis,PER,0.08000000000000002,0.22499999999999998,fr,1
-Marafa Hamidou Yaya,Marafa Hamidou Yaya,PER,0.21166666666666667,0.2916666666666667,fr,1
-Marafa Hamidou Yayaa,Marafa Hamidou Yayaa,PER,0.21166666666666667,0.2916666666666667,fr,1
-Chris Evans,Chris Evans,PER,0.1456666666666667,0.34,fr,1
-Huynh Van Truc,Huynh Van Truc,PER,0.1757142857142857,0.24285714285714288,fr,1
-Vivienne Westwood ,Vivienne Westwood ,PER,-0.018749999999999992,0.18750000000000003,fr,1
-Andreas Kronthaler,Andreas Kronthaler,PER,-0.018749999999999992,0.18750000000000003,fr,1
-Declan Rice,Declan Rice,PER,0.465,0.525,fr,1
-Téji Savanier,Téji Savanier,PER,0.465,0.525,fr,1
-Carlo Ancelotti,Carlo Ancelotti,PER,0.465,0.525,fr,1
-Patrick Swayze,Patrick Swayze,PER,0.08166666666666668,0.17500000000000002,fr,1
-Lessia Oukraïnka,Lessia Oukraïnka,PER,-0.05857142857142857,0.17142857142857143,fr,1
-Oleksandr Ysyk,Oleksandr Ysyk,PER,0.025499999999999995,0.26,fr,1
-GÉRARD LARCHER,GÉRARD LARCHER,PER,-0.15999999999999998,0.125,fr,1
-Victorieux dAl-Hazem,Victorieux dAl-Hazem,PER,0.13124999999999998,0.34375,fr,1
-Martin Scorcese,Martin Scorcese,PER,0.25999999999999995,0.16666666666666666,fr,1
-Kirill Serebrennikov,Kirill Serebrennikov,PER,0.084,0.24,fr,1
-Laura Steven,Laura Steven,PER,0.084,0.24,fr,1
-Matignon népargne,Matignon népargne,PER,0.17166666666666666,0.25833333333333336,fr,1
-Laurent Kérusoré,Laurent Kérusoré,PER,0.144,0.29,fr,1
-Stéphane Cardinale,Stéphane Cardinale,PER,-0.125,0.1,fr,1
-Emma Defa,Emma Defa,PER,-0.125,0.1,fr,1
-Vincent Lindon,Vincent Lindon,PER,0.1275,0.075,fr,1
-Elsa Vigoureux,Elsa Vigoureux,PER,0.33125,0.45,fr,1
-Elye Wahi,Elye Wahi,PER,0.465,0.525,fr,1
-Steve Martin,Steve Martin,PER,0.375,4.7875,fr,1
-Martin Short,Martin Short,PER,0.375,4.7875,fr,1
-Muddy Waters,Muddy Waters,PER,0.09181818181818181,0.21363636363636368,fr,1
-dune r,dune r,PER,0.09181818181818181,0.21363636363636368,fr,1
-Iris Mittenaere,Iris Mittenaere,PER,0.22,0.1,fr,1
-Block Out 2024,Block Out 2024,PER,0.0,0.0,fr,1
-Émilie Dequenne,Émilie Dequenne,PER,0.16138888888888892,0.22500000000000003,fr,1
-George «Mad Max» Miller,George «Mad Max» Miller,PER,0.15375,0.3875,fr,1
-Sansa Stark,Sansa Stark,PER,-0.026666666666666675,0.345,fr,1
-PAVEL BYRKIN,PAVEL BYRKIN,PER,0.028000000000000004,-0.03,fr,1
-Gipsy King,Gipsy King,PER,0.15125,0.21249999999999997,fr,1
-Didier Allouch,Didier Allouch,PER,0.2125,0.44999999999999996,fr,1
-Taika Waititi,Taika Waititi,PER,-0.33999999999999997,0.40599999999999997,fr,1
-Jean-François Bayart,Jean-François Bayart,PER,0.0,0.0,fr,1
-Prince Harry,Prince Harry,PER,0.023,0.26,fr,1
-Pénélope Cruz,Pénélope Cruz,PER,0.023,0.26,fr,1
-David Hallyday,David Hallyday,PER,0.015625,2.4812499999999997,fr,1
-Anthony Delon,Anthony Delon,PER,0.015625,2.4812499999999997,fr,1
-Nicole Kidman,Nicole Kidman,PER,0.015625,2.4812499999999997,fr,1
-Claire Chazal,Claire Chazal,PER,0.015625,2.4812499999999997,fr,1
-Sharon Stone,Sharon Stone,PER,0.015625,2.4812499999999997,fr,1
-Jean-Marie Poiret,Jean-Marie Poiret,PER,0.07395833333333336,0.21666666666666667,fr,1
-Jean-Marc Ayrault,Jean-Marc Ayrault,PER,0.11100000000000002,0.11000000000000001,fr,1
-Ursula von der Leyen,Ursula von der Leyen,PER,0.156,0.12,fr,1
-Léna Situations,Léna Situations,PER,0.39666666666666667,0.35333333333333333,fr,1
-Shaquille O\u0027Neal,Shaquille O\u0027Neal,PER,0.1225,0.30000000000000004,fr,1
-David Robinson,David Robinson,PER,0.1225,0.30000000000000004,fr,1
-Michael Jordan,Michael Jordan,PER,0.258,0.33,fr,1
-Hades II,Hades II,PER,0.26999999999999996,0.74,fr,1
-Tiago Rodrigues,Tiago Rodrigues,PER,0.0,0.0,fr,1
-Mossack Fonseca,Mossack Fonseca,PER,-0.0625,0.07500000000000001,fr,1
-Larry David has pretty much,Larry David has pretty much,PER,0.0,0.0,fr,1
-Anne Rice,Anne Rice,PER,-0.1375,0.3125,fr,1
-Neil Jordan,Neil Jordan,PER,0.45,0.44999999999999996,fr,1
-Thierry Mariani,Thierry Mariani,PER,-0.03333333333333333,0.11666666666666665,fr,1
-Jean Labadie,Jean Labadie,PER,0.10333333333333333,0.18333333333333335,fr,1
-Lolita Séchan,Lolita Séchan,PER,0.023,0.26,fr,1
-papa Renaud,papa Renaud,PER,0.023,0.26,fr,1
-Louis Sarkozy,Louis Sarkozy,PER,0.023,0.26,fr,1
-Mariah Carey,Mariah Carey,PER,0.023,0.26,fr,1
-Slimane dépapapoulise,Slimane dépapapoulise,PER,0.023,0.26,fr,1
-Philippe Ballard,Philippe Ballard,PER,0.06800000000000003,0.23500000000000001,fr,1
+Léon XIV,Léon XIV,PER,0.20119172739875857,0.19605262070105814,fr,48
+David Beckham,David Beckham,PER,0.04085833333333333,0.06962500000000002,fr,20
+Andrew Cuomo,Andrew Cuomo,PER,0.06839067599067598,0.19736013986013984,fr,10
+Rima Hassan,Rima Hassan,PER,0.05991071428571429,0.1551339285714286,fr,8
+Yves Bournazel,Yves Bournazel,PER,0.08683333333333332,0.16416666666666666,fr,8
+Viktor Orban,Viktor Orban,PER,0.07990758547008547,0.15139957264957263,fr,6
+Robert De Niro,Robert De Niro,PER,0.11555555555555559,0.26333333333333336,fr,6
+Jared Isaacman,Jared Isaacman,PER,0.23173333333333335,0.3486666666666666,fr,5
+Ali Khamenei,Ali Khamenei,PER,0.33120000000000005,0.32333333333333325,fr,5
+Nicușor Dan,Nicușor Dan,PER,0.20928321678321676,0.2361013986013986,fr,4
+Benyamin Nétanyahou,Benyamin Nétanyahou,PER,0.12853571428571428,0.15089285714285716,fr,4
+Philippe Wahl,Philippe Wahl,PER,0.13,0.08333333333333333,fr,4
+Gary Oldman,Gary Oldman,PER,0.12604166666666666,0.04583333333333334,fr,4
+Keir Starmer,Keir Starmer,PER,0.1398148148148148,0.1814814814814815,fr,3
+Noël Barrot,Noël Barrot,PER,0.10857142857142858,0.2884920634920635,fr,3
+Édouard Stérin,Édouard Stérin,PER,0.025000000000000005,0.0,fr,3
+Karol Nawrocki,Karol Nawrocki,PER,0.025238095238095243,0.24100529100529103,fr,3
+Marc Leboucher,Marc Leboucher,PER,0.42476190476190473,0.2166666666666667,fr,3
+François Hollande,François Hollande,PER,0.006666666666666667,0.13333333333333333,fr,3
+Michel Barnier,Michel Barnier,PER,0.124973544973545,0.2253968253968254,fr,3
+René Girard,René Girard,PER,0.14800000000000002,0.10000000000000002,fr,3
+Marine Tondelier,Marine Tondelier,PER,-0.03568181818181818,0.08409090909090909,fr,2
+Ilie Bolojan,Ilie Bolojan,PER,0.16,0.12999999999999998,fr,2
+Tony Blair,Tony Blair,PER,0.12958333333333336,0.15,fr,2
+Sophie Lapix,Sophie Lapix,PER,0.078,0.24000000000000005,fr,2
+Regina Hall,Regina Hall,PER,0.078,0.24000000000000005,fr,2
+Mencius Moldbug,Mencius Moldbug,PER,0.08538461538461539,0.17730769230769228,fr,2
+Thomas Cazenave,Thomas Cazenave,PER,0.025,0.0,fr,2
+Nicole Kidman,Nicole Kidman,PER,0.0,0.0,fr,2
+Caroline Parmentier,Caroline Parmentier,PER,0.13428571428571429,0.2857142857142857,fr,2
+Bernardo Arévalo,Bernardo Arévalo,PER,-0.01916666666666667,0.12583333333333332,fr,2
+Laurent Lafitte,Laurent Lafitte,PER,0.195,0.1,fr,2
+Ben Cohen,Ben Cohen,PER,0.15875,0.30125,fr,2
+Sergueï Lavrov,Sergueï Lavrov,PER,0.08666666666666667,0.14898989898989898,fr,2
+Laeticia Hallyday,Laeticia Hallyday,PER,0.0,0.0,fr,2
+Harris Dickinson,Harris Dickinson,PER,0.1225,0.18750000000000003,fr,2
+DANIEL MIHAILESCU,DANIEL MIHAILESCU,PER,0.09333333333333332,0.1625,fr,2
+Victor Hugo,Victor Hugo,PER,0.10714285714285714,0.31428571428571433,fr,2
+Kristi Noem,Kristi Noem,PER,-0.16,-0.25,fr,2
+Bernie Sanders,Bernie Sanders,PER,0.07336363636363637,0.23113636363636364,fr,2
+Reform UK,Reform UK,PER,0.1325,0.2,fr,2
+Quentin Tarantino,Quentin Tarantino,PER,0.27249999999999996,0.175,fr,2
+Teddy Riner,Teddy Riner,PER,0.20800000000000002,0.51,fr,2
+Léon XIV ,Léon XIV ,PER,0.17858333333333337,0.08027777777777778,fr,2
+Catherine Deneuve,Catherine Deneuve,PER,0.197125,0.08375,fr,2
+Brigitte Macron,Brigitte Macron,PER,0.22000000000000003,0.4,fr,2
+Giovanni Maria Vian,Giovanni Maria Vian,PER,0.1825,0.28750000000000003,fr,2
+tance Nathalie Arthaud,tance Nathalie Arthaud,PER,0.002400000000000002,0.418,fr,2
+Nathalie Yamb,Nathalie Yamb,PER,0.275,0.335,fr,2
+Brooke Shields,Brooke Shields,PER,0.18666666666666665,0.13333333333333333,fr,2
+Odon Pierard,Odon Pierard,PER,0.2425,0.42500000000000004,fr,2
+Massimo Faggioli,Massimo Faggioli,PER,0.035,0.0875,fr,2
+François Héran,François Héran,PER,0.0125,0.25,fr,2
+Casey Means,Casey Means,PER,0.03333333333333333,0.09166666666666667,fr,2
+Alex Padilla,Alex Padilla,PER,-0.16,-0.25,fr,2
+Nicolas Mayer,Nicolas Mayer,PER,0.036931818181818184,0.15965909090909092,fr,2
+Jony Ive,Jony Ive,PER,0.04,0.0,fr,2
+Raphaël Doan,Raphaël Doan,PER,0.09,0.195,fr,2
+Nicole Büttner,Nicole Büttner,PER,0.09700000000000002,0.225,fr,2
+Ginevra Meloni,Ginevra Meloni,PER,-0.09571428571428574,0.37142857142857144,fr,1
+Mathieu Darnaud,Mathieu Darnaud,PER,0.294375,0.2,fr,1
+Drago Malefoy,Drago Malefoy,PER,0.15333333333333335,0.18333333333333335,fr,1
+Tom Felton,Tom Felton,PER,0.15333333333333335,0.18333333333333335,fr,1
+Kevin Feige,Kevin Feige,PER,0.22,0.16666666666666666,fr,1
+Chris Evans,Chris Evans,PER,0.22,0.16666666666666666,fr,1
+JATO Dyn,JATO Dyn,PER,-0.01923076923076924,0.05384615384615384,fr,1
+David Cronenberg,David Cronenberg,PER,0.14722222222222225,0.14555555555555555,fr,1
+Der Spiegel,Der Spiegel,PER,-0.11285714285714286,0.2357142857142857,fr,1
+raout de lextrême,raout de lextrême,PER,0.16615384615384615,0.16923076923076924,fr,1
+Nigel Farage,Nigel Farage,PER,0.1325,0.2,fr,1
+Michel Blanc,Michel Blanc,PER,0.14722222222222225,0.14555555555555555,fr,1
+Jérôme Jamin,Jérôme Jamin,PER,-0.04285714285714285,0.1678571428571429,fr,1
+Fin de lincertitude,Fin de lincertitude,PER,0.0,0.03,fr,1
+Nathalie Mercier,Nathalie Mercier,PER,0.1,0.18125,fr,1
+Manuel Bompard,Manuel Bompard,PER,0.013636363636363636,0.11818181818181818,fr,1
+Philippe Claudel,Philippe Claudel,PER,0.23375,0.1375,fr,1
+Philippe Balard,Philippe Balard,PER,0.0975,0.19999999999999998,fr,1
+Brilleront Orbán,Brilleront Orbán,PER,0.05800000000000001,0.13999999999999999,fr,1
+Francis Chung,Francis Chung,PER,-0.2575,0.15,fr,1
+Amazon MGM,Amazon MGM,PER,-0.25,0.3125,fr,1
+Éric Lombard,Éric Lombard,PER,0.0,0.03,fr,1
+Javier Villamor,Javier Villamor,PER,0.0625,0.175,fr,1
+Pete Hegsteth,Pete Hegsteth,PER,0.08,0.11250000000000002,fr,1
+RECIT FRANCEINFO,RECIT FRANCEINFO,PER,0.013636363636363636,0.11818181818181818,fr,1
+Babak Kazemi,Babak Kazemi,PER,0.020999999999999998,0.13500000000000004,fr,1
+Les Joursont,Les Joursont,PER,0.0,0.0,fr,1
+Philippe Bajou,Philippe Bajou,PER,0.09000000000000001,0.041666666666666664,fr,1
+robotaxis de Tesla,robotaxis de Tesla,PER,0.24428571428571427,0.1357142857142857,fr,1
+Mira Nair,Mira Nair,PER,-0.1,0.375,fr,1
+Alexis Buisson,Alexis Buisson,PER,0.11666666666666667,0.2588888888888889,fr,1
+Mohammed VI,Mohammed VI,PER,0.008333333333333331,0.18333333333333332,fr,1
+Frédéric Encel,Frédéric Encel,PER,0.008333333333333331,0.18333333333333332,fr,1
+quun cancer,quun cancer,PER,0.008333333333333331,0.18333333333333332,fr,1
+Lhomme daffaires,Lhomme daffaires,PER,0.04000000000000001,0.22499999999999998,fr,1
+dEtat jusquici,dEtat jusquici,PER,0.08615384615384616,0.17307692307692307,fr,1
+duc de Sussex,duc de Sussex,PER,0.255,0.1,fr,1
+Santos Cerdán,Santos Cerdán,PER,-0.004999999999999994,0.08125,fr,1
+Rama Duwaji,Rama Duwaji,PER,0.175,0.2625,fr,1
+Guillaume Soro,Guillaume Soro,PER,0.275,0.335,fr,1
+Laurent Gbagbo,Laurent Gbagbo,PER,0.275,0.335,fr,1
+lactualité politiqu,lactualité politiqu,PER,0.275,0.335,fr,1
+Manlio Dinucci,Manlio Dinucci,PER,0.10142857142857142,0.3,fr,1
+Benyamin Netanyahou,Benyamin Netanyahou,PER,0.10142857142857142,0.3,fr,1
+Richard Hudson,Richard Hudson,PER,0.101,0.29500000000000004,fr,1
+Mahmood Mamdani,Mahmood Mamdani,PER,-0.1,0.375,fr,1
+Robotaxis Tesla ,Robotaxis Tesla ,PER,0.24428571428571427,0.1357142857142857,fr,1
+François Heisbourg,François Heisbourg,PER,0.15666666666666668,0.24666666666666667,fr,1
+Odile Jacob,Odile Jacob,PER,0.15666666666666668,0.24666666666666667,fr,1
+François Heisbourg ,François Heisbourg ,PER,0.15666666666666668,0.24666666666666667,fr,1
+Nemanja Todorovic Stiplija,Nemanja Todorovic Stiplija,PER,0.15999999999999998,0.12000000000000002,fr,1
+Europe de lEst,Europe de lEst,PER,0.15999999999999998,0.12000000000000002,fr,1
+Benjamin Netanyahou,Benjamin Netanyahou,PER,0.12333333333333334,0.3583333333333334,fr,1
+Victor Hugo ,Victor Hugo ,PER,0.10714285714285714,0.31428571428571433,fr,1
+Lockheed Martin,Lockheed Martin,PER,0.10727272727272727,0.22727272727272732,fr,1
+Malaria No More,Malaria No More,PER,0.12166666666666666,0.13333333333333333,fr,1
+Roger Daltrey,Roger Daltrey,PER,0.1175,0.05,fr,1
+Sir David,Sir David,PER,0.1325,0.0,fr,1
+Lady Victoria,Lady Victoria,PER,0.1325,0.0,fr,1
+Philip Gordon,Philip Gordon,PER,0.020999999999999998,0.13500000000000004,fr,1
+Arnaud Saint,Arnaud Saint,PER,0.3057142857142857,2.7571428571428562,fr,1
+maréchal Pétain,maréchal Pétain,PER,-0.06499999999999999,0.26,fr,1
+JULIEN MUGUET,JULIEN MUGUET,PER,0.003,0.09500000000000001,fr,1
+Gianni Infantino,Gianni Infantino,PER,0.07,0.41,fr,1
+Morgane Giuliano,Morgane Giuliano,PER,0.1625,0.17500000000000002,fr,1
+Gaëtan Doppagne,Gaëtan Doppagne,PER,0.14,0.2,fr,1
+linvasion de lUkraine,linvasion de lUkraine,PER,0.17500000000000002,0.2416666666666667,fr,1
+Kate Middleton,Kate Middleton,PER,0.21633333333333338,0.13333333333333333,fr,1
+Itinéraire dun,Itinéraire dun,PER,-0.01666666666666665,0.17166666666666666,fr,1
+Ralph Macchio,Ralph Macchio,PER,0.22428571428571428,0.18142857142857144,fr,1
+Quentin T,Quentin T,PER,-0.05499999999999999,0.3625,fr,1
+Robert Prevost,Robert Prevost,PER,0.1391666666666667,0.13055555555555556,fr,1
+Mylène Farmer,Mylène Farmer,PER,0.195,0.1,fr,1
+Gilles Bouleau,Gilles Bouleau,PER,0.008124999999999993,0.24375000000000002,fr,1
+Fatima Hassouna,Fatima Hassouna,PER,0.06,0.45,fr,1
+Palme dor dhonneur,Palme dor dhonneur,PER,0.06,0.45,fr,1
+Thomas Legrand,Thomas Legrand,PER,0.074,0.05,fr,1
+Agnès Verdier,Agnès Verdier,PER,0.06375,0.2375,fr,1
+— Le Gorafi,— Le Gorafi,PER,0.06375,0.2375,fr,1
+saint Augustin,saint Augustin,PER,0.0992857142857143,0.31,fr,1
+mire Gaza,mire Gaza,PER,0.19714285714285712,0.35714285714285715,fr,1
+lartiste Jeffrey Gibson,lartiste Jeffrey Gibson,PER,0.062,0.08,fr,1
+Photo Ruffer,Photo Ruffer,PER,0.062,0.08,fr,1
+Rémi Gu,Rémi Gu,PER,0.062,0.08,fr,1
+Anouchka Delon,Anouchka Delon,PER,0.1175,0.13749999999999998,fr,1
+Vittoria Cerretti,Vittoria Cerretti,PER,0.1175,0.13749999999999998,fr,1
+lactuel locataire de la,lactuel locataire de la,PER,0.08,0.1,fr,1
+Sophie Bine,Sophie Bine,PER,-0.24,0.21333333333333335,fr,1
+Tom Cruise triomphal,Tom Cruise triomphal,PER,0.1285714285714286,0.3,fr,1
+Tom Cruise,Tom Cruise,PER,0.1285714285714286,0.3,fr,1
+Leon XIV,Leon XIV,PER,0.1391666666666667,0.13055555555555556,fr,1
+Arnaud Montebo,Arnaud Montebo,PER,0.13,0.024999999999999998,fr,1
+Bruno Le Maire,Bruno Le Maire,PER,0.13,0.024999999999999998,fr,1
+John Prevost nen,John Prevost nen,PER,0.21800000000000003,0.15,fr,1
+Timothée Chalamet,Timothée Chalamet,PER,0.0,0.0,fr,1
+Kylie Jenner,Kylie Jenner,PER,0.0,0.0,fr,1
+Blanche Fauci,Blanche Fauci,PER,0.16428571428571428,0.1142857142857143,fr,1
+Louis Beaucarnot «Dorigine,Louis Beaucarnot «Dorigine,PER,0.21800000000000003,0.03,fr,1
+lélection de Jean,lélection de Jean,PER,0.21800000000000003,0.03,fr,1
+Marc Aveline,Marc Aveline,PER,0.21800000000000003,0.03,fr,1
+Pietro Parolin,Pietro Parolin,PER,0.3,0.26999999999999996,fr,1
+John Prevost,John Prevost,PER,0.21800000000000003,0.15,fr,1
+Regina Coeili dep,Regina Coeili dep,PER,0.21800000000000003,0.15,fr,1
+Arnaud Montebourg,Arnaud Montebourg,PER,0.13,0.024999999999999998,fr,1
+Léon XIV»,Léon XIV»,PER,0.035,0.0875,fr,1
+Gideon Saar,Gideon Saar,PER,0.16285714285714287,0.19999999999999998,fr,1
+lAmérique dabord,lAmérique dabord,PER,-0.01999999999999999,0.19999999999999998,fr,1
+Grégory Turpin,Grégory Turpin,PER,0.2742857142857143,0.25,fr,1
+Ben Samuels,Ben Samuels,PER,0.01888888888888889,0.1111111111111111,fr,1
+laula Paul VI,laula Paul VI,PER,0.15349999999999997,0.215,fr,1
+Palme dor,Palme dor,PER,0.195,0.38,fr,1
+Raphaël Doan ,Raphaël Doan ,PER,0.09,0.195,fr,1
+Thierry Frémaux,Thierry Frémaux,PER,-0.13083333333333333,0.3233333333333333,fr,1
+UE Nicuor Dan,UE Nicuor Dan,PER,0.045714285714285714,0.14285714285714285,fr,1
+Anne Hidalgo,Anne Hidalgo,PER,-0.0325,0.01875,fr,1
+Marion Maréchal,Marion Maréchal,PER,0.06785714285714287,0.17857142857142858,fr,1
+John Lennon,John Lennon,PER,0.1225,0.18750000000000003,fr,1
+Sam Mendes,Sam Mendes,PER,0.1225,0.18750000000000003,fr,1
+André Ventura,André Ventura,PER,-0.08000000000000002,0.2694444444444445,fr,1
+elaborado mediante,elaborado mediante,PER,0.030000000000000006,0.24,fr,1
+Tanguy Struye,Tanguy Struye,PER,-0.04000000000000001,0.09375,fr,1
+Aurélie Fouquet,Aurélie Fouquet,PER,0.033333333333333326,0.20000000000000004,fr,1
+Rédoine Faïd,Rédoine Faïd,PER,0.033333333333333326,0.20000000000000004,fr,1
+Goerge Simion,Goerge Simion,PER,-0.016249999999999994,0.22499999999999998,fr,1
+Aurore Bergé,Aurore Bergé,PER,-0.01666666666666665,0.17166666666666666,fr,1
+Christine Pedotti,Christine Pedotti,PER,0.20714285714285713,0.17857142857142858,fr,1
+Xavier Bellamy,Xavier Bellamy,PER,0.05777777777777778,0.15000000000000002,fr,1
+Othman Nasrou,Othman Nasrou,PER,0.05777777777777778,0.15000000000000002,fr,1
+Jonathan Tropper,Jonathan Tropper,PER,0.05416666666666666,0.39166666666666666,fr,1
+Andrii Sybiha,Andrii Sybiha,PER,-0.03,0.15,fr,1
+Olivier Faure,Olivier Faure,PER,0.006363636363636357,0.23181818181818184,fr,1
+Ferenc Németh,Ferenc Németh,PER,0.09375,0.037500000000000006,fr,1
+App Store,App Store,PER,-0.05,0.2,fr,1
+Nathalie Arthaud,Nathalie Arthaud,PER,0.002400000000000002,0.418,fr,1
+Vietnam Emmanuel,Vietnam Emmanuel,PER,0.22000000000000003,0.4,fr,1
+Macron sest,Macron sest,PER,-0.023,0.095,fr,1
+Jacques Chirac,Jacques Chirac,PER,-0.023,0.095,fr,1
+lancien parti,lancien parti,PER,-0.023,0.095,fr,1
+laube dun,laube dun,PER,-0.009230769230769223,0.18076923076923077,fr,1
+leurodéputée dextrême,leurodéputée dextrême,PER,0.06785714285714287,0.17857142857142858,fr,1
+Valentin Hanu,Valentin Hanu,PER,0.027500000000000004,0.19375000000000003,fr,1
+Elena Calistr,Elena Calistr,PER,0.07818181818181819,0.30000000000000004,fr,1
+LR du Sénat,LR du Sénat,PER,0.07500000000000001,0.1375,fr,1
+Bryan Muller,Bryan Muller,PER,-0.04,0.075,fr,1
+Stéphane Foucart,Stéphane Foucart,PER,0.0009999999999999953,0.24,fr,1
+Sandrine Rousseau,Sandrine Rousseau,PER,0.16375,0.18749999999999997,fr,1
+François Clemenceau,François Clemenceau,PER,0.0875,0.1875,fr,1
+Calin Georgescu,Calin Georgescu,PER,0.06411764705882352,0.16176470588235298,fr,1
+Mgr Paul Richard Galla,Mgr Paul Richard Galla,PER,0.21714285714285714,0.11428571428571428,fr,1
+Calin George,Calin George,PER,0.06411764705882352,0.16176470588235298,fr,1
+Samuel Pruvot,Samuel Pruvot,PER,0.5,0.20000000000000004,fr,1
+Léon XIVSamuel Pruvot,Léon XIVSamuel Pruvot,PER,0.5,0.20000000000000004,fr,1
+George Clin,George Clin,PER,0.32,0.225,fr,1
+Nicuor Dan,Nicuor Dan,PER,0.20636363636363636,0.3136363636363636,fr,1
+Dmitri Peskov,Dmitri Peskov,PER,0.060000000000000005,0.10833333333333334,fr,1
+Président roumain,Président roumain,PER,0.20625000000000002,0.24285714285714285,fr,1
+Mgr Paul Richard Gallagher,Mgr Paul Richard Gallagher,PER,0.21714285714285714,0.11428571428571428,fr,1
+JACK GUEZ,JACK GUEZ,PER,0.10727272727272727,0.22727272727272732,fr,1
