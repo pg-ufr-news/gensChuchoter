@@ -415,16 +415,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,1,0.3071021248199432
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3070626192124999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3070625216749999
+'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3070624999999999
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3070624999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
-'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,2,0.3065842528163954
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.3065291639460788
 'Marie Trintignant',fr,unknown,#111111,#111111,1,0.3061825339002647
@@ -508,11 +508,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.2872534524999999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.2871636893365908
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Enissa Amani',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Autumn Peltier',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Autumn Peltier',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Enissa Amani',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,1,0.2868602540844945
 'Warren Buffett',fr,USA,#18e8e8,#18e8e8,2,0.2865699542110705
@@ -644,9 +644,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.2223532228794687
 'Alice Weidel',fr,Deutschland,#1818e8,#1818e8,3,0.2221658201928851
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,1,0.2217912176356374
 'Amin Nasser',fr,SaudiArabien,#111111,#111111,2,0.2204303360159012
 'Jon Batiste',fr,unknown,#111111,#111111,1,0.2204272348741146
@@ -793,7 +793,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrés Manuel López Obrador',fr,Mexiko,#111111,#111111,1,0.1313537410238169
 'Sucharit Bhakdi',fr,Deutschland,#1818e8,#1818e8,3,0.1301048636771233
 'Michael Ballweg',fr,Deutschland,#1818e8,#1818e8,1,0.1296687065375711
-'Daniel Dillmann',fr,Deutschland,#1818e8,#1818e8,1,0.1273893204557615
 'Volodymyr Zelenskiy',fr,Ukraine,#e818e8,#e818e8,1,0.1273893204557615
 'Julia Koch',fr,USA,#18e8e8,#18e8e8,2,0.1272917809567915
 'Hans Joachim Schellnhuber',fr,Deutschland,#1818e8,#1818e8,1,0.1270797802032631
@@ -820,6 +819,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wissing',fr,Deutschland,#1818e8,#1818e8,2,0.1094209298414173
 'Otmar Issing',fr,EU,#111111,#111111,1,0.1091728210379542
 'Jürgen Grässlin',fr,Deutschland,#1818e8,#1818e8,1,0.1086540519716961
+'Daniel Dillmann',fr,Deutschland,#1818e8,#1818e8,1,0.10828092238739728
 'Veronika Grimm',fr,Deutschland,#1818e8,#1818e8,1,0.1069382996014325
 'Carl Friedrich Gauß',fr,Deutschland,#1818e8,#1818e8,1,0.1068943807314018
 'Scott Morrison',fr,Australien,#111111,#111111,1,0.106671791985699
