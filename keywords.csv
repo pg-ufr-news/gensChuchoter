@@ -134,10 +134,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.3663004184122838
 'Reem Alabali-Radovan',fr,Deutschland,#111111,#111111,1,0.365704425049375
 'Carsten Schneider',fr,Deutschland,#111111,#111111,1,0.365404395049375
-'Karin Prien',fr,Deutschland,#111111,#111111,1,0.3654043749999999
 'Patrick Schnieder',fr,Deutschland,#111111,#111111,1,0.3654043749999999
-'Steffen Kotre',fr,unknown,#111111,#111111,1,0.3654043749999999
+'Karin Prien',fr,Deutschland,#111111,#111111,1,0.3654043749999999
 'Dorothee Bär',fr,Deutschland,#111111,#111111,1,0.3654043749999999
+'Steffen Kotre',fr,unknown,#111111,#111111,1,0.3654043749999999
 'Margot Robbie',fr,unknown,#111111,#111111,2,0.3649742793120941
 'Taylor Swift',fr,unknown,#111111,#111111,2,0.3646096668094787
 'Sherri Shepherd',fr,unknown,#111111,#111111,1,0.364547183443331
@@ -414,16 +414,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#111111,#111111,1,0.3071021248199432
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.3070626192124999
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.3070625216749999
+'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.3070624999999999
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#111111,#111111,1,0.3070624999999999
 'Gilbert Plass',fr,Kanada,#111111,#111111,1,0.3070624999999999
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Pierre-Yves Dermagne',fr,Belgien,#111111,#111111,2,0.3065842528163954
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.3065291639460788
 'Fabien Roussel',fr,unknown,#111111,#111111,1,0.3060499850357489
@@ -510,13 +510,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.2872534524999999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.2871636893365908
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Enissa Amani',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Autumn Peltier',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Autumn Peltier',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Enissa Amani',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Hans Joosten',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,1,0.2868602540844945
 'Warren Buffett',fr,USA,#18e8e8,#18e8e8,2,0.2865699542110705
 'Jeff Bezos',fr,USA,#18e8e8,#18e8e8,3,0.2864736089870707
@@ -580,11 +580,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kerr',fr,unknown,#111111,#111111,1,0.2621606362929438
 'Nikki Glaser',fr,unknown,#111111,#111111,1,0.2618542423549875
 'Tom Hanks',fr,unknown,#111111,#111111,1,0.2612709317514423
-'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.2610031249999999
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.2610031249999999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.2610031249999999
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.2610031249999999
+'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.2601333136739115
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.2597027487371562
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.2594363191932174
@@ -607,7 +607,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Mahomes',fr,unknown,#111111,#111111,1,0.2471067556613406
 'Gérard Biard',fr,Frankreich,#e8e808,#e8e808,1,0.2468324082179528
 'Jerome Powell',fr,USA,#18e8e8,#18e8e8,3,0.2463113499446444
-'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.24556826392681635
+'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.2455682639268163
 'König Charles III',fr,UK,#e838e8,#e838e8,1,0.2455159693519052
 'Mark Rutte',fr,Niederlande,#111111,#111111,3,0.2447730012473192
 'Jennifer Morgan',fr,unknown,#111111,#111111,1,0.24446178789135
@@ -720,9 +720,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
-'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.1885747578124999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.1885747578124999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,2,0.1885587632082494
 'Jon Batiste',fr,unknown,#111111,#111111,1,0.1873631496429974
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
@@ -868,4 +868,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Badri Hosseini Chamenei',fr,Iran,#111111,#111111,1,0.0764442041235956
 'Joko Widodo',fr,Indonesien,#111111,#111111,1,0.0750396134736819
 'Klaus Hasselmann',fr,Deutschland,#1818e8,#1818e8,1,0.0744417192864673
-'Frank Bainimarama',fr,Fidschi,#111111,#111111,1,0.0526971504473425
