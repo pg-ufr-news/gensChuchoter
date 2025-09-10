@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4594172657288023
 'Francesca Albanese',fr,Italien,#111111,#111111,2,0.4552506761776207
 'Mark Carney',fr,unknown,#111111,#111111,3,0.455087987511956
 'Katherina Reiche',fr,unknown,#111111,#111111,2,0.4548248487521655
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.4411850379568698
 'Guy Ritchie',fr,unknown,#111111,#111111,1,0.4395631686883448
 'David Beckham',fr,unknown,#111111,#111111,2,0.437851543549959
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.43638896677857286
 'Michel Barnier',fr,unknown,#111111,#111111,3,0.4348510751801262
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.4341849996575533
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.4327033620328462
@@ -525,7 +525,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',fr,unknown,#111111,#111111,1,0.2834878850729687
 'Georg Gänswein',fr,Deutschland,#1818e8,#1818e8,1,0.2834653057806913
 'Xi Jinping',fr,China,#e88818,#e88818,3,0.2833838591641014
-'Albert Einstein',fr,Deutschland,#1818e8,#1818e8,2,0.28241321525722524
+'Albert Einstein',fr,Deutschland,#1818e8,#1818e8,2,0.2824132152572252
 'Eva Green',fr,unknown,#111111,#111111,1,0.2822655343242659
 'Lance Bass',fr,unknown,#111111,#111111,1,0.2812676840842459
 'Cillian Murphy',fr,Irland,#111111,#111111,3,0.2803593909992101
@@ -716,12 +716,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rishi Sunak',fr,UK,#e838e8,#e838e8,3,0.1890834447602599
 'Wolfgang Schäuble',fr,Deutschland,#1818e8,#1818e8,2,0.188788321774578
 'Wladimir Putin',fr,Russland,#e81818,#e81818,1,0.1887452120350484
+'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
-'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.1885747578124999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,2,0.1885587632082494
 'Jon Batiste',fr,unknown,#111111,#111111,1,0.1873631496429974
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
