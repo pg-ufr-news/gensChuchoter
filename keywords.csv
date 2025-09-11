@@ -324,7 +324,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.3145702234592523
 'Drena De Niro',fr,USA,#18e8e8,#18e8e8,1,0.3143724338487499
 'Stockton Rush',fr,USA,#18e8e8,#18e8e8,1,0.3139236505840909
-'Selena Gomez',fr,unknown,#111111,#111111,2,0.3134451115556446
 'Robin Roberts',fr,unknown,#111111,#111111,1,0.3132785693494359
 'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Vinod Khosla',fr,unknown,#111111,#111111,1,0.31320375
@@ -378,6 +377,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Ford',fr,USA,#18e8e8,#18e8e8,2,0.3095509044092473
 'Berkshire Hathaway',fr,USA,#18e8e8,#18e8e8,1,0.3094638957909052
 'Eliot Wolf',fr,unknown,#111111,#111111,1,0.3094277332618241
+'Selena Gomez',fr,unknown,#111111,#111111,2,0.3093676387111868
 'Eric Trump',fr,unknown,#111111,#111111,3,0.3093386345883315
 'António Guterres',fr,unknown,#111111,#111111,1,0.3093225984577952
 'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,1,0.3092492659653844
@@ -548,7 +548,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ahmed Al Jaber',fr,unknown,#111111,#111111,1,0.2745141419153579
 'James Cleverly',fr,UK,#e838e8,#e838e8,1,0.2729531908442484
 'Leonard Bernstein',fr,unknown,#111111,#111111,1,0.2725290923836869
-'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.27168536016683226
+'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.2716853601668322
 'Warren Buffet',fr,USA,#18e8e8,#18e8e8,1,0.2713968692015608
 'Johnny Depp',fr,USA,#18e8e8,#18e8e8,1,0.2703282695765637
 'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.2699143723032796
@@ -716,12 +716,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rishi Sunak',fr,UK,#e838e8,#e838e8,3,0.1890834447602599
 'Wolfgang Schäuble',fr,Deutschland,#1818e8,#1818e8,2,0.188788321774578
 'Wladimir Putin',fr,Russland,#e81818,#e81818,1,0.1887452120350484
+'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.1885747578124999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,2,0.1885587632082494
 'Jon Batiste',fr,unknown,#111111,#111111,1,0.1873631496429974
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
