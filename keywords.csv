@@ -327,12 +327,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drena De Niro',fr,USA,#18e8e8,#18e8e8,1,0.3143724338487499
 'Stockton Rush',fr,USA,#18e8e8,#18e8e8,1,0.3139236505840909
 'Robin Roberts',fr,unknown,#111111,#111111,1,0.3132785693494359
-'Brian Kozlowski',fr,USA,#18e8e8,#18e8e8,1,0.31320375
+'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Melanie Guttmann',fr,unknown,#111111,#111111,1,0.31320375
 'Ulrike Hermann',fr,unknown,#111111,#111111,1,0.31320375
 'Ralf Dieter',fr,Deutschland,#1818e8,#1818e8,1,0.31320375
-'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',fr,unknown,#111111,#111111,1,0.31320375
+'Brian Kozlowski',fr,USA,#18e8e8,#18e8e8,1,0.31320375
 'Chris Luxon',fr,unknown,#111111,#111111,1,0.31320375
 'Vinod Khosla',fr,unknown,#111111,#111111,1,0.31320375
 'Maria Sacharowa',fr,unknown,#111111,#111111,1,0.31320375
@@ -722,12 +722,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rishi Sunak',fr,UK,#e838e8,#e838e8,3,0.1890834447602599
 'Wolfgang Schäuble',fr,Deutschland,#1818e8,#1818e8,2,0.188788321774578
 'Wladimir Putin',fr,Russland,#e81818,#e81818,1,0.1887452120350484
+'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
 'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.1885747578124999
-'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,2,0.1885587632082494
 'Jon Batiste',fr,unknown,#111111,#111111,1,0.1873631496429974
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
@@ -787,7 +787,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Mann',fr,USA,#18e8e8,#18e8e8,1,0.1572141967546401
 'Lukaschenko',fr,Belarus,#e81858,#e81858,2,0.156151364971929
 'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.1549586520953789
-'Mojib Latif',fr,Deutschland,#1818e8,#1818e8,1,0.1544709888478308
 'Andrzej Duda',fr,Polen,#111111,#111111,2,0.1541267522779384
 'Ed McVey',fr,UK,#e838e8,#e838e8,1,0.1512060262012318
 'Julian Reichelt',fr,Deutschland,#1818e8,#1818e8,1,0.1509514622416881
@@ -811,6 +810,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schellnhuber',fr,Deutschland,#1818e8,#1818e8,2,0.1357232008737172
 'Alice Schwarzer',fr,Deutschland,#1818e8,#1818e8,1,0.134004862534645
 'Andrés Manuel López Obrador',fr,Mexiko,#111111,#111111,1,0.1313537410238169
+'Mojib Latif',fr,Deutschland,#1818e8,#1818e8,1,0.13130034052065617
 'Sucharit Bhakdi',fr,Deutschland,#1818e8,#1818e8,3,0.1301048636771233
 'Michael Ballweg',fr,Deutschland,#1818e8,#1818e8,1,0.1296687065375711
 'Volodymyr Zelenskiy',fr,Ukraine,#e818e8,#e818e8,1,0.1273893204557615
