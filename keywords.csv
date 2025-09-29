@@ -656,9 +656,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.2223532228794687
 'Alice Weidel',fr,Deutschland,#1818e8,#1818e8,3,0.2221658201928851
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,1,0.2217912176356374
 'Amin Nasser',fr,SaudiArabien,#111111,#111111,2,0.2204303360159012
 'Nancy Faeser',fr,Deutschland,#1818e8,#1818e8,3,0.2190911801087568
@@ -674,6 +674,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Kerry',fr,USA,#18e8e8,#18e8e8,2,0.2140925103660275
 'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,1,0.2139688288438283
 'Tamim bin Hamad Al Thani',fr,Katar,#111111,#111111,2,0.2129588699683904
+'Michael Sandel',fr,USA,#18e8e8,#18e8e8,2,0.21238752475112707
 'Bill Gates',fr,USA,#18e8e8,#18e8e8,3,0.2111378872919572
 'Frank-Walter Steinmeier',fr,Deutschland,#1818e8,#1818e8,3,0.2100205109191142
 'Rafael Grossi',fr,UN,#e888e8,#e888e8,1,0.2095000712382132
@@ -721,12 +722,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rishi Sunak',fr,UK,#e838e8,#e838e8,3,0.1890834447602599
 'Wolfgang Schäuble',fr,Deutschland,#1818e8,#1818e8,2,0.188788321774578
 'Wladimir Putin',fr,Russland,#e81818,#e81818,1,0.1887452120350484
-'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
-'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.1885747578124999
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
-'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
+'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.1885747578124999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,2,0.1885587632082494
 'Jon Batiste',fr,unknown,#111111,#111111,1,0.1873631496429974
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
@@ -781,7 +782,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',fr,USA,#18e8e8,#18e8e8,1,0.161367019939558
 'Dalai Lama',fr,Tibet,#111111,#111111,1,0.1609550146273434
 'Benjamin Netanyahu',fr,Israel,#111111,#111111,2,0.1606209983580249
-'Michael Sandel',fr,USA,#18e8e8,#18e8e8,1,0.1605734526483848
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Greta Thunberg',fr,Schweden,#111111,#111111,1,0.1593641518947423
 'Gautam Adani',fr,Indien,#111111,#111111,1,0.1588332001257897
