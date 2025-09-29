@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'président de la République',fr,unknown,#111111,#111111,3,0.445504708504227
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.4447806940476282
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.4411850379568698
-'David Beckham',fr,unknown,#111111,#111111,2,0.437851543549959
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4363889667785728
 'Michel Barnier',fr,unknown,#111111,#111111,3,0.4348510751801262
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.4341849996575533
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Curtis Yarvin',fr,USA,#111111,#111111,1,0.4258247916328468
 'Mareike Fallwickl',fr,unknown,#111111,#111111,1,0.4252311285891272
 'Rachida Dati',fr,unknown,#111111,#111111,3,0.4241970736107228
+'David Beckham',fr,unknown,#111111,#111111,2,0.4239739920174651
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4234944824416347
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4234892786694276
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.4226623156927589
@@ -611,7 +611,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Rutte',fr,Niederlande,#111111,#111111,3,0.2447730012473192
 'Jennifer Morgan',fr,unknown,#111111,#111111,1,0.24446178789135
 'Prinz Louis',fr,UK,#e838e8,#e838e8,1,0.2443294534998401
-'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.24425501152847642
+'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.2442550115284764
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.2440379218749999
 'Afida Turner',fr,Frankreich,#e8e808,#e8e808,1,0.2438895501478436
 'Cyril Ramaphosa',fr,Südafrika,#111111,#111111,3,0.2419208322667199
@@ -721,12 +721,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rishi Sunak',fr,UK,#e838e8,#e838e8,3,0.1890834447602599
 'Wolfgang Schäuble',fr,Deutschland,#1818e8,#1818e8,2,0.188788321774578
 'Wladimir Putin',fr,Russland,#e81818,#e81818,1,0.1887452120350484
+'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.1885747578124999
 'Michelle Neill',fr,Irland,#111111,#111111,1,0.1885747578124999
-'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.1885747578124999
-'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,2,0.1885587632082494
 'Jon Batiste',fr,unknown,#111111,#111111,1,0.1873631496429974
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.1872240515385514
