@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Itamar Ben-Gvir',fr,Israel,#111111,#111111,3,0.501500645
-'Bezalel Smotrich',fr,Israel,#111111,#111111,2,0.5
 'Veronika Grimm',fr,Deutschland,#111111,#111111,2,0.5
 'Justus Haucap',fr,Deutschland,#111111,#111111,2,0.5
 'Stefan Kolev',fr,Deutschland,#111111,#111111,2,0.5
 'Volker Wieland',fr,Deutschland,#111111,#111111,2,0.5
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,2,0.5
+'Bezalel Smotrich',fr,Israel,#111111,#111111,2,0.5
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4461151185446997
 'Gabriel Attal',fr,unknown,#111111,#111111,3,0.446087781146108
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.4447806940476282
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lil Yachty',fr,unknown,#111111,#111111,1,0.4278593060150815
 'Francesca Albanese',fr,Italien,#111111,#111111,2,0.4274634047509775
 'Pete Hegseth',fr,USA,#18e8e8,#18e8e8,3,0.4273915287783089
+'Itamar Ben-Gvir',fr,Israel,#111111,#111111,2,0.42627617825
 'Curtis Yarvin',fr,USA,#111111,#111111,1,0.4258247916328468
 'Mareike Fallwickl',fr,unknown,#111111,#111111,1,0.4252311285891272
 'Rachida Dati',fr,unknown,#111111,#111111,3,0.4241970736107228
@@ -513,15 +513,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leni Klum',fr,unknown,#111111,#111111,1,0.2874862280247429
 'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.2872534524999999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.2871636893365908
-'Autumn Peltier',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Helena Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Autumn Peltier',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Helena Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,1,0.2868602540844945
 'Warren Buffett',fr,USA,#18e8e8,#18e8e8,2,0.2865699542110705
 'Jeff Bezos',fr,USA,#18e8e8,#18e8e8,3,0.2864736089870707
