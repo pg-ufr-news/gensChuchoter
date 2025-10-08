@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Itamar Ben-Gvir',fr,Israel,#111111,#111111,2,0.5
+'Itamar Ben-Gvir',fr,Israel,#111111,#111111,3,0.501500645
 'Bezalel Smotrich',fr,Israel,#111111,#111111,2,0.5
 'Veronika Grimm',fr,Deutschland,#111111,#111111,2,0.5
 'Justus Haucap',fr,Deutschland,#111111,#111111,2,0.5
@@ -513,15 +513,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leni Klum',fr,unknown,#111111,#111111,1,0.2874862280247429
 'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.2872534524999999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.2871636893365908
-'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Autumn Peltier',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Helena Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Autumn Peltier',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Helena Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,1,0.2868602540844945
 'Warren Buffett',fr,USA,#18e8e8,#18e8e8,2,0.2865699542110705
 'Jeff Bezos',fr,USA,#18e8e8,#18e8e8,3,0.2864736089870707
@@ -843,7 +843,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Otmar Issing',fr,EU,#111111,#111111,1,0.1091728210379542
 'Daniel Dillmann',fr,Deutschland,#1818e8,#1818e8,1,0.1082809223873972
 'Julia Koch',fr,USA,#18e8e8,#18e8e8,1,0.1081980138132727
-'Veronika Grimm',fr,Deutschland,#1818e8,#1818e8,1,0.1069382996014325
 'Carl Friedrich Gauß',fr,Deutschland,#1818e8,#1818e8,1,0.1068943807314018
 'Scott Morrison',fr,Australien,#111111,#111111,1,0.106671791985699
 'Muhammad bin Zayid Al Nahyan',fr,VAE,#111111,#111111,1,0.1065853006501312
