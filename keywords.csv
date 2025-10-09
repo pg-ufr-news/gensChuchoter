@@ -1,4 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Iyad al-Rantisi',fr,Palestina,#111111,#111111,2,0.5
+'Adnan al-Burj',fr,Palestina,#111111,#111111,2,0.5
+'Munther Amira',fr,Palestina,#111111,#111111,2,0.5
+'Khaled al Serr',fr,Palestina,#111111,#111111,2,0.5
 'Stefan Kolev',fr,Deutschland,#111111,#111111,2,0.5
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,2,0.5
 'Bezalel Smotrich',fr,Israel,#111111,#111111,3,0.467301185
@@ -791,7 +795,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanyahu',fr,Israel,#111111,#111111,2,0.1606209983580249
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.1602885441406249
-'Greta Thunberg',fr,Schweden,#111111,#111111,1,0.1593641518947423
+'Greta Thunberg',fr,Schweden,#111111,#111111,1,0.5593641518947423
 'Gautam Adani',fr,Indien,#111111,#111111,1,0.1588332001257897
 'Michael Mann',fr,USA,#18e8e8,#18e8e8,1,0.1572141967546401
 'Lukaschenko',fr,Belarus,#e81858,#e81858,2,0.156151364971929
