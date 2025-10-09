@@ -8,16 +8,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Munther Amira',fr,Palestina,#111111,#111111,2,0.5
 'Bezalel Smotrich',fr,Israel,#111111,#111111,3,0.467301185
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4461151185446997
-'Gabriel Attal',fr,unknown,#111111,#111111,3,0.446087781146108
+'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.446087781146108
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.4447806940476282
-'James Comey',fr,unknown,#111111,#111111,3,0.443710960857367
+'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.443710960857367
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.4411850379568698
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4363889667785728
-'Michel Barnier',fr,unknown,#111111,#111111,3,0.4348510751801262
+'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.4348510751801262
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.4341849996575533
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.4327033620328462
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.4300508751271219
-'Gwede Mantashe',fr,unknown,#111111,#111111,1,0.4298874999999999
+'Gwede Mantashe',fr,Südafrika,#111111,#111111,1,0.4298874999999999
 'Thorsten Frei',fr,Deutschland,#111111,#111111,1,0.4298874999999999
 'Alois Rainer',fr,Deutschland,#111111,#111111,1,0.4298874999999999
 'Matteo Salvini',fr,Italien,#111111,#111111,3,0.4296720518010192
@@ -73,7 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,2,0.4067271953419616
 'Bruno Le Maire',fr,Frankreich,#e8e808,#e8e808,3,0.405827052787759
 'Hans-Werner Sinn',fr,unknown,#111111,#111111,1,0.405414638799375
-'Stephen Colbert',fr,unknown,#111111,#111111,3,0.4035476185444903
+'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.4035476185444903
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4023078226163588
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.4023009701997763
 'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4005973797724326
@@ -118,7 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cristiano Ronaldo',fr,Portugal,#111111,#111111,3,0.374059443252823
 'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.3736109141764828
 'Al Nassr',fr,unknown,#111111,#111111,1,0.3730741367300235
-'Jennifer Garner',fr,unknown,#111111,#111111,2,0.3730393470503875
+'Jennifer Garner',fr,USA,#18e8e8,#18e8e8,2,0.3730393470503875
 'Ryan Gosling',fr,unknown,#111111,#111111,1,0.3725749843179374
 'Chuck Schumer',fr,unknown,#111111,#111111,1,0.3717130230307049
 'Andrew Tate',fr,USA,#18e8e8,#18e8e8,2,0.3711567154246175
@@ -139,7 +139,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Schnieder',fr,Deutschland,#111111,#111111,1,0.3654043749999999
 'Steffen Kotre',fr,unknown,#111111,#111111,1,0.3654043749999999
 'Dorothee Bär',fr,Deutschland,#111111,#111111,1,0.3654043749999999
-'Taylor Swift',fr,unknown,#111111,#111111,2,0.3646096668094787
+'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.3646096668094787
 'Sherri Shepherd',fr,unknown,#111111,#111111,1,0.364547183443331
 'Mo Lewis',fr,unknown,#111111,#111111,1,0.3642096103495869
 'Jimmy Kimmel',fr,unknown,#111111,#111111,2,0.3640272885960137
@@ -156,13 +156,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emma Stone',fr,unknown,#111111,#111111,1,0.3587099714921006
 'Olivia Rodrigo',fr,unknown,#111111,#111111,2,0.3569807805591275
 'David Cameron',fr,unknown,#111111,#111111,2,0.3564226805231606
-'Leo XIV',fr,unknown,#111111,#111111,1,0.3553799731687413
+'Leo XIV',fr,Vatikan,#111111,#111111,1,0.3553799731687413
 'Stefan Aust',fr,Deutschland,#1818e8,#1818e8,1,0.3550495330499999
 'Dwayne Johnson',fr,unknown,#111111,#111111,1,0.354204763385172
 'Chris Hemsworth',fr,unknown,#111111,#111111,1,0.3540393491335948
 'Lana Del Rey',fr,unknown,#111111,#111111,1,0.3537507345676156
 'Lara Trump',fr,unknown,#111111,#111111,1,0.3531911149465557
-'Joe Jonas',fr,unknown,#111111,#111111,2,0.35269327883891
+'Joe Jonas',fr,USA,#18e8e8,#18e8e8,2,0.35269327883891
 'Roger Corman',fr,unknown,#111111,#111111,2,0.3504738821195307
 'Karsten Wildberger',fr,Deutschland,#111111,#111111,1,0.3502676101339373
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.3500953209513686
@@ -545,7 +545,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lars Klingbeil',fr,Deutschland,#1818e8,#1818e8,1,0.2800132925355112
 'Yevgeny Prigozhin',fr,Russland,#e81818,#e81818,1,0.2787127047777097
 'Tyson Fury',fr,unknown,#111111,#111111,1,0.2786410160216099
-'Pat McAfee',fr,unknown,#111111,#111111,1,0.2786139389471358
+'Pat McAfee',fr,USA,#18e8e8,#18e8e8,1,0.2786139389471358
 'Jackson Hole',fr,unknown,#111111,#111111,1,0.2776703293019407
 'Jonathan Turley',fr,unknown,#111111,#111111,1,0.2773512009772232
 'Matt Damon',fr,USA,#18e8e8,#18e8e8,1,0.2771870255875067
