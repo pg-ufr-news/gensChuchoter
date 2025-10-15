@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.4447806940476282
-'Sébastien Lecornu',fr,unknown,#111111,#111111,3,0.4441572502794014
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.4441572502794014
 'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.443710960857367
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.4411850379568698
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4363889667785728
@@ -13,12 +13,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alois Rainer',fr,Deutschland,#111111,#111111,1,0.4298874999999999
 'Thorsten Frei',fr,Deutschland,#111111,#111111,1,0.4298874999999999
 'Matteo Salvini',fr,Italien,#111111,#111111,3,0.4296720518010192
-'Anant Ambani',fr,unknown,#111111,#111111,1,0.4295145186682982
-'Charlie Kirk',fr,unknown,#111111,#111111,3,0.4292564833063202
-'Léon XIV',fr,unknown,#111111,#111111,3,0.4292059489485256
-'Mark Carney',fr,unknown,#111111,#111111,3,0.4291254943851625
-'François Bayrou',fr,unknown,#111111,#111111,3,0.4289927020106061
-'Yaël Braun-Pivet',fr,unknown,#111111,#111111,3,0.4289145365599094
+'Anant Ambani',fr,Indien,#111111,#111111,1,0.4295145186682982
+'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.4292564833063202
+'Léon XIV',fr,Vatikan,#111111,#111111,3,0.4292059489485256
+'Mark Carney',fr,Kanada,#111111,#111111,3,0.4291254943851625
+'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.4289927020106061
+'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.4289145365599094
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.4288154036250395
 'Christian Dürr',fr,unknown,#111111,#111111,1,0.4285932468674728
 'Anne Hathaway',fr,unknown,#111111,#111111,1,0.4281919529522569
