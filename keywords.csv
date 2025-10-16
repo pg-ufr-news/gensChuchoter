@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.4289927020106061
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.4289145365599094
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.4288154036250395
-'Christian Dürr',fr,unknown,#111111,#111111,1,0.4285932468674728
+'Christian Dürr',fr,Deutschland,#111111,#111111,1,0.4285932468674728
 'Anne Hathaway',fr,unknown,#111111,#111111,1,0.4281919529522569
 'Paul Konerko',fr,unknown,#111111,#111111,1,0.4279020599770574
 'Lil Yachty',fr,unknown,#111111,#111111,1,0.4278593060150815
@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',fr,unknown,#111111,#111111,2,0.4239739920174651
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.4234944824416347
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4234892786694276
-'Greta Thunberg',fr,Schweden,#111111,#111111,3,0.423277158924404
+'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,3,0.423277158924404
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.4226623156927589
 'Ehud Olmert',fr,Israel,#3311cc,#3311cc,2,0.4225526995328532
 'Alexander Dobrindt',fr,Deutschland,#111111,#111111,1,0.4220111145808317
@@ -222,7 +222,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sabrina Carpenter',fr,unknown,#111111,#111111,1,0.3358067924861017
 'Sam H',fr,unknown,#111111,#111111,2,0.3357165039815545
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,2,0.3356080844584245
-'nan nan',fr,unknown,#111111,#111111,1,0.3354117685534518
+'nan nan',fr,unknown,#dddddd,#dddddd,1,0.3354117685534518
 'Jamie Spears',fr,unknown,#111111,#111111,1,0.3348014670708971
 'Gigi Hadid',fr,unknown,#111111,#111111,1,0.3344642100803393
 'Gerald Darmanin',fr,unknown,#111111,#111111,1,0.3343147872934587
@@ -702,7 +702,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Werner von Braun',fr,Deutschland,#1818e8,#1818e8,1,0.2047752150133639
 'Joachim Gauck',fr,Deutschland,#1818e8,#1818e8,1,0.2047170676825021
 'Maybrit Illner',fr,Deutschland,#1818e8,#1818e8,1,0.2038960765697578
-'Alfred Bernhard Nobel',fr,Schweden,#111111,#111111,1,0.2036607384374999
+'Alfred Bernhard Nobel',fr,Schweden,#ddee11,#ddee11,1,0.2036607384374999
 'Michelle Obama',fr,USA,#18e8e8,#18e8e8,2,0.2031852141415688
 'Olli Schulz',fr,Deutschland,#1818e8,#1818e8,1,0.2021864177774473
 'Antony Blinken',fr,USA,#18e8e8,#18e8e8,2,0.2021281784760347
@@ -834,7 +834,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Macky Sall',fr,Senegal,#111111,#111111,1,0.1234266710588938
 'Robin Li',fr,China,#e88818,#e88818,2,0.1227690906047639
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.1225637212387343
-'Alfred Nobel',fr,Schweden,#111111,#111111,1,0.1224186185572472
+'Alfred Nobel',fr,Schweden,#ddee11,#ddee11,1,0.1224186185572472
 'Klaus-Michael Kühne',fr,Deutschland,#1818e8,#1818e8,1,0.1205609946737942
 'Ali Chamenei',fr,Iran,#111111,#111111,2,0.119089814679992
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,1,0.1185770693724193
