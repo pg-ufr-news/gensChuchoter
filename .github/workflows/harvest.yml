@@ -39,6 +39,10 @@ jobs:
         run: (pip3 install asyncio)
       - name: cd /cre/python/
         run: (cd /cre/python/)
+      - name: Install spacy textblob_de
+        run: (pip3 install spacy==2.2.4 textblob-fr==0.2.0 nltk==3.8)
+      - name: Install download fr_core_news_md
+        run: (python3 -m spacy download fr_core_news_md)
       - name: cp mysecrets.py
         run: (cp mysecrets.orig.py mysecrets.py)
       - name: Run newsapi

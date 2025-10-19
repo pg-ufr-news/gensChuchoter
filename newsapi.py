@@ -28,6 +28,11 @@ import datetime
 from dateutil import parser
 from datetime import date, timedelta, datetime, timezone
 
+import fr_core_news_md
+from textblob import TextBlob
+from textblob_fr import PatternTagger, PatternAnalyzer
+nlp = fr_core_news_md.load()
+
 DATA_PATH = Path.cwd()
 
 def getAge(dateString):
@@ -156,6 +161,41 @@ def dataIsNotBlocked(data):
 
 
 
+def personInSearchCrc(person):
+    for index, column in keywordsDF.iterrows():
+        if((person in column['keyword']) or (column['keyword'].strip("'") in person)):
+             return column['crc']
+    return None
+
+def strangeCharacters(testString, testCharacters):
+     count = 0
+     for oneCharacter in testCharacters:
+          count += testString.count(oneCharacter)
+     return count
+
+def incrementPersonsInKeywords(data):
+    #global keywordsDF
+    #print(['incrementPersonsInKeywords data',data]) 
+    quote = str(data['title'])+'. ' +str(data['description'])+' '+str(data['content'])
+    #lang = data['language'] 
+    blob = TextBlob(quote, pos_tagger=PatternTagger(), analyzer=PatternAnalyzer())
+    for sentence in blob.sentences:
+        #sentence.sentiment.polarity
+        doc = nlp(str(sentence))
+        for entity in doc.ents:
+            #print(entity) 
+            if(entity.label_ in ['PER','PERSON']):
+             personText = entity.text
+             personText = personText.strip(" .,!?;:'…/-").strip('"')
+             if(strangeCharacters(personText,".,!?;:'…<>/\n\r")==0):
+               if(personText.count(' ')>0):
+                crc = personInSearchCrc(personText)
+                if(crc):
+                  oldRatio = keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew']
+                  newRatio = math.atan(math.tan(oldRatio*math.pi/2) + 1/500)*2/math.pi
+                  print(['incrementPersonsInKeywords ratio',personText,oldRatio,newRatio])
+                  keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = newRatio  
+    return True
 
 collectedNews = {}
 
@@ -165,6 +205,7 @@ def addNewsToCollection(data):
     fileDate = 'news_'+pubDate.strftime('%Y_%m')+'.csv'
     if(fileDate in collectedNews):
       if(not data['url'] in collectedNews[fileDate]):
+        incrementPersonsInKeywords(data)
         if(not 'archive' in data):
            data = archiveUrl(data)
         collectedNews[fileDate][data['url']] = data
@@ -197,7 +238,7 @@ def storeCollection():
 # 
 async def saveArchive(saveUrl):
     async with aiohttp.ClientSession() as session:
-      async with session.get(saveUrl, timeout=120) as response:
+      async with session.get(saveUrl, timeout=20) as response:
         print("x")   
 
 async def getArchives(urlList):
