@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.443710960857367
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.4411850379568698
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4363889667785728
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.4348510751801262
@@ -24,14 +23,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Curtis Yarvin',fr,USA,#18e8e8,#18e8e8,1,0.4258247916328468
 'Mareike Fallwickl',fr,unknown,#111111,#111111,1,0.4252311285891272
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.42500042
+'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425
 'Munther Amira',fr,Palestina,#ee4488,#ee4488,1,0.425
 'Justus Haucap',fr,Deutschland,#111111,#111111,1,0.425
 'Veronika Grimm',fr,Deutschland,#111111,#111111,1,0.425
-'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425
-'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425
-'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425
 'Stefan Kolev',fr,Deutschland,#111111,#111111,1,0.425
+'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425
 'Volker Wieland',fr,Deutschland,#111111,#111111,1,0.425
+'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425
 'Rachida Dati',fr,unknown,#111111,#111111,3,0.4241970736107228
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.4241950864966322
 'David Beckham',fr,unknown,#111111,#111111,2,0.4239739920174651
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.4035476185444903
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.4023009701997763
 'Laurent Wauquiez',fr,unknown,#111111,#111111,3,0.4005973797724326
+'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.39963398315733334
 'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.3991206248225087
 'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.398287768375
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.3980636461216926
@@ -516,15 +516,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leni Klum',fr,unknown,#111111,#111111,1,0.2874862280247429
 'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.2872534524999999
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.2871636893365908
-'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Minka Indigena',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Autumn Peltier',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.2871034374999999
-'Minka Indigena',fr,unknown,#111111,#111111,1,0.2871034374999999
+'Autumn Peltier',fr,unknown,#111111,#111111,1,0.2871034374999999
 'Katy Perry',fr,USA,#18e8e8,#18e8e8,1,0.2868602540844945
 'Warren Buffett',fr,USA,#18e8e8,#18e8e8,2,0.2865699542110705
 'Jeff Bezos',fr,USA,#18e8e8,#18e8e8,3,0.2864736089870707
