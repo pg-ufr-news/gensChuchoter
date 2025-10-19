@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.4411850379568698
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.4363889667785728
+'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.43606341726333936
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.4348510751801262
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.4341849996575533
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.4339753590681818
@@ -222,6 +222,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam H',fr,unknown,#111111,#111111,2,0.3357165039815545
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,2,0.3356080844584245
 'nan nan',fr,unknown,#dddddd,#dddddd,1,0.3354117685534518
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.3350996384837361
 'Jamie Spears',fr,unknown,#111111,#111111,1,0.3348014670708971
 'Gigi Hadid',fr,unknown,#111111,#111111,1,0.3344642100803393
 'Gerald Darmanin',fr,unknown,#111111,#111111,1,0.3343147872934587
@@ -234,7 +235,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willem Dafoe',fr,unknown,#111111,#111111,1,0.3334521938721896
 'Andrea Arnold',fr,unknown,#111111,#111111,1,0.3332615016161021
 'Rosa Parks',fr,unknown,#111111,#111111,2,0.3332281462735105
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.3331925996719329
 'Ainsley Earhardt',fr,unknown,#111111,#111111,1,0.3331739907472834
 'Jeanne du Barry',fr,Frankreich,#e8e808,#e8e808,1,0.3330419100352499
 'Gisele Bündchen',fr,unknown,#111111,#111111,1,0.3324337527492027
