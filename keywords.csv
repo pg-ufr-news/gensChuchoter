@@ -132,12 +132,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alois Rainer',fr,Deutschland,#111111,#111111,1,0.3657044049999999
 'Thorsten Frei',fr,Deutschland,#111111,#111111,1,0.3655544049999999
 'Carsten Schneider',fr,Deutschland,#111111,#111111,1,0.365404395049375
-'Steffen Kotre',fr,unknown,#111111,#111111,1,0.3654043749999999
-'Patrick Schnieder',fr,Deutschland,#111111,#111111,1,0.3654043749999999
 'Dorothee Bär',fr,Deutschland,#111111,#111111,1,0.3654043749999999
-'Karin Prien',fr,Deutschland,#111111,#111111,1,0.3654043749999999
-'Gwede Mantashe',fr,Südafrika,#111111,#111111,1,0.3654043749999999
+'Patrick Schnieder',fr,Deutschland,#111111,#111111,1,0.3654043749999999
+'Steffen Kotre',fr,unknown,#111111,#111111,1,0.3654043749999999
 'Christiane Schenderlein',fr,Deutschland,#111111,#111111,1,0.3654043749999999
+'Gwede Mantashe',fr,Südafrika,#111111,#111111,1,0.3654043749999999
+'Karin Prien',fr,Deutschland,#111111,#111111,1,0.3654043749999999
 'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.3646096668094787
 'Sherri Shepherd',fr,unknown,#111111,#111111,1,0.364547183443331
 'Mo Lewis',fr,unknown,#111111,#111111,1,0.3642096103495869
@@ -476,7 +476,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demeke Mekonnen',fr,unknown,#111111,#111111,1,0.29817077412125
 'Wolfgang Benz',fr,Deutschland,#1818e8,#1818e8,2,0.2974935597089373
 'Carter Reum',fr,unknown,#111111,#111111,1,0.2974173737942988
-'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,2,0.29739694653806786
+'Bernard Arnault',fr,Frankreich,#e8e808,#e8e808,2,0.2973969465380678
 'Tim Müller',fr,Deutschland,#1818e8,#1818e8,1,0.2971502843618749
 'Sultan al-Jaber',fr,VAE,#111111,#111111,2,0.2969903206466316
 'Jared Kushner',fr,unknown,#111111,#111111,1,0.2969873162967729
@@ -594,9 +594,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jason Whitlock',fr,unknown,#111111,#111111,1,0.2619525675518435
 'Nikki Glaser',fr,unknown,#111111,#111111,1,0.2618542423549875
 'Tom Hanks',fr,unknown,#111111,#111111,1,0.2612709317514423
-'Oisin Fanning',fr,Irland,#111111,#111111,1,0.2610031249999999
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.2610031249999999
+'Oisin Fanning',fr,Irland,#111111,#111111,1,0.2610031249999999
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.2601333136739115
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.2597027487371562
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.2594363191932174
@@ -640,7 +640,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Paul II',fr,Vatikan,#58b8e8,#58b8e8,1,0.2367902763669218
 'Robert Habeck',fr,Deutschland,#1818e8,#1818e8,3,0.236752309865691
 'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.2365476114112992
-'Edward Snowden',fr,USA,#18e8e8,#18e8e8,2,0.2360396552460483
 'Stephen Hawking',fr,UK,#e838e8,#e838e8,1,0.2349084204174036
 'Nadja Abd el Farrag',fr,Deutschland,#1818e8,#1818e8,1,0.233825497678368
 'Lee Hsien Loong',fr,Singapur,#111111,#111111,2,0.2336097975350866
@@ -671,10 +670,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.2223532228794687
 'Alice Weidel',fr,Deutschland,#1818e8,#1818e8,3,0.2221658201928851
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.2220393600669686
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.2218526562499999
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.2218526562499999
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.2218526562499999
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,1,0.2217912176356374
 'Amin Nasser',fr,SaudiArabien,#111111,#111111,2,0.2204303360159012
 'Nancy Faeser',fr,Deutschland,#1818e8,#1818e8,3,0.2190911801087568
@@ -710,6 +709,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antony Blinken',fr,USA,#18e8e8,#18e8e8,2,0.2021281784760347
 'Angela Merkel',fr,Deutschland,#1818e8,#1818e8,2,0.201603227123967
 'Ricarda Lang',fr,Deutschland,#1818e8,#1818e8,1,0.2008775372065838
+'Edward Snowden',fr,USA,#18e8e8,#18e8e8,1,0.20063370695914107
 'Gabor Steingart',fr,Deutschland,#1818e8,#1818e8,1,0.2001156774098104
 'Faisal Kawusi',fr,Deutschland,#1818e8,#1818e8,1,0.1999490529601561
 'Prinz George',fr,UK,#e838e8,#e838e8,1,0.1999419217048628
