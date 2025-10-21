@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,2,0.500000000000
-'Richard Robson',fr,Australien,#111111,#111111,2,0.500000000000
+'John Clarke',fr,USA,#18e8e8,#18e8e8,2,0.500000000000
 'László Krasznahorkai',fr,Ungarn,#111111,#111111,2,0.500000000000
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Philipp Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.500000000000
@@ -9,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,2,0.500000000000
 'John M. Martinis',fr,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Michel H. Devoret',fr,USA,#18e8e8,#18e8e8,2,0.500000000000
-'John Clarke',fr,USA,#18e8e8,#18e8e8,2,0.500000000000
+'Richard Robson',fr,Australien,#111111,#111111,2,0.500000000000
 'Omar M. Yaghi',fr,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Maria Corina Machado',fr,Venezuela,#111111,#111111,2,0.486050885000
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.458930461184
@@ -41,14 +40,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.425231128589
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.425000420000
 'Susumu Kitagawa',fr,Japan,#111111,#111111,1,0.425000225000
+'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Munther Amira',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
-'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
-'Stefan Kolev',fr,Deutschland,#335599,#335599,1,0.425000000000
+'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.425000000000
 'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.425000000000
+'Stefan Kolev',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.424197073611
 'Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.424195086497
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.423973992017
@@ -350,12 +350,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Luc Terlinden',fr,unknown,#111111,#111111,1,0.314233748835
 'Stockton Rush',fr,USA,#18e8e8,#18e8e8,1,0.313923650584
 'Robin Roberts',fr,unknown,#111111,#111111,1,0.313278569349
-'Melanie Guttmann',fr,unknown,#111111,#111111,1,0.313203750000
+'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.313203750000
 'Ralf Dieter',fr,Deutschland,#1818e8,#1818e8,1,0.313203750000
 'Maria Sacharowa',fr,unknown,#111111,#111111,1,0.313203750000
 'Vinod Khosla',fr,unknown,#111111,#111111,1,0.313203750000
-'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.313203750000
 'Henning Jeschke',fr,unknown,#111111,#111111,1,0.313203750000
+'Melanie Guttmann',fr,unknown,#111111,#111111,1,0.313203750000
 'Chris Luxon',fr,unknown,#111111,#111111,1,0.313203750000
 'Brian Kozlowski',fr,USA,#18e8e8,#18e8e8,1,0.313203750000
 'Ulrike Hermann',fr,unknown,#111111,#111111,1,0.313203750000
@@ -684,10 +684,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.222353222879
 'Alice Weidel',fr,Deutschland,#1818e8,#1818e8,3,0.222165820193
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.222039360067
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.221852656250
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.221852656250
-'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.221852656250
+'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.221852656250
 'König Felipe VI',fr,Spanien,#111111,#111111,1,0.221852656250
+'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.221852656250
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,1,0.221791217636
 'Amin Nasser',fr,SaudiArabien,#111111,#111111,2,0.220430336016
 'Nancy Faeser',fr,Deutschland,#1818e8,#1818e8,3,0.219091180109
