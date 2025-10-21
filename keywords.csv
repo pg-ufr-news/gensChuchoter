@@ -132,12 +132,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alois Rainer',fr,Deutschland,#335599,#335599,1,0.365704405000
 'Thorsten Frei',fr,Deutschland,#335599,#335599,1,0.365554405000
 'Carsten Schneider',fr,Deutschland,#335599,#335599,1,0.365404395049
-'Steffen Kotre',fr,unknown,#111111,#111111,1,0.365404375000
-'Patrick Schnieder',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Dorothee Bär',fr,Deutschland,#335599,#335599,1,0.365404375000
-'Karin Prien',fr,Deutschland,#335599,#335599,1,0.365404375000
-'Gwede Mantashe',fr,Südafrika,#111111,#111111,1,0.365404375000
+'Patrick Schnieder',fr,Deutschland,#335599,#335599,1,0.365404375000
+'Steffen Kotre',fr,unknown,#111111,#111111,1,0.365404375000
 'Christiane Schenderlein',fr,Deutschland,#335599,#335599,1,0.365404375000
+'Gwede Mantashe',fr,Südafrika,#111111,#111111,1,0.365404375000
+'Karin Prien',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.364609666809
 'Sherri Shepherd',fr,unknown,#111111,#111111,1,0.364547183443
 'Mo Lewis',fr,unknown,#111111,#111111,1,0.364209610350
@@ -594,9 +594,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jason Whitlock',fr,unknown,#111111,#111111,1,0.261952567552
 'Nikki Glaser',fr,unknown,#111111,#111111,1,0.261854242355
 'Tom Hanks',fr,unknown,#111111,#111111,1,0.261270931751
-'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.261003125000
 'Oisin Fanning',fr,Irland,#111111,#111111,1,0.261003125000
 'Malu Dreyer',fr,Deutschland,#1818e8,#1818e8,1,0.261003125000
+'Jan Lipavský',fr,Tschechien,#111111,#111111,1,0.261003125000
 'Prinzessin Kate',fr,UK,#e838e8,#e838e8,1,0.260133313674
 'Bettina Stark-Watzinger',fr,Deutschland,#1818e8,#1818e8,1,0.259702748737
 'Lauren Sánchez',fr,USA,#18e8e8,#18e8e8,1,0.259436319193
@@ -792,7 +792,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Louis Klamroth',fr,Deutschland,#1818e8,#1818e8,1,0.162500858488
 'Horst Seehofer',fr,Deutschland,#1818e8,#1818e8,1,0.161989991352
 'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.161967979935
-'MacKenzie Scott',fr,USA,#18e8e8,#18e8e8,1,0.161367019940
 'Dalai Lama',fr,Tibet,#111111,#111111,1,0.160955014627
 'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.160620998358
 'Steven Milloy',fr,USA,#18e8e8,#18e8e8,1,0.160288544141
@@ -819,6 +818,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Subrahmanyam Jaishankar',fr,Indien,#995533,#995533,1,0.138200098678
 'Alexei Nawalny',fr,Russland,#e81818,#e81818,1,0.137418693808
 'Sergej Lawrow',fr,Russland,#e81818,#e81818,1,0.137358973512
+'MacKenzie Scott',fr,USA,#18e8e8,#18e8e8,1,0.137161966949
 'Nick Fuentes',fr,USA,#18e8e8,#18e8e8,1,0.136790243570
 'Barbara Walters',fr,USA,#18e8e8,#18e8e8,1,0.136756273949
 'Martin Sonneborn',fr,Deutschland,#1818e8,#1818e8,1,0.136335870511
