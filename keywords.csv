@@ -71,7 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JD Vance',fr,USA,#18e8e8,#18e8e8,3,0.416148013787
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.415973817581
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
-'Ayatollah Khomeini',fr,Iran,#111111,#111111,1,0.415787349296
+'Ayatollah Khomeini',fr,Iran,#1144ee,#1144ee,1,0.415787349296
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,1,0.415661532583
 'Chris Wright',fr,USA,#18e8e8,#18e8e8,2,0.413317892528
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,1,0.413081360651
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Miller',fr,unknown,#111111,#111111,2,0.376093231959
 'George Simion',fr,unknown,#111111,#111111,3,0.375676903850
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.375179327192
-'Hilda Nakabuye',fr,Uganda,#111111,#111111,1,0.374616250000
+'Hilda Nakabuye',fr,Uganda,#4411ee,#4411ee,1,0.374616250000
 'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
 'Guy Ritchie',fr,unknown,#111111,#111111,1,0.374228753385
 'Cristiano Ronaldo',fr,Portugal,#339933,#339933,3,0.374059443253
@@ -151,7 +151,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffen Kotre',fr,unknown,#111111,#111111,1,0.365404375000
 'Patrick Schnieder',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Karin Prien',fr,Deutschland,#335599,#335599,1,0.365404375000
-'Gwede Mantashe',fr,Südafrika,#111111,#111111,1,0.365404375000
+'Gwede Mantashe',fr,Südafrika,#ee4411,#ee4411,1,0.365404375000
 'Christiane Schenderlein',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.364609666809
 'Sherri Shepherd',fr,unknown,#111111,#111111,1,0.364547183443
@@ -642,7 +642,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,1,0.244255011528
 'Eriberto Gualinga',fr,unknown,#111111,#111111,1,0.244037921875
 'Afida Turner',fr,Frankreich,#e8e808,#e8e808,1,0.243889550148
-'Cyril Ramaphosa',fr,Südafrika,#111111,#111111,3,0.241920832267
+'Cyril Ramaphosa',fr,Südafrika,#ee4411,#ee4411,3,0.241920832267
 'Buzz Aldrin',fr,USA,#18e8e8,#18e8e8,1,0.241406527147
 'Ursula von der Leyen',fr,EU,#111111,#111111,3,0.241279307608
 'Kevin Kühnert',fr,Deutschland,#1818e8,#1818e8,1,0.241224347799
@@ -686,7 +686,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alice Weidel',fr,Deutschland,#1818e8,#1818e8,3,0.222165820193
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.222039360067
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.221852656250
-'Ayatollah Chamenei',fr,Iran,#111111,#111111,1,0.221852656250
+'Ayatollah Chamenei',fr,Iran,#1144ee,#1144ee,1,0.221852656250
 'König Felipe VI',fr,Spanien,#33aa99,#33aa99,1,0.221852656250
 'Mary Lou McDonald',fr,Irland,#111111,#111111,1,0.221852656250
 'Kemal Kilicdaroglu',fr,Türkei,#111111,#111111,1,0.221791217636
@@ -853,7 +853,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.122563721239
 'Alfred Nobel',fr,Schweden,#ddee11,#ddee11,1,0.122418618557
 'Klaus-Michael Kühne',fr,Deutschland,#1818e8,#1818e8,1,0.120560994674
-'Ali Chamenei',fr,Iran,#111111,#111111,2,0.119089814680
+'Ali Chamenei',fr,Iran,#1144ee,#1144ee,2,0.119089814680
 'Patriarch Kyrill',fr,Ukraine,#e818e8,#e818e8,1,0.118577069372
 'Paul Gosar',fr,USA,#18e8e8,#18e8e8,1,0.118124642604
 'Steffi Lemke',fr,Deutschland,#1818e8,#1818e8,1,0.117698690464
@@ -879,7 +879,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffen Große',fr,Deutschland,#1818e8,#1818e8,2,0.099137074521
 'Holger Münch',fr,Deutschland,#1818e8,#1818e8,1,0.099013491484
 'Lula sa Silva',fr,Brasilien,#58e838,#58e838,1,0.098643185803
-'Ebrahim Raisi',fr,Iran,#111111,#111111,1,0.097302725633
+'Ebrahim Raisi',fr,Iran,#1144ee,#1144ee,1,0.097302725633
 'Nikos Androulakis',fr,Griechenland,#1858e8,#1858e8,1,0.096520503910
 'Andreas Jödecke',fr,Deutschland,#1818e8,#1818e8,1,0.095208799950
 'Alexej Kudrin',fr,Russland,#e81818,#e81818,1,0.095105512902
@@ -894,7 +894,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jitzchak Herzog',fr,Israel,#3311cc,#3311cc,1,0.088442360240
 'Carola Rackete',fr,Deutschland,#1818e8,#1818e8,1,0.087961318565
 'Tamim bin Hamad Al-Thani',fr,Katar,#111111,#111111,1,0.085765736078
-'Ayatollah Ali Chamenei',fr,Iran,#111111,#111111,1,0.085338745792
+'Ayatollah Ali Chamenei',fr,Iran,#1144ee,#1144ee,1,0.085338745792
 'Edmund Stoiber',fr,Deutschland,#1818e8,#1818e8,1,0.083811230315
 'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.080546679100
 'Miguel Díaz-Canel',fr,Kuba,#111111,#111111,1,0.079814665610
