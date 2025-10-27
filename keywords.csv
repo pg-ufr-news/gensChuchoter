@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.581718376508
-'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.507591182873
+'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.508212000880
+'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.506711340032
 'Cheryl Hines',fr,USA,#18e8e8,#18e8e8,2,0.506002615718
 'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.505667794528
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,2,0.504120846666
@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.462794904476
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.458930461184
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.456255898569
+'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.454029704788
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
-'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.453300742640
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.448407002633
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.436063417263
@@ -47,15 +47,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.425540916040
 'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.425231128589
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.425000420000
-'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
+'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Munther Amira',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
-'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
+'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Stefan Kolev',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Philipp Aghion',fr,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
-'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.425000000000
+'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Dua Lipa',fr,UK,#e838e8,#e838e8,1,0.424437638240
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.424276685479
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.424197073611
@@ -438,13 +438,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#bb33ff,#bb33ff,1,0.307102124820
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.307062619212
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.307062521675
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#33aa99,#33aa99,1,0.307062500000
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.307062500000
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.307062500000
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#33aa99,#33aa99,1,0.307062500000
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Gilbert Plass',fr,Kanada,#55ee33,#55ee33,1,0.307062500000
@@ -538,12 +538,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leni Klum',fr,unknown,#111111,#111111,1,0.287486228025
 'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.287253452500
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.287163689337
-'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.287103437500
+'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.287103437500
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.287103437500
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.287103437500
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.287103437500
-'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.287103437500
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.287103437500
+'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.287103437500
 'Sophia Kianni',fr,unknown,#111111,#111111,1,0.287103437500
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.287103437500
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.287103437500
