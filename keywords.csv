@@ -121,11 +121,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,1,0.384054677998
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.383643254088
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.382753088644
-'Francis Ford Coppola',fr,unknown,#111111,#111111,2,0.382586978738
-'Ron Howard',fr,unknown,#111111,#111111,1,0.381890005685
-'Jake Paul',fr,unknown,#111111,#111111,1,0.379627453276
-'Henry Samuel',fr,unknown,#111111,#111111,2,0.379283430693
-'Paul Biya',fr,unknown,#111111,#111111,3,0.378915563375
+'Francis Ford Coppola',fr,USA,#18e8e8,#18e8e8,2,0.382586978738
+'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
+'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
+'Henry Samuel',fr,USA,#18e8e8,#18e8e8,2,0.379283430693
+'Paul Biya',fr,Kamerun,#2266cc,#2266cc,3,0.378915563375
 'Benjamin Nethanaju',fr,Israel,#3311cc,#3311cc,1,0.378183378568
 'Billie Eilish',fr,unknown,#111111,#111111,2,0.377465916690
 'Robert Prevost',fr,unknown,#111111,#111111,1,0.377348938233
@@ -778,15 +778,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Annalena Baerbock',fr,Deutschland,#1818e8,#1818e8,2,0.181431123015
 'Thomas Haldenwang',fr,Deutschland,#1818e8,#1818e8,1,0.180378689831
 'Anthony Albanese',fr,Australien,#aa9933,#aa9933,1,0.180332182721
-'Paul Kagame',fr,Ruanda,#111111,#111111,1,0.180252172635
+'Paul Kagame',fr,Ruanda,#33ddaa,#33ddaa,1,0.180252172635
 'Jack Ma',fr,China,#e88818,#e88818,2,0.179967905294
 'Sandra Maischberger',fr,Deutschland,#1818e8,#1818e8,1,0.179866065763
-'Hun Sen',fr,Kambodscha,#111111,#111111,1,0.178567859374
+'Hun Sen',fr,Kambodscha,#33aadd,#33aadd,1,0.178567859374
 'Ola Källenius',fr,Deutschland,#1818e8,#1818e8,2,0.176923180030
 'Herschel Walker',fr,USA,#18e8e8,#18e8e8,1,0.176467413555
 'David Malpass',fr,USA,#18e8e8,#18e8e8,1,0.175753767218
 'Justin Trudeau',fr,Kanada,#55ee33,#55ee33,3,0.174652338841
-'Fidel Castro',fr,Kuba,#111111,#111111,1,0.173605992460
+'Fidel Castro',fr,Kuba,#dd33aa,#dd33aa,1,0.173605992460
 'Silvio Berlusconi',fr,Italien,#33dd55,#33dd55,3,0.173222087692
 'Sahra Wagenknecht',fr,Deutschland,#1818e8,#1818e8,3,0.173142414839
 'Sundar Pichai',fr,USA,#18e8e8,#18e8e8,2,0.172355936295
@@ -814,7 +814,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Louis Klamroth',fr,Deutschland,#1818e8,#1818e8,1,0.162500858488
 'Horst Seehofer',fr,Deutschland,#1818e8,#1818e8,1,0.161989991352
 'Viktor Orbán',fr,Ungarn,#111111,#111111,2,0.161967979935
-'Dalai Lama',fr,Tibet,#111111,#111111,1,0.160955014627
+'Dalai Lama',fr,Tibet,#ddaa33,#ddaa33,1,0.160955014627
 'Rishi Sunak',fr,UK,#e838e8,#e838e8,2,0.160721108046
 'Benjamin Netanyahu',fr,Israel,#3311cc,#3311cc,2,0.160620998358
 'Andrei Nikolajewitsch Kolmogorow',fr,Russland,#e81818,#e81818,1,0.160288544141
@@ -848,7 +848,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphael Warnock',fr,USA,#18e8e8,#18e8e8,1,0.136245262520
 'Schellnhuber',fr,Deutschland,#1818e8,#1818e8,2,0.135723200874
 'Alice Schwarzer',fr,Deutschland,#1818e8,#1818e8,1,0.134004862535
-'Andrés Manuel López Obrador',fr,Mexiko,#111111,#111111,1,0.131353741024
+'Andrés Manuel López Obrador',fr,Mexiko,#aadd33,#aadd33,1,0.131353741024
 'Mojib Latif',fr,Deutschland,#1818e8,#1818e8,1,0.131300340521
 'Sucharit Bhakdi',fr,Deutschland,#1818e8,#1818e8,3,0.130104863677
 'Michael Ballweg',fr,Deutschland,#1818e8,#1818e8,1,0.129668706538
@@ -857,7 +857,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Nehammer',fr,Oesterreich,#5522dd,#5522dd,1,0.126946028108
 'Yanis Varoufakis',fr,Griechenland,#1858e8,#1858e8,1,0.124671126243
 'Alfred Nobel',fr,Schweden,#ddee11,#ddee11,1,0.123644893060
-'Macky Sall',fr,Senegal,#111111,#111111,1,0.123426671059
+'Macky Sall',fr,Senegal,#aa33dd,#aa33dd,1,0.123426671059
 'Robin Li',fr,China,#e88818,#e88818,2,0.122769090605
 'John Roberts',fr,USA,#18e8e8,#18e8e8,1,0.122563721239
 'Klaus-Michael Kühne',fr,Deutschland,#1818e8,#1818e8,1,0.120560994674
@@ -905,4 +905,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Ali Chamenei',fr,Iran,#1144ee,#1144ee,1,0.085338745792
 'Edmund Stoiber',fr,Deutschland,#1818e8,#1818e8,1,0.083811230315
 'Generalbundesanwalt Peter Frank',fr,Deutschland,#1818e8,#1818e8,1,0.080546679100
-'Miguel Díaz-Canel',fr,Kuba,#111111,#111111,1,0.079814665610
+'Miguel Díaz-Canel',fr,Kuba,#dd33aa,#dd33aa,1,0.079814665610
