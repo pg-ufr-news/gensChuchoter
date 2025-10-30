@@ -2,14 +2,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.486373180885
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.481297970394
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.473220463912
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.478017720251
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.463615306219
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.460364676451
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.459156438080
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.454757225617
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.450812254529
 'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.446021649839
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.444012680254
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.436063417263
@@ -49,13 +49,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.425062563315
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.425000420000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
-'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
+'Munther Amira',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
-'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
+'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Stefan Kolev',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.425000000000
-'Munther Amira',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
+'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Philipp Aghion',fr,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Dua Lipa',fr,UK,#e838e8,#e838e8,1,0.424437638240
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.424197073611
@@ -107,7 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Victoria Beckham',fr,UK,#e838e8,#e838e8,1,0.397088725583
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.395804610050
 'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,2,0.395399191502
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.393900362427
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.394744475751
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.392700236143
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.392503469334
 'Mohammad Mustafa',fr,Palestina,#ee4488,#ee4488,2,0.392247018398
@@ -439,12 +439,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.307062619212
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.307062521675
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
-'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#33aa99,#33aa99,1,0.307062500000
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.307062500000
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.307062500000
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#33aa99,#33aa99,1,0.307062500000
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
+'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Gilbert Plass',fr,Kanada,#55ee33,#55ee33,1,0.307062500000
