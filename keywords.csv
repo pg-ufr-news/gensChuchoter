@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.444012680254
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.436826304161
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
-'Gerald Darmanin',fr,unknown,#111111,#111111,2,0.434467599199
+'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.434436006492
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.434184999658
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
@@ -86,7 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',fr,USA,#18e8e8,#18e8e8,3,0.411746883005
 'John M. Martinis',fr,USA,#18e8e8,#18e8e8,1,0.411102944000
 'Édouard Philippe',fr,Frankreich,#e8e808,#e8e808,2,0.410921081354
-'Castel Gandolfo',fr,unknown,#111111,#111111,2,0.410727216211
+'Castel Gandolfo',fr,Vatikan,#dd5544,#dd5544,2,0.410727216211
 'Julia Roberts',fr,USA,#18e8e8,#18e8e8,1,0.409754522170
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,1,0.408667292393
 'Jennifer Lopez',fr,USA,#18e8e8,#18e8e8,3,0.408636433536
@@ -145,7 +145,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ryan Gosling',fr,Kanada,#55ee33,#55ee33,1,0.372574984318
 'Chuck Schumer',fr,USA,#18e8e8,#18e8e8,1,0.371713023031
 'William Friedkin',fr,USA,#18e8e8,#18e8e8,2,0.369946252027
-'Ben Affleck',fr,unknown,#111111,#111111,1,0.369622451468
+'Ben Affleck',fr,USA,#18e8e8,#18e8e8,1,0.369622451468
 'Kara Hurst',fr,unknown,#111111,#111111,1,0.368475000000
 'Gervonta Davis',fr,unknown,#111111,#111111,1,0.368458726253
 'Andrew Cuomo',fr,unknown,#111111,#111111,1,0.366693460086
