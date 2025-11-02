@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.486373180885
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.481297970394
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.478697591136
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.466440981837
+'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.477459417843
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.467143896079
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.459156438080
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.454757225617
@@ -22,15 +22,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shimon Sakaguchi',fr,Japan,#33aa99,#33aa99,1,0.433202265187
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.432090431387
+'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.430993060288
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.430825513506
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.430807344625
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.430712542696
+'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.430459784720
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,3,0.430353257073
-'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.430218749371
 'Cheryl Hines',fr,USA,#18e8e8,#18e8e8,1,0.430102223360
 'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.429967640349
-'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.429684431674
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.429215236293
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.429125494385
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
@@ -46,10 +46,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar M. Yaghi',fr,USA,#18e8e8,#18e8e8,2,0.426650165000
 'László Krasznahorkai',fr,Ungarn,#99aa33,#99aa33,1,0.426324337111
 'Itamar Ben-Gvir',fr,Israel,#3311cc,#3311cc,2,0.426276178250
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.425846914237
 'Curtis Yarvin',fr,USA,#18e8e8,#18e8e8,1,0.425824791633
 'Mary Brunkow',fr,USA,#18e8e8,#18e8e8,1,0.425347780013
 'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.425231128589
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.425062563315
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.425000420000
 'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.425000000000
@@ -107,8 +107,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.397739672051
 'Victoria Beckham',fr,UK,#e838e8,#e838e8,1,0.397088725583
 'Pedro Sánchez',fr,Spanien,#33aa99,#33aa99,3,0.395804610050
+'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.395586993818
 'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,2,0.395399191502
-'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.394744475751
 'Edouard Philippe',fr,Frankreich,#e8e808,#e8e808,3,0.392878810106
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.392700236143
 'Léon XIV',fr,Vatikan,#dd5544,#dd5544,3,0.392503469334
@@ -206,9 +206,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.345582708195
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.345470125054
 'François Braun',fr,unknown,#111111,#111111,3,0.345467275335
+'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,1,0.345452589291
 'Justin Timberlake',fr,unknown,#111111,#111111,2,0.345374834729
 'Demi Moore',fr,unknown,#111111,#111111,1,0.344697632290
-'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,1,0.344518050550
 'Sophie Turner',fr,unknown,#111111,#111111,2,0.343925232039
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.343925006177
 'Vo Van Thuong',fr,unknown,#111111,#111111,1,0.343470111841
@@ -311,6 +311,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.322867256035
 'Paul-Henry Nargeolet',fr,Frankreich,#e8e808,#e8e808,1,0.322587885875
 'Lionel Messi',fr,Argentinien,#6622bb,#6622bb,2,0.322395342239
+'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,1,0.322325033693
 'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,1,0.322308037185
 'Sam Asghari',fr,unknown,#111111,#111111,1,0.322114972836
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,1,0.322005179712
@@ -319,7 +320,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeff Ross',fr,unknown,#111111,#111111,1,0.321730746221
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.321573321834
 'Friederike Otto',fr,Deutschland,#1818e8,#1818e8,1,0.321526066444
-'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,1,0.321350405297
 'Omar Sy',fr,unknown,#111111,#111111,1,0.321096750314
 'Steve Jobs',fr,USA,#18e8e8,#18e8e8,2,0.321013605664
 'Recep Tayyip Erdogan',fr,Türkei,#66bb22,#66bb22,3,0.320708348267
@@ -435,17 +435,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#bb33ff,#bb33ff,1,0.307102124820
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.307062619212
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.307062521675
+'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.307062500000
-'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.307062500000
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
-'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#33aa99,#33aa99,1,0.307062500000
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Gilbert Plass',fr,Kanada,#55ee33,#55ee33,1,0.307062500000
+'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.307062500000
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#33aa99,#33aa99,1,0.307062500000
 'Fabien Roussel',fr,unknown,#111111,#111111,1,0.307050123463
 'Pierre-Yves Dermagne',fr,Belgien,#2266bb,#2266bb,2,0.306584252816
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.306529163946
@@ -538,12 +538,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leni Klum',fr,unknown,#111111,#111111,1,0.287486228025
 'Elizabeth Mpofu',fr,unknown,#111111,#111111,1,0.287253452500
 'Prinzessin Diana',fr,UK,#e838e8,#e838e8,1,0.287163689337
-'Sophia Kianni',fr,unknown,#111111,#111111,1,0.287103437500
+'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.287103437500
 'Helena Gualinga',fr,unknown,#111111,#111111,1,0.287103437500
 'Marjan Minnesma',fr,unknown,#111111,#111111,1,0.287103437500
 'Mark Hertsgaard',fr,unknown,#111111,#111111,1,0.287103437500
-'Claudia Kempfert',fr,unknown,#111111,#111111,1,0.287103437500
 'Hans Joosten',fr,unknown,#111111,#111111,1,0.287103437500
+'Sophia Kianni',fr,unknown,#111111,#111111,1,0.287103437500
 'Enissa Amani',fr,unknown,#111111,#111111,1,0.287103437500
 'Autumn Peltier',fr,unknown,#111111,#111111,1,0.287103437500
 'Minka Indigena',fr,unknown,#111111,#111111,1,0.287103437500
@@ -694,9 +694,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.222353222879
 'Alice Weidel',fr,Deutschland,#1818e8,#1818e8,3,0.222165820193
 'Chuck Todd',fr,USA,#18e8e8,#18e8e8,1,0.222039360067
-'Ayatollah Chamenei',fr,Iran,#1144ee,#1144ee,1,0.221852656250
 'Detlef Garbe',fr,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Mary Lou McDonald',fr,Irland,#4488cc,#4488cc,1,0.221852656250
+'Ayatollah Chamenei',fr,Iran,#1144ee,#1144ee,1,0.221852656250
 'Kemal Kilicdaroglu',fr,Türkei,#66bb22,#66bb22,1,0.221791217636
 'Amin Nasser',fr,SaudiArabien,#22bb66,#22bb66,2,0.220430336016
 'Nancy Faeser',fr,Deutschland,#1818e8,#1818e8,3,0.219091180109
