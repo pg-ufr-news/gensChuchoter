@@ -351,18 +351,25 @@ def archiveUrl(data):
         timetravelDate = pubDate.strftime('%Y%m%d')
     timetravelUrl = 'http://timetravel.mementoweb.org/api/json/'+timetravelDate+'/'+data['url']
     try:
-        page = requests.get(timetravelUrl, timeout=30)
+        print(["try request", timetravelUrl])
+        page = requests.get(timetravelUrl, timeout=60)
         if page.status_code == 200:
             content = page.content
-            #print(content)
+            print(content)
             if(content):
                 #print(content)
                 jsonData = json.loads(content)
-                if(jsonData and jsonData['mementos']):
-                    data['archive'] = jsonData['mementos']['closest']['uri'][0]
-                    if('1970-01-01T00:00:00' == data['published']):
-                        data['published'] = jsonData['mementos']['closest']['datetime']
-                #'closest'
+                if(jsonData and ('archived_snapshots' in jsonData)):
+                  snapshots = jsonData['archived_snapshots']
+                  if('closest' in snapshots):
+                    closest = snapshots['closest']
+                    if('200'==closest['status']):
+                      data['archive'] = closest['url']
+                      if('1970-01-01T00:00:00' == data['published']):
+                        ts = closest['timestamp']
+                        tsNew = ts[0:4]+'-'+ts[4:6]+'-'+ts[6:8]+'T'+ts[8:10]+':'+ts[10:12]+':'+ts[12:14]
+                        print(['new ts',ts,tsNew])
+                        data['published'] = tsNew
     except:
 #    except Exception as e:    
 #    except json.decoder.JSONDecodeError as e:    
