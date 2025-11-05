@@ -349,7 +349,8 @@ def archiveUrl(data):
         print('date parse error 2')   
     if(pubDate):
         timetravelDate = pubDate.strftime('%Y%m%d')
-    timetravelUrl = 'http://timetravel.mementoweb.org/api/json/'+timetravelDate+'/'+data['url']
+    #timetravelUrl = 'http://timetravel.mementoweb.org/api/json/'+timetravelDate+'/'+data['url']
+    timetravelUrl = 'http://archive.org/wayback/available?url='+data['url']+'&timestamp='+timetravelDate
     try:
         print(["try request", timetravelUrl])
         page = requests.get(timetravelUrl, timeout=60)
