@@ -71,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.424760457727
 'Dua Lipa',fr,UK,#e838e8,#e838e8,1,0.424437638240
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.424281879151
-'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,3,0.423277158924
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.423235273600
 'Sam Altman',fr,USA,#18e8e8,#18e8e8,3,0.423211637518
 'Élisabeth Borne',fr,Frankreich,#e8e808,#e8e808,3,0.422735667508
@@ -167,10 +166,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thorsten Frei',fr,Deutschland,#335599,#335599,1,0.365554405000
 'Taylor Swift',fr,USA,#18e8e8,#18e8e8,2,0.365508157033
 'Carsten Schneider',fr,Deutschland,#335599,#335599,1,0.365404395049
-'Dorothee Bär',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Patrick Schnieder',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Gwede Mantashe',fr,Südafrika,#ee4411,#ee4411,1,0.365404375000
 'Christiane Schenderlein',fr,Deutschland,#335599,#335599,1,0.365404375000
+'Dorothee Bär',fr,Deutschland,#335599,#335599,1,0.365404375000
 'Anant Ambani',fr,Indien,#995533,#995533,1,0.365087340868
 'Sherri Shepherd',fr,USA,#18e8e8,#18e8e8,1,0.364547183443
 'Alexander De Croo',fr,Belgien,#2266bb,#2266bb,3,0.363839286260
@@ -180,6 +179,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,1,0.360488559950
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.360380811796
+'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.359786185085
 'Sean Hannity',fr,USA,#18e8e8,#18e8e8,1,0.359050741497
 'Emma Stone',fr,USA,#18e8e8,#18e8e8,1,0.358709971492
 'Lana Del Rey',fr,USA,#18e8e8,#18e8e8,1,0.358138244383
@@ -443,13 +443,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',fr,Pakistan,#bb33ff,#bb33ff,1,0.307102124820
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.307062619212
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.307062521675
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
+'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#33aa99,#33aa99,1,0.307062500000
 'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.307062500000
-'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.307062500000
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.307062500000
 'Gilbert Plass',fr,Kanada,#55ee33,#55ee33,1,0.307062500000
