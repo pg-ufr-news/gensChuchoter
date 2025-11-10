@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pierre Farandou',fr,unknown,#111111,#111111,2,0.607017112401
-'Zack Snyder',fr,unknown,#111111,#111111,2,0.500030565861
+'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,2,0.607017112401
+'Zack Snyder',fr,USA,#18e8e8,#18e8e8,2,0.500030565861
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.482258969157
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.481297970394
@@ -214,10 +214,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.346515365170
 'Greg Abbott',fr,USA,#18e8e8,#18e8e8,1,0.346074933839
 'Johann Wadephul',fr,Deutschland,#335599,#335599,1,0.346028311124
-'François Braun',fr,unknown,#111111,#111111,3,0.345467275335
+'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
 'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,1,0.345452589291
-'Justin Timberlake',fr,unknown,#111111,#111111,2,0.345374834729
-'Demi Moore',fr,unknown,#111111,#111111,1,0.344697632290
+'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.345374834729
+'Demi Moore',fr,USA,#18e8e8,#18e8e8,1,0.344697632290
 'Sophie Turner',fr,unknown,#111111,#111111,2,0.343925232039
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.343925006177
 'Vo Van Thuong',fr,unknown,#111111,#111111,1,0.343470111841
