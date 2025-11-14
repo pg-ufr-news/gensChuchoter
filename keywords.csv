@@ -63,15 +63,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.425231128589
 'Zack Snyder',fr,USA,#18e8e8,#18e8e8,1,0.425026070982
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.425000420000
-'Philipp Aghion',fr,Frankreich,#e8e808,#e8e808,1,0.425000000000
+'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Munther Amira',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Stefan Kolev',fr,Deutschland,#335599,#335599,1,0.425000000000
-'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
+'Philipp Aghion',fr,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.425000000000
-'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
+'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.424760457727
 'Dua Lipa',fr,UK,#e838e8,#e838e8,1,0.424437638240
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.424281879151
@@ -441,17 +441,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.307190012750
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.307062619212
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.307062521675
+'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Pedro Sánchez Pérez-Castejón',fr,Spanien,#33aa99,#33aa99,1,0.307062500000
-'Gilbert Plass',fr,Kanada,#55ee33,#55ee33,1,0.307062500000
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
-'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
+'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.307062500000
+'Gilbert Plass',fr,Kanada,#55ee33,#55ee33,1,0.307062500000
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.307062500000
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
-'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.307062500000
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Pierre-Yves Dermagne',fr,Belgien,#2266bb,#2266bb,2,0.306584252816
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.306529163946
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,2,0.306528938897
@@ -915,4 +915,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carola Rackete',fr,Deutschland,#1818e8,#1818e8,1,0.087961318565
 'Tamim bin Hamad Al-Thani',fr,Katar,#33ffbb,#33ffbb,1,0.085765736078
 'Ayatollah Ali Chamenei',fr,Iran,#1144ee,#1144ee,1,0.085338745792
-'Edmund Stoiber',fr,Deutschland,#1818e8,#1818e8,1,0.083811230315
+'Edmund Stoiber',fr,Deutschland,#1818e8,#1818e8,1,0.071239545768
