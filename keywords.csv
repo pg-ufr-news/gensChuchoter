@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.444929743056
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.444012680254
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.438761926992
-'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.437587696703
+'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.438347597103
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.435802543235
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
@@ -65,15 +65,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mareike Fallwickl',fr,Oesterreich,#5522dd,#5522dd,1,0.425231128589
 'Zack Snyder',fr,USA,#18e8e8,#18e8e8,1,0.425026070982
 'Laura Loomer',fr,USA,#18e8e8,#18e8e8,1,0.425000420000
+'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Munther Amira',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
-'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Philipp Aghion',fr,Frankreich,#e8e808,#e8e808,1,0.425000000000
-'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.425000000000
+'Volker Wieland',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
-'Veronika Grimm',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Stefan Kolev',fr,Deutschland,#335599,#335599,1,0.425000000000
+'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.425000000000
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.424760457727
 'Dua Lipa',fr,UK,#e838e8,#e838e8,1,0.424437638240
 'Joe Biden',fr,USA,#18e8e8,#18e8e8,3,0.424281879151
@@ -87,8 +87,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.421254713532
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.419634592786
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
+'JD Vance',fr,USA,#18e8e8,#18e8e8,3,0.416949630235
 'Cruz Beckham',fr,Spanien,#33aa99,#33aa99,2,0.416486507318
-'JD Vance',fr,USA,#18e8e8,#18e8e8,3,0.416148013787
 'Benny Blanco',fr,USA,#18e8e8,#18e8e8,2,0.415845566696
 'Ayatollah Khomeini',fr,Iran,#1144ee,#1144ee,1,0.415787349296
 'Barack Obama',fr,USA,#18e8e8,#18e8e8,3,0.415269807199
@@ -106,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,2,0.406727195342
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
+'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.404347038751
 'Greg Brockman',fr,USA,#18e8e8,#18e8e8,2,0.404025972752
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.403547618544
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
@@ -146,8 +147,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Miller',fr,Australien,#aa9933,#aa9933,2,0.376093231959
 'George Simion',fr,Rumänien,#3355bb,#3355bb,3,0.375676903850
 'Jimmy Carter',fr,USA,#18e8e8,#18e8e8,1,0.375179327192
-'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
 'Hilda Nakabuye',fr,Uganda,#4411ee,#4411ee,1,0.374616250000
+'Chad Frischmann',fr,USA,#18e8e8,#18e8e8,1,0.374616250000
 'Eric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.374492908216
 'Guy Ritchie',fr,UK,#e838e8,#e838e8,1,0.374228753385
 'Christian Lindner',fr,Deutschland,#1818e8,#1818e8,3,0.372181692859
@@ -176,7 +177,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Santos',fr,USA,#18e8e8,#18e8e8,2,0.361764971186
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.360380811796
-'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.359786185085
 'Sean Hannity',fr,USA,#18e8e8,#18e8e8,1,0.359050741497
 'Emma Stone',fr,USA,#18e8e8,#18e8e8,1,0.358709971492
 'Lana Del Rey',fr,USA,#18e8e8,#18e8e8,1,0.358138244383
@@ -441,17 +441,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patti LaBelle',fr,USA,#18e8e8,#18e8e8,1,0.307190012750
 'Kim Yo Jong',fr,NordKorea,#111111,#111111,1,0.307062619212
 'Chelsea Handler',fr,USA,#18e8e8,#18e8e8,1,0.307062521675
+'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Markus Wipperfürth',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Sergei Surovikin',fr,Russland,#e81818,#e81818,1,0.307062500000
-'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Moon Hyung-jin',fr,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Reinhard Marx',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
-'Franca Lehfeldt',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
-'Pedro Sánchez Pérez-Castejón',fr,Spanien,#33aa99,#33aa99,1,0.307062500000
+'Gilbert Plass',fr,Kanada,#55ee33,#55ee33,1,0.307062500000
+'Barbara Schöneberger',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
 'Sergej Surowikin',fr,Russland,#e81818,#e81818,1,0.307062500000
 'Uwe Neumärker',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
-'Gilbert Plass',fr,Kanada,#55ee33,#55ee33,1,0.307062500000
 'Caren Miosga',fr,Deutschland,#1818e8,#1818e8,1,0.307062500000
+'Pedro Sánchez Pérez-Castejón',fr,Spanien,#33aa99,#33aa99,1,0.307062500000
 'Pierre-Yves Dermagne',fr,Belgien,#2266bb,#2266bb,2,0.306584252816
 'Jacques Doriot',fr,unknown,#111111,#111111,1,0.306529163946
 'Olivier Marleix',fr,Frankreich,#e8e808,#e8e808,2,0.306528938897
@@ -564,6 +564,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,2,0.282916789799
 'Albert Einstein',fr,Deutschland,#1818e8,#1818e8,2,0.282413215257
 'Eva Green',fr,unknown,#111111,#111111,1,0.282265534324
+'Peter Thiel',fr,USA,#18e8e8,#18e8e8,1,0.282069290026
 'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,1,0.282032648609
 'Lance Bass',fr,unknown,#111111,#111111,1,0.281267684084
 'Kim Reynolds',fr,unknown,#111111,#111111,1,0.280630958368
@@ -579,7 +580,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Fetterman',fr,unknown,#111111,#111111,1,0.277113856329
 'Tiffany Chen',fr,USA,#18e8e8,#18e8e8,1,0.277056425948
 'Peter Tschentscher',fr,Deutschland,#1818e8,#1818e8,1,0.276899822928
-'Peter Thiel',fr,USA,#18e8e8,#18e8e8,1,0.276853107445
 'Rosalynn Carter',fr,USA,#18e8e8,#18e8e8,1,0.276749523680
 'Lindsey Graham',fr,USA,#18e8e8,#18e8e8,1,0.276376052281
 'Zach Bryan',fr,unknown,#111111,#111111,1,0.276368900776
