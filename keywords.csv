@@ -267,17 +267,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeanne du Barry',fr,Frankreich,#e8e808,#e8e808,1,0.333041910035
 'Gisele Bündchen',fr,Brasilien,#58e838,#58e838,1,0.332433752749
 'Barry Keoghan',fr,Irland,#4488cc,#4488cc,2,0.332386876959
-'Clément Beaune',fr,unknown,#111111,#111111,2,0.332040116609
-'Pedro Pascal',fr,unknown,#111111,#111111,2,0.332000042185
-'Bronny James',fr,unknown,#111111,#111111,2,0.331677759062
-'Indiana Jones',fr,unknown,#111111,#111111,2,0.330983367684
-'Maria Bartiromo',fr,unknown,#111111,#111111,1,0.330980983348
-'Ana Navarro',fr,unknown,#111111,#111111,2,0.330507759653
-'Tom Brady',fr,unknown,#111111,#111111,1,0.330488961710
+'Clément Beaune',fr,Frankreich,#e8e808,#e8e808,2,0.332040116609
+'Pedro Pascal',fr,Chile,#11fe4211,#11fe4211,2,0.332000042185
+'Bronny James',fr,USA,#18e8e8,#18e8e8,2,0.331677759062
+'Indiana Jones',fr,USA,#18e8e8,#18e8e8,2,0.330983367684
+'Maria Bartiromo',fr,USA,#18e8e8,#18e8e8,1,0.330980983348
+'Ana Navarro',fr,Nicaragua,#5611e5,#5611e5,2,0.330507759653
+'Tom Brady',fr,USA,#18e8e8,#18e8e8,1,0.330488961710
 'Jesse Watters',fr,USA,#18e8e8,#18e8e8,1,0.330336080337
-'Mike Johnson',fr,unknown,#111111,#111111,2,0.330317108224
+'Mike Johnson',fr,USA,#18e8e8,#18e8e8,2,0.330317108224
 'Robert De Niro',fr,USA,#18e8e8,#18e8e8,1,0.330253466333
-'Nawaz Sharif',fr,unknown,#111111,#111111,1,0.329978657034
+'Nawaz Sharif',fr,Pakistan,#bb33ff,#bb33ff,1,0.329978657034
 'Rupert Murdoch',fr,unknown,#111111,#111111,1,0.329931110852
 'Mira Murati',fr,unknown,#111111,#111111,1,0.329768435872
 'Robert Oppenheimer',fr,USA,#18e8e8,#18e8e8,1,0.329527373526
