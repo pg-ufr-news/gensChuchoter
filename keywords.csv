@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boris Vallaud',fr,unknown,#111111,#111111,3,0.607278512678
 'Jean Castex',fr,unknown,#111111,#111111,2,0.600800967153
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.600547956135
 'Laurent Nuñez',fr,unknown,#111111,#111111,3,0.567300062219
+'Boris Vallaud',fr,unknown,#111111,#111111,3,0.530229354867
 'Kendrick Lamar',fr,unknown,#111111,#111111,2,0.508457320235
 'Jon Jones',fr,unknown,#111111,#111111,2,0.507239745435
 'Dick Cheney',fr,unknown,#111111,#111111,2,0.506737009445
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.459873809228
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456041277336
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.455193834002
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.455919052108
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.454757225617
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.446021649839
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.444929743056
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.444012680254
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.441115007769
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.441867986465
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.439519524814
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.438347597103
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
@@ -118,8 +118,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Thunberg',fr,Schweden,#ddee11,#ddee11,2,0.404347038751
 'Greg Brockman',fr,USA,#18e8e8,#18e8e8,2,0.404025972752
 'Stephen Colbert',fr,USA,#18e8e8,#18e8e8,3,0.403547618544
+'Laurent Wauquiez',fr,Frankreich,#e8e808,#e8e808,3,0.403086888152
 'Olaf Scholz',fr,Deutschland,#1818e8,#1818e8,3,0.402300970200
-'Laurent Wauquiez',fr,Frankreich,#e8e808,#e8e808,3,0.402258633124
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.401440087448
 'Premier ministre',fr,Frankreich,#e8e808,#e8e808,3,0.401092328839
 'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.399633983157
@@ -776,12 +776,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Klçdarolu',fr,Türkei,#66bb22,#66bb22,1,0.189908675863
 'Wolfgang Schäuble',fr,Deutschland,#1818e8,#1818e8,2,0.188788321775
 'Wladimir Putin',fr,Russland,#e81818,#e81818,1,0.188745212035
-'Michelle Neill',fr,Irland,#4488cc,#4488cc,1,0.188574757812
-'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Steve Milloy',fr,USA,#18e8e8,#18e8e8,1,0.188574757812
-'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.188574757812
-'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.188574757812
+'Missy Motown',fr,Deutschland,#1818e8,#1818e8,1,0.188574757812
+'Michelle Neill',fr,Irland,#4488cc,#4488cc,1,0.188574757812
 'König Felipe VI',fr,Spanien,#33aa99,#33aa99,1,0.188574757812
+'Edir Macedo',fr,Brasilien,#58e838,#58e848,1,0.188574757812
+'Andreas Ellermann',fr,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Gerhard Schröder',fr,Deutschland,#1818e8,#1818e8,2,0.188558763208
 'Jon Batiste',fr,unknown,#111111,#111111,1,0.187363149643
 'Antonio Guterres',fr,UN,#e888e8,#e888e8,3,0.187224051539
