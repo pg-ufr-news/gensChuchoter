@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.600547956135
-'Jean Castex',fr,unknown,#111111,#111111,2,0.583813375262
-'Laurent Nuñez',fr,unknown,#111111,#111111,3,0.567802591009
-'Boris Vallaud',fr,unknown,#111111,#111111,3,0.530229354867
-'Kendrick Lamar',fr,unknown,#111111,#111111,2,0.508457320235
-'Jon Jones',fr,unknown,#111111,#111111,2,0.507239745435
-'Dick Cheney',fr,unknown,#111111,#111111,2,0.506737009445
-'James Gunn',fr,unknown,#111111,#111111,2,0.506495774497
-'Bad Bunny',fr,unknown,#111111,#111111,2,0.504458207803
+'Jean Castex',fr,Frankreich,#e8e808,#e8e808,2,0.583813375262
+'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.567802591009
+'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.530229354867
+'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,2,0.508457320235
+'Jon Jones',fr,USA,#18e8e8,#18e8e8,2,0.507239745435
+'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.506737009445
+'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.506495774497
+'Bad Bunny',fr,PuertoRico,#18a567,#18a567,2,0.504458207803
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.488217634725
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.481297970394
