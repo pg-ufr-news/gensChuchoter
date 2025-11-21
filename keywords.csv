@@ -143,7 +143,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Radical Optimism',fr,unknown,#111111,#111111,1,0.384209541779
 'Narendra Modi',fr,Indien,#995533,#995533,3,0.383643254088
 'Javier Milei',fr,Argentinien,#6622bb,#6622bb,3,0.382753088644
-'Francis Ford Coppola',fr,USA,#18e8e8,#18e8e8,2,0.382586978738
 'Ron Howard',fr,USA,#18e8e8,#18e8e8,1,0.381890005685
 'Jake Paul',fr,USA,#18e8e8,#18e8e8,1,0.379627453276
 'Henry Samuel',fr,USA,#18e8e8,#18e8e8,2,0.379283430693
@@ -321,6 +320,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comer',fr,USA,#18e8e8,#18e8e8,1,0.325256045347
 'Miley Cyrus',fr,USA,#18e8e8,#18e8e8,1,0.325240437149
 'Hunter Biden',fr,USA,#18e8e8,#18e8e8,1,0.325216085457
+'Francis Ford Coppola',fr,USA,#18e8e8,#18e8e8,1,0.325199096927
 'Ben Wallace',fr,unknown,#111111,#111111,1,0.325126701091
 'Harrison Ford',fr,unknown,#111111,#111111,1,0.323854374579
 'Sam Bankman-Fried',fr,unknown,#111111,#111111,1,0.323721363813
