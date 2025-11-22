@@ -2,11 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.489507442572
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
+'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,2,0.479877321468
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.479755892217
-'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.478140401575
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,2,0.478121857486
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.478081286360
+'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.473007967992
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.465680020384
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.464488009114
@@ -40,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.433908974928
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
+'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Shimon Sakaguchi',fr,Japan,#33aa99,#33aa99,1,0.433202265187
 'Duke Henri',fr,Luxemburg,#55dd33,#55dd33,1,0.432985108582
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.432837706574
@@ -48,12 +50,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.431580507103
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.431496523472
 'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.431153903620
-'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.430993060288
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.430821933322
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.430712542696
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.430676866032
-'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,1,0.430459784720
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,3,0.430353257073
 'Cheryl Hines',fr,USA,#18e8e8,#18e8e8,1,0.430102223360
 'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.429967640349
