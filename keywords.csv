@@ -366,7 +366,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roman Pacino',fr,unknown,#111111,#111111,1,0.315951444294
 'Andrew Tate',fr,USA,#18e8e8,#18e8e8,2,0.315783238111
 'Lawrence Jones',fr,unknown,#111111,#111111,1,0.315379065385
-'Rudolf Steiner',fr,Oesterreich,#5522dd,#5522dd,1,0.315166913549
 'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.314570223459
 'Christian Günther',fr,unknown,#111111,#111111,1,0.314442217584
 'Drena De Niro',fr,USA,#18e8e8,#18e8e8,1,0.314372433849
@@ -605,6 +604,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brian Kilmeade',fr,unknown,#111111,#111111,1,0.269914372303
 'Jan Böhmermann',fr,Deutschland,#1818e8,#1818e8,3,0.269670745153
 'Jerod Mayo',fr,unknown,#111111,#111111,1,0.268411279183
+'Rudolf Steiner',fr,Oesterreich,#5522dd,#5522dd,1,0.267891876517
 'Viktor Shokin',fr,unknown,#111111,#111111,1,0.267479449704
 'John Rawls',fr,USA,#18e8e8,#18e8e8,1,0.267467446285
 'Leandro De Niro Rodriguez',fr,USA,#18e8e8,#18e8e8,1,0.267046152009
