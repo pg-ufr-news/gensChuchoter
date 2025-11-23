@@ -43,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Shimon Sakaguchi',fr,Japan,#33aa99,#33aa99,1,0.433202265187
-'Duke Henri',fr,Luxemburg,#55dd33,#55dd33,1,0.432985108582
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.432837706574
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.431857863191
@@ -164,6 +163,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'William Friedkin',fr,USA,#18e8e8,#18e8e8,2,0.369946252027
 'Kara Hurst',fr,USA,#18e8e8,#18e8e8,1,0.368475000000
 'Gervonta Davis',fr,USA,#18e8e8,#18e8e8,1,0.368458726253
+'Duke Henri',fr,Luxemburg,#55dd33,#55dd33,1,0.368187357295
 'Jennifer Garner',fr,USA,#18e8e8,#18e8e8,2,0.367533489993
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.366300418412
 'Nicola Peltz',fr,USA,#18e8e8,#18e8e8,1,0.365934249802
