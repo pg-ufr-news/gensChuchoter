@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.490164386838
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
@@ -23,23 +22,24 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.453211973782
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.448880936085
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.448459047891
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
+'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.446271285100
 'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.446021649839
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.445675220023
-'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.445526984055
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.444135244042
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.444012680254
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438101320150
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.436609689426
+'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.436205784871
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.435928683158
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.435261738560
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
-'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.433908974928
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.433606903958
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
@@ -186,9 +186,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.360380811796
 'Dwayne Johnson',fr,USA,#18e8e8,#18e8e8,1,0.359683868229
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.359289809464
 'Sean Hannity',fr,USA,#18e8e8,#18e8e8,1,0.359050741497
 'Emma Stone',fr,USA,#18e8e8,#18e8e8,1,0.358709971492
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.358380023939
 'Lana Del Rey',fr,USA,#18e8e8,#18e8e8,1,0.358138244383
 'Olivia Rodrigo',fr,USA,#18e8e8,#18e8e8,2,0.356980780559
 'Dana White',fr,USA,#18e8e8,#18e8e8,1,0.356671929500
