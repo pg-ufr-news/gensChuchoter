@@ -646,6 +646,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Penny Mordaunt',fr,UK,#e838e8,#e838e8,1,0.257451251031
 'Joey Fatone',fr,unknown,#111111,#111111,1,0.257431835468
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,1,0.256935814183
+'Jair Bolsonaro',fr,Brasilien,#58e838,#58e848,3,0.255491627554
 'Willy Brandt',fr,Deutschland,#1818e8,#1818e8,1,0.254272689006
 'Markus Söder',fr,Deutschland,#1818e8,#1818e8,1,0.253983484564
 'Paul Ronzheimer',fr,Deutschland,#1818e8,#1818e8,2,0.253622557034
@@ -662,7 +663,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodimir Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.245568263927
 'König Charles III',fr,UK,#e838e8,#e838e8,1,0.245515969352
 'Mark Rutte',fr,Niederlande,#ffbb33,#ffbb33,3,0.244773001247
-'Jair Bolsonaro',fr,Brasilien,#58e838,#58e848,3,0.244625073251
 'Jennifer Morgan',fr,unknown,#111111,#111111,1,0.244461787891
 'Prinz Louis',fr,UK,#e838e8,#e838e8,1,0.244329453500
 'Gorbatschow',fr,unknown,#111111,#111111,1,0.244037921875
@@ -684,9 +684,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Habeck',fr,Deutschland,#1818e8,#1818e8,3,0.236752309866
 'Harry Belafonte',fr,USA,#18e8e8,#18e8e8,1,0.236547611411
 'Stephen Hawking',fr,UK,#e838e8,#e838e8,1,0.236015281406
+'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.234520170194
 'Nadja Abd el Farrag',fr,Deutschland,#1818e8,#1818e8,1,0.233825497678
 'Lee Hsien Loong',fr,Singapur,#cc4488,#cc4488,2,0.233609797535
-'Friedrich Merz',fr,Deutschland,#1818e8,#1818e8,3,0.233411297387
 'Immanuel Kant',fr,Deutschland,#1818e8,#1818e8,1,0.233353160215
 'Georg Bätzing',fr,Deutschland,#1818e8,#1818e8,1,0.233197906526
 'Charles Michel',fr,EU,#88cc44,#88cc44,2,0.233118159004
@@ -846,6 +846,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lothar Wieler',fr,Deutschland,#1818e8,#1818e8,1,0.154958652095
 'Andrzej Duda',fr,Polen,#cc8844,#cc8844,2,0.154126752278
 'Bodo Ramelow',fr,Deutschland,#1818e8,#1818e8,1,0.152421686475
+'Lula sa Silva',fr,Brasilien,#58e838,#58e838,2,0.151401118739
 'Ed McVey',fr,UK,#e838e8,#e838e8,1,0.151206026201
 'Julian Reichelt',fr,Deutschland,#1818e8,#1818e8,1,0.150951462242
 'Chelsea Manning',fr,USA,#18e8e8,#18e8e8,1,0.149533277673
@@ -908,7 +909,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erik Marquardt',fr,EU,#88cc44,#88cc44,1,0.099719316358
 'Steffen Große',fr,Deutschland,#1818e8,#1818e8,2,0.099137074521
 'Holger Münch',fr,Deutschland,#1818e8,#1818e8,1,0.099013491484
-'Lula sa Silva',fr,Brasilien,#58e838,#58e838,1,0.098643185803
 'Ebrahim Raisi',fr,Iran,#1144ee,#1144ee,1,0.097302725633
 'Nikos Androulakis',fr,Griechenland,#1858e8,#1858e8,1,0.096520503910
 'Andreas Jödecke',fr,Deutschland,#1818e8,#1818e8,1,0.095208799950
