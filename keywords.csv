@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.489507442572
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.490164386838
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
@@ -10,16 +10,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.473007967992
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.465680020384
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.464488009114
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.465194802935
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
-'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.463130120595
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,3,0.462971988087
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.462671613497
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.460240306905
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.459873809228
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.456852024411
-'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456041277336
+'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.454757225617
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.453211973782
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.445526984055
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.444135244042
+'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.444012680254
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438101320150
 'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.436609689426
@@ -41,9 +41,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.433908974928
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.433606903958
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Shimon Sakaguchi',fr,Japan,#33aa99,#33aa99,1,0.433202265187
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.432837706574
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.431857863191
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.431580507103
