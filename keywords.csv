@@ -215,9 +215,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mindy Kaling',fr,USA,#18e8e8,#18e8e8,1,0.349084638957
 'Gérard Larcher',fr,Frankreich,#e8e808,#e8e808,2,0.348767387982
 'Alex Jones',fr,USA,#18e8e8,#18e8e8,1,0.348594402270
+'Jennifer Lopez',fr,USA,#18e8e8,#18e8e8,1,0.348270660295
 'James Biden',fr,USA,#18e8e8,#18e8e8,1,0.347942878043
 'Nina Gummich',fr,Deutschland,#1818e8,#1818e8,1,0.347740326541
-'Jennifer Lopez',fr,USA,#18e8e8,#18e8e8,1,0.347341118506
 'prince Harry',fr,UK,#e838e8,#e838e8,2,0.347243686381
 'Ron Johnson',fr,USA,#18e8e8,#18e8e8,1,0.346868482424
 'Jack Smith',fr,USA,#18e8e8,#18e8e8,2,0.346717275903
@@ -250,18 +250,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cem Özdemir',fr,Deutschland,#1818e8,#1818e8,2,0.337891482838
 'Eric Adams',fr,USA,#18e8e8,#18e8e8,2,0.337749361230
 'Mark Cuban',fr,USA,#18e8e8,#18e8e8,2,0.337739659438
-'Ben Affleck',fr,USA,#18e8e8,#18e8e8,1,0.337413689353
 'Lewis Kaplan',fr,USA,#18e8e8,#18e8e8,2,0.337356182623
 'Jean-Denis Combrexelle',fr,Frankreich,#e8e808,#e8e808,1,0.337260877638
+'Lady Di',fr,UK,#e838e8,#e838e8,1,0.337047602231
 'Ayo Edebiri',fr,USA,#18e8e8,#18e8e8,1,0.337019660563
-'Lady Di',fr,UK,#e838e8,#e838e8,1,0.336098300500
 'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.336089402777
 'Ron DeSantis',fr,USA,#18e8e8,#18e8e8,3,0.335952659678
 'Markus Lanz',fr,Deutschland,#1818e8,#1818e8,1,0.335897419045
+'Britney Spears',fr,USA,#18e8e8,#18e8e8,2,0.335812746687
 'Sam H',fr,unknown,#111111,#111111,2,0.335716503982
 'Lula da Silva',fr,Brasilien,#58e838,#58e848,2,0.335608084458
 'nan nan',fr,unknown,#dddddd,#dddddd,1,0.335411768553
-'Britney Spears',fr,USA,#18e8e8,#18e8e8,2,0.334861294157
 'Jamie Spears',fr,USA,#18e8e8,#18e8e8,1,0.334801467071
 'Robert Francis Prevost',fr,USA,#18e8e8,#18e8e8,1,0.334598646317
 'Gigi Hadid',fr,USA,#18e8e8,#18e8e8,1,0.334464210080
@@ -322,6 +321,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',fr,USA,#18e8e8,#18e8e8,1,0.325216085457
 'Francis Ford Coppola',fr,USA,#18e8e8,#18e8e8,1,0.325199096927
 'Ben Wallace',fr,USA,#18e8e8,#18e8e8,1,0.325126701091
+'Ben Affleck',fr,USA,#18e8e8,#18e8e8,1,0.324901695950
 'Harrison Ford',fr,USA,#18e8e8,#18e8e8,1,0.323854374579
 'Sam Bankman-Fried',fr,USA,#18e8e8,#18e8e8,1,0.323721363813
 'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.323374070355
