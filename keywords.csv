@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,2,0.606610748933
+'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.625118311139
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.588751899775
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.506807552207
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.504546455068
@@ -27,14 +27,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.453211973782
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.448880936085
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.449618626555
+'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.448595479845
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.448459047891
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.446271285100
 'John Martinis',fr,USA,#18e8e8,#18e8e8,2,0.446021649839
 'Zohran Mamdani',fr,USA,#18e8e8,#18e8e8,2,0.445675220023
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
-'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.444135244042
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.444012680254
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438101320150
@@ -58,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.430712542696
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.430676866032
+'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.430497208343
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,3,0.430353257073
 'Cheryl Hines',fr,USA,#18e8e8,#18e8e8,1,0.430102223360
 'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.429967640349
@@ -67,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.429049546072
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.428815403625
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
-'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.428166823254
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
 'Lil Yachty',fr,USA,#18e8e8,#18e8e8,1,0.427859306015
 'Francesca Albanese',fr,Italien,#33dd55,#33dd55,2,0.427463404751
