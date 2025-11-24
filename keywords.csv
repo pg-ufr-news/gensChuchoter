@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,2,0.636250287441
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.588751899775
+'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.554857403416
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.506807552207
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.504546455068
 'Tom Aspinall',fr,UK,#e838e8,#e838e8,2,0.504008556392
@@ -23,8 +23,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.459873809228
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.456852024411
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.456192625344
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.454757225617
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.454741837302
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.453211973782
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
