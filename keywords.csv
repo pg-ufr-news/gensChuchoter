@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.625118311139
+'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.618122466286
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.588751899775
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.506807552207
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.504546455068
@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.478081286360
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.473007967992
+'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.465900193007
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.465680020384
-'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.465194802935
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,3,0.462971988087
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.462671613497
@@ -44,21 +44,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.435261738560
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
+'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.434374597763
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
-'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.433606903958
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Shimon Sakaguchi',fr,Japan,#33aa99,#33aa99,1,0.433202265187
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.431857863191
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.431580507103
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.431496523472
+'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.431270976002
 'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.431153903620
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.430821933322
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.430712542696
 'Mark Carney',fr,Kanada,#55ee33,#55ee33,3,0.430676866032
-'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.430497208343
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,3,0.430353257073
 'Cheryl Hines',fr,USA,#18e8e8,#18e8e8,1,0.430102223360
 'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.429967640349
@@ -736,9 +736,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,1,0.215102865522
 'Herbert Diess',fr,Deutschland,#1818e8,#1818e8,1,0.214900351293
 'John Kerry',fr,USA,#18e8e8,#18e8e8,2,0.214092510366
+'Frank-Walter Steinmeier',fr,Deutschland,#1818e8,#1818e8,3,0.213433071703
 'Tamim bin Hamad Al Thani',fr,Katar,#33ffbb,#33ffbb,2,0.212958869968
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,2,0.212387524751
-'Frank-Walter Steinmeier',fr,Deutschland,#1818e8,#1818e8,3,0.211159434524
 'Bill Gates',fr,USA,#18e8e8,#18e8e8,3,0.211137887292
 'Rafael Grossi',fr,UN,#e888e8,#e888e8,1,0.209500071238
 'Mukesh Ambani',fr,Indien,#995533,#995533,2,0.208911164236
