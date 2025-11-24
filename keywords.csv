@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.618122466286
+'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.648539649525
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.588751899775
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.506807552207
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.504546455068
@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
 'Lecornu II ',fr,Frankreich,#e8e808,#e8e808,3,0.462971988087
 'Boris Vallaud',fr,Frankreich,#e8e808,#e8e808,3,0.462671613497
+'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.460955529494
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
-'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.460240306905
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.459873809228
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.456852024411
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
@@ -27,8 +27,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.453211973782
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.449618626555
-'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.448595479845
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.450354861525
+'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.449333733390
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.448459047891
 'Sergio Mattarella',fr,Italien,#33dd55,#33dd55,2,0.447946641298
 'Gérald Darmanin',fr,Frankreich,#e8e808,#e8e808,3,0.446271285100
@@ -47,13 +47,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.434374597763
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
+'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.433583226840
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Shimon Sakaguchi',fr,Japan,#33aa99,#33aa99,1,0.433202265187
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.431857863191
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.431580507103
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.431496523472
-'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.431270976002
 'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.431153903620
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.430821933322
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
