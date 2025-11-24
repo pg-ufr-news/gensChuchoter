@@ -200,6 +200,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cruz Beckham',fr,Spanien,#33aa99,#33aa99,1,0.354013561220
 'Joe Jonas',fr,USA,#18e8e8,#18e8e8,2,0.353613284317
 'Lara Trump',fr,USA,#18e8e8,#18e8e8,1,0.353191114947
+'Vivek Ramaswamy',fr,USA,#18e8e8,#18e8e8,2,0.352384338715
 'David Weiss',fr,Deutschland,#1818e8,#1818e8,2,0.350691424977
 'Roger Corman',fr,USA,#18e8e8,#18e8e8,2,0.350473882120
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,1,0.350267610134
@@ -309,7 +310,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerry Seinfeld',fr,USA,#18e8e8,#18e8e8,2,0.326412631438
 'Bill Belichick',fr,USA,#18e8e8,#18e8e8,1,0.326301033855
 'Elisabeth Borne',fr,Frankreich,#e8e808,#e8e808,1,0.326207024131
-'Vivek Ramaswamy',fr,USA,#18e8e8,#18e8e8,1,0.325981539665
 'Tim Cook',fr,USA,#18e8e8,#18e8e8,3,0.325778466156
 'Billy Crystal',fr,USA,#18e8e8,#18e8e8,1,0.325544548215
 'Geoffrey Hinton',fr,UK,#e838e8,#e838e8,3,0.325515172522
