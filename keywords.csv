@@ -1,4 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Boualem Sansal',fr,unknown,#111111,#111111,2,0.606610748933
+'Erika Kirk',fr,unknown,#111111,#111111,2,0.506807552207
+'Virginia Giuffre',fr,unknown,#111111,#111111,2,0.504546455068
+'Tom Aspinall',fr,unknown,#111111,#111111,2,0.504008556392
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
@@ -231,7 +235,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.343925006177
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
-'Verena Hubertz',fr,Deutschland,#335599,#335599,1,0.342584468290
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.341717538554
 'Antonio Brown',fr,USA,#18e8e8,#18e8e8,1,0.341161406835
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341023691005
@@ -534,6 +537,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',fr,unknown,#111111,#111111,1,0.292718918683
 'Marie Trintignant',fr,unknown,#111111,#111111,2,0.292478376088
 'Kemal Kılıçdaroğlu',fr,Türkei,#66bb22,#66bb22,1,0.291985758886
+'Verena Hubertz',fr,Deutschland,#335599,#335599,1,0.291196798047
 'Erich Honecker',fr,Deutschland,#1818e8,#1818e8,1,0.290665722305
 'Heidi Klum',fr,unknown,#111111,#111111,1,0.290506025371
 'Colin Farrell',fr,unknown,#111111,#111111,2,0.290107691114
