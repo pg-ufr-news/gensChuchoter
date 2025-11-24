@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boualem Sansal',fr,unknown,#111111,#111111,2,0.606610748933
-'Benyamin Netanyahou',fr,unknown,#111111,#111111,2,0.588751899775
-'Erika Kirk',fr,unknown,#111111,#111111,2,0.506807552207
-'Virginia Giuffre',fr,unknown,#111111,#111111,2,0.504546455068
-'Tom Aspinall',fr,unknown,#111111,#111111,2,0.504008556392
+'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,2,0.606610748933
+'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.588751899775
+'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.506807552207
+'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.504546455068
+'Tom Aspinall',fr,UK,#e838e8,#e838e8,2,0.504008556392
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
