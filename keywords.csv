@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.635749937096
+'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.636250287441
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,2,0.588751899775
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.506807552207
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.504546455068
@@ -24,9 +24,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.456852024411
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.454757225617
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.454741837302
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.453211973782
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.451822974329
 'Richard Robson',fr,Australien,#aa9933,#aa9933,1,0.450946694000
 'Laurent Nuñez',fr,Frankreich,#e8e808,#e8e808,3,0.449333733390
 'Andrew Cuomo',fr,USA,#18e8e8,#18e8e8,3,0.448459047891
@@ -37,17 +37,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bad Bunny',fr,PuertoRico,#18a567,#18a567,1,0.444683249054
 'Pierre Farandou',fr,Frankreich,#e8e808,#e8e808,3,0.444066782960
 'Michel Devoret',fr,Frankreich,#e8e808,#e8e808,2,0.444012680254
+'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.438131830500
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438101320150
-'Nicolas Sarkozy',fr,Frankreich,#e8e808,#e8e808,3,0.437371506349
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.436205784871
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.435928683158
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.435261738560
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.434374597763
+'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.434350966939
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
-'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.433583226840
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
 'Shimon Sakaguchi',fr,Japan,#33aa99,#33aa99,1,0.433202265187
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
@@ -62,10 +62,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Kennedy',fr,USA,#18e8e8,#18e8e8,3,0.430353257073
 'Cheryl Hines',fr,USA,#18e8e8,#18e8e8,1,0.430102223360
 'Callum Turner',fr,UK,#e838e8,#e838e8,2,0.429967640349
+'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.429826136887
 'Yaël Braun-Pivet',fr,Frankreich,#e8e808,#e8e808,3,0.429691390517
 'Robert de Niro',fr,USA,#18e8e8,#18e8e8,3,0.429215236293
 'Whoopi Goldberg',fr,USA,#18e8e8,#18e8e8,1,0.429119676187
-'président de la République',fr,Frankreich,#e8e808,#e8e808,3,0.429049546072
 'Hillary Clinton',fr,USA,#18e8e8,#18e8e8,3,0.428815403625
 'Christian Dürr',fr,Deutschland,#335599,#335599,1,0.428593246867
 'Paul Konerko',fr,USA,#18e8e8,#18e8e8,1,0.427902059977
