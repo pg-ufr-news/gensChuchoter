@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.554857403416
 'Benyamin Netanyahou',fr,Israel,#3311cc,#3311cc,3,0.543378903698
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.506807552207
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.504546455068
 'Tom Aspinall',fr,UK,#e838e8,#e838e8,2,0.504008556392
+'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.485673676995
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
@@ -43,9 +43,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.435928683158
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.435261738560
+'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.435117205570
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.434374597763
-'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.434350966939
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
 'RFK Jr',fr,USA,#18e8e8,#18e8e8,1,0.433842013072
 'Peter Howitt',fr,USA,#18e8e8,#18e8e8,1,0.433306936263
