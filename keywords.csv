@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.494223511970
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.485673676995
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Dobrindt',fr,Deutschland,#335599,#335599,1,0.422011114581
 'Hailey Bieber',fr,USA,#18e8e8,#18e8e8,1,0.421345566371
 'Brad Pitt',fr,USA,#18e8e8,#18e8e8,3,0.421254713532
+'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.420390015174
 'Marco Rubio',fr,USA,#18e8e8,#18e8e8,3,0.419634592786
 'Katherina Reiche',fr,Deutschland,#335599,#335599,2,0.417351196439
 'JD Vance',fr,USA,#18e8e8,#18e8e8,3,0.416949630235
