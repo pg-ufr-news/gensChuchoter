@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Aghion',fr,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Munther Amira',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Khaled al Serr',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
-'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.425000000000
 'Iyad al-Rantisi',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'Adnan al-Burj',fr,Palestina,#ee4488,#ee4488,1,0.425000000000
 'David Beckham',fr,UK,#e838e8,#e838e8,2,0.424760457727
@@ -189,6 +188,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar M. Yaghi',fr,USA,#18e8e8,#18e8e8,1,0.362652655250
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.362009310048
 'George Santos',fr,USA,#18e8e8,#18e8e8,2,0.361764971186
+'Justus Haucap',fr,Deutschland,#335599,#335599,1,0.361250000000
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.360380811796
 'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.360078346392
