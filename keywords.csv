@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,1,0.573365206808
+'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.545236937238
 'Tom Aspinall',fr,UK,#e838e8,#e838e8,2,0.504008556392
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.494223511970
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.485673676995
@@ -187,10 +187,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',fr,UK,#e838e8,#e838e8,1,0.363735105123
 'Suleika Jaouad',fr,USA,#18e8e8,#18e8e8,1,0.362871379895
 'Omar M. Yaghi',fr,USA,#18e8e8,#18e8e8,1,0.362652655250
+'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.362009310048
 'George Santos',fr,USA,#18e8e8,#18e8e8,2,0.361764971186
-'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.361104451745
 'LeBron James',fr,USA,#18e8e8,#18e8e8,2,0.360570501986
 'Abraham Lincoln',fr,USA,#18e8e8,#18e8e8,1,0.360380811796
+'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.360078346392
 'Dwayne Johnson',fr,USA,#18e8e8,#18e8e8,1,0.359683868229
 'Sean Hannity',fr,USA,#18e8e8,#18e8e8,1,0.359050741497
 'Emma Stone',fr,USA,#18e8e8,#18e8e8,1,0.358709971492
@@ -201,13 +202,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Cameron',fr,UK,#e838e8,#e838e8,2,0.356422680523
 'Leo XIV',fr,Vatikan,#dd5544,#dd5544,1,0.355379973169
 'Stefan Aust',fr,Deutschland,#1818e8,#1818e8,1,0.355049533050
-'Jeffrey Epstein',fr,USA,#18e8e8,#18e8e8,2,0.354603529615
 'Chris Hemsworth',fr,Australien,#aa9933,#aa9933,1,0.354039349134
 'Cruz Beckham',fr,Spanien,#33aa99,#33aa99,1,0.354013561220
 'Joe Jonas',fr,USA,#18e8e8,#18e8e8,2,0.353613284317
 'Lara Trump',fr,USA,#18e8e8,#18e8e8,1,0.353191114947
 'Vivek Ramaswamy',fr,USA,#18e8e8,#18e8e8,2,0.352384338715
 'David Weiss',fr,Deutschland,#1818e8,#1818e8,2,0.350691424977
+'Charles III',fr,UK,#e838e8,#e838e8,3,0.350477063589
 'Roger Corman',fr,USA,#18e8e8,#18e8e8,2,0.350473882120
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,1,0.350267610134
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.350095320951
@@ -237,7 +238,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophie Turner',fr,UK,#e838e8,#e838e8,2,0.343925232039
 'Richard Ferrand',fr,Frankreich,#e8e808,#e8e808,1,0.343925006177
 'Vo Van Thuong',fr,Vietnam,#117644,#117644,1,0.343470111841
-'Charles III',fr,UK,#e838e8,#e838e8,3,0.343025939776
 'Charlize Theron',fr,Südafrika,#ee4411,#ee4411,1,0.341717538554
 'Antonio Brown',fr,USA,#18e8e8,#18e8e8,1,0.341161406835
 'Gavin Newsom',fr,USA,#18e8e8,#18e8e8,2,0.341023691005
@@ -579,12 +579,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Sesselmann',fr,Deutschland,#1818e8,#1818e8,1,0.282032648609
 'Lance Bass',fr,unknown,#111111,#111111,1,0.281267684084
 'Kim Reynolds',fr,unknown,#111111,#111111,1,0.280630958368
+'Queen Elizabeth II',fr,UK,#e838e8,#e838e8,1,0.280459032335
 'Cillian Murphy',fr,Irland,#4488cc,#4488cc,3,0.280359390999
 'Lars Klingbeil',fr,Deutschland,#1818e8,#1818e8,1,0.280013292536
 'Yevgeny Prigozhin',fr,Russland,#e81818,#e81818,1,0.278712704778
 'Tyson Fury',fr,unknown,#111111,#111111,1,0.278641016022
 'Pat McAfee',fr,USA,#18e8e8,#18e8e8,1,0.278613938947
-'Queen Elizabeth II',fr,UK,#e838e8,#e838e8,1,0.278372403042
 'Martin Scorsese',fr,USA,#18e8e8,#18e8e8,2,0.277759513537
 'Jackson Hole',fr,unknown,#111111,#111111,1,0.277670329302
 'Jonathan Turley',fr,unknown,#111111,#111111,1,0.277351200977
