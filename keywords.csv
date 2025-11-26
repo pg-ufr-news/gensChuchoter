@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.545236937238
 'Tom Aspinall',fr,UK,#e838e8,#e838e8,2,0.504008556392
 'Erika Kirk',fr,USA,#18e8e8,#18e8e8,2,0.494223511970
 'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.485673676995
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.478081286360
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.473007967992
+'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.472952101652
 'Sébastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.466604181781
 'Vladimir Poutine',fr,Russland,#e81818,#e81818,3,0.465680020384
 'Sanae Takaichi',fr,Japan,#33aa99,#33aa99,3,0.463505059522
@@ -207,8 +207,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Jonas',fr,USA,#18e8e8,#18e8e8,2,0.353613284317
 'Lara Trump',fr,USA,#18e8e8,#18e8e8,1,0.353191114947
 'Vivek Ramaswamy',fr,USA,#18e8e8,#18e8e8,2,0.352384338715
+'Charles III',fr,UK,#e838e8,#e838e8,3,0.351401027697
 'David Weiss',fr,Deutschland,#1818e8,#1818e8,2,0.350691424977
-'Charles III',fr,UK,#e838e8,#e838e8,3,0.350477063589
 'Roger Corman',fr,USA,#18e8e8,#18e8e8,2,0.350473882120
 'Karsten Wildberger',fr,Deutschland,#335599,#335599,1,0.350267610134
 'Karim Benzema',fr,Frankreich,#e8e808,#e8e808,3,0.350095320951
