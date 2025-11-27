@@ -218,7 +218,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophia Chikirou',fr,Frankreich,#e8e808,#e8e808,2,0.349421964373
 'Jordan Bardella',fr,Frankreich,#e8e808,#e8e808,3,0.349303430729
 'Castel Gandolfo',fr,Vatikan,#dd5544,#dd5544,1,0.349118148779
-'Aubrey Plaza',fr,USA,#111111,#111111,1,0.349105150271
+'Aubrey Plaza',fr,USA,#18e8e8,#18e8e8,1,0.349105150271
 'Amber Heard',fr,USA,#18e8e8,#18e8e8,2,0.349093482138
 'Mindy Kaling',fr,USA,#18e8e8,#18e8e8,1,0.349084638957
 'Gérard Larcher',fr,Frankreich,#e8e808,#e8e808,2,0.348767387982
@@ -367,16 +367,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamilla Cardoso',fr,Brasilien,#58e838,#58e838,1,0.316074211806
 'Maya Rudolph',fr,USA,#18e8e8,#18e8e8,1,0.316067632073
 'Andrew Tate',fr,USA,#18e8e8,#18e8e8,2,0.315783238111
-'Lawrence Jones',fr,unknown,#111111,#111111,1,0.315379065385
+'Lawrence Jones',fr,USA,#18e8e8,#18e8e8,1,0.315379065385
 'Camille Etienne',fr,Frankreich,#e8e808,#e8e808,2,0.314570223459
-'Christian Günther',fr,unknown,#111111,#111111,1,0.314442217584
+'Christian Günther',fr,Deutschland,#1818e8,#1818e8,1,0.314442217584
 'Drena De Niro',fr,USA,#18e8e8,#18e8e8,1,0.314372433849
-'Luc Terlinden',fr,unknown,#111111,#111111,1,0.314233748835
+'Luc Terlinden',fr,Belgien,#2266bb,#2266bb,1,0.314233748835
 'Christopher Nolan',fr,USA,#18e8e8,#18e8e8,1,0.314207165340
 'Stockton Rush',fr,USA,#18e8e8,#18e8e8,1,0.313923650584
-'Robin Roberts',fr,unknown,#111111,#111111,1,0.313278569349
-'Vinod Khosla',fr,unknown,#111111,#111111,1,0.313203750000
-'Ulrike Hermann',fr,unknown,#111111,#111111,1,0.313203750000
+'Robin Roberts',fr,USA,#18e8e8,#18e8e8,1,0.313278569349
+'Vinod Khosla',fr,Indien,#995533,#995533,1,0.313203750000
+'Ulrike Hermann',fr,Deutschland,#1818e8,#1818e8,1,0.313203750000
 'Tulsin Gabbard',fr,USA,#18e8e8,#18e8e8,1,0.313203750000
 'Ralf Dieter',fr,Deutschland,#1818e8,#1818e8,1,0.313203750000
 'Melanie Guttmann',fr,unknown,#111111,#111111,1,0.313203750000
