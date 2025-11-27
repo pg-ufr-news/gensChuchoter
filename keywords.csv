@@ -648,7 +648,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Floyd',fr,USA,#18e8e8,#18e8e8,1,0.259097204784
 'Lily Gladstone',fr,unknown,#111111,#111111,1,0.258413900071
 'Noam Chomsky',fr,USA,#18e8e8,#18e8e8,1,0.257656035471
-'Penny Mordaunt',fr,UK,#e838e8,#e838e8,1,0.257451251031
 'Joey Fatone',fr,unknown,#111111,#111111,1,0.257431835468
 'Alvin Bragg',fr,USA,#18e8e8,#18e8e8,1,0.256935814183
 'Jair Bolsonaro',fr,Brasilien,#58e838,#58e848,3,0.255491627554
@@ -726,6 +725,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kilicdaroglu',fr,Türkei,#66bb22,#66bb22,1,0.221791217636
 'Amin Nasser',fr,SaudiArabien,#22bb66,#22bb66,2,0.220430336016
 'Nancy Faeser',fr,Deutschland,#1818e8,#1818e8,3,0.219091180109
+'Penny Mordaunt',fr,UK,#e838e8,#e838e8,1,0.218833563376
 'Barbara Sturm',fr,Deutschland,#1818e8,#1818e8,1,0.218171120851
 'Michael Kahle',fr,Deutschland,#1818e8,#1818e8,1,0.217415603125
 'Jens Stoltenberg',fr,Norwegen,#e818e8,#e818e8,2,0.216929738462
