@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
 'Jean Castex',fr,Frankreich,#e8e808,#e8e808,2,0.479877321468
 'reine Mathilde',fr,unknown,#111111,#111111,2,0.479755892217
-'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.478761030532
+'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,2,0.478121857486
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.475759142292
@@ -331,7 +331,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Richie',fr,USA,#18e8e8,#18e8e8,2,0.323374070355
 'Lionel Messi',fr,Argentinien,#6622bb,#6622bb,2,0.323368199347
 'Lauren Sanchez',fr,USA,#18e8e8,#18e8e8,1,0.323224594648
-'Martin Luther King',fr,USA,#18e8e8,#18e8e8,2,0.323074196467
 'Mohammed Bin Salman',fr,SaudiArabien,#22bb66,#22bb66,1,0.322733071857
 'Paul-Henry Nargeolet',fr,Frankreich,#e8e808,#e8e808,1,0.322587885875
 'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,1,0.322308037185
@@ -440,6 +439,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',fr,USA,#18e8e8,#18e8e8,1,0.308643624735
 'King Charles',fr,UK,#e838e8,#e838e8,2,0.308586553706
 'Julian Edelman',fr,unknown,#111111,#111111,1,0.308398878303
+'Martin Luther King',fr,USA,#18e8e8,#18e8e8,2,0.308363441997
 'Angelina Jolie',fr,unknown,#111111,#111111,1,0.308289657471
 'Alyssa Farah Griffin',fr,unknown,#111111,#111111,1,0.308117388217
 'Salvador Dali',fr,Spanien,#33aa99,#33aa99,1,0.308090113587
