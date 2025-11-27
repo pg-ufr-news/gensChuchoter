@@ -274,7 +274,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helmut Kohl',fr,Deutschland,#1818e8,#1818e8,1,0.334236744520
 'Olivier Dussopt',fr,Frankreich,#e8e808,#e8e808,2,0.334028228943
 'Willem Dafoe',fr,USA,#18e8e8,#18e8e8,1,0.333452193872
-'Andrea Arnold',fr,UK,#e838e8,#e838e8,1,0.333261501616
 'Rosa Parks',fr,USA,#18e8e8,#18e8e8,2,0.333228146274
 'Ainsley Earhardt',fr,USA,#18e8e8,#18e8e8,1,0.333173990747
 'Jeanne du Barry',fr,Frankreich,#e8e808,#e8e808,1,0.333041910035
@@ -572,6 +571,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Ellison',fr,USA,#18e8e8,#18e8e8,2,0.284216097670
 'Vanessa Nakate',fr,unknown,#111111,#111111,1,0.283487885073
 'Georg Gänswein',fr,Deutschland,#1818e8,#1818e8,1,0.283465305781
+'Andrea Arnold',fr,UK,#e838e8,#e838e8,1,0.283422291374
 'Chip Somodevilla',fr,USA,#18e8e8,#18e8e8,2,0.282916789799
 'Albert Einstein',fr,Deutschland,#1818e8,#1818e8,2,0.282413215257
 'Eva Green',fr,unknown,#111111,#111111,1,0.282265534324
