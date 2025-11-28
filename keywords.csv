@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.460955529494
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.459873809228
-'Tom Aspinall',fr,UK,#e838e8,#e838e8,2,0.457160304815
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.456852024411
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
 'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.456192625344
@@ -138,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matteo Salvini',fr,Italien,#33dd55,#33dd55,3,0.391121349031
 'Bernie Sanders',fr,USA,#18e8e8,#18e8e8,1,0.390605511533
 'Bärbel Bas',fr,Deutschland,#335599,#335599,1,0.390052427513
+'Tom Aspinall',fr,UK,#e838e8,#e838e8,1,0.388586259093
 'Keith Kellogg',fr,USA,#18e8e8,#18e8e8,2,0.388230512313
 'Cristiano Ronaldo',fr,Portugal,#339933,#339933,3,0.387963606956
 'Bradley Cooper',fr,USA,#18e8e8,#18e8e8,2,0.385555413628
