@@ -51,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susumu Kitagawa',fr,Japan,#33aa99,#33aa99,1,0.432776572270
 'Charlie Kirk',fr,USA,#18e8e8,#18e8e8,3,0.432352160316
 'Yves Bournazel',fr,Frankreich,#e8e808,#e8e808,2,0.431496523472
-'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.431153903620
 'James Gunn',fr,USA,#18e8e8,#18e8e8,2,0.430821933322
 'Omar Yaghi',fr,Jordanien,#335588,#335588,2,0.430819754240
 'Justin Bieber',fr,Kanada,#55ee33,#55ee33,2,0.430712542696
@@ -169,6 +168,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Garner',fr,USA,#18e8e8,#18e8e8,2,0.367533489993
 'Donald Trump',fr,USA,#18e8e8,#18e8e8,3,0.367404032587
 'Olivia Nuzzi',fr,USA,#18e8e8,#18e8e8,1,0.367079183712
+'Jon Jones',fr,USA,#18e8e8,#18e8e8,1,0.366930863077
 'Sarah Stier',fr,unknown,#111111,#111111,1,0.366300418412
 'Nicola Peltz',fr,USA,#18e8e8,#18e8e8,1,0.365934249802
 'Brooklyn Beckham',fr,UK,#e838e8,#e838e8,2,0.365914573202
