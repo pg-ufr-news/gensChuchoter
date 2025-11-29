@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.485673676995
 'Anne Hathaway',fr,USA,#18e8e8,#18e8e8,2,0.483983241117
 'Maria Corina Machado',fr,Venezuela,#aa3399,#aa3399,3,0.483860818917
 'Philippe Aghion',fr,Frankreich,#e8e808,#e8e808,2,0.481525009443
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',fr,USA,#18e8e8,#18e8e8,2,0.479439419594
 'Lecornu II',fr,Frankreich,#e8e808,#e8e808,2,0.478121857486
 'Tucker Carlson',fr,USA,#18e8e8,#18e8e8,3,0.477146759281
+'Boualem Sansal',fr,Algerien,#f43a7f,#f43a7f,3,0.476867734537
 'Elon Musk',fr,USA,#18e8e8,#18e8e8,3,0.475759142292
 'Joel Mokyr',fr,USA,#18e8e8,#18e8e8,2,0.474083779155
 'Virginia Giuffre',fr,USA,#18e8e8,#18e8e8,2,0.472952101652
@@ -19,9 +19,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Faure',fr,Frankreich,#e8e808,#e8e808,3,0.460955529494
 'Thorsten Frei',fr,Deutschland,#335599,#335599,2,0.460871259250
 'Sebastien Lecornu',fr,Frankreich,#e8e808,#e8e808,3,0.459873809228
+'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.456915866833
 'JULIEN MUGUET',fr,Frankreich,#e8e808,#e8e808,3,0.456852024411
 'Michel Barnier',fr,Frankreich,#e8e808,#e8e808,3,0.456764818400
-'Emmanuel Macron',fr,Frankreich,#e8e808,#e8e808,3,0.456192625344
 'John Clarke',fr,USA,#18e8e8,#18e8e8,3,0.454757225617
 'Mary E. Brunkow',fr,USA,#18e8e8,#18e8e8,3,0.453720094772
 'Gabriel Attal',fr,Frankreich,#e8e808,#e8e808,3,0.453211973782
@@ -39,9 +39,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rachida Dati',fr,Frankreich,#e8e808,#e8e808,3,0.438101320150
 'Volodymyr Zelensky',fr,Ukraine,#e818e8,#e818e8,3,0.437729507088
 'François Bayrou',fr,Frankreich,#e8e808,#e8e808,3,0.435928683158
+'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.435881944919
 'Fred Ramsdel',fr,USA,#18e8e8,#18e8e8,1,0.435844606955
 'Kendrick Lamar',fr,USA,#18e8e8,#18e8e8,1,0.435261738560
-'Bruno Retailleau',fr,Frankreich,#e8e808,#e8e808,3,0.435117205570
 'Gerald Darmanin',fr,Frankreich,#e8e808,#e8e808,2,0.434467599199
 'Marine Le Pen',fr,Frankreich,#e8e808,#e8e808,3,0.434374597763
 'Bezalel Smotrich',fr,Israel,#3311cc,#3311cc,3,0.433975359068
@@ -733,9 +733,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rainer Maria Woelki',fr,Deutschland,#1818e8,#1818e8,1,0.216651872609
 'Derek Chauvin',fr,unknown,#111111,#111111,1,0.216381897404
 'Recep Tayyip Erdoğan',fr,Türkei,#66bb22,#66bb22,2,0.216266069377
+'Frank-Walter Steinmeier',fr,Deutschland,#1818e8,#1818e8,3,0.215701064653
 'Adolf Hitler',fr,Deutschland,#1818e8,#1818e8,1,0.215102865522
 'Herbert Diess',fr,Deutschland,#1818e8,#1818e8,1,0.214900351293
-'Frank-Walter Steinmeier',fr,Deutschland,#1818e8,#1818e8,3,0.214567775997
 'John Kerry',fr,USA,#18e8e8,#18e8e8,2,0.214092510366
 'Tamim bin Hamad Al Thani',fr,Katar,#33ffbb,#33ffbb,2,0.212958869968
 'Michael Sandel',fr,USA,#18e8e8,#18e8e8,2,0.212387524751
