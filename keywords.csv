@@ -812,7 +812,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodymyr Selenski',fr,Ukraine,#e818e8,#e818e8,1,0.176280755108
 'David Malpass',fr,USA,#18e8e8,#18e8e8,1,0.175753767218
 'Fidel Castro',fr,Kuba,#dd33aa,#dd33aa,1,0.173605992460
-'Silvio Berlusconi',fr,Italien,#33dd55,#33dd55,3,0.173222087692
 'Sahra Wagenknecht',fr,Deutschland,#1818e8,#1818e8,3,0.173142414839
 'Sundar Pichai',fr,USA,#18e8e8,#18e8e8,2,0.172355936295
 'Aleksandar Vucic',fr,Serbien,#8844cc,#8844cc,2,0.172105204542
@@ -856,6 +855,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Reichelt',fr,Deutschland,#1818e8,#1818e8,1,0.150951462242
 'Chelsea Manning',fr,USA,#18e8e8,#18e8e8,1,0.149533277673
 'Nicola Beer',fr,EU,#88cc44,#88cc44,1,0.147252041960
+'Silvio Berlusconi',fr,Italien,#33dd55,#33dd55,2,0.147238879538
 'Yoon Suk-yeol',fr,SüdKorea,#bbff33,#bbff33,3,0.145481018944
 'Thierry Breton',fr,EU,#88cc44,#88cc44,1,0.145119911248
 'Julian Assange',fr,Australien,#aa9933,#aa9933,1,0.141669334904
