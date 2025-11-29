@@ -126,7 +126,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emily Blunt',fr,UK,#e838e8,#e838e8,3,0.400191621811
 'James Comey',fr,USA,#18e8e8,#18e8e8,3,0.399633983157
 'Kim Jong Un',fr,NordKorea,#e85858,#e85858,3,0.398576518041
-'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.398287768375
 'Éric Ciotti',fr,Frankreich,#e8e808,#e8e808,3,0.398063646122
 "'Dwayne ""The Rock"" Johnson'",fr,USA,#18e8e8,#18e8e8,2,0.397800998044
 'Victoria Beckham',fr,UK,#e838e8,#e838e8,1,0.397088725583
@@ -249,6 +248,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',fr,USA,#18e8e8,#18e8e8,1,0.338932393278
 'Paris Hilton',fr,USA,#18e8e8,#18e8e8,1,0.338903130797
 'Lady Gaga',fr,USA,#18e8e8,#18e8e8,1,0.338843748923
+'Ferdinand Dudenhöffer',fr,Deutschland,#1818e8,#1818e8,1,0.338544603119
 'Mary Robinson',fr,Irland,#4488cc,#4488cc,1,0.338457348850
 'nan Si',fr,unknown,#111111,#111111,1,0.338439211509
 'Travis Kelce',fr,USA,#18e8e8,#18e8e8,2,0.338392547442
