@@ -112,7 +112,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Haley',fr,USA,#18e8e8,#18e8e8,1,0.408667292393
 'Stormy Daniels',fr,USA,#18e8e8,#18e8e8,1,0.408604237086
 'Poutine',fr,Russland,#e81818,#e81818,3,0.408549993695
-'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,2,0.406727195342
 'Robert Prevost',fr,Vatikan,#dd5544,#dd5544,2,0.405430065831
 'Hans-Werner Sinn',fr,Deutschland,#1818e8,#1818e8,1,0.405414638799
 'Jean-Luc Mélenchon',fr,Frankreich,#e8e808,#e8e808,3,0.404749867533
@@ -230,6 +229,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Smith',fr,USA,#18e8e8,#18e8e8,2,0.346717275903
 'Greg Abbott',fr,USA,#18e8e8,#18e8e8,1,0.346074933839
 'Johann Wadephul',fr,Deutschland,#335599,#335599,1,0.346028311124
+'Lachlan Murdoch',fr,UK,#e838e8,#e838e8,1,0.345718116041
 'François Braun',fr,Frankreich,#e8e808,#e8e808,3,0.345467275335
 'Laurent Berger',fr,Frankreich,#e8e808,#e8e808,1,0.345452589291
 'Justin Timberlake',fr,USA,#18e8e8,#18e8e8,2,0.345374834729
