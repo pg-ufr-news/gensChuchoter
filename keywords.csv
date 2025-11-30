@@ -632,7 +632,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brittany Mahomes',fr,unknown,#111111,#111111,1,0.263625796050
 'Kim Jong-un',fr,NordKorea,#e85858,#e85858,3,0.263338643521
 'Aleksandar Vučić',fr,Serbien,#8844cc,#8844cc,2,0.263133522331
-'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.262960311724
 'Jake Gyllenhaal',fr,unknown,#111111,#111111,1,0.262419350979
 'Jason Whitlock',fr,unknown,#111111,#111111,1,0.261952567552
 'Nikki Glaser',fr,unknown,#111111,#111111,1,0.261854242355
@@ -715,6 +714,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jessica Biel',fr,unknown,#111111,#111111,1,0.224708028676
 'Pippa Middleton',fr,UK,#e838e8,#e838e8,1,0.224269795531
 'Eva Kaili',fr,EU,#88cc44,#88cc44,2,0.224105966235
+'Jens Spahn',fr,Deutschland,#1818e8,#1818e8,2,0.223666279965
 'Michael Walzer',fr,USA,#18e8e8,#18e8e8,1,0.223109522518
 'Péter Szijjártó',fr,Ungarn,#111111,#111111,1,0.222353222879
 'Alice Weidel',fr,Deutschland,#1818e8,#1818e8,3,0.222165820193
