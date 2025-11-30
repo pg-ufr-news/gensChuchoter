@@ -333,7 +333,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',fr,SaudiArabien,#22bb66,#22bb66,1,0.322733071857
 'Paul-Henry Nargeolet',fr,Frankreich,#e8e808,#e8e808,1,0.322587885875
 'Kim Kardashian',fr,USA,#18e8e8,#18e8e8,2,0.322547572665
-'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,1,0.322308037185
 'Sam Asghari',fr,Iran,#1144ee,#1144ee,1,0.322114972836
 'Tony Bennett',fr,USA,#18e8e8,#18e8e8,1,0.322005179712
 'Cara Delevingne',fr,UK,#e838e8,#e838e8,1,0.321870981082
@@ -599,6 +598,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mario Czaja',fr,Deutschland,#1818e8,#1818e8,1,0.275591892552
 'Imran Khan',fr,unknown,#111111,#111111,1,0.274756454713
 'Ahmed Al Jaber',fr,unknown,#111111,#111111,1,0.274514141915
+'Noor Alfallah',fr,USA,#18e8e8,#18e8e8,1,0.273961831607
 'James Cleverly',fr,UK,#e838e8,#e838e8,1,0.272953190844
 'Leonard Bernstein',fr,unknown,#111111,#111111,1,0.272529092384
 'Laura Ingraham',fr,USA,#18e8e8,#18e8e8,1,0.271685360167
